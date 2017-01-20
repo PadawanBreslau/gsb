@@ -10,10 +10,17 @@ basePath: /v1
 produces:
   - application/json
 paths:
-  Beskid Śląski | Ustroń-Ustroń Polana:
-    get:
+  NotDisplayPath:
+    nodisplay:
+      tags: 
+        - Beskid Śląski
+        - Trasa
+        - Zdjecia
+        - Info
+  Ustroń-Ustroń Polana:
+    trasa:
       summary: Opis trasy
-      description: The Products endpoint returns information about the Uber products offered at a given location. The response includes the display name and other details about each product, and lists the products in the proper display order.
+      description: Początek szlaku
       parameters:
         - name: latitude
           in: query
@@ -26,17 +33,73 @@ paths:
           required: true
           type: number
       tags: 
+        - Beskid Śląski
         - Trasa
       responses:  
-        "200":
-          description: An array of products
-          schema:
-            $ref: Products
+        "201":
+          description: Ciekawostka na temat tego fragmentu
+          header: Cos schema
+          #schema:
+          #  $ref: Products
         default:
           description: Unexpected error
           schema:
             $ref: Error
-    head:
+    info:
+      summary: Ciekawostki na temat odcinka
+      description: Pare ciekawych rzeczy co sa na tym odcinku
+      parameters:
+        - name: latitude
+          in: query
+          description: Latitude component of location.
+          required: true
+          type: number
+        - name: longitude
+          in: query
+          description: Longitude component of location.
+          required: true
+          type: number
+      tags: 
+        - Beskid Śląski
+        - Info
+      responses:  
+        "201":
+          description: Ciekawostka na temat tego fragmentu
+          header: Cos schema
+          #schema:
+          #  $ref: Products
+        default:
+          description: Unexpected error
+          schema:
+            $ref: Error
+    zdjecia:
+      summary: Zdjecia odcinka
+      description: Początek szlaku
+      parameters:
+        - name: latitude
+          in: query
+          description: Latitude component of location.
+          required: true
+          type: number
+        - name: longitude
+          in: query
+          description: Longitude component of location.
+          required: true
+          type: number
+      tags: 
+        - Beskid Śląski
+        - Zdjecia
+      responses:  
+        "201":
+          description: Ciekawostka na temat tego fragmentu
+          header: Cos schema
+          #schema:
+          #  $ref: Products
+        default:
+          description: Unexpected error
+          schema:
+            $ref: Error
+    noclegi:
       summary: Product Types
       description: The Products endpoint returns information about the Uber products offered at a given location. The response includes the display name and other details about each product, and lists the products in the proper display order.
       parameters:
@@ -51,7 +114,8 @@ paths:
           required: true
           type: number
       tags: 
-        - Trasa
+        - Beskid Śląski
+        - Noclegi
       responses:  
         "200":
           description: An array of products
@@ -62,7 +126,7 @@ paths:
           schema:
             $ref: Error
   /trasa/Beskid Żywiecki:
-    get:
+    trasa:
       summary: Product Types
       description: The Products endpoint returns information about the Uber products offered at a given location. The response includes the display name and other details about each product, and lists the products in the proper display order.
       parameters:
@@ -87,7 +151,7 @@ paths:
           description: Unexpected error
           schema:
             $ref: Error
-    patch:
+    info:
       summary: Product Types
       description: The Products endpoint returns information about the Uber products offered at a given location. The response includes the display name and other details about each product, and lists the products in the proper display order.
       parameters:

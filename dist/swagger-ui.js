@@ -6,9 +6,11 @@
  */
 (function(){/* jshint ignore:start */ 
  {(function() {
+
   var template = Handlebars.template, templates = Handlebars.templates = Handlebars.templates || {};
 templates['apikey_auth'] = template({"1":function(container,depth0,helpers,partials,data) {
     var stack1;
+  console.log(depth0);
 
   return "                <span class=\"key_auth__value\">"
     + ((stack1 = (helpers.sanitize || (depth0 && depth0.sanitize) || helpers.helperMissing).call(depth0 != null ? depth0 : {},(depth0 != null ? depth0.value : depth0),{"name":"sanitize","hash":{},"data":data})) != null ? stack1 : "")
@@ -335,6 +337,7 @@ templates['operation'] = template({"1":function(container,depth0,helpers,partial
     return "          <h4 data-sw-translate>Request Headers</h4>\n          <div class='block request_headers'></div>\n";
 },"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var stack1, alias1=depth0 != null ? depth0 : {}, alias2=helpers.helperMissing, alias3=container.escapeExpression;
+
 
   return "  <ul class='operations' >\n    <li class='"
     + ((stack1 = (helpers.escape || (depth0 && depth0.escape) || alias2).call(alias1,(depth0 != null ? depth0.method : depth0),{"name":"escape","hash":{},"data":data})) != null ? stack1 : "")
@@ -3463,7 +3466,8 @@ var reservedApiTags = [
   'path',
   'tag'
 ];
-var supportedOperationMethods = ['delete', 'get', 'head', 'options', 'patch', 'post', 'put'];
+//var supportedOperationMethods = ['delete', 'get', 'head', 'options', 'patch', 'post', 'put', 'krowa'];
+var supportedOperationMethods = ['trasa', 'nocleg', 'info', 'szlaki', 'zdjecia']
 var SwaggerClient = module.exports = function (url, options) {
   this.authorizations = null;
   this.authorizationScheme = null;
@@ -21771,13 +21775,7 @@ window.SwaggerUi = Backbone.Router.extend({
 
     if (!options.supportedSubmitMethods){
       options.supportedSubmitMethods = [
-        'get',
-        'put',
-        'post',
-        'delete',
-        'head',
-        'options',
-        'patch'
+        'trasa', 'nocleg', 'info', 'szlaki', 'zdjecia'
       ];
     }
 

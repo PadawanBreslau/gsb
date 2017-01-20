@@ -40,11 +40,6 @@ gulp.task('clean', function() {
 /**
  * JShint all *.js files
  */
-gulp.task('lint', function () {
-  return gulp.src('./src/main/javascript/**/*.js')
-    .pipe(jshint())
-    .pipe(jshint.reporter('jshint-stylish'));
-});
 
 /**
  * Build a distribution
