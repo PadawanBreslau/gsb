@@ -20,31 +20,21 @@ paths:
   Ustroń-Ustroń Polana:
     trasa:
       summary: Opis trasy
-      description: Początek szlaku
+      description: 
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at magna in orci aliquet suscipit. Sed venenatis tellus ac volutpat blandit. Nulla tempus magna vestibulum dolor tempus volutpat. Nam risus orci, elementum ac bibendum at, ornare nec risus. Suspendisse elementum iaculis orci ac mollis. Nam placerat dignissim felis. Nulla diam quam, sodales vitae euismod pellentesque, blandit sit amet est. Fusce neque lacus, malesuada non leo vitae, efficitur condimentum ex. Morbi pulvinar nunc quis eros porttitor faucibus. Aenean eget dui vel neque accumsan vehicula. Nulla viverra tortor in odio hendrerit ullamcorper.
+        Curabitur ac leo est. Duis ante nunc, ultrices at lobortis gravida, congue ultrices neque. Duis dictum ipsum ex, vel egestas orci accumsan eu. Nunc pharetra, enim at dictum vestibulum, est odio tincidunt felis, quis dapibus leo urna a dui. Quisque semper dolor vitae bibendum vestibulum. Aliquam sed aliquam quam, a vulputate eros. Sed mattis gravida sem, sed porta mauris congue a. Vivamus ac placerat orci. Suspendisse placerat, ex vel condimentum tincidunt, sem erat posuere neque, vel aliquet diam ex a turpis. Ut in tempor quam, in ultricies dui. Maecenas semper nulla orci, a finibus mi laoreet in. 
       parameters:
-        - name: latitude
-          in: query
-          description: Latitude component of location.
-          required: true
+        - name: 0.0 / 0.0
+          in: Ładny Brzydki Pedalski
+          description: PKP Ustroń. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at magna in orci aliquet suscipit. Sed venenatis tellus ac volutpat blandit
           type: number
-        - name: longitude
-          in: query
-          description: Longitude component of location.
-          required: true
+        - name: 4.5 / 4.5
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Równica. Taka ładna zielona górka. Schronisko jest na górze. Dużo Januszy, bo droga na górę.
           type: number
       tags: 
         - Beskid Śląski
         - Trasa
-      responses:  
-        "201":
-          description: Ciekawostka na temat tego fragmentu
-          header: Cos schema
-          #schema:
-          #  $ref: Products
-        default:
-          description: Unexpected error
-          schema:
-            $ref: Error
     info:
       summary: Ciekawostki na temat odcinka
       description: Pare ciekawych rzeczy co sa na tym odcinku
