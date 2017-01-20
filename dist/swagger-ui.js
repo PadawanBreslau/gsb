@@ -288,7 +288,7 @@ templates['operation'] = template({"1":function(container,depth0,helpers,partial
 },"5":function(container,depth0,helpers,partials,data) {
     var stack1;
 
-  return "        <h4><span data-sw-translate>Implementation Notes</span></h4>\n        <div class=\"markdown\">"
+  return "<div class=\"markdown\">"
     + ((stack1 = (helpers.sanitize || (depth0 && depth0.sanitize) || helpers.helperMissing).call(depth0 != null ? depth0 : {},(depth0 != null ? depth0.description : depth0),{"name":"sanitize","hash":{},"data":data})) != null ? stack1 : "")
     + "</div>\n";
 },"7":function(container,depth0,helpers,partials,data) {

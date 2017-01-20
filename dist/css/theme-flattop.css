@@ -1530,20 +1530,20 @@
   border: 1px solid #DADFE1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.zdjecia div.heading h3 span.http_method a {
-  background-color: #EB9532;
+  background-color: #36B009;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.zdjecia div.heading ul.options li {
-  color: #EB9532;
+  color: #36B009;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.zdjecia div.heading ul.options li a {
-  color: #EB9532;
+  color: #36B009;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.zdjecia div.content {
   background-color: #ECF0F1;
   border: 1px solid #DADFE1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.zdjecia div.content h4 {
-  color: #EB9532;
+  color: #36B009;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.nodisplay div.heading {
   display: none;
