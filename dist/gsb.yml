@@ -15,7 +15,7 @@ paths:
       tags: 
         - Beskid Śląski
         - Trasa
-        - Zdjecia
+        - Relacje
         - Info
   Ustroń-Ustroń Polana:
     trasa:
@@ -54,22 +54,7 @@ paths:
       tags: 
         - Beskid Śląski
         - Ciekawostki
-    zdjecia:
-      summary: Zdjecia odcinka
-      description: "AAAA <img src='bhttps://v.wpimg.pl/LTEwNzcwJSNqFmEcTB08MSJYfUhRRH57JxYsEwIoKzs3FhEKDBs_PyQofFQJBykz/'></img>"
-      parameters:
-        - name: latitude
-          in: query
-          description: Latitude component of location.
-          type: number
-        - name: longitude
-          in: query
-          description: Longitude component of location.
-          type: number
-      tags: 
-        - Beskid Śląski
-        - Zdjecia
-    noclegi:
+    nocleg:
       summary: Product Types
       description: The Products endpoint returns information about the Uber products offered at a given location. The response includes the display name and other details about each product, and lists the products in the proper display order.
       parameters:
@@ -120,3 +105,10 @@ paths:
       tags: 
         - Beskid Śląski
         - Ciekawostki
+  Relacja człowieka 1:
+    relacje:
+      summary: Relacje odcinka
+      description: "AAAA <img src='bhttps://v.wpimg.pl/LTEwNzcwJSNqFmEcTB08MSJYfUhRRH57JxYsEwIoKzs3FhEKDBs_PyQofFQJBykz/'></img>"
+      tags: 
+        - Relacje
+
