@@ -1,4 +1,14 @@
 /* Original style from softwaremaniacs.org (c) Ivan Sagalaev <Maniac@SoftwareManiacs.Org> */
+#untoggler{
+  display: inline-block;
+  vertical-align: middle;
+}
+
+#gallery{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
 .swagger-section pre code {
   display: block;
   padding: 0.5em;
@@ -200,9 +210,10 @@
   quotes: none;
 }
 .swagger-section .swagger-ui-wrap p {
-  line-height: 1.4em;
-  padding: 0 0 10px;
+  line-height: 1.8em;
+  padding: 0 0 0px;
   color: #333333;
+  text-align: center;
 }
 .swagger-section .swagger-ui-wrap q:before,
 .swagger-section .swagger-ui-wrap q:after,
@@ -333,6 +344,7 @@
   cursor: pointer;
 }
 .swagger-section .swagger-ui-wrap .info_title {
+  display: none;
   padding-bottom: 10px;
   font-weight: bold;
   font-size: 25px;
@@ -676,6 +688,7 @@
 .swagger-section .swagger-ui-wrap ul#resources {
   font-family: "Droid Sans", sans-serif;
   font-size: 0.9em;
+  width: 80%;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource {
   border-bottom: 1px solid #dddddd;
