@@ -80,34 +80,53 @@ paths:
         - Beskid Śląski
         - Ciekawostki
     nocleg:
-      summary: Product Types
-      description: The Products endpoint returns information about the Uber products offered at a given location. The response includes the display name and other details about each product, and lists the products in the proper display order.
+      summary: Noclegi
+      description:
+        W Ustroniu i Ustroniu Polanie jest duża liczba miejsc noclegowych. Choć większości wędrowców głównie przyda się nocleg w Ustroniu po przyjeździe lub przed wyjazdem, to 
+        nocleg w schronisku może być dobrym rozwiązaniem, jeśli np. przyjedzie się do Ustronia o 18 i podejdzie tam w ramach "dnia 0" na nocleg
       parameters:
-        - name: latitude
-          in: query
-          description: Latitude component of location.
+        - name: 0.0
+          in: 
+          description: Ustroń. Dużo opcji noclegowych.
           type: number
-        - name: longitude
-          in: query
-          description: Longitude component of location.
+        - name: 4.5
+          in: 
+          description: 
+            Schronisko Górskie PTTK Równica (033)854-24-48 biuro@schronisko-rownica.pl. Schronisko "Równica" posiada 50 miejsc noclegowych w pokojach dwu i wieloosobowych. http://www.schronisko-rownica.pl/
+          type: number
+        - name: 9.0
+          in: 
+          description: Ustroń Polana. Dużo opcji noclegowych.
           type: number
       tags: 
         - Beskid Śląski
         - Noclegi
   Ustroń Polana - PTTK na Stożku Wielkim:
     trasa:
-      summary: Opis trasy
-      description: 
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at magna in orci aliquet suscipit. Sed venenatis tellus ac volutpat blandit. Nulla tempus magna vestibulum dolor tempus volutpat. Nam risus orci, elementum ac bibendum at, ornare nec risus. Suspendisse elementum iaculis orci ac mollis. Nam placerat dignissim felis. Nulla diam quam, sodales vitae euismod pellentesque, blandit sit amet est. Fusce neque lacus, malesuada non leo vitae, efficitur condimentum ex. Morbi pulvinar nunc quis eros porttitor faucibus. Aenean eget dui vel neque accumsan vehicula. Nulla viverra tortor in odio hendrerit ullamcorper.
-        Curabitur ac leo est. Duis ante nunc, ultrices at lobortis gravida, congue ultrices neque. Duis dictum ipsum ex, vel egestas orci accumsan eu. Nunc pharetra, enim at dictum vestibulum, est odio tincidunt felis, quis dapibus leo urna a dui. Quisque semper dolor vitae bibendum vestibulum. Aliquam sed aliquam quam, a vulputate eros. Sed mattis gravida sem, sed porta mauris congue a. Vivamus ac placerat orci. Suspendisse placerat, ex vel condimentum tincidunt, sem erat posuere neque, vel aliquet diam ex a turpis. Ut in tempor quam, in ultricies dui. Maecenas semper nulla orci, a finibus mi laoreet in. 
+      summary: Ostro w górę
+      description:
+        Od razu po przejściu obok dolnej stacji wyciągu czeka nas ostre maszerowanie pod górę, czasem stokiem narciarskim, czasem szlakiem obok. Ale aż do osiągnięcia górnej stacji kolejki jest stromo.
+        Miejscami bardzo stromo. Podejście zajmuje do godziny czasu, nie dając fragmentów wytchnienia. Za wyciągiem trasa wypłaszcza się, choć dalej biegnie lasem pod górkę, aż wyprowadzi nas na niezalesiony
+        wierzchołek Czantorii, gdzie znajduje się wieża widokowa i zarówno polskie, jak i czeskie punkty gastronomiczne. Na szczycie Czantorii szlak zmienia kierunek, skręca w lewo i schodzi, miejscami bardzo
+        stromo ze szczytu Czantorii. Po jakimś czasie droga wypłaszcza się, przechodzi koło ośrodka Światowid, znów zagłębia w las i poprzez przełęcz Beskidek doprowadza do schroniska PTTL Soszów. Ze schroniska 
+        szlak krótko podchodzi na górę Soszów, skąd bardzo ładnie widać na wschodzie masyw Baraniej Góry, później zaś malowniczą trasą, przez lasy i łąki prowadzi w stronę Stożka Wielkiego. Po paru kilometrach łatwiejszej trasy 
+        podchodzimy pod zbocze Stożka, skąd czeka nas bardzo forsowne podejście na szczyt. Na górze wita nas schronisko PTTK, zazwyczaj pełne od turystów i rowerzystów górskich
       parameters:
-        - name: 0.0 / 4.5
+        - name: 4.0 / 13.0
           in: Czerwony
-          description: Równica. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at magna in orci aliquet suscipit. Sed venenatis tellus ac volutpat blandit
+          description: Czantoria
           type: number
-        - name: 4.5 / 9.0
+        - name: 8.0 / 17.0
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
-          description: Równica. Taka ładna zielona górka. Schronisko jest na górze. Dużo Januszy, bo droga na górę.
+          description: Przełęcz Beskidek
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: PTTK Soszów
+          type: number
+        - name: 15.0 / 24.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: PTTK Stożek
           type: number
       tags: 
         - Beskid Śląski
