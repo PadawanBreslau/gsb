@@ -149,6 +149,38 @@ paths:
       tags: 
         - Beskid Śląski
         - Ciekawostki
+          
+  PTTK na Stożku Wielkim - Barania Góra:
+    trasa:
+      summary: Na drugą stronę przełęczy
+      description:
+        Za schroniskiem czeka nas krótkie podejście na Kiczorę, później zaś zejście do przełęczy Kubalonki. Początkowo szlak idzie w dół, by na rozstajach wejść na drogę asfaltową, później zaś po lekkim
+        podejściu szlak wchodzi na leśną ścieżkę, którą bez większych zmian wysokości doprowadza do przełęczy Kubalonka. Na przełęczy można skorzystać w usług sezonowych restauracji i punktów. Z przełęczy szlak wiedzie
+        początkowo asfaltem do przełęczy Szarcula, później zaś wchodzi w las i bardzo wąską i krętą ścieżką doprowadza do schroniska na Stecówce. Ze schroniska szlak idzie dalej raz w górę, raz w dół, schodzi do asfaltu
+          i zaczyna podjeście pod schronisko PTTK Przysłop - początkowo asfaltem, później nieco bardziej stromą leśną drogą. Za schroniskiem szlak kontynuuje wznoszenie, pierwszy raz przekraczając wysokość tysiąca metrów. Tuż przed szczytem dochodzi
+          do skrzyżówania dróg, skręca w lewo i po krótkim czasie dochodzi na szczyt Baraniej Góry
+
+      parameters:
+        - name: 4.0 / 13.0
+          in: Czerwony
+          description: Czantoria
+          type: number
+        - name: 8.0 / 17.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Przełęcz Beskidek
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: PTTK Soszów
+          type: number
+        - name: 15.0 / 24.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: PTTK Stożek
+          type: number
+      tags: 
+        - Beskid Śląski
+        - Trasa
+
   Relacja człowieka 1:
     relacje:
       summary: Relacje odcinka
