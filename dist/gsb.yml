@@ -14,9 +14,10 @@ paths:
     nodisplay:
       tags: 
         - Beskid Śląski
+        - Beskid Żywiecki
         - Trasa
         - Relacje
-        - Info
+        - Noclegi
   Ustroń-Ustroń Polana:
     trasa:
       summary: Czyli Rambo Pierwsza Krew 
@@ -158,27 +159,159 @@ paths:
         podejściu szlak wchodzi na leśną ścieżkę, którą bez większych zmian wysokości doprowadza do przełęczy Kubalonka. Na przełęczy można skorzystać w usług sezonowych restauracji i punktów. Z przełęczy szlak wiedzie
         początkowo asfaltem do przełęczy Szarcula, później zaś wchodzi w las i bardzo wąską i krętą ścieżką doprowadza do schroniska na Stecówce. Ze schroniska szlak idzie dalej raz w górę, raz w dół, schodzi do asfaltu
           i zaczyna podjeście pod schronisko PTTK Przysłop - początkowo asfaltem, później nieco bardziej stromą leśną drogą. Za schroniskiem szlak kontynuuje wznoszenie, pierwszy raz przekraczając wysokość tysiąca metrów. Tuż przed szczytem dochodzi
-          do skrzyżówania dróg, skręca w lewo i po krótkim czasie dochodzi na szczyt Baraniej Góry
+          do skrzyżówania dróg, skręca w lewo i po krótkim czasie dochodzi na szczyt Baraniej Góry, z którego można podziwiać z wieży widokowej piękne widoki w stronę Węgierskiej Górki i pasma Romanki, Rysianki i Pilska.
 
       parameters:
         - name: 4.0 / 13.0
           in: Czerwony
-          description: Czantoria
+          description: PTTK na Stożku Wielkim
           type: number
         - name: 8.0 / 17.0
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
-          description: Przełęcz Beskidek
+          description: Przełęcz Kubalonka
           type: number
         - name: 10.0 / 19.0
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
-          description: PTTK Soszów
+          description: Schronisko na Stecówce
           type: number
         - name: 15.0 / 24.0
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
-          description: PTTK Stożek
+          description: PTTK Przysłop
+          type: number
+        - name: 15.0 / 24.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Barania Góra
           type: number
       tags: 
         - Beskid Śląski
+        - Trasa
+  Barania Góra - Węgierska Górka:
+    trasa:
+      summary: W dół do miasta
+      description:
+        Szlak z Baraniej Góry schodzi malowniczym trawersem, skąd roztaczają się coraz ładniejsze widoki na pasmo Magur, na które trasa wkrótce prowadzi. Po dość krótkim zejści i kawałku płaskim następuje krótkie, 
+        acz dość strome podejście na grzebit. Stamtąd rozpoczynają się piękne widoki na Skrzyczne, najwyższy szczyt Beskidu Śląskiego. Szlak łagodnie prowadzi grzebietem, wśród delikatnych podejść i zejść, następnie
+        za skrzyżowaniem szlaków zaczyna schodzić, początkowo powoli, później bardzo stromo do podnóża góry Glinne. Tam czeka nas krótkie, ale strome podejście na szczyt - będzie to ostatnie podejście na tym fragmencie szlaku. Od tego momentu
+        zaczyna się długie zejście do Węgierskiej Górki, czasem leśnymi drogami, czasem mniejszymi dróżkami. W końcu szlak dochodzi do rzeki Soły, gdzie ostatecznie opuszcza Beskid Śląski, wchodząc w rejony najwyższego pasma 
+        polskich Beskidów - Beskidu Żywieckiego
+
+      parameters:
+        - name: 4.0 / 13.0
+          in: Czerwony
+          description: Barania Góra
+          type: number
+        - name: 8.0 / 17.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Magura Radziestowska
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Glinne
+          type: number
+        - name: 15.0 / 24.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Węgierska Górka
+          type: number
+      tags: 
+        - Beskid Śląski
+        - Trasa
+  Węgierska Górka - PTTK Hala Miziowa:
+    trasa:
+      summary: W górę. Tylko w górę.
+      description:
+        Po długim zejściu tym razem czeka nas długie podejście. Choć nie od razu, najpierw szlak przechodzi przez miasto, gdzie polecam zrobić porządne zapasym bo przez najbliższe kilometry nie 
+        bedzie żadnych sklepów. Za miastem szlak idzie asfaltem do Żabnicy, przechodząc obok fortu Waligóra z okresu 2WŚ. W Żabnicy szlak odbija asfaltem w lewo, później zaś wchodzi w prawo w polną drogę.
+        Teraz zaczyna się najpierw onkretne podejście, później zaś wypłaszczenie do wsi Abrahamów. Z tej malowniczo położonej miejscowości roztaczają się piękne widoki na Romankę, majestatycznie wznoszącą się
+        nad osadą. Po wyjściu ze wsi szlak po krótkiej przeprawie przez lat dochodzi do małego, lecz urokliwego schroniska PTTK Słowianka. Za schroniskiem szlak najpierw dochodzi do zbocza Romanki, później zaś zaczyna długie i strome podejście trawersem 
+        po zboczach tejże góry. Przechodzimy tutaj przez jedyne na całym szlaku łańcuchy, później zaś wychodzimy na malowniczą **Halę Wieprzską**. Podczas tego podejścia można podziwiać góry, które wcześniej już przeszliśmy - masywy Baraniej Góry oraz Stożka.
+        Za halą czeka nas jeszcze krótkie podejście, zanim wyjdziemy z lasu na przełęcz między Romanką i Rysianką. Stamtąd wśród przepięknych widoków czeka nas jeszcze kilometr podejścia pod szczyt Rysianki, gdzie mieści się schronisko PTTK.
+        Za schroniskiem czeka nas krótkie zejście, później zaś podejście w lesie pod Trzy Kopce. Dalsze kilometry będą pod dyktando podejść i zejść, dośc krótkich, lecz też dosyć stromych, czasem wśród lasów, czasem wśród hal. Po dłuższym okresie wypłaszczenie szlak schodzi do schroniska PTTK Hala Mizowa.
+        Znad schroniska powinniśmy mieć pierwsze na trasie świetne widoki na Babią Górę
+
+      parameters:
+        - name: 4.0 / 13.0
+          in: Czerwony
+          description: Węgierska Górka
+          type: number
+        - name: 8.0 / 17.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Abrahamów
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: PTTK Słowianka
+          type: number
+        - name: 15.0 / 24.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: PTTK na Rysiance
+          type: number
+      tags: 
+        - Beskid Żywiecki
+        - Trasa
+  PTTK Hala Miziowa - Babia Góra:
+    trasa:
+      summary: Najwyżej
+      description:
+        Za Hala Miziową czeka nas długie zejście do przełęczy Glinne. Najpierw chwilę stokiem narciarskim, potem chwila wypłaszczenia malowniczą ścieżką przez lata w rezerwacie przyrody, później zaś długie
+        i strome zejście wąską i kamienistą ścieżką. Na przełęczy Glinne nie ma zwyczajnego sklepu, ale można spotkać stanowisko z oscypkami. Przez najbliższe kilometry szlak będzie prowadził granicą ze Słowacją. Za przełęczą mamy kilka kilometrów niższych wzniesień przyjemną leśną
+        drogą, później zaś dłuższe podejście na Jaworzynę, skąd zaś strome zejście prowadzi do bazy namiotowej na przełęczy Głuchaczki. Z przełęczy Głuchaczki czeka nas strome podejście na Mędralową, szczyt wg
+        niektórych uznawany za najwyższy szczyt Beskidu Makowskiego, oficjalnie jednak część Beskidu Żywieckiego. Na szczycie czeka nas dłuższe przejście grzbietem z malowniczymi widokami na północą stronę. Za szczytem schodzimy 
+        do Jałowcowego Siodła, później zaś lekko podchodząc, ale głównie trawersując dochodzimy do schroniska na Markowych Szczawinach. Za schroniskiem zaczyna się bardzo długie i strome podejście na Babią Górą, w końcu trzeba podejść o pół kilometra w górę. Najpierw jest bardzo strome podejście na grzbiet, na przełęcz Brona, później zaś wzdłuż grzebietu, 
+        gdzie jeśli mamy szczęście otaczają nas piękne widoki na obie strony, polską z pasmem Policy i słowacką, przez którą widać w oddali Tatry. Podejście jest kamieniste, chłodny wiatr jest niemal gwarantowany. Nagrodą za ten trud jest szczyt Babiej Góry, Diablak, najwyższy punkt na trasie 
+        Głównego Szlaku Beskidzkiego i najwyższy szczyt polskich Beskidów.
+
+      parameters:
+        - name: 4.0 / 13.0
+          in: Czerwony
+          description: PTTK Hala Miziowa
+          type: number
+        - name: 8.0 / 17.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Przełęcz Glinne
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Baza Namiotowa Głuchaczki
+          type: number
+        - name: 15.0 / 24.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: PTTK Markowe Szczawiny
+          type: number
+        - name: 15.0 / 24.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Babia Góra - Diablak
+          type: number
+      tags: 
+        - Beskid Żywiecki
+        - Trasa
+  Babia Góra - PTTK Hala :
+    trasa:
+      summary: Najwyżej
+      description:
+        Z Babiej Góry czeka nas długie zejście do przełęczy Krowiarki, napierw wśród skał, póżniej zaś szeroką i wyrównaną ścieżką o dużym turystycznym ruchu. Po drodze można zatrzymać się na punktach widokowych,
+        choć z żadnego z nich nie ma lepszego widoku jak ze szczytu góry. Za przełęczą Krowiarki czeka nas krótkie podejście i zejście na górkę Syhel, później zaś bardzo długie, ale też bardzo łagodne podejście
+        na Cyl Hali Śmietanowej. Na tym wzniesieniu szlak zmienia kierunek i prowadzi na najwyższy szczyt pasma, Policę. Z jej szczytu z trzetrzebionego lasu dobrze widać panoramę Babiej Góry. Z Policy jest już bardzo blisko do schorniska i po krótkim 
+        zejściu osiągami hale i schronisko XXX
+
+      parameters:
+        - name: 4.0 / 13.0
+          in: Czerwony
+          description: Babia Góra - Diablak
+          type: number
+        - name: 8.0 / 17.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Przełęcz Krowiarki
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Polica
+          type: number
+        - name: 15.0 / 24.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Schronisko PTTK
+          type: number
+      tags: 
+        - Beskid Żywiecki
         - Trasa
 
   Relacja człowieka 1:
