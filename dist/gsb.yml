@@ -284,14 +284,44 @@ paths:
       tags: 
         - Beskid Żywiecki
         - Trasa
-  Babia Góra - PTTK Hala :
+  Babia Góra - PTTK Hala Krupowa:
     trasa:
-      summary: Najwyżej
+      summary: Opuszczając pasmo Babiej Góry
       description:
         Z Babiej Góry czeka nas długie zejście do przełęczy Krowiarki, napierw wśród skał, póżniej zaś szeroką i wyrównaną ścieżką o dużym turystycznym ruchu. Po drodze można zatrzymać się na punktach widokowych,
         choć z żadnego z nich nie ma lepszego widoku jak ze szczytu góry. Za przełęczą Krowiarki czeka nas krótkie podejście i zejście na górkę Syhel, później zaś bardzo długie, ale też bardzo łagodne podejście
         na Cyl Hali Śmietanowej. Na tym wzniesieniu szlak zmienia kierunek i prowadzi na najwyższy szczyt pasma, Policę. Z jej szczytu z trzetrzebionego lasu dobrze widać panoramę Babiej Góry. Z Policy jest już bardzo blisko do schorniska i po krótkim 
-        zejściu osiągami hale i schronisko XXX
+        zejściu osiągami hale i schronisko na Hali Krupowej
+        - - - - - - -
+        ![alternate text](https://sourceforge.net/images/icon_linux.gif)
+
+      parameters:
+        - name: 4.0 / 13.0
+          in: Czerwony
+          description: Babia Góra - Diablak
+          type: number
+        - name: 8.0 / 17.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Przełęcz Krowiarki
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Polica
+          type: number
+        - name: 15.0 / 24.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Schronisko PTTK
+          type: number
+      tags: 
+        - Beskid Żywiecki
+        - Trasa
+  PTTK Hala Krupowa - Jordanów:
+    trasa:
+      summary: Żegnając Beskid Żywiecki
+      description:
+        Ze schroniska na Hali Krupowej czeka nas bardzo długie zejście, którym ostatecznie opuścimy Beskid Żywiecki. Najpierw jednak mamy krótkie podejście pod Okrąglik, później jednak szlak biegnie niemal wyłącznie w dół.
+        Przy dobrej pogodzie po prawej stronie powinniśmy od czasu do czasu widzieć wznoszące się za obniżeniem Tatry. Mijamy Polanę Malinową, na której możemy zobaczyć pomnik ofiar z czasów Drugiej Wojny Światowej. Po paru godzinach schodzenia docieramy do asfaltowej drogi, która wyprowadza nas do miejscowości Bystra. 
+        Teraz czeka nas dłuższy odcinek w zasadzie poza górami, który zaczynamy od trasy przez pola i łąki doprowadzajacy nas do kolejnego dużego miasta, Jordanowa.
 
       parameters:
         - name: 4.0 / 13.0
