@@ -326,22 +326,126 @@ paths:
       parameters:
         - name: 4.0 / 13.0
           in: Czerwony
-          description: Babia Góra - Diablak
+          description: PTTK Hala Krupowa
           type: number
         - name: 8.0 / 17.0
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
-          description: Przełęcz Krowiarki
+          description: Przełęcz Malinowa
           type: number
         - name: 10.0 / 19.0
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
-          description: Polica
+          description: Bystra
           type: number
         - name: 15.0 / 24.0
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
-          description: Schronisko PTTK
+          description: Jordanów
           type: number
       tags: 
         - Beskid Żywiecki
+        - Trasa
+  Jordanów - Rabka:
+    trasa:
+      summary: Trzeba przetrwać
+      description:
+        Najmniej chyba ciekawy fragment szlaku, choć teraz jest i tak lepiej niż było uprzednio - zamiast asfaltem do Skawy przechodzimy częsciowo lasem, po drodze zahaczając o Wysoką. Tak czy siak na tym odcinku jest niewiele gór, zamiast tego wiele asfaltu. W Skawie szlak odbija w lewo i przez dłuższą chwilę
+        prowadzi łąkami, przez które dla odmiany skrajnie ciężko jest utrzymać kurs - bo na mało uczęszczanej części szlaku oznaczeń zwyczajnie nie widać. Jak uda nam się przejść przez łąkę to docieramy do bardzo zarośniętego szlaku, który w okolicach Zakopianki zmienia się jeszcze w ubikację. 
+        Po przekroczeniu Zakopianki jest juz wyraźnie lepiej, szlak jest czytelniejszy, asfaltu nie ma tak dużo i zaczynają się ładne widoki na miasto Rabkę i Gorce. Ogólnie jest to fragment, który przechodzą chyba wyłącznie osoby przechodzące Główny Szlak Beskidzki - żadnych innych zalet nie ma
+
+      parameters:
+        - name: 4.0 / 13.0
+          in: Czerwony
+          description: Jordanów
+          type: number
+        - name: 8.0 / 17.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Wysoka
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Skawa
+          type: number
+        - name: 15.0 / 24.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Rabka
+          type: number
+      tags: 
+        - Gorce
+        - Trasa
+  Rabka - Turbacz:
+    trasa:
+      summary: Znów w góry
+      description:
+        Po kilkunastu kilometrach poza górami wracamy wreszcie do solidnego chodzenia po górach. W Rabce warto najpierw zrobić zakupy, później w Gorcach będą tylko schroniska. Pierwsze podejście czeka nas do Bacówki na Maciejowej - przyjemna trasa, w dużej mierze w odkrytym terenie, w samym schronisku
+        legendarne wręcz racuchy z jagodami. Kolejnym podejściem, miejscami bardzo stromym, przekraczamy granicę 1000 metrów i dochodzimy do schroniska na Starych Wierchach. Za nim szlak się wypłaszcza i przez następne kilometry prowadzi raczej delikatnie w górę, aż do samego końcowego podejścia na Turbacz - 
+        najwyższy szczyt Gorców. Za szczytem już rzut kamieniem do schroniska PTTK na Turbaczu. 
+
+      parameters:
+        - name: 4.0 / 13.0
+          in: Czerwony
+          description: Rabka
+          type: number
+        - name: 8.0 / 17.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy 
+          description: Bacówka na Malinowej
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: PTTK "Stare Wierchy"
+          type: number
+        - name: 15.0 / 24.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski 
+          description: Turbacz
+          type: number
+      tags: 
+        - Gorce
+        - Trasa
+  Turbacz - Lubań:
+    trasa:
+      summary: Od szczytu do szczytu
+      description:
+        Trasa między dwoma największymi masywami Gorców nie jest łatwa. Najpierw czeka nas długie zejście do przełęczy XXX, potem jeszcze dłuższe podejście na szczyt Lubania. Początkowo mijamy schronisko PTTK, przecinami malowniczą Halę Długą i dochodzimy do szczytu Kiczory. Z niej czeka nas długie i miejscami bardzo ostre zejście - musimy wytracić 500 metrów wysokości do przełęczy Knurowskiej. Z przełęczy zaś od razu czekają nas ostre podejście i kilka mniejszych zejść, które
+        ostatecznie doprowadzą nas do uroczo położonych Studzionek - nigdzie na trasie nie ma ładniejszych widoków na Tatry. Za Studzionkami wchodzimy znów lat i przez bardzo długi czas idziemy podejściem w mrocznym liściastym lesie. Podchodzimy w międzyczasie na kolejne górki grani, aż dochodzimy do końcowego podejścia na Lubań. Podejście jest krótkie, ale skrajnie strome. Trudy wynagradzają jednak widoki ze szczytu - tym okazalsze, że można je podziwiać z nowo wybudowanej wieży widokowej.
+      parameters:
+        - name: 4.0 / 13.0
+          in: Czerwony
+          description: Turbacz
+          type: number
+        - name: 8.0 / 17.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Przełęcz Knurowska
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Studzionki
+          type: number
+        - name: 15.0 / 24.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Lubań
+          type: number
+      tags: 
+        - Gorce
+        - Trasa
+  Lubań - Szczawnica Zdrój:
+    trasa:
+      summary: Zejście w doliny
+      description:
+        Po nacieszeniu się widokami ze szczytu Lubania (a są one wspaniałe), schodzimy w dół to położonej tuż pod szczytem bazy namiotowej. W bazie można przenocować, można czasem zjeść (ale nie zawsze), można napić się herbaty i nabrać wody z nieopodal położonego źródełka. Po opuszczeniu z bazy zaczyna się bardzo długie zejście do Szczawnicy i doliny Dunajca. Łącznie do zejścia mamy 800 metrów. Trasa była ostatnio remontowana, więc jest to szeroka droga leśna bez żadnych technicznych problemów.
+        Wraz ze zmniejszaniem wysokości coraz częściej szlak wychodzi z lasu i możemy patrzeć jednocześnie na trzy pasma górskie - pobliskie Pieniny, dalej za nimi Tatry, na wschodze zaś kolejne pasmo Beskidów - Beskid Sądecki. Po parunastu kilometrach dość monotonnego zejścia docieramy do Szczawnicy.
+      parameters:
+        - name: 4.0 / 13.0
+          in: Czerwony
+          description: Lubań
+          type: number
+        - name: 8.0 / 17.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: XXX
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Szczawnica
+          type: number
+      tags: 
+        - Gorce
         - Trasa
 
   Relacja człowieka 1:
