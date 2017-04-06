@@ -69,11 +69,15 @@ paths:
       summary: Ciekawostki na temat odcinka
       description: Pare ciekawych rzeczy co sa na tym odcinku
       parameters:
-        - name: latitude
-          in: query
-          description: Latitude component of location.
+        - name: Ustroń
+          in: Miasto
+          description: Miasto Ustroń jest fajnym miastem
           type: number
-        - name: longitude
+        - name: Równica
+          in: query
+          description: Longitude component of location.
+          type: number
+        - name: Ustroń Polana
           in: query
           description: Longitude component of location.
           type: number
@@ -134,22 +138,55 @@ paths:
         - Trasa
 
     info:
-      summary: Product Types
-      description: The Products endpoint returns information about the Uber products offered at a given location. The response includes the display name and other details about each product, and lists the products in the proper display order.
+      summary: Ciekawostki na temat odcinka 
+      description: Pare ciekawych rzeczy co sa na tym odcinku
       parameters:
-        - name: latitude
+        - name: Górna stacja wyciągu krzesełkowego
           in: query
           description: Latitude component of location.
-          required: true
           type: number
-        - name: longitude
+        - name: Czantoria
           in: query
           description: Longitude component of location.
-          required: true
+          type: number
+        - name: Soszów
+          in: query
+          description: Longitude component of location.
+          type: number
+        - name: Przełęcz Beskidek
+          in: query
+          description: Longitude component of location.
+          type: number
+        - name: PTTK na Stożku
+          in: query
+          description: Longitude component of location.
           type: number
       tags: 
         - Beskid Śląski
         - Ciekawostki
+    nocleg:
+      summary: Noclegi
+      description:
+        W Ustroniu i Ustroniu Polanie jest duża liczba miejsc noclegowych. Choć większości wędrowców głównie przyda się nocleg w Ustroniu po przyjeździe lub przed wyjazdem, to 
+        nocleg w schronisku może być dobrym rozwiązaniem, jeśli np. przyjedzie się do Ustronia o 18 i podejdzie tam w ramach "dnia 0" na nocleg
+      parameters:
+        - name: 0.0
+          in: 
+          description: Ustroń. Dużo opcji noclegowych.
+          type: number
+        - name: 4.5
+          in: 
+          description: 
+            Schronisko Górskie PTTK Równica (033)854-24-48 biuro@schronisko-rownica.pl. Schronisko "Równica" posiada 50 miejsc noclegowych w pokojach dwu i wieloosobowych. http://www.schronisko-rownica.pl/
+          type: number
+        - name: 9.0
+          in: 
+          description: Ustroń Polana. Dużo opcji noclegowych.
+          type: number
+      tags: 
+        - Beskid Śląski
+        - Noclegi
+
           
   PTTK na Stożku Wielkim - Barania Góra:
     trasa:
@@ -446,6 +483,58 @@ paths:
           type: number
       tags: 
         - Gorce
+        - Trasa
+  Szczawnica Zdrój - PTTK na Przehybie:
+    trasa:
+      summary: W Beskid Sądecki
+      description:
+        Za Szczawnicą wracamy do dziczy i wchodzimy do nowego pasma górskiego - Beskidu Sądeckiego. Naturalne jest, że rozpoczynamy od parukilometrowego podejścia na Dzwonkówkę, początkowo asfaltem, potem szutrem, na końcu zaś leśną ścieżką. Za Dzwonkówką czeka nas nieco obniżenia do bardzo malowniczej przełęczy Przysłop. Z przełęczy szlak idze znów w górę, miejscami bardzo ostro, by wprowadzić nas na górę Kamień. Z Kamienia jest już bardzo łatwa droga na szczyt Przehyby, tuż obok którego umiejscowione 
+        jest schornisko PTTK
+      parameters:
+        - name: 4.0 / 13.0
+          in: Czerwony
+          description: Szczawnica
+          type: number
+        - name: 8.0 / 17.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Przełęcz Przysłop
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Kamien
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: PTTK na Przehybie
+          type: number
+      tags: 
+        - Beskid Sądecki
+        - Trasa
+  PTTK na Przehybie - Rytro:
+    trasa:
+      summary: Długie zejście w stronę Popradu
+      description:
+        Schronisko na Przehybie znajduje się w najwyżej położonej części Beskidu Sądeckiego. Po opuszczeniu schroniska zdobywamy najwyższy szczyt tego pasma - Radziejową. Na tym zalesionym szczycie można podziwiać widoki z położonej ponad czubkami drzew wieży widokowej. Z Radziejowej szlak schodzi nieznany kawałej, po czym podchodzi pod XXX. Z tej góry czeka nas już tylko zejście, bardzo długie obniżenie aż do Rytra. Po drodze można zboczyć do położenego blisko szlaku schroniska na Niemcowej, poza tym jednak trasa, choć urozmaicona technicznie, to nie 
+        przechodzi koło żadnych charakterystycznych punktów aż do samego Rytra. Tam, tuż przed miastem, między dwiema brzozami jest zamontowana legendarna wręcz ławeczka. W tych rejonach bardzo ładniej też już widać wznoszący się z drugiej strony doliny zamek. W Rytrze schodzimy aż do samej głównej szosy, przechodzimy obok makabryły stacji benzynowej, przekraczamy Poprad i wkraczamy do drugiej częsci Beskidu Sądeckiego - pasma Jaworzyny Krynickiej 
+      parameters:
+        - name: 4.0 / 13.0
+          in: Czerwony
+          description: PTTK na Przehybie
+          type: number
+        - name: 8.0 / 17.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Radziejowa
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Zejście do schroniska na Niemcowej
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Rytro
+          type: number
+      tags: 
+        - Beskid Sądecki
         - Trasa
 
   Relacja człowieka 1:
