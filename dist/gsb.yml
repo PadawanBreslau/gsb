@@ -20,7 +20,7 @@ paths:
         - Noclegi
   Ustroń-Ustroń Polana:
     trasa:
-      summary: Czyli Rambo Pierwsza Krew 
+      summary: Czyli Rambo Pierwsza Krew  
       description:
         Pierwsze podejście i przerwsze zejście na trasie. Także pierwsze schronisko i pierwsze źródełko. Szlak startuje(lub startował, informacje są sprzeczne) przy stacji PKP 
         Ustroń-Zdrój. Przez pierwszy kilometr trasa prowadzi wśród zabudowań miasta, później zaś koło leśniczówki wchodzi w las - najpierw łagodnie, później coraz stromiej. W pewnym
@@ -65,26 +65,31 @@ paths:
       tags: 
         - Beskid Śląski
         - Trasa
-    info:
+    info: #Ustroń-Ustroń Polana
       summary: Ciekawostki na temat odcinka
       description: Pare ciekawych rzeczy co sa na tym odcinku
       parameters:
         - name: Ustroń
           in: Miasto
-          description: Miasto Ustroń jest fajnym miastem
+          description: |
+            W miejscowej gwarze nazwa wymawiana jest ustróń, kogo, czego: ustrónio, w języku niemieckim Ustron, czeskim Ustroni.
+
+            W Ustroniu znajduje się [Leśny Park Niespodzianek](http://www.lesnypark.pl/o-parku), utworzony w środowisku naturalnym. Po ścieżkach w lesie bukowym swobodnie biegają dziki, jelenie, sarny czy też muflony. Park łączy w sobie funkcje: rekreacyjną i edukacyjną, organizuje również pokazy sokolnicze.
           type: number
         - name: Równica
           in: query
-          description: Longitude component of location.
+          description: |
+            [Górski park Równica](http://www.rownica.pl/?lang=pl). Górski Park Rozrywki położony jest u szczytu góry Równica o wysokości 885 m n.p.m. Turystów przyciągają tutaj niezapomniane widoki, karczma biesiadna z regionalnym jadłem oraz wspaniałe atrakcje typu Rollercoaster Kino Sferyczne czy Kino 7D. 
           type: number
         - name: Ustroń Polana
           in: query
-          description: Longitude component of location.
+          description: |
+            [Kolejka liniowa](http://www.czantoria.net/) Kolej Linowa Czantoria w Ustroniu – ośrodek narciarski położony w Ustroniu w Beskidzie Śląskim na północnym zboczu Wielkiej Czantorii. Górna stacja ośrodka znajduje się na polanie Stokłosica, na wysokości 851 m n.p.m. Czantoria to najpopularniejszy szczyt Beskidu Śląskiego z wyprzęganą wygodną koleją. Czteroosobowe kanapy oraz system zwalniający prędkość przy wsiadaniu i wysiadaniu to duży atut kolejki, dzięki czemu również osoby niepełnosprawne mogą czuć się bezpiecznie w czasie przejazdu. Krzesłka wyposażone są rónież w specjalne uchwyty umożliwiające transport rowerów na górną stację. Kolej linowa każdego roku umożliwia tysiącom turystów łatwy i szybki dostęp w górne partie Beskidów.
           type: number
       tags: 
         - Beskid Śląski
         - Ciekawostki
-    nocleg:
+    nocleg: #Ustroń-Ustroń Polana
       summary: Noclegi
       description:
         W Ustroniu i Ustroniu Polanie jest duża liczba miejsc noclegowych. Choć większości wędrowców głównie przyda się nocleg w Ustroniu po przyjeździe lub przed wyjazdem, to 
@@ -106,7 +111,7 @@ paths:
       tags: 
         - Beskid Śląski
         - Noclegi
-  Ustroń Polana - PTTK na Stożku Wielkim:
+  Ustroń Polana - PTTK na Stożku Wielkim: #Ustroń Polana - PTTK na Stożku Wielkim
     trasa:
       summary: Ostro w górę
       description:
@@ -136,24 +141,32 @@ paths:
       tags: 
         - Beskid Śląski
         - Trasa
-
-    info:
+    info: #Ustroń Polana - PTTK na Stożku Wielkim
       summary: Ciekawostki na temat odcinka 
       description: Pare ciekawych rzeczy co sa na tym odcinku
       parameters:
         - name: Górna stacja wyciągu krzesełkowego
           in: query
-          description: Latitude component of location.
-          type: number
+          description: |
+            [Sokolarnia](http://sokolarnia.esy.es/) W Sokolarni znajduje się ok. 40 ptaków, a ptasie "domki" zamieszkują takie gatunki jak: sokoły, jastrzębie, myszołowy, orły i sowy. Odwiedzając to miejsce możemy przyjrzeć się wspaniałym okazom, zrobić zdjęcia z bliskiej odległości jak również zapoznać się z niezwykłą, rzadką i fascynującą dziedziną łowiectwa jaką jest SOKOLNICTWO - sztuka układania ptaków drapieżnych do łowów
+          type: number 
         - name: Czantoria
           in: query
-          description: Longitude component of location.
-          type: number
-        - name: Soszów
-          in: query
-          description: Longitude component of location.
+          description: |
+            Na samym szczycie góry, po czeskiej stronie granicy, znajduje się stalowa wieża widokowa (wstęp płatny) z platformą na wysokości 29 metrów oraz bufet. Na grzbiecie góry, kilkaset metrów na zachód od szczytu, znajduje się czeskie schronisko turystyczne na Czantorii (właściwie pod Czantorią Wielką), zbudowane jeszcze przez niemiecką organizację turystyczną Beskidenverein w 1904. Tam też znajdowało się turystyczne przejście graniczne.
+
+            [Przekaźnik telewizyjny](https://pl.wikipedia.org/wiki/TSR_G%C3%B3ra_Czantoria). Telewizyjna stacja retransmisyjna z wieżą o wysokości 45m.
+
+            Na zachodnim zboczu góry, przy czerwonym szlaku do Nydka, w miejscu zwanym Zakamiyń znajduje się jeden z tzw. leśnych kościołów – miejsce tajnych nabożeństw ewangelickich w epoce kontrreformacji (XVII/XVIII wiek) – wraz tablicą upamiętniającą Jerzego Trzanowskiego.
           type: number
         - name: Przełęcz Beskidek
+          in: query
+          description: |
+            Przełęcz Beskidek stanowi połączenie między dolinami potoków: Jawornika (dopływ Wisły) po stronie wschodniej i Strzelmy (dopływ Głuchówki) po stronie zachodniej. Jest najniższym punktem wododziału Wisły i Olzy (czyli i Odry) na południe od szczytu Czantorii.
+
+            Przez przełęcz biegnie wąska, leśna droga z Wisły Jawornika do Nydku. Do czasu ustanowienia granicy w 1920 r. (a i później również) stanowiła ona dość uczęszczane przejście, łączące obie miejscowości. Po II wojnie światowej na przełęczy funkcjonowało przejście małego ruchu granicznego Beskidek – Beskydek 21 grudnia 2007 r. w związku z wejściem Polski do strefy Schengen przestało ono funkcjonować.
+          type: number
+        - name: Soszów
           in: query
           description: Longitude component of location.
           type: number
@@ -164,29 +177,26 @@ paths:
       tags: 
         - Beskid Śląski
         - Ciekawostki
-    nocleg:
+    nocleg: #Ustroń Polana - PTTK na Stożku Wielkim
       summary: Noclegi
       description:
-        W Ustroniu i Ustroniu Polanie jest duża liczba miejsc noclegowych. Choć większości wędrowców głównie przyda się nocleg w Ustroniu po przyjeździe lub przed wyjazdem, to 
-        nocleg w schronisku może być dobrym rozwiązaniem, jeśli np. przyjedzie się do Ustronia o 18 i podejdzie tam w ramach "dnia 0" na nocleg
+        Pierwszy prawdziwie górski kawałek trasy, ale opcji noclegowych jest dużo
       parameters:
         - name: 0.0
-          in: 
-          description: Ustroń. Dużo opcji noclegowych.
+          in: query
+          description: Światowid - Prywatne noclegi. [Światowid](http://swiatowid.info/).
           type: number
         - name: 4.5
-          in: 
-          description: 
-            Schronisko Górskie PTTK Równica (033)854-24-48 biuro@schronisko-rownica.pl. Schronisko "Równica" posiada 50 miejsc noclegowych w pokojach dwu i wieloosobowych. http://www.schronisko-rownica.pl/
+          in: query
+          description: Schronisko PTTK Soszów  [Schronisko Soszów](https://soszow.1000lecie.pl). Schronisko na Soszowie to jedno z najstarszych schronisk w Beskidzie Śląskim, znajduje się na początku Głównego Szlaku Beskidzkiego, pomiędzy Czantorią i Stożkiem.
           type: number
         - name: 9.0
-          in: 
-          description: Ustroń Polana. Dużo opcji noclegowych.
+          in: query
+          description: Schronisko PTTK na Stożku Wielkim [Schronisko PTTK na Stożku Wielkim](http://www.stozek.com.pl/) Budynek schroniska znajduje się poniżej szczytu Wielkiego Stożka (978 m. npm.), tuż przy grzbiecie pasma Czantorii i Stożka, stanowiącego jednocześnie granicę Polsko - Czeską. 
           type: number
       tags: 
         - Beskid Śląski
         - Noclegi
-
           
   PTTK na Stożku Wielkim - Barania Góra:
     trasa:
@@ -222,6 +232,66 @@ paths:
       tags: 
         - Beskid Śląski
         - Trasa
+
+    info: #PTTK na Stożku Wielkim - Barania Góra
+      summary: Ciekawostki na temat odcinka 
+      description: Pare ciekawych rzeczy co sa na tym odcinku
+      parameters:
+        - name: Górna stacja wyciągu krzesełkowego
+          in: query
+          description: |
+            [Sokolarnia](http://sokolarnia.esy.es/) W Sokolarni znajduje się ok. 40 ptaków, a ptasie "domki" zamieszkują takie gatunki jak: sokoły, jastrzębie, myszołowy, orły i sowy. Odwiedzając to miejsce możemy przyjrzeć się wspaniałym okazom, zrobić zdjęcia z bliskiej odległości jak również zapoznać się z niezwykłą, rzadką i fascynującą dziedziną łowiectwa jaką jest SOKOLNICTWO - sztuka układania ptaków drapieżnych do łowów
+          type: number 
+        - name: Czantoria
+          in: query
+          description: |
+            Na samym szczycie góry, po czeskiej stronie granicy, znajduje się stalowa wieża widokowa (wstęp płatny) z platformą na wysokości 29 metrów oraz bufet. Na grzbiecie góry, kilkaset metrów na zachód od szczytu, znajduje się czeskie schronisko turystyczne na Czantorii (właściwie pod Czantorią Wielką), zbudowane jeszcze przez niemiecką organizację turystyczną Beskidenverein w 1904. Tam też znajdowało się turystyczne przejście graniczne.
+
+            [Przekaźnik telewizyjny](https://pl.wikipedia.org/wiki/TSR_G%C3%B3ra_Czantoria). Telewizyjna stacja retransmisyjna z wieżą o wysokości 45m.
+
+            Na zachodnim zboczu góry, przy czerwonym szlaku do Nydka, w miejscu zwanym Zakamiyń znajduje się jeden z tzw. leśnych kościołów – miejsce tajnych nabożeństw ewangelickich w epoce kontrreformacji (XVII/XVIII wiek) – wraz tablicą upamiętniającą Jerzego Trzanowskiego.
+          type: number
+        - name: Przełęcz Beskidek
+          in: query
+          description: |
+            Przełęcz Beskidek stanowi połączenie między dolinami potoków: Jawornika (dopływ Wisły) po stronie wschodniej i Strzelmy (dopływ Głuchówki) po stronie zachodniej. Jest najniższym punktem wododziału Wisły i Olzy (czyli i Odry) na południe od szczytu Czantorii.
+
+            Przez przełęcz biegnie wąska, leśna droga z Wisły Jawornika do Nydku. Do czasu ustanowienia granicy w 1920 r. (a i później również) stanowiła ona dość uczęszczane przejście, łączące obie miejscowości. Po II wojnie światowej na przełęczy funkcjonowało przejście małego ruchu granicznego Beskidek – Beskydek 21 grudnia 2007 r. w związku z wejściem Polski do strefy Schengen przestało ono funkcjonować.
+          type: number
+        - name: Soszów
+          in: query
+          description: Longitude component of location.
+          type: number
+        - name: PTTK na Stożku
+          in: query
+          description: Longitude component of location.
+          type: number
+      tags: 
+        - Beskid Śląski
+        - Ciekawostki
+    nocleg: #Ustroń Polana - PTTK na Stożku Wielkim
+      summary: Noclegi
+      description:
+        W Ustroniu i Ustroniu Polanie jest duża liczba miejsc noclegowych. Choć większości wędrowców głównie przyda się nocleg w Ustroniu po przyjeździe lub przed wyjazdem, to 
+        nocleg w schronisku może być dobrym rozwiązaniem, jeśli np. przyjedzie się do Ustronia o 18 i podejdzie tam w ramach "dnia 0" na nocleg
+      parameters:
+        - name: 0.0
+          in: query
+          description: Ustroń. Dużo opcji noclegowych.
+          type: number
+        - name: 4.5
+          in: query
+          description: 
+            Schronisko Górskie PTTK Równica (033)854-24-48 biuro@schronisko-rownica.pl. Schronisko "Równica" posiada 50 miejsc noclegowych w pokojach dwu i wieloosobowych. http://www.schronisko-rownica.pl/
+          type: number
+        - name: 9.0
+          in: query
+          description: Ustroń Polana. Dużo opcji noclegowych.
+          type: number
+      tags: 
+        - Beskid Śląski
+        - Noclegi
+
   Barania Góra - Węgierska Górka:
     trasa:
       summary: W dół do miasta
