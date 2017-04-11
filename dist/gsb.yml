@@ -166,13 +166,23 @@ paths:
 
             Przez przełęcz biegnie wąska, leśna droga z Wisły Jawornika do Nydku. Do czasu ustanowienia granicy w 1920 r. (a i później również) stanowiła ona dość uczęszczane przejście, łączące obie miejscowości. Po II wojnie światowej na przełęczy funkcjonowało przejście małego ruchu granicznego Beskidek – Beskydek 21 grudnia 2007 r. w związku z wejściem Polski do strefy Schengen przestało ono funkcjonować.
           type: number
-        - name: Soszów
+        - name: Schronisko Soszów
           in: query
-          description: Longitude component of location.
+          description: |
+            W 1932 roku, w siodle pomiędzy Wielkim i Małym Soszowem, po stronie polskiej, zaledwie kilka metrów od granicy, powstało nowe, prywatne schronisko.
+            Budynek posiadający 40 miejsc noclegowych, został wybudowany przez Pawła Poloka. Później schronisko prowadziła córka Poloka, Anna wraz z mężem Janem Gajdzicą.
+            Na początku drugiej wojny światowej, Gajdzicę wywieziono na roboty przymusowe do Niemiec, z których powrócił w 1941 roku. Niestety w 1944 roku musiał ponownie opuścić Soszów – tym razem powołano go do niemieckiej armii. Po dezercji, powrócił do domu i ukrywał się do końca wojny.
+            Nieobecność gospodarza w schronisku wykorzystał zabrzański Beskiden-Verein.
+            Na Annie, prowadzącej w tym czasie schronisko, Niemcy wymusili dzierżawę obiektu. Próbowali także przejąć schronisko i pozbyć się z niego dotychczasowych właścicieli, lecz ich starania nie powiodły się.
+            Po wojnie, schronisko zostało poważnie rozbudowane.
+            **Powyższy tekst zaczerpnięto z książki Tomasza Biesika „Schroniska górskie dawniej i dziś”.**
+
           type: number
-        - name: PTTK na Stożku
+        - name: Schronisko PTTK na Stożku Wielkim
           in: query
-          description: Longitude component of location.
+          description: |
+            Schronisko PTTK na Stożku zostało oddane do użytku 9 lipca 1922 roku. Jest to najstarsze istniejące polskie schronisko w Beskidzie Śląskim (a po rozbiórce obiektu na Markowych Szczawinach najdłużej działające nieprzerwanie polskie schronisko w całych Beskidach)
+            Dużo informacji można znaleźć na stronie [PTTK](http://www.cotg.pttk.pl/encyklopedia_tresc.php?id=71)
           type: number
       tags: 
         - Beskid Śląski
