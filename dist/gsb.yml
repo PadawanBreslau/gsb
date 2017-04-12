@@ -279,24 +279,23 @@ paths:
       tags: 
         - Beskid Śląski
         - Ciekawostki
-    nocleg: #Ustroń Polana - PTTK na Stożku Wielkim
+    nocleg: #PTTK na Stożku Wielkim - Barania Góra
       summary: Noclegi
       description:
-        W Ustroniu i Ustroniu Polanie jest duża liczba miejsc noclegowych. Choć większości wędrowców głównie przyda się nocleg w Ustroniu po przyjeździe lub przed wyjazdem, to 
-        nocleg w schronisku może być dobrym rozwiązaniem, jeśli np. przyjedzie się do Ustronia o 18 i podejdzie tam w ramach "dnia 0" na nocleg
+        Idać w stronę pasma Baraniej Góry wciąż mamy sporo opcji noclegowych, mimo iż nie wchodzimy do żadnego miasta
       parameters:
-        - name: 0.0
+        - name: Przełęcz Kubalonka
           in: query
-          description: Ustroń. Dużo opcji noclegowych.
+          description: Kubalonka. [Karczma Kubalonka](http://www.kubalonka.pl/noclegi.html#main-content-div). Zapewniamy zakwaterowanie w 11 pokojach, łącznie dla 35 osób. Istnieje możliwość dostawek i wtedy całkowita ilość miejsc zwiększa się do 38 osób.
           type: number
-        - name: 4.5
-          in: query
+        - name: Schronisko Stecówka
+          in: Kuchnia
           description: 
-            Schronisko Górskie PTTK Równica (033)854-24-48 biuro@schronisko-rownica.pl. Schronisko "Równica" posiada 50 miejsc noclegowych w pokojach dwu i wieloosobowych. http://www.schronisko-rownica.pl/
+            Prywatne schronisko Stecówka. [Strona](http://www.stecowka.pl/) - 36 miejsc noclegowych
           type: number
-        - name: 9.0
-          in: query
-          description: Ustroń Polana. Dużo opcji noclegowych.
+        - name: Schronisko PTTK na Przysłopie pod Baranią Górą
+          in: Kuchnia, Łazienki, Atrakcje
+          description: Schronisko PTTK. [Strona](https://e-turysta.pl/schronisko-pttk-na-przyslopie-pod-barania-gora-wisla-120189.html?kl=1) - 91 miejsc noclegowych 
           type: number
       tags: 
         - Beskid Śląski
