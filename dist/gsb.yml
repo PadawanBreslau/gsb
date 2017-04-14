@@ -247,34 +247,63 @@ paths:
       summary: Ciekawostki na temat odcinka 
       description: Pare ciekawych rzeczy co sa na tym odcinku
       parameters:
-        - name: Górna stacja wyciągu krzesełkowego
-          in: query
+        - name: Przełęcz Kubalonka
+          in: Noclegi, Restauracje, Transport
           description: |
-            [Sokolarnia](http://sokolarnia.esy.es/) W Sokolarni znajduje się ok. 40 ptaków, a ptasie "domki" zamieszkują takie gatunki jak: sokoły, jastrzębie, myszołowy, orły i sowy. Odwiedzając to miejsce możemy przyjrzeć się wspaniałym okazom, zrobić zdjęcia z bliskiej odległości jak również zapoznać się z niezwykłą, rzadką i fascynującą dziedziną łowiectwa jaką jest SOKOLNICTWO - sztuka układania ptaków drapieżnych do łowów
-          type: number 
-        - name: Czantoria
-          in: query
+            Kubalonka (758 m n.p.m.) – przełęcz w Beskidzie Śląskim, pomiędzy szczytami Kubalonki (830 m n.p.m.) oraz nienazwanym wierzchołkiem o wysokości 818 m n.p.m. Oddziela ona pasmo Stożka i Czantorii od Pasma Wiślańskiego, zwanego też Pasmem Baraniej Góry. Przez przełęcz prowadzi droga wojewódzka nr 941 z Wisły do Istebnej. Na samej przełęczy odgałęzia się od niej wąska droga powiatowa, która przez przełęcz Szarculę schodzi koło Zameczku do Wisły Czarnego. Obie drogi wybudowano w latach międzywojennych.
+
+            Tuż poniżej przełęczy, po lewej stronie szosy do Istebnej, znajduje się zespół budynków Ośrodka Chorób Płuc Dzieci i Młodzieży (wzniesiony w 1937 r. według projektu Jadwigi Dobrzyńskiej i Zygmunta Łobody jako dziecięce sanatorium przeciwgruźlicze, rozbudowany znacznie w 1961 r.). Nieco poniżej, po przeciwnej stronie szosy, stoi drewniany, zabytkowy kościół pod wezwaniem św. Krzyża z 1779 r., przeniesiony tu w latach 1957-1958 z Przyszowic (powiat gliwicki), gdzie pełnił rolę kościoła przycmentarnego. Kościół jest elementem szlaku architektury drewnianej województwa śląskiego.
+
+            W okolicy i na samej przełęczy znajdują się restauracje, bary, pensjonaty, w tym znany od lat międzywojennych bar "Beczka". Tuż nad przełęczą, na stokach szczytu Kubalonka, narciarskie trasy biegowe ze strzelnicą do biathlonu (posiadające licencję FIS) i niewielki wyciąg narciarski dla początkujących. W siodle przełęczy węzeł szlaków turystycznych, przebiega tu m.in. Główny Szlak Beskidzki. Swój początek ma tu również Beskidzka Ścieżka Planetarna.
+
+            _Źródło: https://pl.wikipedia.org/wiki/Prze%C5%82%C4%99cz_Kubalonka_
+          type: number
+        - name: Stecówka
+          in: Noclegi, Restauracje
           description: |
-            Na samym szczycie góry, po czeskiej stronie granicy, znajduje się stalowa wieża widokowa (wstęp płatny) z platformą na wysokości 29 metrów oraz bufet. Na grzbiecie góry, kilkaset metrów na zachód od szczytu, znajduje się czeskie schronisko turystyczne na Czantorii (właściwie pod Czantorią Wielką), zbudowane jeszcze przez niemiecką organizację turystyczną Beskidenverein w 1904. Tam też znajdowało się turystyczne przejście graniczne.
+            Stecówka (760 m n.p.m.) – część wsi Istebna[1] w Beskidzie Śląskim. Położona jest na rozległej polanie, opadającej ku południowi, ku dolinie Olzy, z grzbietu biegnącego od Karolówki na zachód, w stronę Kubalonki.
 
-            [Przekaźnik telewizyjny](https://pl.wikipedia.org/wiki/TSR_G%C3%B3ra_Czantoria). Telewizyjna stacja retransmisyjna z wieżą o wysokości 45m.
+            Nazwa wywodzi się od niejakiego Steca, prawdopodobnie właściciela polany i pierwszego na niej osadnika, wzmiankowanego w roku 1788. W 1932 roku powstało tu prywatne schronisko Michała Legierskiego (działające do dziś), a w latach 1956-1958 dzięki pracy miejscowych górali wybudowano tu drewniany kościółek pod wezwaniem Matki Bożej Fatimskiej, zdobiony pracami twórców z Istebnej: Jana Wałacha, Ludwika Konarzewskiego juniora, Teresy Stankiewicz, Józefa Bocka, Jana Krężeloka i innych[2]. Świątynia spłonęła w nocy z 2 na 3 grudnia 2013 roku. Odbudowano ją w poprzednim stylu i 2016 roku ponownie służy wiernym.
 
-            Na zachodnim zboczu góry, przy czerwonym szlaku do Nydka, w miejscu zwanym Zakamiyń znajduje się jeden z tzw. leśnych kościołów – miejsce tajnych nabożeństw ewangelickich w epoce kontrreformacji (XVII/XVIII wiek) – wraz tablicą upamiętniającą Jerzego Trzanowskiego.
+            Z polany rozpościera się widok na otoczenie Istebnej. Przebiega tędy czerwony Główny Szlak Beskidzki oraz pętla beskidzka Szlaku Architektury Drewnianej.
+
+            _Źródło: https://pl.wikipedia.org/wiki/Stec%C3%B3wka_
           type: number
-        - name: Przełęcz Beskidek
-          in: query
+        - name: Kościół Matki Bożej Fatimskiej w Istebnej
+          in: Religia
           description: |
-            Przełęcz Beskidek stanowi połączenie między dolinami potoków: Jawornika (dopływ Wisły) po stronie wschodniej i Strzelmy (dopływ Głuchówki) po stronie zachodniej. Jest najniższym punktem wododziału Wisły i Olzy (czyli i Odry) na południe od szczytu Czantorii.
+            Kościół Matki Bożej Fatimskiej w Istebnej – drewniany kościół parafialny parafii pw. Matki Bożej Fatimskiej w Istebnej-Stecówce. Wybudowany w latach 1957–1958[a], jako górska kaplica przynależąca do parafii Dobrego Pasterza, w 1971 kaplicy przyznany zostaje rektor a od 1981[b] jest kościołem parafialnym.
 
-            Przez przełęcz biegnie wąska, leśna droga z Wisły Jawornika do Nydku. Do czasu ustanowienia granicy w 1920 r. (a i później również) stanowiła ona dość uczęszczane przejście, łączące obie miejscowości. Po II wojnie światowej na przełęczy funkcjonowało przejście małego ruchu granicznego Beskidek – Beskydek 21 grudnia 2007 r. w związku z wejściem Polski do strefy Schengen przestało ono funkcjonować.
+            Kościół znajduje się na Szlaku Architektury Drewnianej województwa śląskiego w pętli beskidzkiej.
+
+            W 2011 nakręcono tu scenę ślubu w filmie „Och, Karol 2”.
+
+            W nocy z 2 na 3 grudnia 2013 roku miał miejsce pożar świątyni, w wyniku którego budynek w większości spłonął. Strażacy zdołali uratować część wyposażenia oraz tabernakulum, ocalała też część ścian.
+
+            _Źródło: https://pl.wikipedia.org/wiki/Ko%C5%9Bci%C3%B3%C5%82_Matki_Bo%C5%BCej_Fatimskiej_w_Istebnej_
           type: number
-        - name: Soszów
-          in: query
-          description: Longitude component of location.
+        - name: Schronisko PTTK na Przysłopie pod Baranią Górą
+          in: Nocleg, Restauracja
+          description: |
+            Schronisko PTTK na Przysłopie pod Baranią Górą położone jest na wysokości 900 m n.p.m.
+            Pierwszy budynek schroniska pochodził jeszcze z końca XIX w. Był to drewniany domek myśliwski arcyksięcia Fryderyka Habsburga, zbudowany w 1897 r. jako baza wypadowa do polowań na głuszce. Budynek został zdewastowany pod koniec I wojny światowej i początkowo pozostawał w dyspozycji Lasów Państwowych. Dopiero po kilku latach został przejęty przez Górnośląski Oddział PTT, który go wyremontował i 15 lipca 1925 r. oddał do użytku turystom.
+
+            II wojnę światową budynek przetrwał szczęśliwie bez zniszczeń. W 1946 r. został ponownie oddany do użytku. W latach 1973-1979, w związku z nasilającym się ruchem turystycznym, PTTK postawiło nowy, murowany, trzypiętrowy budynek schroniska. W 1985 r. stary, pohabsburski budynek, wyłączony już wcześniej z użytku turystów, rozebrano i przeniesiono do Wisły na ulicę Lipową, gdzie stoi do dziś, jako siedziba PTTK w Wiśle.
+
+            _Źródło: https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Przysłopie_pod_Baranią_Górą_
           type: number
-        - name: PTTK na Stożku
-          in: query
-          description: Longitude component of location.
+        - name: Barania Góra
+          in: Wieża widokowa
+          description: |
+            Barania Góra – kopulasty szczyt o wysokości 1220 m n.p.m. w południowo-wschodniej części Beskidu Śląskiego, drugi (po Skrzycznem) pod względem wysokości szczyt tego pasma. Jednocześnie jest najwyższym szczytem polskiej części Śląska Cieszyńskiego i polskiego Górnego Śląska.
+
+            Góra leży na granicy powiatów cieszyńskiego i żywieckiego. Szczyt znajduje się na terenie miasta Wisła.
+
+            Na zachodnich stokach obszar źródliskowy Wisły: tam wypływają potoki źródłowe (Biała i Czarna Wisełka) – teren źródlisk jest chronionym obszarem. Zbocza porośnięte lasami jodłowo-bukowymi z domieszką jesionów, jaworów i świerków; stanowiska sztucznie wprowadzonych limb i kosodrzewiny. Występują wychodnie gruboławicowego piaskowca istebniańskiego.
+
+            Rezerwat przyrody "Barania Góra" o powierzchni 386 ha obejmuje szczytowe partie góry wraz z obszarem źródliskowym Wisły. Ponadto ochronie w ramach rezerwatu przyrody "Wisła" podlegają cieki wodne Czarnej Wisełki, Białej Wisełki i Malinki (ochrona pstrąga potokowego). Ciekawa flora: z bardzo rzadkich w Polsce roślin występuje tutaj tocja karpacka i tojad morawski a także wierzbownica zwieszona (częsta w Sudetach, rzadka w Karpatach)
+
+            _Źródło: https://pl.wikipedia.org/wiki/Barania_Góra_
           type: number
       tags: 
         - Beskid Śląski
