@@ -360,6 +360,77 @@ paths:
       tags: 
         - Beskid Śląski
         - Trasa
+    info: # Barania Góra - Węgierska
+      summary: Ciekawostki na temat odcinka 
+      description: Pare ciekawych rzeczy co sa na tym odcinku
+      parameters:
+        - name: Magura Wiślańska
+          in: 
+          type: number
+          description: |
+            Magurka Wiślańska (1140 m n.p.m.[1]) – szczyt zwornikowy w głównym grzbiecie pasma Baraniej Góry w Beskidzie Śląskim, pierwszy na północ od szczytu Baraniej Góry. W kierunku wschodnim odgałęzia się tu potężny rozróg grzbietów górskich, sięgających na północ po dolinę Leśnej (szczyt Ostre), na wschód po Sołę (Glinne), zaś na południe po dolny bieg Kameszniczanki (Mała Barania).
+
+            Dawniej wspólną nazwą "Magurka" określano cały wyrównany odcinek grzbietu od szczytu Magurki Wiślańskiej na zachodzie po Magurkę Radziechowską na wschodzie. Na grzbiecie tym, zbudowanym z gruboławicowych, gruboziarnistych piaskowców i zlepieńców istebniańskich, występują liczne wychodnie skalne w postaci ciągów ambon, grzybów skalnych czy pojedynczych, wystających z podłoża głazów.
+
+            Zachodnie stoki Magurki Wiślańskiej, opadające ku dolinie Białej Wisełki, porośnięte lasem świerkowym z domieszką buka, jodły i jawora, wchodzą w skład rezerwatu przyrody Barania Góra.
+            
+            __Źródło__: https://pl.wikipedia.org/wiki/Magurka_Wi%C5%9Bla%C5%84ska
+        - name: Magura Radziechowska
+          in: 
+          description: |
+            Magurka Radziechowska (1108 m n.p.m.[1]) – niewybitny szczyt w Beskidzie Śląskim, w ramieniu górskim odchodzącym od Magurki Wiślańskiej w głównym grzbiecie Pasma Baraniej Góry na wschód, nad dolinę Soły. Jest ważnym zwornikiem: od grzbietu opadającego ku Glinnemu odgałęzia się tu w kierunku północnym grzbiet biegnący w stronę Muronki.
+
+            Wierzchołek pierwotnie zalesiony litymi świerczynami. Od lat 90. XX w. lasy pocięte licznymi wyrębami. Obecnie (2015 r.) praktycznie całe stoki wylesione. Na grzbiecie łączącym Magurkę Radziechowską z Magurką Wiślańską znajdują się liczne drobne wychodnie skalne. Interesujące formacje skalne położone są również na południowych stokach tej góry. Grzbiet opadający od szczytu Magurki Radziechowskiej na wschód ku Glinnemu pokrywa rozległy ciąg polan, zwanych wspólnie Halą Radziechowską.
+
+            Na dawniejszych mapach (z połowy XX w.) szczyt zwany był czasem również "Magurką Górką". Z rzadkich w Polsce roślin na stokach Magurki Raciechowskiej występuje wierzbownica zwieszona[2].
+            
+            __Źródło__: https://pl.wikipedia.org/wiki/Magurka_Radziechowska
+          type: number
+        - name: Glinne
+          in:
+          description: |
+            Glinne (1034 m n.p.m.) – potężna, mocno rozczłonkowana góra w Paśmie Baraniej Góry w Beskidzie Śląskim. Wznosi się od strony zachodniej nad odcinkiem doliny Soły zajętym przez wieś Węgierską Górkę, w ramieniu, które w rejonie kulminacji Magurki Wiślańskiej odchodzi od głównego grzbietu Pasma Baraniej Góry przez Magurkę Radziechowską na wschód.
+
+            Glinne zbudowane jest z potężnych ławic piaskowców istebniańskich. Wystają one na powierzchnię w postaci ambon, murów skalnych i innego kształtu wychodni skalnych w wielu miejscach na stokach i na bocznych grzbietach, które odchodzą od masywu Glinnego na północ, wschód i południe. Góra prawie w całości jest zalesiona: oprócz świerków można tu spotkać dorodne jodły i buki, a w niższych położeniach zagajniki modrzewiowe, a nawet sosnowe. Aktualnie (2012 r.) znaczna część litych świerczyn, nawiedzonych inwazją kornika i wiatrołomami, została wycięta w ramach przebudowy drzewostanów Beskidu Śląskiego.
+            
+            __Źródło__: https://pl.wikipedia.org/wiki/Glinne_(g%C3%B3ra)
+          type: number
+        - name: Fort Waligóra
+          in: Nocleg, Restauracja
+          description: |
+            Schron artyleryjski "Waligóra" - dow. por. Leopold Galocz – załoga: 3 podoficerów i 11 szeregowców i kanonierów, łącznie 15 żołnierzy. Ciężki betonowy schron bojowy typu „D” – tradytor artyleryjski, jedno kondygnacyjny, uzbrojenie: 2 armaty polowe kal 76,2 mm w pancernych strzelnicach ustawione na ruchomych platformach, 1 ckm „Browning” wz. 30 kal. 7,92 mm w strzelnicy w ścianie schronu. Nie zamontowano kopuły pancernej obserwacyjno-bojowej, jedynie ułożono na schronie worki z piaskiem. Posiada wyrzutnię rakiet oświetlających, zrzutnie granatów, strzelnicę obrony wejścia oraz urządzenia do sygnalizacji świetlnej. Urządzenia wentylacyjne nie zostały zamontowane. 
+            Schron wybudowany w okresie lipiec-sierpień 1939 r. brał czynny udział w walkach 2 września 1939 r. Załoga na rozkaz dowództwa wycofała się w nocy z 2/3 września. Widoczne ślady ostrzału – szczególnie strzelnic są wynikiem ostrzału z niewielkiej odległości podczas kręcenia przez Niemców filmu propagandowego w 1939 roku..
+         
+            __Źródło__: http://www.wegierska-gorka.opg.pl/westerplatte-poludnia,115.html
+          type: number
+        - name: Węgierska Górka
+          in: Sklepy Restauracje Noclegi Transport
+          description: |
+            Pierwsze wzmianki o Węgierskiej Górce sięgają roku 1477, wtedy to dochodzi do zatargów granicznych między królem Polski Kazimierzem Jagiellończykiem, a królem Węgier Maciejem Korwinem. Mówi o tym legenda: Węgrzy, którzy mieli wielki apetyt na Żywiecczyznę, aby nie popełnić krzywoprzysięstwa, świadczyli, że im jest przynależna ziemia, na której klęczą (po uprzednim uzupełnieniu nogawic ziemią z Węgier, rzeczywiście klęczeli na ziemi węgierskiej). Fortel ten się nie udał, a z ziemi z nogawic spodni usypano „górki” – stąd, według legendy, wywodzi się nazwa Węgierska Górki.
+            W 1706 roku Franciszek Wielopolski założył u ujścia Żabnicy do Soły folwark lokowany na gruntach wsi Cięcina i nazwał go Węgierską Górką.
+
+            W okresie międzywojennym Węgierska Górka uzyskała status zimowiska. Frekwencja roczna wynosiła 1500 osób. W pensjonatach było do dyspozycji 50 miejsc. Koszt miesięcznego pobytu wynosił ok. 20 zł, a utrzymanie dzienne – 3,50 zł. Dojazd dorożką z dworca kolejowego kosztował 50 gr. Na miejscu był lekarz i apteka. Przepływająca przez wieś Soła nadawała się do kąpieli. Poza tym w Węgierskiej Górce znajdowały się boiska sportowe, korty tenisowe, strzelnica małokalibrowa. Większość obiektów posiadało oświetlenie elektryczne co ułatwiało organizowanie licznych festynów i dancingów. Szlaki turystyczne prowadziły na Romankę, Baranią Górę i Prusów.
+            W 1939 r. wybudowane zostały forty obronne przeciw nawale hitlerowskiej. Powstał rygiel obronny „Węgierska Górka”, który przez 3 dni wrześniowe odpierał bohatersko ataki 7 Bawarskiej Dywizji Piechoty, przez co opóźnione zostało rozbicie Armii „Kraków”. Dzięki wydarzeniom wrześniowym z 1939 roku Węgierska Górka nie tylko została odznaczona Krzyżem Grunwaldu III klasy, ale otrzymała nazwę „Westerplatte Południa”
+
+            Węgierska Górka była ważnym punktem oporu podczas kampanii wrześniowej 1939 roku. Można zwiedzić tutaj polskie fortyfikacje. Zaplanowano budowę 16 schronów bojowych, mających zamykać dolinę, ale jedynie 5 z nich zdołano wybudować. Były to ciężkie schrony żelbetowe, uzbrojone w ciężkie karabiny maszynowe. Jeden ze schronów („Waligóra”) był schronem artyleryjskim dla dwóch armat kalibru 75mm. Wszystkie schrony miały być wyposażone w kopuły pancerne do prowadzenia ognia karabinowego i obserwacji, ale do wybuchu wojny nie zdążono ich zabudować. Dowódcą odcinka był kpt. Tadeusz Franciszek Semik. Fortyfikacje zostały zdobyte 3 września po ciężkich walkach, w których Niemcy stracili około 200 żołnierzy.
+
+            __Źródło__: https://pl.wikipedia.org/wiki/W%C4%99gierska_G%C3%B3rka
+          type: number
+      tags: 
+        - Beskid Śląski
+        - Ciekawostki
+    nocleg: #PTTK na Stożku Wielkim - Barania Góra
+      summary: Noclegi
+      description:
+        Odcinek bez żadnej opcji noclegowej aż do Węgierskiej Górki
+      parameters:
+        - name: Węgierska Górka
+          in: query
+          description: Duży wybór noclegów
+          type: number
+      tags: 
+        - Beskid Śląski
+        - Noclegi
   Węgierska Górka - PTTK Hala Miziowa:
     trasa:
       summary: W górę. Tylko w górę.
