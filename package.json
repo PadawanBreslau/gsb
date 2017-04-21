@@ -19,6 +19,7 @@
     "prejshint": "gulp",
     "jshint": "jshint .",
     "pretest": "npm run jshint",
+    "start": "npm run serve",
     "test": "mocha"
   },
   "repository": {
