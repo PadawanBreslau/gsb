@@ -464,6 +464,91 @@ paths:
       tags: 
         - Beskid Żywiecki
         - Trasa
+    info: #Węgierska Górka - PTTK Hala Miziowa
+      summary: Ciekawostki
+      description: Ciekawostki
+      parameters:
+        - name: Romanka
+          in: query
+          description: |
+            Romanka (1366 m) – szczyt w Grupie Lipowskiego Wierchu i Romanki w Beskidzie Żywieckim. Od sąsiedniej Rysianki jest oddzielona wybitną przełęczą Pawlusia (1176 m). Jest też Romanka zwornikiem dla dwóch grzbietów. Na północny zachód odchodzi od Romanki grzbiet do Skały, na północny wschód drugi grzbiet do Kotarnicy.
+            Niemal całe stoki Romanki porasta las. Drzewostan to świerk pospolity, jarzębina, porzeczka skalna i dziki bez koralowy. Zwierzęta pojawiające się w okolicach Romanki to m.in. wilk szary, dzik, jeleń szlachetny, ryś, głuszec, a nawet niedźwiedź brunatny[3]. Lasy Romanki to jeden z większych kompleksów leśnych w Beskidzie Żywieckim. Jednak podczas wielowiekowego osadnictwa w masywie Romanki wytworzono kilka polan wykorzystywanych jako hale pasterskie: Hala Wieprzska, Hala Łyśniowska i inne, mniejsze, dzisiaj już nie mające nazwy. Również na grzbiecie łączącym Romankę z Martoszką na lotniczych zdjęciach Geoportalu widoczne są zarastające trawiaste obszary. Od doliny Żabniczanki dość wysoko wspinają się też na stoki Romanki pola i zabudowania miejscowości Żabnica[4]. Las na szczycie Romanki jest przerzedzony wskutek tego, że osiąga tutaj górną granicę swojego naturalnego zasięgu, niżej jednak na stokach las ma się dobrze. Od 1963 szczytowe partie Romanki zostały objęte ochroną w formie rezerwatu w celu ochrony jednego z ostatnich fragmentów puszczy karpackiej.
+            W masywie Romanki występują czynne osuwiska oraz Jaskinia w Sopotni Wielkiej mająca korytarze o łącznej długości 101 m
+
+            __Źródło__: https://pl.wikipedia.org/wiki/Romanka
+          type: number
+        - name: Hala Wieprzska
+          in: query
+          description:  |
+            Hala Wieprzska – polana w masywie Romanki w Beskidzie Żywieckim. Znajduje się na jej południowo-wschodnich stokach, na wysokości około 1000 – 1150 m i należy do miejscowości Żabnica. Z hali wypływa dopływ potoku Zimna Raztoka[1]. Jest to dawna hala pasterska. Nie jest już wypasana – z powodu nieopłacalności ekonomicznej pasterstwo w Karpatach, szczególnie na wyżej położonych polanach i halach w latach 80. XX wieku załamało się. Pozostawione swojemu losowi hale stopniowo zarastają lasem[2].
+            Nazwa hali pochodzi od hodowli świn
+
+            __Źródło__: https://pl.wikipedia.org/wiki/Hala_Wieprzska
+          type: number
+        - name: Rysianka
+          in: query
+          description: |
+            Rysianka (1322 m) – szczyt w Grupie Lipowskiego Wierchu i Romanki w Beskidzie Żywieckim[1]. Rysianka jest zwornikiem dla trzech grzbietów. Grzbietem południowo-wschodnim, poprzez nienazwaną przełęcz łączy się z Trzema Kopcami w Grupie Pilska, w północnym kierunku poprzez przełęcz Pawlusia odbiega od niej grzbiet Romanki, a w południowo-zachodnim biegnie grzbiet do Redykalnego Wierchu. Mająca trzy grzbiety Rysianka wznosi się więc nad trzema dolinami; są to doliny potoków Żabniczanka, Bystra i Sopotnia. Ponadto w północno-zachodnim kierunku (do doliny Żabniczanki) opada z Rysianki grzbiet zwany Szyndzielnym Groniem, oddzielający dwa źródłowe cieki potoku Zimna Raztoka.
+            Rysianka jest niemal całkowicie zalesiona, ale znajdują się na niej dwie polany. Tuż pod szczytem, na północnych stokach, znajduje się hala Koziorka, nieco pod wierzchołkiem, na północno-wschodnich stokach znajduje się duża i widokowa hala Rysianka, a na niej schronisko PTTK na Hali Rysiance. Jest też tutaj duży węzeł szlaków turystycznych. Na północnych stokach przełęczy między Rysianką a Trzema Kopcami utworzono rezerwat przyrody Pod Rysianką.
+            Rysianka wraz z sąsiednim Lipowskim Wierchem tworzą duży masyw, widoczny z bardzo wielu miejsc. Górną część zboczy porasta świerkowy las górnoreglowy. Świerki osiągają tutaj niemal górną granicę swojego zasięgu, są skarlałe i wiele z nich jest uschniętych. Na wierzchowinie pomiędzy szczytami Rysianki i Lipowskiego Wierchu znajduje się mające długość około 200m torfowisko z młakami i oczkami wodnymi.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Rysianka
+          type: number
+        - name: Schronisko PTTK na Hali Rysiance
+          in: query
+          description: |
+            Pomiędzy 1933 a 1935 rokiem Gustaw Pustelnik rozpoczął budowę domu na wydzielonej i ogrodzonej przez siebie górnej części Hali Rysianki, której był jedynie wspłówłaścicielem. Nie posiadał też stosownego zezwolenia na budowę. Powyższe fakty stały się przyczyną konfliktu zarówno z pozostałymi współwłaścicielami hali, jak i władzami administracyjnymi, które w końcu nakazały prowadzącemu nielegalną inwestycję rozebranie budynku.
+            Również organizacja turystyczna Beskiden-Verein, która posiadała oddalone o 10 min marszu od budowy Pustelnika schronisko na Lipowskiej, podniosła protest przeciwko tej inwestycji, mając na uwadze przyszłą konkurencję. Tatrzańskie Towarzystwo Narciarzy z Krakowa zainteresowało się nieukończonym obiektem i postanowiło pomóc jego właścicielowi. To przesądziło o pozostawieniu budynku. TTN przeznaczyło fundusze na jego wykończenie i w 1937 roku otworzyło w domu Pustelnika swoje schronisko. Obiekt zyskał nazwę: „Schronisko Towarzystwa Tatrzańskiego Narciarzy – Lipowska”, a budynek pozostawał własnością Gustawa Pustelnika.
+            Obszerny, drewniany, piętrowy budynek schroniska posadowiony został na kamiennej podmurówce i posiadał 50 miejsc noclegowych. Usytuowany był w pięknym, widokowym miejscu. Przed wybuchem II wojny światowej schronisko cieszyło się powodzeniem wśród turystów i narciarzy. W czasie okupacji Pustelnik, trudniący się przed wojną szpiegostwem na rzecz Abwehry, miał poważanie wśród niemieckich władz okupacyjnych, prowadził więc dalej swoje schronisko, które w tym czasie zmieniło się w dom wypoczynkowy dla żołnierzy niemieckich. Organizowane tu były również wojskowe kursy narciarskie.
+            Duży ruch turystyczny doprowadził do tego, że właściciel rozbudował schronisko, a obok wzniósł następny budynek. Latem 1943 roku partyzanci przeprowadzili w schronisku akcje, podczas których zabrano broń, żywność, koce i ubrania. W późniejszym czasie obiekt obsadzony został przez wojsko niemieckie, które stacjonowało tu prawie do końca 1944 roku. Opuszczony pod koniec wojny budynek schroniska został poważnie zdewastowany. W tym stanie doczekać końca działań wojennych. 
+
+            __Źródło:__ „SCHRONISKA GÓRSKIE NA STAREJ POCZTÓWCE I FOTOGRAFII”. Tomasz Biesik
+          type: number
+        - name: Trzy Kopce
+          in: query
+          description: |
+            Trzy Kopce (1216 m) – szczyt w Grupie Pilska w Beskidzie Żywieckim (na Słowacji są Oravské Beskydy). Znajduje się w głównym grzbiecie Beskidu Żywieckiego pomiędzy Rysianką a Palenicą. Dawniej nazwa Trzy Kopce dotyczyła sąsiedniego szczytu, na którym spotykały się (i nadal tak jest) granice trzech miejscowości: Czarne, Skalite i Czadeczanka, a nazwa szczytu pochodzi od trzech kopców, jakie usypano na granicy tych miejscowości[1]. Od Rysianki oddziela go niemająca nazwy przełęcz, która ma jednak duże znaczenie topograficzne, oddziela bowiem Grupę Lipowskiego Wierchu i Romanki, do której należy Rysianka, od Grupy Pilska, do której należą Trzy Kopce[2].
+            Trzy Kopce są całkowicie zalesione. Przebiega przez nie granica polsko-słowacka oraz Wielki Europejski Dział Wodny. Północno-zachodnie stoki Trzech Kopców są polskie i opadają do doliny potoku Sopotnia, południowo-wschodnie do doliny słowackiego potoku Mutnianka. W pobliżu znajduje się rezerwat przyrody "Pod Rysianką"[2]. Na szczycie krzyżują się dwa szlaki turystyczne
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Trzy_Kopce_(Beskid_%C5%BBywiecki)
+          type: number
+        - name: Schronisko PTTK na Hali  Miziowej
+          in: query
+          description: |
+            Pierwsze plany budowy schroniska w okolicach Pilska powstały już w 1912 (według niektórych źródeł już w roku 1906 były plany uruchomienia polskiego schroniska celem przeciwstawienia się akcji germanizacyjnych polskich gór przez Beskidenverein[1]). Wybuch I wojny światowej uniemożliwił zrealizowanie tych zamiarów. Dopiero w 1927 oddział babiogórski Polskiego Towarzystwa Tatrzańskiego przygotował projekt (twórcami idei budowy schroniska byli członkowie zarządu: Merta, Haliński, Fucik, Mikuszewski i Mączyński[1]); budowa trwała 3 lata (były problemy natury finansowej i konieczne okazało się zaciągnięcie pożyczki). Drewno na budowę uzyskano od arcyksięcia Habsburga, ówczesnego właściciela Żywieczcyzny[1]. 20 lipca 1930 uroczyście otwarto nowy obiekt. Był to piętrowy drewniany budynek utrzymany w stylu architektury góralskiej, z przeszkloną werandą zapewniającą gościom interesującą panoramę Beskidu Żywieckiego. Obiekt był w tamtym czasie uważany za najładniejszy w tej części Beskidów[2]. W 1936 doprowadzono linię telefoniczną i otwarto natryski.
+            Pierwszym dzierżawcą schroniska był Robert Sikora, drugim Helena Polakowa. W 1938 dzierżawcą na Hali Miziowej został Albert Rudolf. W czasie okupacji niemieckiej przyjął niemieckie obywatelstwo, a obiekt prowadził pod szyldem bielskiego oddziału Beskidenverein (o budynek toczyła się rywalizacja pomiędzy oddziałem bielskim a żywieckim). W budynku stacjonował także niewielki oddział niemieckiego wojska, mający zwalczać partyzantów. Obiekt uniknął zniszczenia, choć po odejściu Niemców część wyposażenia została rozkradziona przez szabrowników.
+            Po wojnie ponownie przejęło go PTT i już w 1945 urządziło tam bufet. Wyremontowany budynek krótko cieszył się popularnością wśród górskich wędrowców – 19 marca 1953 wybuchł pożar (podobno od niedopałka turysty), który strawił główny budynek. Ocalały tylko zabudowania gospodarcze – szopa i stajnia. Nie zdecydowano się na odbudowę – w zabudowaniach gospodarczych urządzono tymczasowy bufet i miejsca noclegowe dla 50 osób.
+            Prowizorka okazała się bardzo trwała – dopiero w 1994 rozpoczęto budowę nowego, dużego obiektu turystycznego, który z racji wyglądu i warunków pełni rolę hotelu górskiego. Nowe schronisko otwarto w październiku 2003, pół wieku po pożarze. W czerwcu 2004 zamknięto stare schronisko[3] i częściowo rozebrano. W pozostałej części starego schroniska urządzono niewielki bufet.a
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Hali_Miziowej
+          type: number
+      tags: 
+        - Beskid Żywiecki
+        - Ciekawostki
+    nocleg: #Węgierska Górka - PTTK Hala Miziowa
+      summary: Noclegi
+      description:
+        Po opuszczeniu Węgierskiej Górki wkraczamy w popularny turystycznie region i opcji noclegowych jest już kilka
+      parameters:
+        - name: Agroturystka Abrahamów
+          in: query
+          description: Agroturystyka tuż przy trasie w przysiołku Agrahamów [http://www.nocowanie.pl/noclegi/wegierska_gorka/agroturystyka/91064/]
+          type: number
+        - name: Górska Stacja Turystyczna Słowianka
+          in: query
+          description: Chatka u podnóża Romanki [http://www.slowianka.beskidy.info.pl/]
+          type: number
+        - name: Schronisko PTTK na Rysiance
+          in: query
+          description: Schronisko pod szczytem Rysiankia [http://www.rysianka.vot.pl/rysianka/web/index.php/aktualnosci]
+          type: number
+        - name: Schronisko PTTK na Hali Miziowej
+          in: query
+          description: Wielki hotel u podnóża Pilska. [http://halamiziowa.pl/]
+          type: number
+      tags: 
+        - Beskid Żywiecki
+        - Noclegi
   PTTK Hala Miziowa - Babia Góra:
     trasa:
       summary: Najwyżej
