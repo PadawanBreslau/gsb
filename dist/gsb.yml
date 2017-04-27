@@ -419,7 +419,7 @@ paths:
       tags: 
         - Beskid Śląski
         - Ciekawostki
-    nocleg: #PTTK na Stożku Wielkim - Barania Góra
+    nocleg: #Barania Góra - Węgierska
       summary: Noclegi
       description:
         Odcinek bez żadnej opcji noclegowej aż do Węgierskiej Górki
@@ -585,6 +585,95 @@ paths:
       tags: 
         - Beskid Żywiecki
         - Trasa
+    info: #PTTK Hala Miziowa - Babia Góra
+      summary: Ciekawostki
+      description: Ciekawostki
+      parameters:
+        - name: Pilsko
+          in: query
+          description: |
+            Pilsko (słow. Pilsko) – drugi po Babiej Górze co do wysokości szczyt górski w Beskidzie Żywieckim. Znajduje się w Grupie Pilska. Często nazwą Pilsko obejmuje się nie tylko jego główną kulminację (1557 m), w całości leżącą po stronie słowackiej, ale również cały masyw.
+            Pilsko objęte jest od 1971 roku (rezerwat przyrody Pilsko) po stronie polskiej na niewielkim obszarze (15,4 ha) ochroną rezerwatową, po stronie słowackiej ustanowiony w 1967 roku rezerwat obejmuje 809 ha.
+
+            Szczyt znajduje się poza szlakiem, ale warto pomyśleć o zboczeniu z trasy na godzine. 
+            __Źródło__: https://pl.wikipedia.org/wiki/Pilsko
+          type: number
+        - name: Przełęcz Glinne
+          in: query
+          description:  |
+            Glinne (także Przełęcz Korbielowska, Przełęcz Glinna, Na Glinie; słow. Hliny; 809 m) – przełęcz w Beskidzie Żywieckim, oddzielająca Grupę Pilska na zachodzie od Pasma Babiogórskiego na wschodzie. Grzbietem przełęczy biegnie granica polsko-słowacka oraz Wielki Europejski Dział Wodny
+            Ze względu na stosunkowo trudny dostęp siodła przełęczy, nie była ona do połowy XIX w. używana jako przejście przez główny grzbiet Karpat. Komunikację zapewniała położona nieco dalej na wschód Przełęcz Półgórska. Bity trakt, łączący Korbielów z Półgórą zbudowano ok. 1865 r. Po II wojnie światowej gościniec zamknięto dla ruchu, a na przełęczy stanął szlaban i posterunek WOP. Od początku lat 70. XX w. do ogłoszenia stanu wojennego w 1981 r. funkcjonowało tu przejście graniczne dla małego ruchu granicznego. Od 1995 na przełęczy ponownie działało międzynarodowe drogowe przejście graniczne Korbielów - Oravská Polhora, kantory oraz przystanek autobusowy Korbielów-Granica (kursy z Żywca)[1]. Zlikwidowano je w 2007 po wejściu Polski i Słowacji do strefy Schengen.
+
+            __Źródło__: https://pl.wikipedia.org/wiki/Glinne_(przełęcz)
+          type: number
+        - name: Głuchaczki
+          in: query
+          description: |
+            Głuchaczki (słow. Hluchačky) – położona na wysokości 830 m przełęcz pomiędzy Mędralową (1169 m) a Jaworzyną (1047 m). Przełęcz znajduje się na granicy polsko-słowackiej. Na polską stronę w północno-zachodnim kierunku spływa spod przełęczy potok Przybyłka, po słowackiej stronie zaś Potok Jałowiecki. Nazwa przełęczy pochodzi od znajdującego się na niej do końca lat 30. XX wieku przysiółka Głuchaczki, ta zaś pochodzi od nazwiska Głucheczek. Obecnie zabudowania przysiółka Głuchaczki znajdują się około 1 km od przełęczy, w dół doliny. Po polskiej stronie granicy znajdują się na niej łąki, część słowacka jest zalesiona.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Głuchaczki
+          type: number
+        - name: Mędralowa
+          in: query
+          description: |
+            Mędralowa (także Wielki Jałowiec, słow. Modrálová) – szczyt o wysokości 1169 m znajdujący się w tzw. Grupie Mędralowej (lub Paśmie Mędralowej), na mapach i w przewodnikach turystycznych często zaliczanej do Beskidu Żywieckiego. Jednak według regionalizacji fizycznogeograficznej Polski opracowanej przez Jerzego Kondrackiego należy do Pasma Przedbabiogórskiego w Beskidzie Makowskim.
+            Mędralowa ma dwa wierzchołki (zachodni i wschodni) znajdujące się w odległości około 500 m od siebie. Pomiędzy nimi znajduje się Hala Mędralowa. Wyższy jest wierzchołek zachodni. Jest on zwornikiem dla krótkiego grzbietu opadającego w widły dwóch źródłowych cieków potoku Bystra. Z niższego wierzchołka wschodniego w północno-wschodnim kierunku odchodzi grzbiet do Kolistego Gronia, łączący Mędralową z Pasmem Jałowieckim.
+            Na wschodnim, niższym wierzchołku Mędralowej znajduje się słupek graniczny III/90. Jest to historyczny punkt graniczny. Do 1564 schodziły się na nim granice Węgier, Polski i ziem śląskich, a w czasie II wojny światowej granice Generalnego Gubernatorstwa, III Rzeszy i Słowacji. Wcześniej, w latach 1938-1939, cały szczyt Mędralowej znalazł się w granicach Polski (II Rzeczpospolita wymusiła na Czechosłowacji oddanie południowych stoków góry). W czasie II wojny światowej Niemcy przy pomocy miejscowej ludności wykonali na grzbiecie Mędralowej system ziemnych umocnień. Pozostałości okopów można zaobserwować jeszcze obecnie[1]. Na wierzchołku tym Słowacy ustawili dużą tablicę informacyjną z opisem ciekawych miejsc w okolicy. Tablica jest w kilku językach, w tym również w języku polskim.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/M%C4%99dralowa
+          type: number
+        - name: Przęłęcz Jałowiecka Północna/Tabakowe Siodło 
+          in: query
+          description: |
+            Przełęcz Jałowiecka Północna (998 m) – przełęcz w Beskidach Zachodnich, pomiędzy Mędralową (1169 m) a Jałowcowym Garbem (1017 m). Przez przełęcz tę biegnie Wielki Europejski Dział Wodny oraz granica państwowa polsko-słowacka[1]. Na polskich, północnych stokach przełęczy ma źródła potok Jałowiec, na południowych, słowackich Polhoranka. Przełęcz oddziela Pasmo Babiogórskie (Jałowcowy Garb), zaliczane do Beskidu Żywieckiego od Pasma Przedbabiogórskiego (Mędralowa) zaliczanego do Beskidu Makowskiego[2].
+
+            Przełęcz Jałowiecka Północna zwana jest również Tabakowym Siodłem. Nazwa związana jest z faktem, że przełęcz znajdowała się na starym szlaku przemytniczym (patrz: tabakowy chodnik), którym z Węgier szmuglowano na północną stronę Karpat tytoń (czyli tabak). Była też kiedyś szlakiem komunikacyjnym łączącym Zawoję z Orawą. Mieszkańcy Zawoi m.in. pędzili przez nią swoje bydło na jarmark w Namiestowie i dwukrotnie przechodzili nią konfederaci barscy, a w okresie międzywojennym przemycano przez nią z Czechosłowacji buty i kamyczki do zapalniczek. Jest całkowicie zalesiona. Na przełęczy znajduje się węzeł pięciu szlaków turystycznych. 
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Prze%C5%82%C4%99cz_Ja%C5%82owiecka_P%C3%B3%C5%82nocna
+          type: number
+        - name: Markowe Szczawiny
+          in: query
+          description: |
+            Schronisko zostało wybudowane z inicjatywy prezesa Oddziału Babiogórskiego Towarzystwa Tatrzańskiego (później PTT) dr. Hugona Zapałowicza. Jego otwarcie nastąpiło 15 września 1906. Składało się wówczas z kuchni, jadalni, pięcioosobowej izby dla panów i trzyosobowej izby dla pań. Powstałe schronisko miało być odpowiedzią strony polskiej na silną ekspansję na tych terenach niemieckiego Beskidenverein (posiadało m.in. schronisko pod Babią Górą).
+
+            W 1922 odbyła się pierwsza rozbudowa schroniska. Kolejne rozbudowy w latach 1925, 1926, 1931 i 1934 uczyniły obiekt przestronnym i nowoczesnym. We wrześniu 1934 do schroniska doprowadzono linię telefoniczną i wodociąg. Przed II wojną światową zdołano jeszcze rozbudować I piętro schroniska i nakryć dachem jego werandę.
+
+            Podczas wojny schronisko przejęła oficjalnie krakowska sekcja Alpenverein (mimo, iż zainteresowanie wyrażało też Beskidenverein). Gospodarz pozostał przedwojenny – Rudolf Wielgus, który, utrzymując dobre kontakty z niemiecką strażą graniczną, zdołał dokonać najbardziej potrzebnych remontów, a w styczniu 1945 uratował je przed spaleniem przez wycofujących się Niemców.
+
+            Po wojnie budynek nadal był użytkowany jako schronisko przez PTT i w 1950 po połączeniu PTT z PTK jego właścicielem został spadkobierca obu towarzystw – PTTK. W 1964 przeprowadzono remont generalny schroniska, dodając m.in. kotłownię i agregat prądotwórczy. W ostatnich miesiącach działalności stary obiekt dysponował 64 miejscami noclegowymi w pokojach wieloosobowych, posiadał własne ujęcie wody i oczyszczalnię ścieków. Z Zawoi doprowadzono prąd elektryczny.
+
+            Na przełomie maja i czerwca 2007 dokonano całkowitej rozbiórki pierwszego schroniska. Wbrew wcześniejszym zapowiedziom stary obiekt nie został częściowo zachowany i przeniesiony do skansenu w Zawoi jako zabytek, lecz po decyzji wojewódzkiego konserwatora zabytków dokonano jego całkowitej likwidacj
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Markowych_Szczawinach
+          type: number
+        - name: Babia Góra
+          in: query
+          description: |
+            Babia Góra (słow. Babia hora, węg. Babia-Gura, niem. Weiberberg) – masyw górski w Paśmie Babiogórskim należącym do Beskidu Żywieckiego w Beskidach Zachodnich (według słowackiej terminologii są to Oravské Beskydy)[1][2]. Najwyższym szczytem jest Diablak (1725 m, niem. Teufelspitze czyli Diabelski Szczyt), często nazywany również Babią Górą, jak cały masyw. Jest to najwyższy szczyt całych Beskidów Zachodnich, poza Tatrami najwyższy szczyt w Polsce i drugi co do wybitności (po Śnieżce). Zaliczany jest do Korony Gór Polski
+            Pochodzenie nazwy Babia Góra tłumaczą liczne legendy ludowe. Jedna z nich mówi, że jest to kupa kamieni wysypanych przed chałupą przez babę – olbrzymkę, według innej to kochanka zbójnika, która skamieniała z żalu widząc, jak niosą jej zabitego ukochanego. Według innych legend nazwa góry pochodzi od tego, że w jaskiniach pod tą górą zbójnicy ukrywali swoje branki. Nazwa może też mieć powiązanie z niektórymi znaczeniami słowa baba (rodzaj ciasta lub kamienny posąg kultowy
+            Dawniej na licznych polanach wytworzonych w lasach Babiej Góry wypasano owce, zaś w najwyższych, naturalnie bezleśnych partiach (w piętrze halnym) woły, Dla powiększenia pastwisk wycięto znaczne ilości kosodrzewiny. Po utworzeniu parku narodowego wypas zniesiono, wiele polan już zarosło lasem, inne zarastają, kosodrzewina odnowiła się i zajmuje znaczne obszary. Obecnie wypasa się owce jeszcze tylko na polanie Liniarka i Hali Śmietanowej Lipnickiej, nad Czarną Orawą w Lipnicy Wielkiej oraz w słowackim Bobrowie.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Babia_Góra
+          type: number
+      tags: 
+        - Beskid Żywiecki
+        - Ciekawostki
+    nocleg: #Węgierska Górka - PTTK Hala Miziowa
+      summary: Noclegi
+      description:
+        Choć w sercu gór, możliwości noclegowych jest parę
+      parameters:
+        - name: Baza Namiotowa Głuchaczki
+          in: query
+          description: Malowniczo położona baza namiotowa [http://skpb.org/bases/gluchaczki/]. Warto zajrzeć nawet jak się nie chce nocować
+          type: Kuchnia
+        - name: Schronisko PTTK Markowe Szczawiny
+          in: query
+          description: Wyremontowane schronisko u stóp Babiej Góry [http://markoweszczawiny.pttk.pl/]
+          type: Restauracja
+      tags: 
+        - Beskid Żywiecki
+        - Noclegi
   Babia Góra - PTTK Hala Krupowa:
     trasa:
       summary: Opuszczając pasmo Babiej Góry
