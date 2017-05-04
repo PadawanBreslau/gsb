@@ -209,6 +209,18 @@ paths:
         - Noclegi
           
   PTTK na Stożku Wielkim - Barania Góra:
+    media:
+      summary: Zdjęcia i filmy z odcinka
+      description:
+        Zdjęcia i filmy z odcinka
+      parameters:
+        - name: 0.0
+          in: Zdjecia
+          description: Zdjęcia [Galeria](https://photos.google.com/u/2/album/AF1QipND_kdOKCmGLshSJm4ImltJCV8tgc8Mjf9fXQ3x)
+          type: number
+      tags: 
+        - Beskid Śląski
+        - Media
     trasa:
       summary: Na drugą stronę przełęczy
       description:
