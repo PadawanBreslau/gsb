@@ -805,6 +805,54 @@ paths:
       tags: 
         - Beskid Żywiecki
         - Trasa
+    info: #Krupowa - Jordanów
+      summary: Info
+      description:
+        Informacje na temat odcinka
+      parameters:
+        - name: Polana Malinowe
+          in: query
+          description: |
+            Polana Malinowe – polana w głównym grzbiecie Pasma Policy w Beskidzie Żywieckim. Znajduje się na bocznym grzbiecie tego pasma, który od szczytu Soska (939 m) opada w południowo-wschodnim kierunku w widły potoku o nazwie Mostów Potok[1]. Na mapie Geoportalu ma nazwę Polana Malinowa. Znajduje się na średniej wysokości około 800 m[2]. Na polanie znajduje się osada Malinowo[3]. Istnieje na nim pojedyncze gospodarstwo bez prądu elektrycznego (stan na 2012 r.). Dawniej istniało tutaj składające się z 9 gospodarstw osiedle należące do miejscowości Sidzina. W czasie II wojny światowej było ono zapleczem dla licznych w tym regionie oddziałów partyzanckich. W 1944 kwaterowała na nim 9 kompania górska 12 pułku piechoty Armii Krajowej, oddział „Harnaś” z 3 pułku strzelców podhalańskich AK, a w okolicy działały także oddział AK „Huta Podgórze” i partyzanci radzieccy (Oddział „Borba”). By zlikwidować zagrożenie na tyłach swojego frontu, Niemcy w 1944 na Paśmie Policy urządzili na partyzantów wielką obławę, w której wzięło udział ok. 6 tys. żołnierzy. Partyzantom jednak udało się uciec na słowacką Orawę. Niemcy, by uniemożliwić partyzantom powrót zlikwidowali ich zaplecze, dokonując pacyfikacji kilku osiedli Sidziny, w tym osiedla Malinowo, na którym spalili wszystkie domy. Po wojnie tylko jedna rodzina zdecydowała się na powrót i na nowo wybudowała tutaj swój dom[4].
+            16 października 1983 na Polanie Malinowej dzięki staraniom dawnych partyzantów AK poświęcono murowaną kapliczkę, nazywaną Kapliczką Matki Boskiej AK-owskiej. Poniżej kapliczki w murowanej grocie znajduje się partyzanckie mauzoleum. Znajduje się w nim wizerunek Matki Bożej, tabliczki z nazwiskami i pseudonimami partyzantów i wiersz patriotyczny[4].
+            Opuszczona przez większość mieszkańców Polana Malinowa stopniowo zarasta lasem[2]. Z jej górnego końca jeszcze roztacza się ograniczona panorama widokowa w kierunku południowym i wschodnim, przy dobrej pogodzie widoczne stąd są Tatry.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Polana_Malinowe
+          type: 
+        - name: Bystra Podhalańska
+          in: query
+          description: |
+            Duża wieś, zamieszkała przez około 2900 mieszkańców. Z Bystrej Podhalańskiej wychodzi kilka szlaków górskich, dzięki którym można bez problemu wyjść np. na Babią Górę. Rozbudowane zostały także trasy rowerowe, ciągnące się wzdłuż potoku Bystrzanki. Bystra należy do miejscowości o charakterze agroturystycznym.
+            We wsi znajduje się ośrodek rekolekcyjny Maksymilianum należący do Ruchu Światło-Życie Archidiecezji Krakowskiej.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Bystra_Podhalańska
+          type: 
+        - name: Jordanów
+          in: query
+          description: |
+            Miasto w województwie małopolskim, w powiecie suskim, siedziba gminy wiejskiej Jordanów. Położone jest nad rzeką Skawą w Kotlinie Rabczańskiej u południowych podnóży Beskidu Makowskiego[3].
+            Miasto zostało lokowane w 1564 r. przez Wawrzyńca Spytka Jordana z Zakliczyna na terenie wsi Malejowa. Nazwa miasta wywodzi się właśnie od nazwiska jego założyciela. Osada położona była przy skrzyżowaniu szlaków: z Krakowa i Wieliczki (trakt solny) przez Myślenice na Orawę i Węgry oraz szlaku doliną Skawy aż na historyczny Śląsk. W 1581 r. Jordanów uzyskał prawo dorocznych jarmarków, które w XVII w. stały się bardzo znane w południowej części Korony. Sprzedawano tu bydło, płótno oraz sól.
+            W XIX w. miasto trochę podupadło i miało charakter raczej rolniczy. Ludność Jordanowa ledwie przekraczała tysiąc mieszkańców. Wśród mieszkańców znajdowała się grupa Żydów, z których część należała do miejscowej gminy wyznaniowej żydowskiej.
+            W latach 20. XX w. do miasta przyłączono sąsiednią wieś Malejową oraz przysiółki Chrobacze i Mąkacz. Tym samym liczba ludności przekroczyła trzy tysiące.
+            W 1939 r. okolice Jordanowa były miejscem walk 10. Brygady Kawalerii oraz miejscowej ludności z wojskami niemieckimi. Miasto zostało silnie zniszczone w czasie II wojny światowej.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Jordanów
+          type: 
+      tags: 
+        - Beskid Żywiecki
+        - Noclegi
+    nocleg: #Krupowa - Jordanów
+      summary: Noclegi
+      description:
+        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      parameters:
+        - name: Schronisko PTTK na Hali Krupowej
+          in: query
+          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          type: Kuchnia
+      tags: 
+        - Beskid Żywiecki
+        - Noclegi
   Jordanów - Rabka:
     trasa:
       summary: Trzeba przetrwać
