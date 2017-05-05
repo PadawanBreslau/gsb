@@ -717,6 +717,66 @@ paths:
       tags: 
         - Beskid Żywiecki
         - Trasa
+    info: #Babia Góra - Krupowa
+      summary: Ciekawostki
+      description: Ciekawostki
+      parameters:
+        - name: Sokolica
+          in: query
+          description: |
+            Sokolica (1367 m) – najniższy i położony najdalej na wschód wierzchołek w północno-wschodniej grani masywu Babiej Góry w Beskidzie Żywieckim. Wschodnie stoki opadają bezpośrednio do przełęczy Krowiarki.
+            Sokolica nie tworzy wierzchołka, lecz wyraźne spłaszczenie (platformę). Platforma ta od północno-zachodniej strony podcięta jest skalnym urwiskiem będącym efektem potężnego obrywu sprzed kilkuset lat. Urwisko ma wysokość kilkunastu metrów, strome stoki poniżej niego są zawalone dużymi głazami i porośnięte kosodrzewiną i lasem. W drugiej połowie XIX wieku w urwisku gnieździł się orzeł przedni, przez miejscową ludność uważany za sokoła i stąd pochodzi nazwa szczytu[2].
+            __Źródło__: https://pl.wikipedia.org/wiki/Sokolica_(Beskid_Żywiecki)
+          type: number
+        - name: Przełęcz Krowiarki
+          in: query
+          description:  |
+            Przełęcz Krowiarki – przełęcz w Paśmie Babiogórskim, które jest częścią Beskidu Żywieckiego[1]. Różne źródła różnie podają jej wysokość: 986 m[1], 1009 m[2], 1012 m[3]. Przełęcz Krowiarki oddziela masyw Babiej Góry od Pasma Policy.
+            Na przełęczy znajduje się polana Krowiarki, na której dawniej wypasano krowy. Nazwa przełęczy i polany pochodzi od ludowego określenia krowiarki oznaczającego pasterki wypasające krowy. Jeszcze dawniej przełęcz nazywana była Lipnickim Siodłem lub Przełęczą Lipnicką[4].
+
+            Przełęcz ta stanowi najwyższą dostępną komunikacyjnie przełęcz górską Beskidów Zachodnich. Dawniej prowadziła przez nią z Zawoi na Orawę gruntowa droga zwana Orawskim Chodnikiem. Przed II wojną światową rozpoczęto budowę szosy, zrealizowano odcinek z Zubrzycy Górnej na przełęcz Krowiarki. Przy budowie tego odcinka w 1938 pracował w Junackim Hufcu Pracy Karol Wojtyła (był wówczas studentem). Upamiętnia to obelisk na polanie Krowiarki. 
+
+            __Źródło__: https://pl.wikipedia.org/wiki/Przełęcz_Krowiarki
+          type: number
+        - name: Cyl Hali Śmietanowej
+          in: query
+          description: |
+            Cyl Hali Śmietanowej (1298 m) – szczyt w Beskidzie Żywieckim, w zachodniej części Pasma Polic, położony na zachód od Policy. Jest to szczyt zwornikowy, gdyż od głównego grzbietu odchodzą dwa boczne – jeden na północ, w kierunku Kiczorki (1012 m), drugi na zachód, w stronę Mosornego Gronia (1047 m). Ponadto grzbiet główny zmienia na szczycie kierunek przebiegu z równoleżnikowego na południkowy (patrząc od strony Policy skręca na południe). Stoki są zalesione, ale na wierzchołku znajduje się niewielka Hala Śmietanowa, od której góra wzięła swoją nazwę.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Cyl_Hali_Śmietanowej
+          type: number
+        - name: Polica
+          in: query
+          description: |
+            Polica (1369 m) – szczyt w Paśmie Policy, położonym po północno-wschodniej stronie przełęczy Krowiarki[1]. Według opracowanej przez Jerzego Kondrackiego regionalizacji fizycznogeograficznej Polski pasmo to wchodzi w skład Pasma Babiogórskiego w Beskidzie Żywieckim[2]. Dawniej szczyt nosił nazwę Police. Słowo police jest pochodzenia wołoskiego i oznaczało półkę, na której w bacówce trzymano sery[1].
+            Polica jest zwornikiem dla odbiegającego w południowo-wschodnim kierunku niewiele niższego grzbietu Czyrńca (1318 m). Grzbiet ten opada do Przełęczy Zubrzyckiej (877 m), przez którą Pasmo Policy łączy się z Beskidem Orawsko-Podhalańskim. Biegnie nim przez Policę, przełęcz Krowiarki i dalej Pasmem Babiogórskim Wielki Europejski Dział Wodny między zlewiskami Bałtyku i Morza Czarnego[2]. Pónocno-zachodnie stoki Policy opadają do doliny Skawicy, wcina się w nie głęboka dolina potoku Skawica Górna
+            Grzbietem od Babiej Góry przez Krowiarki do Policy i dalej grzbietem Czyrńca do 1918 biegła granica galicyjsko-węgierska, a w latach 1918–1920 polsko-czechosłowacka. Prowadził tędy szlak przemytniczy zwany tabakowym chodnikiem. W okresie międzywojennym, po przyłączeniu Górnej Orawy do Polski cały szczyt Policy znalazł się w granicach Rzeczypospolitej. W czasie II wojny światowej Górna Orawa została włączona do Słowacji i grzbiet ten oddzielał Słowację od Generalnego Gubernatorstwa. Ustawiono na nim liczne słupki graniczne z literami S i D. Po wojnie i zlikwidowaniu tej granicy słupki zostały powywracane. W czasie II wojny światowej masyw Policy dawał schronienie partyzantom AK. M.in. pod Policą w dolinie Głębokiego Potoku mieli drewniano-ziemny bunkier. Jesienią 1944 Niemcy przeprowadzili wielką obławę na partyzantów. Wobec ogromnej przewagi nieprzyjaciela partyzanci wycofali się, nie podejmując walki. Obława przyniosła Niemcom niewielkie skutki, w odwecie dokonali pacyfikacji miejscowości Sidzina[1].
+            2 kwietnia 1969 na stokach Policy rozbił się samolot PLL LOT. W katastrofie zginęli wszyscy członkowie ekipy i pasażerowie, w tym znany językoznawca Zenon Klemensiewicz. Fakt ten upamiętnia krzyż ze stosownym napisem. Na krzyżu umieszczono dodatkową tabliczkę wykonaną z resztek poszycia samolotu z informacją o oddziale partyzanckim działającym w tym rejonie[1]. Przyczynami katastrofy najprawdopodobniej były błędy w nawigacji spowodowane przez brak odpowiedniego wyposażenia lotniska w Krakowie w sprzęt nawigacyjny. Zginęły 53 osoby. W 2009 r. na szczycie umieszczono także pomnik poświęcony ofiarom katastrofy. Uroczystość odsłonięcia odbyła się 20 sierpnia 2009 r.[4]
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Polica
+          type: number
+        - name: Hala Kucałowa
+          in: query
+          description: |
+            Dawna hala pasterska znajdująca się w Paśmie Policy w Beskidzie Żywieckim. Jej nazwa pochodzi od nazwiska właściciela (Kucała). Obejmuje północno-zachodnie, opadające do doliny Skawicy stoki Kucałowej Przełęczy oraz kopiaste wzniesienie Jasnej Góry. Stoki południowo-wschodnie należą do hali Sidzińskie Pasionki[2][1]. Na tabliczkach szlaków turystycznych i czasami w literaturze turystycznej obydwie te hale nazywane są Halą Krupową. Jest to nazwa błędna, utworzona omyłkowo, właściwa Hala Krupowa znajduje się bowiem na południowych stokach pobliskiej Okrąglicy. (czyli Schronisko PTTK na Hali Krupowej nie mieści się na Hali Krupowej. Przyp. red.)
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Hala_Kucałowa
+          type: number
+      tags: 
+        - Beskid Żywiecki
+        - Ciekawostki
+    nocleg: #Węgierska Górka - PTTK Hala Miziowa
+      summary: Noclegi
+      description:
+        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      parameters:
+        - name: Schronisko PTTK na Hali Krupowej
+          in: query
+          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          type: Kuchnia
+      tags: 
+        - Beskid Żywiecki
+        - Noclegi
   PTTK Hala Krupowa - Jordanów:
     trasa:
       summary: Żegnając Beskid Żywiecki
