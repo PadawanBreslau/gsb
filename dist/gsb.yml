@@ -45,7 +45,7 @@ paths:
             a kilka lat później został umieszczony tu napis „Miejsce nabożeństw ewangelików w latach od 1654 do 1709”, który w 1935 został częściowo uszkodzony.
             W okresie międzywojennym odbywały się tu okolicznościowe spotkania, głównie młodzieży ewangelickiej. Organizowano je w przeddzień pamiątki poświęcenia
             ustrońskiego kościoła ap. Jakuba Starszego. Od 1958 przy „Kamieniu” przeprowadzano zakończenia roku szkolnego dla dzieci uczęszczających na szkółkę niedzielną dla dzieci,
-            z udziałem rodziców. W 1961 zainaugurowano corocznie odprawiane tam nabożeństwa w Święto Bratniej Pomocy im. Gustawa Adolfa[1], przypadające na ten sam dzień co
+            z udziałem rodziców. W 1961 zainaugurowano corocznie odprawiane tam nabożeństwa w Święto Bratniej Pomocy im. Gustawa Adolfa, przypadające na ten sam dzień co
             katolickie święto Bożego Ciała. Obecnie w odprawianych tu nabożeństwach uczestniczą wielkie tłumy wiernych, nawet z odległych parafii.
             Co dwa lata po nabożeństwie odbywają się na terenach wokół schroniska na Równicy imprezy towarzyszące.
             Tuż obok przy „Kamieniu” poprowadzony jest Główny Szlak Beskidzki – znakowany kolorem czerwonym najdłuższy górski szlak turystyczny w Polsce.
@@ -302,9 +302,9 @@ paths:
         - name: Stecówka
           in: Noclegi, Restauracje
           description: |
-            Stecówka (760 m n.p.m.) – część wsi Istebna[1] w Beskidzie Śląskim. Położona jest na rozległej polanie, opadającej ku południowi, ku dolinie Olzy, z grzbietu biegnącego od Karolówki na zachód, w stronę Kubalonki.
+            Stecówka (760 m n.p.m.) – część wsi Istebna w Beskidzie Śląskim. Położona jest na rozległej polanie, opadającej ku południowi, ku dolinie Olzy, z grzbietu biegnącego od Karolówki na zachód, w stronę Kubalonki.
 
-            Nazwa wywodzi się od niejakiego Steca, prawdopodobnie właściciela polany i pierwszego na niej osadnika, wzmiankowanego w roku 1788. W 1932 roku powstało tu prywatne schronisko Michała Legierskiego (działające do dziś), a w latach 1956-1958 dzięki pracy miejscowych górali wybudowano tu drewniany kościółek pod wezwaniem Matki Bożej Fatimskiej, zdobiony pracami twórców z Istebnej: Jana Wałacha, Ludwika Konarzewskiego juniora, Teresy Stankiewicz, Józefa Bocka, Jana Krężeloka i innych[2]. Świątynia spłonęła w nocy z 2 na 3 grudnia 2013 roku. Odbudowano ją w poprzednim stylu i 2016 roku ponownie służy wiernym.
+            Nazwa wywodzi się od niejakiego Steca, prawdopodobnie właściciela polany i pierwszego na niej osadnika, wzmiankowanego w roku 1788. W 1932 roku powstało tu prywatne schronisko Michała Legierskiego (działające do dziś), a w latach 1956-1958 dzięki pracy miejscowych górali wybudowano tu drewniany kościółek pod wezwaniem Matki Bożej Fatimskiej, zdobiony pracami twórców z Istebnej: Jana Wałacha, Ludwika Konarzewskiego juniora, Teresy Stankiewicz, Józefa Bocka, Jana Krężeloka i innych. Świątynia spłonęła w nocy z 2 na 3 grudnia 2013 roku. Odbudowano ją w poprzednim stylu i 2016 roku ponownie służy wiernym.
 
             Z polany rozpościera się widok na otoczenie Istebnej. Przebiega tędy czerwony Główny Szlak Beskidzki oraz pętla beskidzka Szlaku Architektury Drewnianej.
 
@@ -313,7 +313,7 @@ paths:
         - name: Kościół Matki Bożej Fatimskiej w Istebnej
           in: Religia
           description: |
-            Kościół Matki Bożej Fatimskiej w Istebnej – drewniany kościół parafialny parafii pw. Matki Bożej Fatimskiej w Istebnej-Stecówce. Wybudowany w latach 1957–1958[a], jako górska kaplica przynależąca do parafii Dobrego Pasterza, w 1971 kaplicy przyznany zostaje rektor a od 1981[b] jest kościołem parafialnym.
+            Kościół Matki Bożej Fatimskiej w Istebnej – drewniany kościół parafialny parafii pw. Matki Bożej Fatimskiej w Istebnej-Stecówce. Wybudowany w latach 1957–1958, jako górska kaplica przynależąca do parafii Dobrego Pasterza, w 1971 kaplicy przyznany zostaje rektor a od 1981 jest kościołem parafialnym.
 
             Kościół znajduje się na Szlaku Architektury Drewnianej województwa śląskiego w pętli beskidzkiej.
 
@@ -420,7 +420,7 @@ paths:
           in:
           type: number
           description: |
-            Magurka Wiślańska (1140 m n.p.m.[1]) – szczyt zwornikowy w głównym grzbiecie pasma Baraniej Góry w Beskidzie Śląskim, pierwszy na północ od szczytu Baraniej Góry. W kierunku wschodnim odgałęzia się tu potężny rozróg grzbietów górskich, sięgających na północ po dolinę Leśnej (szczyt Ostre), na wschód po Sołę (Glinne), zaś na południe po dolny bieg Kameszniczanki (Mała Barania).
+            Magurka Wiślańska (1140 m.) – szczyt zwornikowy w głównym grzbiecie pasma Baraniej Góry w Beskidzie Śląskim, pierwszy na północ od szczytu Baraniej Góry. W kierunku wschodnim odgałęzia się tu potężny rozróg grzbietów górskich, sięgających na północ po dolinę Leśnej (szczyt Ostre), na wschód po Sołę (Glinne), zaś na południe po dolny bieg Kameszniczanki (Mała Barania).
 
             Dawniej wspólną nazwą "Magurka" określano cały wyrównany odcinek grzbietu od szczytu Magurki Wiślańskiej na zachodzie po Magurkę Radziechowską na wschodzie. Na grzbiecie tym, zbudowanym z gruboławicowych, gruboziarnistych piaskowców i zlepieńców istebniańskich, występują liczne wychodnie skalne w postaci ciągów ambon, grzybów skalnych czy pojedynczych, wystających z podłoża głazów.
 
@@ -430,11 +430,11 @@ paths:
         - name: Magura Radziechowska
           in:
           description: |
-            Magurka Radziechowska (1108 m n.p.m.[1]) – niewybitny szczyt w Beskidzie Śląskim, w ramieniu górskim odchodzącym od Magurki Wiślańskiej w głównym grzbiecie Pasma Baraniej Góry na wschód, nad dolinę Soły. Jest ważnym zwornikiem: od grzbietu opadającego ku Glinnemu odgałęzia się tu w kierunku północnym grzbiet biegnący w stronę Muronki.
+            Magurka Radziechowska (1108 m n.p.m.) – niewybitny szczyt w Beskidzie Śląskim, w ramieniu górskim odchodzącym od Magurki Wiślańskiej w głównym grzbiecie Pasma Baraniej Góry na wschód, nad dolinę Soły. Jest ważnym zwornikiem: od grzbietu opadającego ku Glinnemu odgałęzia się tu w kierunku północnym grzbiet biegnący w stronę Muronki.
 
             Wierzchołek pierwotnie zalesiony litymi świerczynami. Od lat 90. XX w. lasy pocięte licznymi wyrębami. Obecnie (2015 r.) praktycznie całe stoki wylesione. Na grzbiecie łączącym Magurkę Radziechowską z Magurką Wiślańską znajdują się liczne drobne wychodnie skalne. Interesujące formacje skalne położone są również na południowych stokach tej góry. Grzbiet opadający od szczytu Magurki Radziechowskiej na wschód ku Glinnemu pokrywa rozległy ciąg polan, zwanych wspólnie Halą Radziechowską.
 
-            Na dawniejszych mapach (z połowy XX w.) szczyt zwany był czasem również "Magurką Górką". Z rzadkich w Polsce roślin na stokach Magurki Raciechowskiej występuje wierzbownica zwieszona[2].
+            Na dawniejszych mapach (z połowy XX w.) szczyt zwany był czasem również "Magurką Górką". Z rzadkich w Polsce roślin na stokach Magurki Raciechowskiej występuje wierzbownica zwieszona.
 
             __Źródło__: https://pl.wikipedia.org/wiki/Magurka_Radziechowska
           type: number
@@ -537,7 +537,7 @@ paths:
           in: query
           description: |
             Romanka (1366 m) – szczyt w Grupie Lipowskiego Wierchu i Romanki w Beskidzie Żywieckim. Od sąsiedniej Rysianki jest oddzielona wybitną przełęczą Pawlusia (1176 m). Jest też Romanka zwornikiem dla dwóch grzbietów. Na północny zachód odchodzi od Romanki grzbiet do Skały, na północny wschód drugi grzbiet do Kotarnicy.
-            Niemal całe stoki Romanki porasta las. Drzewostan to świerk pospolity, jarzębina, porzeczka skalna i dziki bez koralowy. Zwierzęta pojawiające się w okolicach Romanki to m.in. wilk szary, dzik, jeleń szlachetny, ryś, głuszec, a nawet niedźwiedź brunatny[3]. Lasy Romanki to jeden z większych kompleksów leśnych w Beskidzie Żywieckim. Jednak podczas wielowiekowego osadnictwa w masywie Romanki wytworzono kilka polan wykorzystywanych jako hale pasterskie: Hala Wieprzska, Hala Łyśniowska i inne, mniejsze, dzisiaj już nie mające nazwy. Również na grzbiecie łączącym Romankę z Martoszką na lotniczych zdjęciach Geoportalu widoczne są zarastające trawiaste obszary. Od doliny Żabniczanki dość wysoko wspinają się też na stoki Romanki pola i zabudowania miejscowości Żabnica[4]. Las na szczycie Romanki jest przerzedzony wskutek tego, że osiąga tutaj górną granicę swojego naturalnego zasięgu, niżej jednak na stokach las ma się dobrze. Od 1963 szczytowe partie Romanki zostały objęte ochroną w formie rezerwatu w celu ochrony jednego z ostatnich fragmentów puszczy karpackiej.
+            Niemal całe stoki Romanki porasta las. Drzewostan to świerk pospolity, jarzębina, porzeczka skalna i dziki bez koralowy. Zwierzęta pojawiające się w okolicach Romanki to m.in. wilk szary, dzik, jeleń szlachetny, ryś, głuszec, a nawet niedźwiedź brunatny. Lasy Romanki to jeden z większych kompleksów leśnych w Beskidzie Żywieckim. Jednak podczas wielowiekowego osadnictwa w masywie Romanki wytworzono kilka polan wykorzystywanych jako hale pasterskie: Hala Wieprzska, Hala Łyśniowska i inne, mniejsze, dzisiaj już nie mające nazwy. Również na grzbiecie łączącym Romankę z Martoszką na lotniczych zdjęciach Geoportalu widoczne są zarastające trawiaste obszary. Od doliny Żabniczanki dość wysoko wspinają się też na stoki Romanki pola i zabudowania miejscowości Żabnica. Las na szczycie Romanki jest przerzedzony wskutek tego, że osiąga tutaj górną granicę swojego naturalnego zasięgu, niżej jednak na stokach las ma się dobrze. Od 1963 szczytowe partie Romanki zostały objęte ochroną w formie rezerwatu w celu ochrony jednego z ostatnich fragmentów puszczy karpackiej.
             W masywie Romanki występują czynne osuwiska oraz Jaskinia w Sopotni Wielkiej mająca korytarze o łącznej długości 101 m
 
             __Źródło__: https://pl.wikipedia.org/wiki/Romanka
@@ -545,7 +545,7 @@ paths:
         - name: Hala Wieprzska
           in: query
           description:  |
-            Hala Wieprzska – polana w masywie Romanki w Beskidzie Żywieckim. Znajduje się na jej południowo-wschodnich stokach, na wysokości około 1000 – 1150 m i należy do miejscowości Żabnica. Z hali wypływa dopływ potoku Zimna Raztoka[1]. Jest to dawna hala pasterska. Nie jest już wypasana – z powodu nieopłacalności ekonomicznej pasterstwo w Karpatach, szczególnie na wyżej położonych polanach i halach w latach 80. XX wieku załamało się. Pozostawione swojemu losowi hale stopniowo zarastają lasem[2].
+            Hala Wieprzska – polana w masywie Romanki w Beskidzie Żywieckim. Znajduje się na jej południowo-wschodnich stokach, na wysokości około 1000 – 1150 m i należy do miejscowości Żabnica. Z hali wypływa dopływ potoku Zimna Raztoka. Jest to dawna hala pasterska. Nie jest już wypasana – z powodu nieopłacalności ekonomicznej pasterstwo w Karpatach, szczególnie na wyżej położonych polanach i halach w latach 80. XX wieku załamało się. Pozostawione swojemu losowi hale stopniowo zarastają lasem.
             Nazwa hali pochodzi od hodowli świn
 
             __Źródło__: https://pl.wikipedia.org/wiki/Hala_Wieprzska
@@ -553,7 +553,7 @@ paths:
         - name: Rysianka
           in: query
           description: |
-            Rysianka (1322 m) – szczyt w Grupie Lipowskiego Wierchu i Romanki w Beskidzie Żywieckim[1]. Rysianka jest zwornikiem dla trzech grzbietów. Grzbietem południowo-wschodnim, poprzez nienazwaną przełęcz łączy się z Trzema Kopcami w Grupie Pilska, w północnym kierunku poprzez przełęcz Pawlusia odbiega od niej grzbiet Romanki, a w południowo-zachodnim biegnie grzbiet do Redykalnego Wierchu. Mająca trzy grzbiety Rysianka wznosi się więc nad trzema dolinami; są to doliny potoków Żabniczanka, Bystra i Sopotnia. Ponadto w północno-zachodnim kierunku (do doliny Żabniczanki) opada z Rysianki grzbiet zwany Szyndzielnym Groniem, oddzielający dwa źródłowe cieki potoku Zimna Raztoka.
+            Rysianka (1322 m) – szczyt w Grupie Lipowskiego Wierchu i Romanki w Beskidzie Żywieckim. Rysianka jest zwornikiem dla trzech grzbietów. Grzbietem południowo-wschodnim, poprzez nienazwaną przełęcz łączy się z Trzema Kopcami w Grupie Pilska, w północnym kierunku poprzez przełęcz Pawlusia odbiega od niej grzbiet Romanki, a w południowo-zachodnim biegnie grzbiet do Redykalnego Wierchu. Mająca trzy grzbiety Rysianka wznosi się więc nad trzema dolinami; są to doliny potoków Żabniczanka, Bystra i Sopotnia. Ponadto w północno-zachodnim kierunku (do doliny Żabniczanki) opada z Rysianki grzbiet zwany Szyndzielnym Groniem, oddzielający dwa źródłowe cieki potoku Zimna Raztoka.
             Rysianka jest niemal całkowicie zalesiona, ale znajdują się na niej dwie polany. Tuż pod szczytem, na północnych stokach, znajduje się hala Koziorka, nieco pod wierzchołkiem, na północno-wschodnich stokach znajduje się duża i widokowa hala Rysianka, a na niej schronisko PTTK na Hali Rysiance. Jest też tutaj duży węzeł szlaków turystycznych. Na północnych stokach przełęczy między Rysianką a Trzema Kopcami utworzono rezerwat przyrody Pod Rysianką.
             Rysianka wraz z sąsiednim Lipowskim Wierchem tworzą duży masyw, widoczny z bardzo wielu miejsc. Górną część zboczy porasta świerkowy las górnoreglowy. Świerki osiągają tutaj niemal górną granicę swojego zasięgu, są skarlałe i wiele z nich jest uschniętych. Na wierzchowinie pomiędzy szczytami Rysianki i Lipowskiego Wierchu znajduje się mające długość około 200m torfowisko z młakami i oczkami wodnymi.
 
@@ -572,18 +572,18 @@ paths:
         - name: Trzy Kopce
           in: query
           description: |
-            Trzy Kopce (1216 m) – szczyt w Grupie Pilska w Beskidzie Żywieckim (na Słowacji są Oravské Beskydy). Znajduje się w głównym grzbiecie Beskidu Żywieckiego pomiędzy Rysianką a Palenicą. Dawniej nazwa Trzy Kopce dotyczyła sąsiedniego szczytu, na którym spotykały się (i nadal tak jest) granice trzech miejscowości: Czarne, Skalite i Czadeczanka, a nazwa szczytu pochodzi od trzech kopców, jakie usypano na granicy tych miejscowości[1]. Od Rysianki oddziela go niemająca nazwy przełęcz, która ma jednak duże znaczenie topograficzne, oddziela bowiem Grupę Lipowskiego Wierchu i Romanki, do której należy Rysianka, od Grupy Pilska, do której należą Trzy Kopce[2].
-            Trzy Kopce są całkowicie zalesione. Przebiega przez nie granica polsko-słowacka oraz Wielki Europejski Dział Wodny. Północno-zachodnie stoki Trzech Kopców są polskie i opadają do doliny potoku Sopotnia, południowo-wschodnie do doliny słowackiego potoku Mutnianka. W pobliżu znajduje się rezerwat przyrody "Pod Rysianką"[2]. Na szczycie krzyżują się dwa szlaki turystyczne
+            Trzy Kopce (1216 m) – szczyt w Grupie Pilska w Beskidzie Żywieckim (na Słowacji są Oravské Beskydy). Znajduje się w głównym grzbiecie Beskidu Żywieckiego pomiędzy Rysianką a Palenicą. Dawniej nazwa Trzy Kopce dotyczyła sąsiedniego szczytu, na którym spotykały się (i nadal tak jest) granice trzech miejscowości: Czarne, Skalite i Czadeczanka, a nazwa szczytu pochodzi od trzech kopców, jakie usypano na granicy tych miejscowości. Od Rysianki oddziela go niemająca nazwy przełęcz, która ma jednak duże znaczenie topograficzne, oddziela bowiem Grupę Lipowskiego Wierchu i Romanki, do której należy Rysianka, od Grupy Pilska, do której należą Trzy Kopce.
+            Trzy Kopce są całkowicie zalesione. Przebiega przez nie granica polsko-słowacka oraz Wielki Europejski Dział Wodny. Północno-zachodnie stoki Trzech Kopców są polskie i opadają do doliny potoku Sopotnia, południowo-wschodnie do doliny słowackiego potoku Mutnianka. W pobliżu znajduje się rezerwat przyrody "Pod Rysianką". Na szczycie krzyżują się dwa szlaki turystyczne
 
             __Źródło:__ https://pl.wikipedia.org/wiki/Trzy_Kopce_(Beskid_%C5%BBywiecki)
           type: number
         - name: Schronisko PTTK na Hali  Miziowej
           in: query
           description: |
-            Pierwsze plany budowy schroniska w okolicach Pilska powstały już w 1912 (według niektórych źródeł już w roku 1906 były plany uruchomienia polskiego schroniska celem przeciwstawienia się akcji germanizacyjnych polskich gór przez Beskidenverein[1]). Wybuch I wojny światowej uniemożliwił zrealizowanie tych zamiarów. Dopiero w 1927 oddział babiogórski Polskiego Towarzystwa Tatrzańskiego przygotował projekt (twórcami idei budowy schroniska byli członkowie zarządu: Merta, Haliński, Fucik, Mikuszewski i Mączyński[1]); budowa trwała 3 lata (były problemy natury finansowej i konieczne okazało się zaciągnięcie pożyczki). Drewno na budowę uzyskano od arcyksięcia Habsburga, ówczesnego właściciela Żywieczcyzny[1]. 20 lipca 1930 uroczyście otwarto nowy obiekt. Był to piętrowy drewniany budynek utrzymany w stylu architektury góralskiej, z przeszkloną werandą zapewniającą gościom interesującą panoramę Beskidu Żywieckiego. Obiekt był w tamtym czasie uważany za najładniejszy w tej części Beskidów[2]. W 1936 doprowadzono linię telefoniczną i otwarto natryski.
+            Pierwsze plany budowy schroniska w okolicach Pilska powstały już w 1912 (według niektórych źródeł już w roku 1906 były plany uruchomienia polskiego schroniska celem przeciwstawienia się akcji germanizacyjnych polskich gór przez Beskidenverein). Wybuch I wojny światowej uniemożliwił zrealizowanie tych zamiarów. Dopiero w 1927 oddział babiogórski Polskiego Towarzystwa Tatrzańskiego przygotował projekt (twórcami idei budowy schroniska byli członkowie zarządu: Merta, Haliński, Fucik, Mikuszewski i Mączyński); budowa trwała 3 lata (były problemy natury finansowej i konieczne okazało się zaciągnięcie pożyczki). Drewno na budowę uzyskano od arcyksięcia Habsburga, ówczesnego właściciela Żywieczcyzny. 20 lipca 1930 uroczyście otwarto nowy obiekt. Był to piętrowy drewniany budynek utrzymany w stylu architektury góralskiej, z przeszkloną werandą zapewniającą gościom interesującą panoramę Beskidu Żywieckiego. Obiekt był w tamtym czasie uważany za najładniejszy w tej części Beskidów. W 1936 doprowadzono linię telefoniczną i otwarto natryski.
             Pierwszym dzierżawcą schroniska był Robert Sikora, drugim Helena Polakowa. W 1938 dzierżawcą na Hali Miziowej został Albert Rudolf. W czasie okupacji niemieckiej przyjął niemieckie obywatelstwo, a obiekt prowadził pod szyldem bielskiego oddziału Beskidenverein (o budynek toczyła się rywalizacja pomiędzy oddziałem bielskim a żywieckim). W budynku stacjonował także niewielki oddział niemieckiego wojska, mający zwalczać partyzantów. Obiekt uniknął zniszczenia, choć po odejściu Niemców część wyposażenia została rozkradziona przez szabrowników.
             Po wojnie ponownie przejęło go PTT i już w 1945 urządziło tam bufet. Wyremontowany budynek krótko cieszył się popularnością wśród górskich wędrowców – 19 marca 1953 wybuchł pożar (podobno od niedopałka turysty), który strawił główny budynek. Ocalały tylko zabudowania gospodarcze – szopa i stajnia. Nie zdecydowano się na odbudowę – w zabudowaniach gospodarczych urządzono tymczasowy bufet i miejsca noclegowe dla 50 osób.
-            Prowizorka okazała się bardzo trwała – dopiero w 1994 rozpoczęto budowę nowego, dużego obiektu turystycznego, który z racji wyglądu i warunków pełni rolę hotelu górskiego. Nowe schronisko otwarto w październiku 2003, pół wieku po pożarze. W czerwcu 2004 zamknięto stare schronisko[3] i częściowo rozebrano. W pozostałej części starego schroniska urządzono niewielki bufet.a
+            Prowizorka okazała się bardzo trwała – dopiero w 1994 rozpoczęto budowę nowego, dużego obiektu turystycznego, który z racji wyglądu i warunków pełni rolę hotelu górskiego. Nowe schronisko otwarto w październiku 2003, pół wieku po pożarze. W czerwcu 2004 zamknięto stare schronisko i częściowo rozebrano. W pozostałej części starego schroniska urządzono niewielki bufet.a
 
             __Źródło:__ https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Hali_Miziowej
           type: number
@@ -680,7 +680,7 @@ paths:
           in: query
           description:  |
             Glinne (także Przełęcz Korbielowska, Przełęcz Glinna, Na Glinie; słow. Hliny; 809 m) – przełęcz w Beskidzie Żywieckim, oddzielająca Grupę Pilska na zachodzie od Pasma Babiogórskiego na wschodzie. Grzbietem przełęczy biegnie granica polsko-słowacka oraz Wielki Europejski Dział Wodny
-            Ze względu na stosunkowo trudny dostęp siodła przełęczy, nie była ona do połowy XIX w. używana jako przejście przez główny grzbiet Karpat. Komunikację zapewniała położona nieco dalej na wschód Przełęcz Półgórska. Bity trakt, łączący Korbielów z Półgórą zbudowano ok. 1865 r. Po II wojnie światowej gościniec zamknięto dla ruchu, a na przełęczy stanął szlaban i posterunek WOP. Od początku lat 70. XX w. do ogłoszenia stanu wojennego w 1981 r. funkcjonowało tu przejście graniczne dla małego ruchu granicznego. Od 1995 na przełęczy ponownie działało międzynarodowe drogowe przejście graniczne Korbielów - Oravská Polhora, kantory oraz przystanek autobusowy Korbielów-Granica (kursy z Żywca)[1]. Zlikwidowano je w 2007 po wejściu Polski i Słowacji do strefy Schengen.
+            Ze względu na stosunkowo trudny dostęp siodła przełęczy, nie była ona do połowy XIX w. używana jako przejście przez główny grzbiet Karpat. Komunikację zapewniała położona nieco dalej na wschód Przełęcz Półgórska. Bity trakt, łączący Korbielów z Półgórą zbudowano ok. 1865 r. Po II wojnie światowej gościniec zamknięto dla ruchu, a na przełęczy stanął szlaban i posterunek WOP. Od początku lat 70. XX w. do ogłoszenia stanu wojennego w 1981 r. funkcjonowało tu przejście graniczne dla małego ruchu granicznego. Od 1995 na przełęczy ponownie działało międzynarodowe drogowe przejście graniczne Korbielów - Oravská Polhora, kantory oraz przystanek autobusowy Korbielów-Granica (kursy z Żywca). Zlikwidowano je w 2007 po wejściu Polski i Słowacji do strefy Schengen.
 
             __Źródło__: https://pl.wikipedia.org/wiki/Glinne_(przełęcz)
           type: number
@@ -696,14 +696,14 @@ paths:
           description: |
             Mędralowa (także Wielki Jałowiec, słow. Modrálová) – szczyt o wysokości 1169 m znajdujący się w tzw. Grupie Mędralowej (lub Paśmie Mędralowej), na mapach i w przewodnikach turystycznych często zaliczanej do Beskidu Żywieckiego. Jednak według regionalizacji fizycznogeograficznej Polski opracowanej przez Jerzego Kondrackiego należy do Pasma Przedbabiogórskiego w Beskidzie Makowskim.
             Mędralowa ma dwa wierzchołki (zachodni i wschodni) znajdujące się w odległości około 500 m od siebie. Pomiędzy nimi znajduje się Hala Mędralowa. Wyższy jest wierzchołek zachodni. Jest on zwornikiem dla krótkiego grzbietu opadającego w widły dwóch źródłowych cieków potoku Bystra. Z niższego wierzchołka wschodniego w północno-wschodnim kierunku odchodzi grzbiet do Kolistego Gronia, łączący Mędralową z Pasmem Jałowieckim.
-            Na wschodnim, niższym wierzchołku Mędralowej znajduje się słupek graniczny III/90. Jest to historyczny punkt graniczny. Do 1564 schodziły się na nim granice Węgier, Polski i ziem śląskich, a w czasie II wojny światowej granice Generalnego Gubernatorstwa, III Rzeszy i Słowacji. Wcześniej, w latach 1938-1939, cały szczyt Mędralowej znalazł się w granicach Polski (II Rzeczpospolita wymusiła na Czechosłowacji oddanie południowych stoków góry). W czasie II wojny światowej Niemcy przy pomocy miejscowej ludności wykonali na grzbiecie Mędralowej system ziemnych umocnień. Pozostałości okopów można zaobserwować jeszcze obecnie[1]. Na wierzchołku tym Słowacy ustawili dużą tablicę informacyjną z opisem ciekawych miejsc w okolicy. Tablica jest w kilku językach, w tym również w języku polskim.
+            Na wschodnim, niższym wierzchołku Mędralowej znajduje się słupek graniczny III/90. Jest to historyczny punkt graniczny. Do 1564 schodziły się na nim granice Węgier, Polski i ziem śląskich, a w czasie II wojny światowej granice Generalnego Gubernatorstwa, III Rzeszy i Słowacji. Wcześniej, w latach 1938-1939, cały szczyt Mędralowej znalazł się w granicach Polski (II Rzeczpospolita wymusiła na Czechosłowacji oddanie południowych stoków góry). W czasie II wojny światowej Niemcy przy pomocy miejscowej ludności wykonali na grzbiecie Mędralowej system ziemnych umocnień. Pozostałości okopów można zaobserwować jeszcze obecnie. Na wierzchołku tym Słowacy ustawili dużą tablicę informacyjną z opisem ciekawych miejsc w okolicy. Tablica jest w kilku językach, w tym również w języku polskim.
 
             __Źródło:__ https://pl.wikipedia.org/wiki/M%C4%99dralowa
           type: number
         - name: Przęłęcz Jałowiecka Północna/Tabakowe Siodło
           in: query
           description: |
-            Przełęcz Jałowiecka Północna (998 m) – przełęcz w Beskidach Zachodnich, pomiędzy Mędralową (1169 m) a Jałowcowym Garbem (1017 m). Przez przełęcz tę biegnie Wielki Europejski Dział Wodny oraz granica państwowa polsko-słowacka[1]. Na polskich, północnych stokach przełęczy ma źródła potok Jałowiec, na południowych, słowackich Polhoranka. Przełęcz oddziela Pasmo Babiogórskie (Jałowcowy Garb), zaliczane do Beskidu Żywieckiego od Pasma Przedbabiogórskiego (Mędralowa) zaliczanego do Beskidu Makowskiego[2].
+            Przełęcz Jałowiecka Północna (998 m) – przełęcz w Beskidach Zachodnich, pomiędzy Mędralową (1169 m) a Jałowcowym Garbem (1017 m). Przez przełęcz tę biegnie Wielki Europejski Dział Wodny oraz granica państwowa polsko-słowacka. Na polskich, północnych stokach przełęczy ma źródła potok Jałowiec, na południowych, słowackich Polhoranka. Przełęcz oddziela Pasmo Babiogórskie (Jałowcowy Garb), zaliczane do Beskidu Żywieckiego od Pasma Przedbabiogórskiego (Mędralowa) zaliczanego do Beskidu Makowskiego.
 
             Przełęcz Jałowiecka Północna zwana jest również Tabakowym Siodłem. Nazwa związana jest z faktem, że przełęcz znajdowała się na starym szlaku przemytniczym (patrz: tabakowy chodnik), którym z Węgier szmuglowano na północną stronę Karpat tytoń (czyli tabak). Była też kiedyś szlakiem komunikacyjnym łączącym Zawoję z Orawą. Mieszkańcy Zawoi m.in. pędzili przez nią swoje bydło na jarmark w Namiestowie i dwukrotnie przechodzili nią konfederaci barscy, a w okresie międzywojennym przemycano przez nią z Czechosłowacji buty i kamyczki do zapalniczek. Jest całkowicie zalesiona. Na przełęczy znajduje się węzeł pięciu szlaków turystycznych.
 
@@ -727,7 +727,7 @@ paths:
         - name: Babia Góra
           in: query
           description: |
-            Babia Góra (słow. Babia hora, węg. Babia-Gura, niem. Weiberberg) – masyw górski w Paśmie Babiogórskim należącym do Beskidu Żywieckiego w Beskidach Zachodnich (według słowackiej terminologii są to Oravské Beskydy)[1][2]. Najwyższym szczytem jest Diablak (1725 m, niem. Teufelspitze czyli Diabelski Szczyt), często nazywany również Babią Górą, jak cały masyw. Jest to najwyższy szczyt całych Beskidów Zachodnich, poza Tatrami najwyższy szczyt w Polsce i drugi co do wybitności (po Śnieżce). Zaliczany jest do Korony Gór Polski
+            Babia Góra (słow. Babia hora, węg. Babia-Gura, niem. Weiberberg) – masyw górski w Paśmie Babiogórskim należącym do Beskidu Żywieckiego w Beskidach Zachodnich (według słowackiej terminologii są to Oravské Beskydy). Najwyższym szczytem jest Diablak (1725 m, niem. Teufelspitze czyli Diabelski Szczyt), często nazywany również Babią Górą, jak cały masyw. Jest to najwyższy szczyt całych Beskidów Zachodnich, poza Tatrami najwyższy szczyt w Polsce i drugi co do wybitności (po Śnieżce). Zaliczany jest do Korony Gór Polski
             Pochodzenie nazwy Babia Góra tłumaczą liczne legendy ludowe. Jedna z nich mówi, że jest to kupa kamieni wysypanych przed chałupą przez babę – olbrzymkę, według innej to kochanka zbójnika, która skamieniała z żalu widząc, jak niosą jej zabitego ukochanego. Według innych legend nazwa góry pochodzi od tego, że w jaskiniach pod tą górą zbójnicy ukrywali swoje branki. Nazwa może też mieć powiązanie z niektórymi znaczeniami słowa baba (rodzaj ciasta lub kamienny posąg kultowy
             Dawniej na licznych polanach wytworzonych w lasach Babiej Góry wypasano owce, zaś w najwyższych, naturalnie bezleśnych partiach (w piętrze halnym) woły, Dla powiększenia pastwisk wycięto znaczne ilości kosodrzewiny. Po utworzeniu parku narodowego wypas zniesiono, wiele polan już zarosło lasem, inne zarastają, kosodrzewina odnowiła się i zajmuje znaczne obszary. Obecnie wypasa się owce jeszcze tylko na polanie Liniarka i Hali Śmietanowej Lipnickiej, nad Czarną Orawą w Lipnicy Wielkiej oraz w słowackim Bobrowie.
 
@@ -804,14 +804,14 @@ paths:
           in: query
           description: |
             Sokolica (1367 m) – najniższy i położony najdalej na wschód wierzchołek w północno-wschodniej grani masywu Babiej Góry w Beskidzie Żywieckim. Wschodnie stoki opadają bezpośrednio do przełęczy Krowiarki.
-            Sokolica nie tworzy wierzchołka, lecz wyraźne spłaszczenie (platformę). Platforma ta od północno-zachodniej strony podcięta jest skalnym urwiskiem będącym efektem potężnego obrywu sprzed kilkuset lat. Urwisko ma wysokość kilkunastu metrów, strome stoki poniżej niego są zawalone dużymi głazami i porośnięte kosodrzewiną i lasem. W drugiej połowie XIX wieku w urwisku gnieździł się orzeł przedni, przez miejscową ludność uważany za sokoła i stąd pochodzi nazwa szczytu[2].
+            Sokolica nie tworzy wierzchołka, lecz wyraźne spłaszczenie (platformę). Platforma ta od północno-zachodniej strony podcięta jest skalnym urwiskiem będącym efektem potężnego obrywu sprzed kilkuset lat. Urwisko ma wysokość kilkunastu metrów, strome stoki poniżej niego są zawalone dużymi głazami i porośnięte kosodrzewiną i lasem. W drugiej połowie XIX wieku w urwisku gnieździł się orzeł przedni, przez miejscową ludność uważany za sokoła i stąd pochodzi nazwa szczytu.
             __Źródło__: https://pl.wikipedia.org/wiki/Sokolica_(Beskid_Żywiecki)
           type: number
         - name: Przełęcz Krowiarki
           in: query
           description:  |
-            Przełęcz Krowiarki – przełęcz w Paśmie Babiogórskim, które jest częścią Beskidu Żywieckiego[1]. Różne źródła różnie podają jej wysokość: 986 m[1], 1009 m[2], 1012 m[3]. Przełęcz Krowiarki oddziela masyw Babiej Góry od Pasma Policy.
-            Na przełęczy znajduje się polana Krowiarki, na której dawniej wypasano krowy. Nazwa przełęczy i polany pochodzi od ludowego określenia krowiarki oznaczającego pasterki wypasające krowy. Jeszcze dawniej przełęcz nazywana była Lipnickim Siodłem lub Przełęczą Lipnicką[4].
+            Przełęcz Krowiarki – przełęcz w Paśmie Babiogórskim, które jest częścią Beskidu Żywieckiego. Różne źródła różnie podają jej wysokość: 986 m, 1009 m, 1012 m. Przełęcz Krowiarki oddziela masyw Babiej Góry od Pasma Policy.
+            Na przełęczy znajduje się polana Krowiarki, na której dawniej wypasano krowy. Nazwa przełęczy i polany pochodzi od ludowego określenia krowiarki oznaczającego pasterki wypasające krowy. Jeszcze dawniej przełęcz nazywana była Lipnickim Siodłem lub Przełęczą Lipnicką.
 
             Przełęcz ta stanowi najwyższą dostępną komunikacyjnie przełęcz górską Beskidów Zachodnich. Dawniej prowadziła przez nią z Zawoi na Orawę gruntowa droga zwana Orawskim Chodnikiem. Przed II wojną światową rozpoczęto budowę szosy, zrealizowano odcinek z Zubrzycy Górnej na przełęcz Krowiarki. Przy budowie tego odcinka w 1938 pracował w Junackim Hufcu Pracy Karol Wojtyła (był wówczas studentem). Upamiętnia to obelisk na polanie Krowiarki.
 
@@ -827,17 +827,17 @@ paths:
         - name: Polica
           in: query
           description: |
-            Polica (1369 m) – szczyt w Paśmie Policy, położonym po północno-wschodniej stronie przełęczy Krowiarki[1]. Według opracowanej przez Jerzego Kondrackiego regionalizacji fizycznogeograficznej Polski pasmo to wchodzi w skład Pasma Babiogórskiego w Beskidzie Żywieckim[2]. Dawniej szczyt nosił nazwę Police. Słowo police jest pochodzenia wołoskiego i oznaczało półkę, na której w bacówce trzymano sery[1].
-            Polica jest zwornikiem dla odbiegającego w południowo-wschodnim kierunku niewiele niższego grzbietu Czyrńca (1318 m). Grzbiet ten opada do Przełęczy Zubrzyckiej (877 m), przez którą Pasmo Policy łączy się z Beskidem Orawsko-Podhalańskim. Biegnie nim przez Policę, przełęcz Krowiarki i dalej Pasmem Babiogórskim Wielki Europejski Dział Wodny między zlewiskami Bałtyku i Morza Czarnego[2]. Pónocno-zachodnie stoki Policy opadają do doliny Skawicy, wcina się w nie głęboka dolina potoku Skawica Górna
-            Grzbietem od Babiej Góry przez Krowiarki do Policy i dalej grzbietem Czyrńca do 1918 biegła granica galicyjsko-węgierska, a w latach 1918–1920 polsko-czechosłowacka. Prowadził tędy szlak przemytniczy zwany tabakowym chodnikiem. W okresie międzywojennym, po przyłączeniu Górnej Orawy do Polski cały szczyt Policy znalazł się w granicach Rzeczypospolitej. W czasie II wojny światowej Górna Orawa została włączona do Słowacji i grzbiet ten oddzielał Słowację od Generalnego Gubernatorstwa. Ustawiono na nim liczne słupki graniczne z literami S i D. Po wojnie i zlikwidowaniu tej granicy słupki zostały powywracane. W czasie II wojny światowej masyw Policy dawał schronienie partyzantom AK. M.in. pod Policą w dolinie Głębokiego Potoku mieli drewniano-ziemny bunkier. Jesienią 1944 Niemcy przeprowadzili wielką obławę na partyzantów. Wobec ogromnej przewagi nieprzyjaciela partyzanci wycofali się, nie podejmując walki. Obława przyniosła Niemcom niewielkie skutki, w odwecie dokonali pacyfikacji miejscowości Sidzina[1].
-            2 kwietnia 1969 na stokach Policy rozbił się samolot PLL LOT. W katastrofie zginęli wszyscy członkowie ekipy i pasażerowie, w tym znany językoznawca Zenon Klemensiewicz. Fakt ten upamiętnia krzyż ze stosownym napisem. Na krzyżu umieszczono dodatkową tabliczkę wykonaną z resztek poszycia samolotu z informacją o oddziale partyzanckim działającym w tym rejonie[1]. Przyczynami katastrofy najprawdopodobniej były błędy w nawigacji spowodowane przez brak odpowiedniego wyposażenia lotniska w Krakowie w sprzęt nawigacyjny. Zginęły 53 osoby. W 2009 r. na szczycie umieszczono także pomnik poświęcony ofiarom katastrofy. Uroczystość odsłonięcia odbyła się 20 sierpnia 2009 r.[4]
+            Polica (1369 m) – szczyt w Paśmie Policy, położonym po północno-wschodniej stronie przełęczy Krowiarki. Według opracowanej przez Jerzego Kondrackiego regionalizacji fizycznogeograficznej Polski pasmo to wchodzi w skład Pasma Babiogórskiego w Beskidzie Żywieckim. Dawniej szczyt nosił nazwę Police. Słowo police jest pochodzenia wołoskiego i oznaczało półkę, na której w bacówce trzymano sery.
+            Polica jest zwornikiem dla odbiegającego w południowo-wschodnim kierunku niewiele niższego grzbietu Czyrńca (1318 m). Grzbiet ten opada do Przełęczy Zubrzyckiej (877 m), przez którą Pasmo Policy łączy się z Beskidem Orawsko-Podhalańskim. Biegnie nim przez Policę, przełęcz Krowiarki i dalej Pasmem Babiogórskim Wielki Europejski Dział Wodny między zlewiskami Bałtyku i Morza Czarnego. Pónocno-zachodnie stoki Policy opadają do doliny Skawicy, wcina się w nie głęboka dolina potoku Skawica Górna
+            Grzbietem od Babiej Góry przez Krowiarki do Policy i dalej grzbietem Czyrńca do 1918 biegła granica galicyjsko-węgierska, a w latach 1918–1920 polsko-czechosłowacka. Prowadził tędy szlak przemytniczy zwany tabakowym chodnikiem. W okresie międzywojennym, po przyłączeniu Górnej Orawy do Polski cały szczyt Policy znalazł się w granicach Rzeczypospolitej. W czasie II wojny światowej Górna Orawa została włączona do Słowacji i grzbiet ten oddzielał Słowację od Generalnego Gubernatorstwa. Ustawiono na nim liczne słupki graniczne z literami S i D. Po wojnie i zlikwidowaniu tej granicy słupki zostały powywracane. W czasie II wojny światowej masyw Policy dawał schronienie partyzantom AK. M.in. pod Policą w dolinie Głębokiego Potoku mieli drewniano-ziemny bunkier. Jesienią 1944 Niemcy przeprowadzili wielką obławę na partyzantów. Wobec ogromnej przewagi nieprzyjaciela partyzanci wycofali się, nie podejmując walki. Obława przyniosła Niemcom niewielkie skutki, w odwecie dokonali pacyfikacji miejscowości Sidzina.
+            2 kwietnia 1969 na stokach Policy rozbił się samolot PLL LOT. W katastrofie zginęli wszyscy członkowie ekipy i pasażerowie, w tym znany językoznawca Zenon Klemensiewicz. Fakt ten upamiętnia krzyż ze stosownym napisem. Na krzyżu umieszczono dodatkową tabliczkę wykonaną z resztek poszycia samolotu z informacją o oddziale partyzanckim działającym w tym rejonie. Przyczynami katastrofy najprawdopodobniej były błędy w nawigacji spowodowane przez brak odpowiedniego wyposażenia lotniska w Krakowie w sprzęt nawigacyjny. Zginęły 53 osoby. W 2009 r. na szczycie umieszczono także pomnik poświęcony ofiarom katastrofy. Uroczystość odsłonięcia odbyła się 20 sierpnia 2009 r.
 
             __Źródło:__ https://pl.wikipedia.org/wiki/Polica
           type: number
         - name: Hala Kucałowa
           in: query
           description: |
-            Dawna hala pasterska znajdująca się w Paśmie Policy w Beskidzie Żywieckim. Jej nazwa pochodzi od nazwiska właściciela (Kucała). Obejmuje północno-zachodnie, opadające do doliny Skawicy stoki Kucałowej Przełęczy oraz kopiaste wzniesienie Jasnej Góry. Stoki południowo-wschodnie należą do hali Sidzińskie Pasionki[2][1]. Na tabliczkach szlaków turystycznych i czasami w literaturze turystycznej obydwie te hale nazywane są Halą Krupową. Jest to nazwa błędna, utworzona omyłkowo, właściwa Hala Krupowa znajduje się bowiem na południowych stokach pobliskiej Okrąglicy. (czyli Schronisko PTTK na Hali Krupowej nie mieści się na Hali Krupowej. Przyp. red.)
+            Dawna hala pasterska znajdująca się w Paśmie Policy w Beskidzie Żywieckim. Jej nazwa pochodzi od nazwiska właściciela (Kucała). Obejmuje północno-zachodnie, opadające do doliny Skawicy stoki Kucałowej Przełęczy oraz kopiaste wzniesienie Jasnej Góry. Stoki południowo-wschodnie należą do hali Sidzińskie Pasionki. Na tabliczkach szlaków turystycznych i czasami w literaturze turystycznej obydwie te hale nazywane są Halą Krupową. Jest to nazwa błędna, utworzona omyłkowo, właściwa Hala Krupowa znajduje się bowiem na południowych stokach pobliskiej Okrąglicy. (czyli Schronisko PTTK na Hali Krupowej nie mieści się na Hali Krupowej. Przyp. red.)
 
             __Źródło:__ https://pl.wikipedia.org/wiki/Hala_Kucałowa
           type: number
@@ -906,8 +906,8 @@ paths:
         - name: Polana Malinowe
           in: query
           description: |
-            Polana Malinowe – polana w głównym grzbiecie Pasma Policy w Beskidzie Żywieckim. Znajduje się na bocznym grzbiecie tego pasma, który od szczytu Soska (939 m) opada w południowo-wschodnim kierunku w widły potoku o nazwie Mostów Potok. Na mapie Geoportalu ma nazwę Polana Malinowa. Znajduje się na średniej wysokości około 800 m[2]. Na polanie znajduje się osada Malinowo[3]. Istnieje na nim pojedyncze gospodarstwo bez prądu elektrycznego (stan na 2012 r.). Dawniej istniało tutaj składające się z 9 gospodarstw osiedle należące do miejscowości Sidzina. W czasie II wojny światowej było ono zapleczem dla licznych w tym regionie oddziałów partyzanckich. W 1944 kwaterowała na nim 9 kompania górska 12 pułku piechoty Armii Krajowej, oddział „Harnaś” z 3 pułku strzelców podhalańskich AK, a w okolicy działały także oddział AK „Huta Podgórze” i partyzanci radzieccy (Oddział „Borba”). By zlikwidować zagrożenie na tyłach swojego frontu, Niemcy w 1944 na Paśmie Policy urządzili na partyzantów wielką obławę, w której wzięło udział ok. 6 tys. żołnierzy. Partyzantom jednak udało się uciec na słowacką Orawę. Niemcy, by uniemożliwić partyzantom powrót zlikwidowali ich zaplecze, dokonując pacyfikacji kilku osiedli Sidziny, w tym osiedla Malinowo, na którym spalili wszystkie domy. Po wojnie tylko jedna rodzina zdecydowała się na powrót i na nowo wybudowała tutaj swój dom[4].
-            16 października 1983 na Polanie Malinowej dzięki staraniom dawnych partyzantów AK poświęcono murowaną kapliczkę, nazywaną Kapliczką Matki Boskiej AK-owskiej. Poniżej kapliczki w murowanej grocie znajduje się partyzanckie mauzoleum. Znajduje się w nim wizerunek Matki Bożej, tabliczki z nazwiskami i pseudonimami partyzantów i wiersz patriotyczny[4].
+            Polana Malinowe – polana w głównym grzbiecie Pasma Policy w Beskidzie Żywieckim. Znajduje się na bocznym grzbiecie tego pasma, który od szczytu Soska (939 m) opada w południowo-wschodnim kierunku w widły potoku o nazwie Mostów Potok. Na mapie Geoportalu ma nazwę Polana Malinowa. Znajduje się na średniej wysokości około 800 m. Na polanie znajduje się osada Malinowo. Istnieje na nim pojedyncze gospodarstwo bez prądu elektrycznego (stan na 2012 r.). Dawniej istniało tutaj składające się z 9 gospodarstw osiedle należące do miejscowości Sidzina. W czasie II wojny światowej było ono zapleczem dla licznych w tym regionie oddziałów partyzanckich. W 1944 kwaterowała na nim 9 kompania górska 12 pułku piechoty Armii Krajowej, oddział „Harnaś” z 3 pułku strzelców podhalańskich AK, a w okolicy działały także oddział AK „Huta Podgórze” i partyzanci radzieccy (Oddział „Borba”). By zlikwidować zagrożenie na tyłach swojego frontu, Niemcy w 1944 na Paśmie Policy urządzili na partyzantów wielką obławę, w której wzięło udział ok. 6 tys. żołnierzy. Partyzantom jednak udało się uciec na słowacką Orawę. Niemcy, by uniemożliwić partyzantom powrót zlikwidowali ich zaplecze, dokonując pacyfikacji kilku osiedli Sidziny, w tym osiedla Malinowo, na którym spalili wszystkie domy. Po wojnie tylko jedna rodzina zdecydowała się na powrót i na nowo wybudowała tutaj swój dom.
+            16 października 1983 na Polanie Malinowej dzięki staraniom dawnych partyzantów AK poświęcono murowaną kapliczkę, nazywaną Kapliczką Matki Boskiej AK-owskiej. Poniżej kapliczki w murowanej grocie znajduje się partyzanckie mauzoleum. Znajduje się w nim wizerunek Matki Bożej, tabliczki z nazwiskami i pseudonimami partyzantów i wiersz patriotyczny.
             Opuszczona przez większość mieszkańców Polana Malinowa stopniowo zarasta lasem. Z jej górnego końca jeszcze roztacza się ograniczona panorama widokowa w kierunku południowym i wschodnim, przy dobrej pogodzie widoczne stąd są Tatry.
 
             __Źródło:__ https://pl.wikipedia.org/wiki/Polana_Malinowe
@@ -1205,7 +1205,7 @@ paths:
           description: |
             Położona jest na wysokości 1160-1270 m n.p.m. i ma powierzchnię 33,77 ha. Składa się z 3 polan: Wolnica, Wzorowa i Wierchy Zarębskie. Znajduje się na obszarze Gorczańskiego Parku Narodowego, który opracował i zamontował na polanie tablice informacyjne z opisem polany.
 
-            Pierwsze polany na szczytach Gorców powstały w XIV w. w wyniku działalności Wołochów, którzy w Karpatach wprowadzili pasterstwo na szczytach gór, kontynuowane później przez mieszkańców tych okolic – Zagórzan. Jeszcze długo po II wojnie światowej polana była intensywnie wypasana. W latach 90. zaprzestano wypasu. By jednak nie dopuścić do zarośnięcia polany lasem i zachować kulturę pasterską, w 2003 Gorczański Park Narodowy ponownie wprowadził na polanie kulturowy wypas owiec. Na środku polany, pod siodłem grzbietu (1202 m), znajduje się bacówka, w której można kupić oscypki i napić się żętycy. Obok bacówki krzyż upamiętniający śmierć młodej dziewczyny, Albiny Białoń, która została 17 lipca 1943 r. zastrzelona przez Niemców, gdy usiłowała ostrzec partyzantów. Do 1966 r. był on drewniany, obecny żelazny ufundowali pracownicy AGH w Krakowie.[1] W czasie II wojny światowej bowiem schronisko na Turbaczu i inne budynki często służyły partyzantom za schronienie. W górnym, wschodnim końcu polany znajduje się budynek, tzw. „Chatka u Metysa”, w którym mieściło się (już nieczynne) noclegowisko pozbawione cywilizacyjnych udogodnień. Właściwe schronisko PTTK na Turbaczu znajduje się na górnym, zachodnim końcu Hali Długiej, na polanie Wolnica.
+            Pierwsze polany na szczytach Gorców powstały w XIV w. w wyniku działalności Wołochów, którzy w Karpatach wprowadzili pasterstwo na szczytach gór, kontynuowane później przez mieszkańców tych okolic – Zagórzan. Jeszcze długo po II wojnie światowej polana była intensywnie wypasana. W latach 90. zaprzestano wypasu. By jednak nie dopuścić do zarośnięcia polany lasem i zachować kulturę pasterską, w 2003 Gorczański Park Narodowy ponownie wprowadził na polanie kulturowy wypas owiec. Na środku polany, pod siodłem grzbietu (1202 m), znajduje się bacówka, w której można kupić oscypki i napić się żętycy. Obok bacówki krzyż upamiętniający śmierć młodej dziewczyny, Albiny Białoń, która została 17 lipca 1943 r. zastrzelona przez Niemców, gdy usiłowała ostrzec partyzantów. Do 1966 r. był on drewniany, obecny żelazny ufundowali pracownicy AGH w Krakowie. W czasie II wojny światowej bowiem schronisko na Turbaczu i inne budynki często służyły partyzantom za schronienie. W górnym, wschodnim końcu polany znajduje się budynek, tzw. „Chatka u Metysa”, w którym mieściło się (już nieczynne) noclegowisko pozbawione cywilizacyjnych udogodnień. Właściwe schronisko PTTK na Turbaczu znajduje się na górnym, zachodnim końcu Hali Długiej, na polanie Wolnica.
 
             __Źródło:__ https://pl.wikipedia.org/wiki/Hala_Długa
           type:
@@ -1235,7 +1235,7 @@ paths:
           description: |
             Lubań ma 2 wierzchołki, według mapy Geoportalu obydwa tej samej wysokości – 1211 m. Wierzchołek wschodni (Średni Groń) jest zarośnięty lasem i pozbawiony widoków, wierzchołek zachodni słynie z rozległych panoram, szczególnie efektowne widoki bywają wczesnym rankiem. Różne źródła podają różne wysokości: na mapach wysokość określona jest na 1211 m n.p.m., ale tablica informacyjna na szczycie Lubania podaje wysokość 1225 m, podobnie przewodnik Gorce podaje wysokość wyższego (wschodniego) szczytu na 1225 m, a niższego na 1211 m.
 
-            Pomiędzy dwoma wierzchołkami Lubania rozpościera się polana Wierch Lubania, dogodny punkt widokowy na Tatry, Pieniny i Beskidy, węzeł szlaków turystycznych. Potoki spływające z północnych stoków Lubania uchodzą do Ochotnicy, ze stoków południowych do Krośnicy lub Zbiornika Czorsztyńskiego. Od południowej strony Lubań sąsiaduje z dużo niższym Wdżarem (767 m), oddzielony od niego szerokim siodłem przełęczy Drzyślawa (650 m)[3].
+            Pomiędzy dwoma wierzchołkami Lubania rozpościera się polana Wierch Lubania, dogodny punkt widokowy na Tatry, Pieniny i Beskidy, węzeł szlaków turystycznych. Potoki spływające z północnych stoków Lubania uchodzą do Ochotnicy, ze stoków południowych do Krośnicy lub Zbiornika Czorsztyńskiego. Od południowej strony Lubań sąsiaduje z dużo niższym Wdżarem (767 m), oddzielony od niego szerokim siodłem przełęczy Drzyślawa (650 m).
 
             W 1912 wyznakowano pierwszy szlak turystyczny z Krościenka. Przy Samorodach w latach 1936–1939 Tatrzańskie Towarzystwo Narciarzy wybudowało schronisko turystyczne o około 100 miejscach noclegowych. Podczas II wojny światowej służyło głównie partyzantom i ukrywającej się przed Niemcami okolicznej ludności, był tu punkt etapowy i zaopatrzeniowy polskich partyzantów. W odwecie Niemcy 24 września 1944 r. spalili schronisko, przy okazji zabijając dwóch partyzantów. Kolejne schronisko zbudowane zostało przez PTTK w latach 1973–1974 na polanie Wyrobki, na południe od szczytu. Była to bacówka – mały obiekt przeznaczony dla turystyki kwalifikowanej. Spłonęła doszczętnie w styczniu 1978 r. Kamienne fundamenty i piwnice po obydwu tych schroniskach istnieją do dzisiaj.
 
@@ -1267,12 +1267,12 @@ paths:
 
 
 
-  Lubań - Szczawnica Zdrój:
+  Lubań - Krościenko nad Dunajcem:
     trasa:
       summary: Zejście w doliny
       description:
         Po nacieszeniu się widokami ze szczytu Lubania (a są one wspaniałe), schodzimy w dół to położonej tuż pod szczytem bazy namiotowej. W bazie można przenocować, można czasem zjeść (ale nie zawsze), można napić się herbaty i nabrać wody z nieopodal położonego źródełka. Po opuszczeniu z bazy zaczyna się bardzo długie zejście do Szczawnicy i doliny Dunajca. Łącznie do zejścia mamy 800 metrów. Trasa była ostatnio remontowana, więc jest to szeroka droga leśna bez żadnych technicznych problemów.
-        Wraz ze zmniejszaniem wysokości coraz częściej szlak wychodzi z lasu i możemy patrzeć jednocześnie na trzy pasma górskie - pobliskie Pieniny, dalej za nimi Tatry, na wschodze zaś kolejne pasmo Beskidów - Beskid Sądecki. Po parunastu kilometrach dość monotonnego zejścia docieramy do Szczawnicy.
+        Wraz ze zmniejszaniem wysokości coraz częściej szlak wychodzi z lasu i możemy patrzeć jednocześnie na trzy pasma górskie - pobliskie Pieniny, dalej za nimi Tatry, na wschodze zaś kolejne pasmo Beskidów - Beskid Sądecki. Po parunastu kilometrach dość monotonnego zejścia docieramy do Krościenka nad Dunajcem.
       parameters:
         - name: 4.0 / 13.0
           in: Czerwony
@@ -1280,11 +1280,11 @@ paths:
           type: number
         - name: 8.0 / 17.0
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
-          description: XXX
+          description: Marszałek (828m.)
           type: number
         - name: 10.0 / 19.0
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
-          description: Szczawnica
+          description: Krościenko
           type: number
       tags:
         - Gorce
@@ -1298,19 +1298,23 @@ paths:
       description:
         Informacje na temat odcinka
       parameters:
-        - name: Wysoka
+        - name: Marszałek (828 m.)
           in: query
           description: |
+            Niewybitny szczyt w Paśmie Lubania w Gorcach. Znajduje się w południowo-wschodnim grzbiecie Lubania opadającym do Krościenka. W północno-wschodnim kierunku odchodzi od niego krótki boczny grzbiet zakończony wzniesieniem Matusek, będącym najdalej na wschód wysuniętym wzniesieniem Gorców. Grzbiet ten opływany jest przez trzy potoki uchodzące do Dunajca (Potok Wzorowy, Jaworowiec i potok bez nazwy). Z północno-zachodnich stoków Marszałka spływają źródłowe cieki potoku Kotelnica.
 
-            __Źródło:__ https://pl.wikipedia.org/wiki/Bystra_Podhalańska
+            __Źródło:__ https://pl.wikipedia.org/wiki/Marszałek_(Gorce)
           type:
-        - name: Skawa
+        - name: Dunajec
           in: query
           description: |
+            Rzeka powstająca w Nowym Targu z połączenia Białego Dunajca z Czarnym Dunajcem na wys. 577 m. D. płynie zrazu mn.w. na wsch., między Gorcami a pasmem Braniska, następnie przedziera się przez Pieniny, tworząc słynny przełom, najpiękniejszy w Europie, po czym dąży w zasadzie na pn., koło Nowego Sącza i wpada do Wisły.
 
-            __Źródło:__ https://pl.wikipedia.org/wiki/Jordanów
+            Nazwa Dunaj i jej zdrobnienie Dunajec, a także Dunajek itp. występują dość często w Słowiańszczyźnie, zwł. w dorzeczu Warty, Noteci, Wisły i Dniepru, jako nazwa strumieni, czasem przenoszona na leżące nad nimi miejscowości. Ponadto w pol. gwarach apelatyw (wyraz pospolity) dunaj oznacza w ogóle każdą rzekę, zwł. głęboką i cicho płynącą, a zdrobnieniami tego apelatywu są dunajec i dunajek.
+
+            __Źródło:__ https://z-ne.pl/t,haslo,1003,dunajec.html
           type:
-        - name: Rabka
+        - name: Krościenko nad Dunajcem
           in: query
           description: |
 
