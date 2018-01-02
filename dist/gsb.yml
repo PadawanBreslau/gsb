@@ -1379,23 +1379,27 @@ paths:
       description:
         Informacje na temat odcinka
       parameters:
-        - name: Wysoka
+        - name: Przysłop
           in: query
           description: |
+            Przysłop – przełęcz (832 m n.p.m.), polana i przysiółek położone w Paśmie Radziejowej Beskidu Sądeckiego[1]. Znajdują się w jego głównym grzbiecie, pomiędzy szczytami Przysłop oraz Kuba. Południowymi stokami pod przełęczą spływa Sopotnicki Potok, ze stoków północnych wypływa Obidzki Potok. 
 
-            __Źródło:__ https://pl.wikipedia.org/wiki/Bystra_Podhalańska
+             W czasie wojny była także schronieniem dla partyzantów i kurierów, ale w latach 1943 i 1944 miały tam miejsce tragiczne wydarzenia.  Niemcy zastrzeli tam m.in. pięciu partyzantów z oddziału Wilk.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Przysłop_(Beskid_Sądecki)
           type:
-        - name: Skawa
+        - name: Schronisko PTTK na Przehybie
           in: query
           description: |
+            Pierwsze plany budowy schroniska pojawiły się już w 1908 w miejscowym Towarzystwie Tatrzańskim. Projekty te jednak zostały odłożone do czasu zebrania odpowiedniej sumy pieniędzy. Powrócono do nich dopiero 20 lat później, wtedy jednak pojawiły się problemy z kupnem odpowiedniej parceli. Najpierw nie chciała jej sprzedać gmina Szlachtowa, a później hrabia Adam Stadnicki, właściciel okolicznych terenów. Porozumienie zawarto dopiero w 1936. Pierwszą część schroniska (parter) udostępniono w październiku 1937, a na początku następnego roku możliwości noclegowe zwiększyły się do 52 miejsc. Dzierżawcą schroniska został góral ze Szczawnicy, Walenty Symela. W 1938 otrzymało imię Kazimierza Sosnowskiego.
 
-            __Źródło:__ https://pl.wikipedia.org/wiki/Jordanów
-          type:
-        - name: Rabka
-          in: query
-          description: |
+            W okresie okupacji schronisko było czynne do 1943, przy czym w latach 1940 - 1941 gospodarzył tam reichsdeutsch Aleksander Bittner, zapalony turysta górski i narciarz. Był to człowiek rozdarty pomiędzy lojalnością wobec dwóch ojczyzn - Polski i Niemiec, życzliwy wobec Polaków, a nawet konspiracji - na początku 1942 popełnił samobójstwo. Być może przerosła go sytuacja ciągłego lawirowania pomiędzy Niemcami i Polakami. Następnym gospodarzem był volksdeutsch Jorman, który również przymykał oko na turystów mających kontakty z partyzantami. W 1944 Jorman opuścił teren, który z powodu działań partyzanckich stał się zbyt niebezpieczny - wtedy na dobre zagościły w schronisku różne grupy bojowe. Nie mogło to ujść uwadze władz i w listopadzie Niemcy ostrzelali obiekt z działka przeciwlotniczego, a w grudniu oddział Wehrmachtu spalił resztki zabudowań.
 
-            __Źródło:__ https://pl.wikipedia.org/wiki/Jordanów
+            Po wojnie problemem w odbudowie stały się znowu środki finansowe. W 1953 PTTK postawiło schron turystyczny, mogący pomieścić 16 osób - część materiałów wnoszono na plecach. Wkrótce rozpoczęto budowę schroniska z prawdziwego zdarzenia i w sierpniu 1958 stanął kamienny obiekt, kryty gontem, architekturą wpisujący się w beskidzki krajobraz. Posiadał centralne ogrzewanie i ciepłą wodę, a także oświetlenie elektryczne i telefon, co w tamtym czasie wcale nie było normą wśród schronisk. Dawny schron służył turystom jeszcze do 1982.
+
+            17 grudnia 1991 spłonęła drewniana część obiektu. Na szczęście w budowie był już nowy budynek, tzw. Jaśkówka, który już od następnego roku mógł przyjąć 30 osób. Obok postawiono tymczasowy bufet, a spalone schronisko odbudowano i od 1998 ponownie może spełniać swoje zadanie.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Przehybie
           type:
       tags:
         - Beskid Sądecki
@@ -1456,24 +1460,43 @@ paths:
       description:
         Informacje na temat odcinka
       parameters:
-        - name: Wysoka
+        - name: Radziejowa (1226m.)
           in: query
           description: |
 
-            __Źródło:__ https://pl.wikipedia.org/wiki/Bystra_Podhalańska
+            Najwyższy szczyt Beskidu Sądeckiego. Nazwa szczytu pochodzi od osoby o nazwisku lub przydomku Radziej. Leży w głównym grzbiecie Pasma Radziejowej, pomiędzy Wielkim Rogaczem, od którego oddziela ją przełęcz Żłobki, a masywem Złomistego Wierchu, położonego za Przełęczą Długą. Przed Przełęczą Długą znajduje się jeszcze niewybitna kulminacja Małej Radziejowej (1207 m). W 2006 r. na Radziejowej oddana została do użytku drewniana wieża widokowa o wysokości około 20 m, jednak z uwagi na zły stan techniczny została znów zamknięta w 2017 roku.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Radziejowa
           type:
-        - name: Skawa
+        - name: Wielki Rogacz
+          in: query
+          description: |
+            Szczyt w Beskidzie Sądeckim, w głównym grzbiecie Pasma Radziejowej. Położony jest między Radziejową (1266 m), od której oddzielony jest przełęczą Żłobki (1106 m), a Małym Rogaczem (1162 m), od którego oddziela go Przełęcz Obrazek (1140 m). Nieco pod szczytem Wielkiego Rogacza krzyżują się z sobą dwa szlaki turystyczne. Na stokach duże wiatrołomy, dzięki czemu szlaki te są dość widokowe[2]. W stokach Wielkiego Rogacza ma swoje źródła kilka potoków. Szlak nie wchodzi bezpośrednio na szczyt.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Wielki_Rogacz
+          type:
+        - name: Chatka pod Niemcową
           in: query
           description: |
 
-            __Źródło:__ https://pl.wikipedia.org/wiki/Jordanów
+            Studenckie Schronisko Turystyczne "Chatka pod Niemcową" dawniej zarządzane przez Almatur z Krakowa i studentów Politechniki Krakowskiej, powstało w 1974 roku w chwili wykupienia starego gospodarstwa w przysiółku Trzośniowy Groń pod szczytem Niemcowej, jednak pierwsze praca nad renowacją chatki prowadzone były już w 1973 r. Chatka ta ma swą długą i bogatą historię oraz wiele starych znakomitych tradycji, o czym świadczy jej niesłabnąca do dziś popularność wśród turystów. Środowisko chatki ukształtowało kilka pokoleń jej wielbicieli a trzeba przyznać, że jest to miejsce pod tym względem wyjątkowe - nawet w porównaniu z innymi chatkami czy miejscami o podobnym charakterze. Nie jedno serce pozostało tu już na zawsze. Obecnie popularna "Niemcowa" znajduje się całkowicie w rękach prywatnych, jednak niezmiennie zachowała swój dawny klimat i dobre zwyczaje.
+
+            Położone jest w Beskidzie Sądeckim w Paśmie Radziejowej, kilkaset merów od szczytu określanego na większości map jako: Niemcowa, na wysokości ok. 960 m n.p.m. Przysiółek ten nosi nazwę Trześniowego Gronia, zaś miejscowi nazywają to miejsce: "Tymoski" - prócz chatki - znajdziemy tam jeszcze trzy inne gospodarstwa. Administracyjnie należy on do wsi Kosarzyska w gminie Piwniczna, choć nazwa chatki "Niemcowa" sugerowałaby jej przynależność do ryterskiego przysiółka o takiej właśnie nazwie, położonego po drugiej stronie szczytu, nieco bardziej na północ przy czerwonym szlaku do Rytra. Nieścisłość ta wynikła w czasach tworzenia schroniska studenckiego w latach siedemdziesiątych, jednak nazwa tak zakorzeniła się w środowisku turystyczny, że nikt już później nie próbował tego zmieniać.
+
+            Chatka znajduje się 10 minut drogi od szlaku.
+
+            __Źródło:__ http://www.chatki.com.pl/niemcowa.html
           type:
-        - name: Rabka
+        - name: Rytro
           in: query
           description: |
+            Wieś gminna w województwie małopolskim w powiecie nowosądeckim. Położone jest na trasie głównego szlaku turystycznego Beskidu Sądeckiego w pięknej przełomowej części doliny Popradu. Od zachodu otaczają ją lesiste wzgórza pasma Radziejowej , a od wschodu pasma Jaworzyny. Graniczy od pn. z Przysietnicą (bardzo krótki odcinek), Barcicami Górnymi i Wolą Krogulecką (gm. Stary Sącz), Życzanowem. Od wsch. z Suchą Strugą, od pd. z Obłazami Ryterskimi, a od zach. z Młodowem (bardzo krótki odcinek) i z Roztoką Ryterską. Poszczególne części wsi noszą nazwy: Cyrla, Centrum, Kuligówka, Majchry, Majerka, Mikołaska, Mikuty, Mosówka, Osiedle za Szkołą, Piaski, Podłubek, Połom Niżna, Połom Wyżna, Potok (dawniej Cygański Potok), Ubocz, Wilkówka, Zagórze (Za Górą).
 
-            __Źródło:__ https://pl.wikipedia.org/wiki/Jordanów
-          type:
+            Ruiny Zamku w Rytrze Ziema Ryterska ma kilkuwiekową historię. Przeszłość najstarszej wsi Rytro udokumentowana jest od 1312 r przywilejem króla Władysława Łokietka, przyznającym Klaryskom starosądeckim prawo pobierania cła na Popradzie. Swoje powstanie i nazwę wieś zawdzięcza zamkowi w Rytrze usytuowanemu na Górze Zamkowej (Zamczysko), nad Popradem (obecnie w granicach Suchej Strugi). W okresie kilku ostatnich lat, pod nadzorem konserwatora zabytków, sukcesywnie odsłaniano i rekonstruowano ruiny zamku usytuowanego wysoko nad nurtem Poprad. W centrum wsi znajduje się Zajazd PTTK "Pod Roztoką".
+            Rytro fot. Jerzy Opioła Dolina Roztoki jest ostatnia dolina Beskidu Sądeckiego, którą ominęły regulacje koryt i dzięki temu zachowały się tutaj obszary podmokłych łąk i bagnisk. Stały się one siedliskiem kilkunastu gatunków płazów (traszka, salamandra, żaba ). Wiosną na tym terenie można zauważyć około 5 odmian storczyka
+
+            __Źródło:__ http://www.beskidsadecki.eu/index.php?id=sadecki_miejscowosci&sk=Rytro
+          type: 
       tags:
         - Beskid Sądecki
         - Ciekawostki
