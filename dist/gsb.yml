@@ -12,21 +12,25 @@ produces:
 paths:
   NotDisplayPath:
     nodisplay:
-      tags: 
+      tags:
         - Beskid Śląski
         - Beskid Żywiecki
         - Trasa
         - Relacje
         - Noclegi
+
+          ### USTROŃ ###
+          ### USTROŃ-POLANA ###
+
   Ustroń-Ustroń Polana:
     trasa:
-      summary: Czyli Rambo Pierwsza Krew  
+      summary: Czyli Rambo Pierwsza Krew
       description:
-        Pierwsze podejście i przerwsze zejście na trasie. Także pierwsze schronisko i pierwsze źródełko. Szlak startuje(lub startował, informacje są sprzeczne) przy stacji PKP 
+        Pierwsze podejście i przerwsze zejście na trasie. Także pierwsze schronisko i pierwsze źródełko. Szlak startuje(lub startował, informacje są sprzeczne) przy stacji PKP
         Ustroń-Zdrój. Przez pierwszy kilometr trasa prowadzi wśród zabudowań miasta, później zaś koło leśniczówki wchodzi w las - najpierw łagodnie, później coraz stromiej. W pewnym
-        momencie szlak gwałtownie skręca w prawo i doprowadza po chwili do Kamienia Ewangelików, miejsca obrządków z XVIII wieku. Można tutaj uzupełnić wodę w wybijającym źródełku. 
+        momencie szlak gwałtownie skręca w prawo i doprowadza po chwili do Kamienia Ewangelików, miejsca obrządków z XVIII wieku. Można tutaj uzupełnić wodę w wybijającym źródełku.
         Za Kamieniem Ewangelików szlak jeszcze przez chwilę prowadzi ostro w górę, później zaś się wypłaszcza aby doprowadzić do schroniska PTTK pod Równicą (szczyt Równicy jest poza szlakiem,
-        można do niego dojść szlakiem żółtmy (ok. 20 minut w obie strony). Za schroniskiem zaczynamy długie zejście, najpierw asfaltem, potem kamienistą dróżką przecinającą raz po raz asfalt. 
+        można do niego dojść szlakiem żółtmy (ok. 20 minut w obie strony). Za schroniskiem zaczynamy długie zejście, najpierw asfaltem, potem kamienistą dróżką przecinającą raz po raz asfalt.
         Po zejściu do miasta znów wchodzimy na utwardzoną drogę, przekraczamy mostem Wisłę, przekraczamy przejściem podziemnym trasę samochodową i znajdujemy się przy dolnej stacji wyciągu na Czarntorię
       parameters:
         - name: 0.0(0.0) 350m(*?)
@@ -36,15 +40,15 @@ paths:
         - name: 3,5(3,5) 650m(*?)
           in: Czerwony
           description:
-            Kamień Ewangelików. Jest to najlepiej znane i najpopularniejsze takie miejsce w Beskidach. W 1904 roku, w 250. rocznicę rozpoczęcia leśnych nabożeństw, 
-            źródełko obok „Kamienia” zostało obudowane i umieszczono na nim tablicę z datą 16.07.1904. W 1928 miejsce to zostało wpisane do rejestru zabytków, 
+            Kamień Ewangelików. Jest to najlepiej znane i najpopularniejsze takie miejsce w Beskidach. W 1904 roku, w 250. rocznicę rozpoczęcia leśnych nabożeństw,
+            źródełko obok „Kamienia” zostało obudowane i umieszczono na nim tablicę z datą 16.07.1904. W 1928 miejsce to zostało wpisane do rejestru zabytków,
             a kilka lat później został umieszczony tu napis „Miejsce nabożeństw ewangelików w latach od 1654 do 1709”, który w 1935 został częściowo uszkodzony.
-            W okresie międzywojennym odbywały się tu okolicznościowe spotkania, głównie młodzieży ewangelickiej. Organizowano je w przeddzień pamiątki poświęcenia 
-            ustrońskiego kościoła ap. Jakuba Starszego. Od 1958 przy „Kamieniu” przeprowadzano zakończenia roku szkolnego dla dzieci uczęszczających na szkółkę niedzielną dla dzieci, 
-            z udziałem rodziców. W 1961 zainaugurowano corocznie odprawiane tam nabożeństwa w Święto Bratniej Pomocy im. Gustawa Adolfa[1], przypadające na ten sam dzień co 
-            katolickie święto Bożego Ciała. Obecnie w odprawianych tu nabożeństwach uczestniczą wielkie tłumy wiernych, nawet z odległych parafii. 
-            Co dwa lata po nabożeństwie odbywają się na terenach wokół schroniska na Równicy imprezy towarzyszące. 
-            Tuż obok przy „Kamieniu” poprowadzony jest Główny Szlak Beskidzki – znakowany kolorem czerwonym najdłuższy górski szlak turystyczny w Polsce. 
+            W okresie międzywojennym odbywały się tu okolicznościowe spotkania, głównie młodzieży ewangelickiej. Organizowano je w przeddzień pamiątki poświęcenia
+            ustrońskiego kościoła ap. Jakuba Starszego. Od 1958 przy „Kamieniu” przeprowadzano zakończenia roku szkolnego dla dzieci uczęszczających na szkółkę niedzielną dla dzieci,
+            z udziałem rodziców. W 1961 zainaugurowano corocznie odprawiane tam nabożeństwa w Święto Bratniej Pomocy im. Gustawa Adolfa[1], przypadające na ten sam dzień co
+            katolickie święto Bożego Ciała. Obecnie w odprawianych tu nabożeństwach uczestniczą wielkie tłumy wiernych, nawet z odległych parafii.
+            Co dwa lata po nabożeństwie odbywają się na terenach wokół schroniska na Równicy imprezy towarzyszące.
+            Tuż obok przy „Kamieniu” poprowadzony jest Główny Szlak Beskidzki – znakowany kolorem czerwonym najdłuższy górski szlak turystyczny w Polsce.
 
             https://pl.wikipedia.org/wiki/%E2%80%9ELe%C5%9Bne_ko%C5%9Bcio%C5%82y%E2%80%9D_ewangelickie_w_Beskidach#.E2.80.9EKamie.C5.84.E2.80.9D_na_R.C3.B3wnicy_w_Ustroniu
           type: number
@@ -56,15 +60,18 @@ paths:
             szczytu Równicy, albo zejść nieco wraz z czerwonym szlakiem
           type: number
         - name: 9.0(9.0) 400m
-          in: Zielony Czerwony 
+          in: Zielony Czerwony
           description:
             Ustroń Polana. Dolna Stacja Wyciągu Krzesełkowego. Osiedle Ustronia, oryginalnie przysiółek o którym pierwsze wzmianki można odnaleźć z początków XVII wieku. Obecnie życie okolicznych
             mieszkańsów skupia się głównie dookoła obiektów turystycznych zlokalizowanych przy dolnej stacji wyciągu na Czantorię.
             https://pl.wikipedia.org/wiki/Polana_(Ustro%C5%84)
           type: number
-      tags: 
+      tags:
         - Beskid Śląski
         - Trasa
+
+    ### INFO ###
+
     info: #Ustroń-Ustroń Polana
       summary: Ciekawostki na temat odcinka
       description: Pare ciekawych rzeczy co sa na tym odcinku
@@ -79,38 +86,46 @@ paths:
         - name: Równica
           in: query
           description: |
-            [Górski park Równica](http://www.rownica.pl/?lang=pl). Górski Park Rozrywki położony jest u szczytu góry Równica o wysokości 885 m n.p.m. Turystów przyciągają tutaj niezapomniane widoki, karczma biesiadna z regionalnym jadłem oraz wspaniałe atrakcje typu Rollercoaster Kino Sferyczne czy Kino 7D. 
+            [Górski park Równica](http://www.rownica.pl/?lang=pl). Górski Park Rozrywki położony jest u szczytu góry Równica o wysokości 885 m n.p.m. Turystów przyciągają tutaj niezapomniane widoki, karczma biesiadna z regionalnym jadłem oraz wspaniałe atrakcje typu Rollercoaster Kino Sferyczne czy Kino 7D.
           type: number
         - name: Ustroń Polana
           in: query
           description: |
             [Kolejka liniowa](http://www.czantoria.net/) Kolej Linowa Czantoria w Ustroniu – ośrodek narciarski położony w Ustroniu w Beskidzie Śląskim na północnym zboczu Wielkiej Czantorii. Górna stacja ośrodka znajduje się na polanie Stokłosica, na wysokości 851 m n.p.m. Czantoria to najpopularniejszy szczyt Beskidu Śląskiego z wyprzęganą wygodną koleją. Czteroosobowe kanapy oraz system zwalniający prędkość przy wsiadaniu i wysiadaniu to duży atut kolejki, dzięki czemu również osoby niepełnosprawne mogą czuć się bezpiecznie w czasie przejazdu. Krzesłka wyposażone są rónież w specjalne uchwyty umożliwiające transport rowerów na górną stację. Kolej linowa każdego roku umożliwia tysiącom turystów łatwy i szybki dostęp w górne partie Beskidów.
           type: number
-      tags: 
+      tags:
         - Beskid Śląski
         - Ciekawostki
+
+    ### NOCLEG ###
+
     nocleg: #Ustroń-Ustroń Polana
       summary: Noclegi
       description:
-        W Ustroniu i Ustroniu Polanie jest duża liczba miejsc noclegowych. Choć większości wędrowców głównie przyda się nocleg w Ustroniu po przyjeździe lub przed wyjazdem, to 
+        W Ustroniu i Ustroniu Polanie jest duża liczba miejsc noclegowych. Choć większości wędrowców głównie przyda się nocleg w Ustroniu po przyjeździe lub przed wyjazdem, to
         nocleg w schronisku może być dobrym rozwiązaniem, jeśli np. przyjedzie się do Ustronia o 18 i podejdzie tam w ramach "dnia 0" na nocleg
       parameters:
         - name: 0.0
-          in: 
+          in:
           description: Ustroń. Dużo opcji noclegowych.
           type: number
         - name: 4.5
-          in: 
-          description: 
+          in:
+          description:
             Schronisko Górskie PTTK Równica (033)854-24-48 biuro@schronisko-rownica.pl. Schronisko "Równica" posiada 50 miejsc noclegowych w pokojach dwu i wieloosobowych. http://www.schronisko-rownica.pl/
           type: number
         - name: 9.0
-          in: 
+          in:
           description: Ustroń Polana. Dużo opcji noclegowych.
           type: number
-      tags: 
+      tags:
         - Beskid Śląski
         - Noclegi
+
+
+    ### USTROŃ-POLANA ###
+    ### PTTK STOŻEK  ###
+
   Ustroń Polana - PTTK na Stożku Wielkim: #Ustroń Polana - PTTK na Stożku Wielkim
     trasa:
       summary: Ostro w górę
@@ -118,8 +133,8 @@ paths:
         Od razu po przejściu obok dolnej stacji wyciągu czeka nas ostre maszerowanie pod górę, czasem stokiem narciarskim, czasem szlakiem obok. Ale aż do osiągnięcia górnej stacji kolejki jest stromo.
         Miejscami bardzo stromo. Podejście zajmuje do godziny czasu, nie dając fragmentów wytchnienia. Za wyciągiem trasa wypłaszcza się, choć dalej biegnie lasem pod górkę, aż wyprowadzi nas na niezalesiony
         wierzchołek Czantorii, gdzie znajduje się wieża widokowa i zarówno polskie, jak i czeskie punkty gastronomiczne. Na szczycie Czantorii szlak zmienia kierunek, skręca w lewo i schodzi, miejscami bardzo
-        stromo ze szczytu Czantorii. Po jakimś czasie droga wypłaszcza się, przechodzi koło ośrodka Światowid, znów zagłębia w las i poprzez przełęcz Beskidek doprowadza do schroniska PTTL Soszów. Ze schroniska 
-        szlak krótko podchodzi na górę Soszów, skąd bardzo ładnie widać na wschodzie masyw Baraniej Góry, później zaś malowniczą trasą, przez lasy i łąki prowadzi w stronę Stożka Wielkiego. Po paru kilometrach łatwiejszej trasy 
+        stromo ze szczytu Czantorii. Po jakimś czasie droga wypłaszcza się, przechodzi koło ośrodka Światowid, znów zagłębia w las i poprzez przełęcz Beskidek doprowadza do schroniska PTTL Soszów. Ze schroniska
+        szlak krótko podchodzi na górę Soszów, skąd bardzo ładnie widać na wschodzie masyw Baraniej Góry, później zaś malowniczą trasą, przez lasy i łąki prowadzi w stronę Stożka Wielkiego. Po paru kilometrach łatwiejszej trasy
         podchodzimy pod zbocze Stożka, skąd czeka nas bardzo forsowne podejście na szczyt. Na górze wita nas schronisko PTTK, zazwyczaj pełne od turystów i rowerzystów górskich
       parameters:
         - name: 4.0 / 13.0
@@ -138,18 +153,21 @@ paths:
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: PTTK Stożek
           type: number
-      tags: 
+      tags:
         - Beskid Śląski
         - Trasa
+
+    ### INFO ###
+
     info: #Ustroń Polana - PTTK na Stożku Wielkim
-      summary: Ciekawostki na temat odcinka 
+      summary: Ciekawostki na temat odcinka
       description: Pare ciekawych rzeczy co sa na tym odcinku
       parameters:
         - name: Górna stacja wyciągu krzesełkowego
           in: query
           description: |
             [Sokolarnia](http://sokolarnia.esy.es/) W Sokolarni znajduje się ok. 40 ptaków, a ptasie "domki" zamieszkują takie gatunki jak: sokoły, jastrzębie, myszołowy, orły i sowy. Odwiedzając to miejsce możemy przyjrzeć się wspaniałym okazom, zrobić zdjęcia z bliskiej odległości jak również zapoznać się z niezwykłą, rzadką i fascynującą dziedziną łowiectwa jaką jest SOKOLNICTWO - sztuka układania ptaków drapieżnych do łowów
-          type: number 
+          type: number
         - name: Czantoria
           in: query
           description: |
@@ -184,7 +202,7 @@ paths:
             Schronisko PTTK na Stożku zostało oddane do użytku 9 lipca 1922 roku. Jest to najstarsze istniejące polskie schronisko w Beskidzie Śląskim (a po rozbiórce obiektu na Markowych Szczawinach najdłużej działające nieprzerwanie polskie schronisko w całych Beskidach)
             Dużo informacji można znaleźć na stronie [PTTK](http://www.cotg.pttk.pl/encyklopedia_tresc.php?id=71)
           type: number
-      tags: 
+      tags:
         - Beskid Śląski
         - Ciekawostki
     nocleg: #Ustroń Polana - PTTK na Stożku Wielkim
@@ -202,12 +220,17 @@ paths:
           type: number
         - name: 9.0
           in: query
-          description: Schronisko PTTK na Stożku Wielkim [Schronisko PTTK na Stożku Wielkim](http://www.stozek.com.pl/) Budynek schroniska znajduje się poniżej szczytu Wielkiego Stożka (978 m. npm.), tuż przy grzbiecie pasma Czantorii i Stożka, stanowiącego jednocześnie granicę Polsko - Czeską. 
+          description: Schronisko PTTK na Stożku Wielkim [Schronisko PTTK na Stożku Wielkim](http://www.stozek.com.pl/) Budynek schroniska znajduje się poniżej szczytu Wielkiego Stożka (978 m. npm.), tuż przy grzbiecie pasma Czantorii i Stożka, stanowiącego jednocześnie granicę Polsko - Czeską.
           type: number
-      tags: 
+      tags:
         - Beskid Śląski
         - Noclegi
-          
+
+
+
+          ### PTTK STOŻEK ###
+          ### Barania Góra ###
+
   PTTK na Stożku Wielkim - Barania Góra:
     media:
       summary: Zdjęcia i filmy z odcinka
@@ -218,7 +241,7 @@ paths:
           in: Zdjecia
           description: Zdjęcia [Galeria](https://photos.google.com/u/2/album/AF1QipND_kdOKCmGLshSJm4ImltJCV8tgc8Mjf9fXQ3x)
           type: number
-      tags: 
+      tags:
         - Beskid Śląski
         - Media
     trasa:
@@ -251,12 +274,15 @@ paths:
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Barania Góra
           type: number
-      tags: 
+      tags:
         - Beskid Śląski
         - Trasa
 
+
+    ### INFO ###
+
     info: #PTTK na Stożku Wielkim - Barania Góra
-      summary: Ciekawostki na temat odcinka 
+      summary: Ciekawostki na temat odcinka
       description: Pare ciekawych rzeczy co sa na tym odcinku
       parameters:
         - name: Przełęcz Kubalonka
@@ -317,7 +343,7 @@ paths:
 
             _Źródło: https://pl.wikipedia.org/wiki/Barania_Góra_
           type: number
-      tags: 
+      tags:
         - Beskid Śląski
         - Ciekawostki
     nocleg: #PTTK na Stożku Wielkim - Barania Góra
@@ -331,25 +357,30 @@ paths:
           type: number
         - name: Schronisko Stecówka
           in: Kuchnia
-          description: 
+          description:
             Prywatne schronisko Stecówka. [Strona](http://www.stecowka.pl/) - 36 miejsc noclegowych
           type: number
         - name: Schronisko PTTK na Przysłopie pod Baranią Górą
           in: Kuchnia, Łazienki, Atrakcje
-          description: Schronisko PTTK. [Strona](https://e-turysta.pl/schronisko-pttk-na-przyslopie-pod-barania-gora-wisla-120189.html?kl=1) - 91 miejsc noclegowych 
+          description: Schronisko PTTK. [Strona](https://e-turysta.pl/schronisko-pttk-na-przyslopie-pod-barania-gora-wisla-120189.html?kl=1) - 91 miejsc noclegowych
           type: number
-      tags: 
+      tags:
         - Beskid Śląski
         - Noclegi
+
+
+          ### Barania Góra ###
+          ### Węgierska Górka ##
+
 
   Barania Góra - Węgierska Górka:
     trasa:
       summary: W dół do miasta
       description:
-        Szlak z Baraniej Góry schodzi malowniczym trawersem, skąd roztaczają się coraz ładniejsze widoki na pasmo Magur, na które trasa wkrótce prowadzi. Po dość krótkim zejści i kawałku płaskim następuje krótkie, 
+        Szlak z Baraniej Góry schodzi malowniczym trawersem, skąd roztaczają się coraz ładniejsze widoki na pasmo Magur, na które trasa wkrótce prowadzi. Po dość krótkim zejści i kawałku płaskim następuje krótkie,
         acz dość strome podejście na grzebit. Stamtąd rozpoczynają się piękne widoki na Skrzyczne, najwyższy szczyt Beskidu Śląskiego. Szlak łagodnie prowadzi grzebietem, wśród delikatnych podejść i zejść, następnie
         za skrzyżowaniem szlaków zaczyna schodzić, początkowo powoli, później bardzo stromo do podnóża góry Glinne. Tam czeka nas krótkie, ale strome podejście na szczyt - będzie to ostatnie podejście na tym fragmencie szlaku. Od tego momentu
-        zaczyna się długie zejście do Węgierskiej Górki, czasem leśnymi drogami, czasem mniejszymi dróżkami. W końcu szlak dochodzi do rzeki Soły, gdzie ostatecznie opuszcza Beskid Śląski, wchodząc w rejony najwyższego pasma 
+        zaczyna się długie zejście do Węgierskiej Górki, czasem leśnymi drogami, czasem mniejszymi dróżkami. W końcu szlak dochodzi do rzeki Soły, gdzie ostatecznie opuszcza Beskid Śląski, wchodząc w rejony najwyższego pasma
         polskich Beskidów - Beskidu Żywieckiego
 
       parameters:
@@ -369,15 +400,18 @@ paths:
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Węgierska Górka
           type: number
-      tags: 
+      tags:
         - Beskid Śląski
         - Trasa
+
+    ### INFO ###
+
     info: # Barania Góra - Węgierska
-      summary: Ciekawostki na temat odcinka 
+      summary: Ciekawostki na temat odcinka
       description: Pare ciekawych rzeczy co sa na tym odcinku
       parameters:
         - name: Magura Wiślańska
-          in: 
+          in:
           type: number
           description: |
             Magurka Wiślańska (1140 m n.p.m.[1]) – szczyt zwornikowy w głównym grzbiecie pasma Baraniej Góry w Beskidzie Śląskim, pierwszy na północ od szczytu Baraniej Góry. W kierunku wschodnim odgałęzia się tu potężny rozróg grzbietów górskich, sięgających na północ po dolinę Leśnej (szczyt Ostre), na wschód po Sołę (Glinne), zaś na południe po dolny bieg Kameszniczanki (Mała Barania).
@@ -385,17 +419,17 @@ paths:
             Dawniej wspólną nazwą "Magurka" określano cały wyrównany odcinek grzbietu od szczytu Magurki Wiślańskiej na zachodzie po Magurkę Radziechowską na wschodzie. Na grzbiecie tym, zbudowanym z gruboławicowych, gruboziarnistych piaskowców i zlepieńców istebniańskich, występują liczne wychodnie skalne w postaci ciągów ambon, grzybów skalnych czy pojedynczych, wystających z podłoża głazów.
 
             Zachodnie stoki Magurki Wiślańskiej, opadające ku dolinie Białej Wisełki, porośnięte lasem świerkowym z domieszką buka, jodły i jawora, wchodzą w skład rezerwatu przyrody Barania Góra.
-            
+
             __Źródło__: https://pl.wikipedia.org/wiki/Magurka_Wi%C5%9Bla%C5%84ska
         - name: Magura Radziechowska
-          in: 
+          in:
           description: |
             Magurka Radziechowska (1108 m n.p.m.[1]) – niewybitny szczyt w Beskidzie Śląskim, w ramieniu górskim odchodzącym od Magurki Wiślańskiej w głównym grzbiecie Pasma Baraniej Góry na wschód, nad dolinę Soły. Jest ważnym zwornikiem: od grzbietu opadającego ku Glinnemu odgałęzia się tu w kierunku północnym grzbiet biegnący w stronę Muronki.
 
             Wierzchołek pierwotnie zalesiony litymi świerczynami. Od lat 90. XX w. lasy pocięte licznymi wyrębami. Obecnie (2015 r.) praktycznie całe stoki wylesione. Na grzbiecie łączącym Magurkę Radziechowską z Magurką Wiślańską znajdują się liczne drobne wychodnie skalne. Interesujące formacje skalne położone są również na południowych stokach tej góry. Grzbiet opadający od szczytu Magurki Radziechowskiej na wschód ku Glinnemu pokrywa rozległy ciąg polan, zwanych wspólnie Halą Radziechowską.
 
             Na dawniejszych mapach (z połowy XX w.) szczyt zwany był czasem również "Magurką Górką". Z rzadkich w Polsce roślin na stokach Magurki Raciechowskiej występuje wierzbownica zwieszona[2].
-            
+
             __Źródło__: https://pl.wikipedia.org/wiki/Magurka_Radziechowska
           type: number
         - name: Glinne
@@ -404,15 +438,15 @@ paths:
             Glinne (1034 m n.p.m.) – potężna, mocno rozczłonkowana góra w Paśmie Baraniej Góry w Beskidzie Śląskim. Wznosi się od strony zachodniej nad odcinkiem doliny Soły zajętym przez wieś Węgierską Górkę, w ramieniu, które w rejonie kulminacji Magurki Wiślańskiej odchodzi od głównego grzbietu Pasma Baraniej Góry przez Magurkę Radziechowską na wschód.
 
             Glinne zbudowane jest z potężnych ławic piaskowców istebniańskich. Wystają one na powierzchnię w postaci ambon, murów skalnych i innego kształtu wychodni skalnych w wielu miejscach na stokach i na bocznych grzbietach, które odchodzą od masywu Glinnego na północ, wschód i południe. Góra prawie w całości jest zalesiona: oprócz świerków można tu spotkać dorodne jodły i buki, a w niższych położeniach zagajniki modrzewiowe, a nawet sosnowe. Aktualnie (2012 r.) znaczna część litych świerczyn, nawiedzonych inwazją kornika i wiatrołomami, została wycięta w ramach przebudowy drzewostanów Beskidu Śląskiego.
-            
+
             __Źródło__: https://pl.wikipedia.org/wiki/Glinne_(g%C3%B3ra)
           type: number
         - name: Fort Waligóra
           in: Nocleg, Restauracja
           description: |
-            Schron artyleryjski "Waligóra" - dow. por. Leopold Galocz – załoga: 3 podoficerów i 11 szeregowców i kanonierów, łącznie 15 żołnierzy. Ciężki betonowy schron bojowy typu „D” – tradytor artyleryjski, jedno kondygnacyjny, uzbrojenie: 2 armaty polowe kal 76,2 mm w pancernych strzelnicach ustawione na ruchomych platformach, 1 ckm „Browning” wz. 30 kal. 7,92 mm w strzelnicy w ścianie schronu. Nie zamontowano kopuły pancernej obserwacyjno-bojowej, jedynie ułożono na schronie worki z piaskiem. Posiada wyrzutnię rakiet oświetlających, zrzutnie granatów, strzelnicę obrony wejścia oraz urządzenia do sygnalizacji świetlnej. Urządzenia wentylacyjne nie zostały zamontowane. 
+            Schron artyleryjski "Waligóra" - dow. por. Leopold Galocz – załoga: 3 podoficerów i 11 szeregowców i kanonierów, łącznie 15 żołnierzy. Ciężki betonowy schron bojowy typu „D” – tradytor artyleryjski, jedno kondygnacyjny, uzbrojenie: 2 armaty polowe kal 76,2 mm w pancernych strzelnicach ustawione na ruchomych platformach, 1 ckm „Browning” wz. 30 kal. 7,92 mm w strzelnicy w ścianie schronu. Nie zamontowano kopuły pancernej obserwacyjno-bojowej, jedynie ułożono na schronie worki z piaskiem. Posiada wyrzutnię rakiet oświetlających, zrzutnie granatów, strzelnicę obrony wejścia oraz urządzenia do sygnalizacji świetlnej. Urządzenia wentylacyjne nie zostały zamontowane.
             Schron wybudowany w okresie lipiec-sierpień 1939 r. brał czynny udział w walkach 2 września 1939 r. Załoga na rozkaz dowództwa wycofała się w nocy z 2/3 września. Widoczne ślady ostrzału – szczególnie strzelnic są wynikiem ostrzału z niewielkiej odległości podczas kręcenia przez Niemców filmu propagandowego w 1939 roku..
-         
+
             __Źródło__: http://www.wegierska-gorka.opg.pl/westerplatte-poludnia,115.html
           type: number
         - name: Węgierska Górka
@@ -428,7 +462,7 @@ paths:
 
             __Źródło__: https://pl.wikipedia.org/wiki/W%C4%99gierska_G%C3%B3rka
           type: number
-      tags: 
+      tags:
         - Beskid Śląski
         - Ciekawostki
     nocleg: #Barania Góra - Węgierska
@@ -440,17 +474,24 @@ paths:
           in: query
           description: Duży wybór noclegów
           type: number
-      tags: 
+      tags:
         - Beskid Śląski
         - Noclegi
+
+
+
+          ### Węgierska Górka ###
+          ### PTTK Miziowa ###
+
+
   Węgierska Górka - PTTK Hala Miziowa:
     trasa:
       summary: W górę. Tylko w górę.
       description:
-        Po długim zejściu tym razem czeka nas długie podejście. Choć nie od razu, najpierw szlak przechodzi przez miasto, gdzie polecam zrobić porządne zapasym bo przez najbliższe kilometry nie 
+        Po długim zejściu tym razem czeka nas długie podejście. Choć nie od razu, najpierw szlak przechodzi przez miasto, gdzie polecam zrobić porządne zapasym bo przez najbliższe kilometry nie
         bedzie żadnych sklepów. Za miastem szlak idzie asfaltem do Żabnicy, przechodząc obok fortu Waligóra z okresu 2WŚ. W Żabnicy szlak odbija asfaltem w lewo, później zaś wchodzi w prawo w polną drogę.
         Teraz zaczyna się najpierw onkretne podejście, później zaś wypłaszczenie do wsi Abrahamów. Z tej malowniczo położonej miejscowości roztaczają się piękne widoki na Romankę, majestatycznie wznoszącą się
-        nad osadą. Po wyjściu ze wsi szlak po krótkiej przeprawie przez lat dochodzi do małego, lecz urokliwego schroniska PTTK Słowianka. Za schroniskiem szlak najpierw dochodzi do zbocza Romanki, później zaś zaczyna długie i strome podejście trawersem 
+        nad osadą. Po wyjściu ze wsi szlak po krótkiej przeprawie przez lat dochodzi do małego, lecz urokliwego schroniska PTTK Słowianka. Za schroniskiem szlak najpierw dochodzi do zbocza Romanki, później zaś zaczyna długie i strome podejście trawersem
         po zboczach tejże góry. Przechodzimy tutaj przez jedyne na całym szlaku łańcuchy, później zaś wychodzimy na malowniczą **Halę Wieprzską**. Podczas tego podejścia można podziwiać góry, które wcześniej już przeszliśmy - masywy Baraniej Góry oraz Stożka.
         Za halą czeka nas jeszcze krótkie podejście, zanim wyjdziemy z lasu na przełęcz między Romanką i Rysianką. Stamtąd wśród przepięknych widoków czeka nas jeszcze kilometr podejścia pod szczyt Rysianki, gdzie mieści się schronisko PTTK.
         Za schroniskiem czeka nas krótkie zejście, później zaś podejście w lesie pod Trzy Kopce. Dalsze kilometry będą pod dyktando podejść i zejść, dośc krótkich, lecz też dosyć stromych, czasem wśród lasów, czasem wśród hal. Po dłuższym okresie wypłaszczenie szlak schodzi do schroniska PTTK Hala Mizowa.
@@ -473,9 +514,12 @@ paths:
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: PTTK na Rysiance
           type: number
-      tags: 
+      tags:
         - Beskid Żywiecki
         - Trasa
+
+    ### INFO ###
+
     info: #Węgierska Górka - PTTK Hala Miziowa
       summary: Ciekawostki
       description: Ciekawostki
@@ -512,7 +556,7 @@ paths:
             Pomiędzy 1933 a 1935 rokiem Gustaw Pustelnik rozpoczął budowę domu na wydzielonej i ogrodzonej przez siebie górnej części Hali Rysianki, której był jedynie wspłówłaścicielem. Nie posiadał też stosownego zezwolenia na budowę. Powyższe fakty stały się przyczyną konfliktu zarówno z pozostałymi współwłaścicielami hali, jak i władzami administracyjnymi, które w końcu nakazały prowadzącemu nielegalną inwestycję rozebranie budynku.
             Również organizacja turystyczna Beskiden-Verein, która posiadała oddalone o 10 min marszu od budowy Pustelnika schronisko na Lipowskiej, podniosła protest przeciwko tej inwestycji, mając na uwadze przyszłą konkurencję. Tatrzańskie Towarzystwo Narciarzy z Krakowa zainteresowało się nieukończonym obiektem i postanowiło pomóc jego właścicielowi. To przesądziło o pozostawieniu budynku. TTN przeznaczyło fundusze na jego wykończenie i w 1937 roku otworzyło w domu Pustelnika swoje schronisko. Obiekt zyskał nazwę: „Schronisko Towarzystwa Tatrzańskiego Narciarzy – Lipowska”, a budynek pozostawał własnością Gustawa Pustelnika.
             Obszerny, drewniany, piętrowy budynek schroniska posadowiony został na kamiennej podmurówce i posiadał 50 miejsc noclegowych. Usytuowany był w pięknym, widokowym miejscu. Przed wybuchem II wojny światowej schronisko cieszyło się powodzeniem wśród turystów i narciarzy. W czasie okupacji Pustelnik, trudniący się przed wojną szpiegostwem na rzecz Abwehry, miał poważanie wśród niemieckich władz okupacyjnych, prowadził więc dalej swoje schronisko, które w tym czasie zmieniło się w dom wypoczynkowy dla żołnierzy niemieckich. Organizowane tu były również wojskowe kursy narciarskie.
-            Duży ruch turystyczny doprowadził do tego, że właściciel rozbudował schronisko, a obok wzniósł następny budynek. Latem 1943 roku partyzanci przeprowadzili w schronisku akcje, podczas których zabrano broń, żywność, koce i ubrania. W późniejszym czasie obiekt obsadzony został przez wojsko niemieckie, które stacjonowało tu prawie do końca 1944 roku. Opuszczony pod koniec wojny budynek schroniska został poważnie zdewastowany. W tym stanie doczekać końca działań wojennych. 
+            Duży ruch turystyczny doprowadził do tego, że właściciel rozbudował schronisko, a obok wzniósł następny budynek. Latem 1943 roku partyzanci przeprowadzili w schronisku akcje, podczas których zabrano broń, żywność, koce i ubrania. W późniejszym czasie obiekt obsadzony został przez wojsko niemieckie, które stacjonowało tu prawie do końca 1944 roku. Opuszczony pod koniec wojny budynek schroniska został poważnie zdewastowany. W tym stanie doczekać końca działań wojennych.
 
             __Źródło:__ „SCHRONISKA GÓRSKIE NA STAREJ POCZTÓWCE I FOTOGRAFII”. Tomasz Biesik
           type: number
@@ -534,7 +578,7 @@ paths:
 
             __Źródło:__ https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Hali_Miziowej
           type: number
-      tags: 
+      tags:
         - Beskid Żywiecki
         - Ciekawostki
     nocleg: #Węgierska Górka - PTTK Hala Miziowa
@@ -558,9 +602,16 @@ paths:
           in: query
           description: Wielki hotel u podnóża Pilska. [http://halamiziowa.pl/]
           type: number
-      tags: 
+      tags:
         - Beskid Żywiecki
         - Noclegi
+
+
+
+          ### PTTK Miziowa ###
+          ### Babia Góra ###
+
+
   PTTK Hala Miziowa - Babia Góra:
     trasa:
       summary: Najwyżej
@@ -568,9 +619,9 @@ paths:
         Za Hala Miziową czeka nas długie zejście do przełęczy Glinne. Najpierw chwilę stokiem narciarskim, potem chwila wypłaszczenia malowniczą ścieżką przez lata w rezerwacie przyrody, później zaś długie
         i strome zejście wąską i kamienistą ścieżką. Na przełęczy Glinne nie ma zwyczajnego sklepu, ale można spotkać stanowisko z oscypkami. Przez najbliższe kilometry szlak będzie prowadził granicą ze Słowacją. Za przełęczą mamy kilka kilometrów niższych wzniesień przyjemną leśną
         drogą, później zaś dłuższe podejście na Jaworzynę, skąd zaś strome zejście prowadzi do bazy namiotowej na przełęczy Głuchaczki. Z przełęczy Głuchaczki czeka nas strome podejście na Mędralową, szczyt wg
-        niektórych uznawany za najwyższy szczyt Beskidu Makowskiego, oficjalnie jednak część Beskidu Żywieckiego. Na szczycie czeka nas dłuższe przejście grzbietem z malowniczymi widokami na północą stronę. Za szczytem schodzimy 
-        do Jałowcowego Siodła, później zaś lekko podchodząc, ale głównie trawersując dochodzimy do schroniska na Markowych Szczawinach. Za schroniskiem zaczyna się bardzo długie i strome podejście na Babią Górą, w końcu trzeba podejść o pół kilometra w górę. Najpierw jest bardzo strome podejście na grzbiet, na przełęcz Brona, później zaś wzdłuż grzebietu, 
-        gdzie jeśli mamy szczęście otaczają nas piękne widoki na obie strony, polską z pasmem Policy i słowacką, przez którą widać w oddali Tatry. Podejście jest kamieniste, chłodny wiatr jest niemal gwarantowany. Nagrodą za ten trud jest szczyt Babiej Góry, Diablak, najwyższy punkt na trasie 
+        niektórych uznawany za najwyższy szczyt Beskidu Makowskiego, oficjalnie jednak część Beskidu Żywieckiego. Na szczycie czeka nas dłuższe przejście grzbietem z malowniczymi widokami na północą stronę. Za szczytem schodzimy
+        do Jałowcowego Siodła, później zaś lekko podchodząc, ale głównie trawersując dochodzimy do schroniska na Markowych Szczawinach. Za schroniskiem zaczyna się bardzo długie i strome podejście na Babią Górą, w końcu trzeba podejść o pół kilometra w górę. Najpierw jest bardzo strome podejście na grzbiet, na przełęcz Brona, później zaś wzdłuż grzebietu,
+        gdzie jeśli mamy szczęście otaczają nas piękne widoki na obie strony, polską z pasmem Policy i słowacką, przez którą widać w oddali Tatry. Podejście jest kamieniste, chłodny wiatr jest niemal gwarantowany. Nagrodą za ten trud jest szczyt Babiej Góry, Diablak, najwyższy punkt na trasie
         Głównego Szlaku Beskidzkiego i najwyższy szczyt polskich Beskidów.
 
       parameters:
@@ -594,9 +645,12 @@ paths:
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Babia Góra - Diablak
           type: number
-      tags: 
+      tags:
         - Beskid Żywiecki
         - Trasa
+
+    ### INFO ###
+
     info: #PTTK Hala Miziowa - Babia Góra
       summary: Ciekawostki
       description: Ciekawostki
@@ -607,7 +661,7 @@ paths:
             Pilsko (słow. Pilsko) – drugi po Babiej Górze co do wysokości szczyt górski w Beskidzie Żywieckim. Znajduje się w Grupie Pilska. Często nazwą Pilsko obejmuje się nie tylko jego główną kulminację (1557 m), w całości leżącą po stronie słowackiej, ale również cały masyw.
             Pilsko objęte jest od 1971 roku (rezerwat przyrody Pilsko) po stronie polskiej na niewielkim obszarze (15,4 ha) ochroną rezerwatową, po stronie słowackiej ustanowiony w 1967 roku rezerwat obejmuje 809 ha.
 
-            Szczyt znajduje się poza szlakiem, ale warto pomyśleć o zboczeniu z trasy na godzine. 
+            Szczyt znajduje się poza szlakiem, ale warto pomyśleć o zboczeniu z trasy na godzine.
             __Źródło__: https://pl.wikipedia.org/wiki/Pilsko
           type: number
         - name: Przełęcz Glinne
@@ -634,12 +688,12 @@ paths:
 
             __Źródło:__ https://pl.wikipedia.org/wiki/M%C4%99dralowa
           type: number
-        - name: Przęłęcz Jałowiecka Północna/Tabakowe Siodło 
+        - name: Przęłęcz Jałowiecka Północna/Tabakowe Siodło
           in: query
           description: |
             Przełęcz Jałowiecka Północna (998 m) – przełęcz w Beskidach Zachodnich, pomiędzy Mędralową (1169 m) a Jałowcowym Garbem (1017 m). Przez przełęcz tę biegnie Wielki Europejski Dział Wodny oraz granica państwowa polsko-słowacka[1]. Na polskich, północnych stokach przełęczy ma źródła potok Jałowiec, na południowych, słowackich Polhoranka. Przełęcz oddziela Pasmo Babiogórskie (Jałowcowy Garb), zaliczane do Beskidu Żywieckiego od Pasma Przedbabiogórskiego (Mędralowa) zaliczanego do Beskidu Makowskiego[2].
 
-            Przełęcz Jałowiecka Północna zwana jest również Tabakowym Siodłem. Nazwa związana jest z faktem, że przełęcz znajdowała się na starym szlaku przemytniczym (patrz: tabakowy chodnik), którym z Węgier szmuglowano na północną stronę Karpat tytoń (czyli tabak). Była też kiedyś szlakiem komunikacyjnym łączącym Zawoję z Orawą. Mieszkańcy Zawoi m.in. pędzili przez nią swoje bydło na jarmark w Namiestowie i dwukrotnie przechodzili nią konfederaci barscy, a w okresie międzywojennym przemycano przez nią z Czechosłowacji buty i kamyczki do zapalniczek. Jest całkowicie zalesiona. Na przełęczy znajduje się węzeł pięciu szlaków turystycznych. 
+            Przełęcz Jałowiecka Północna zwana jest również Tabakowym Siodłem. Nazwa związana jest z faktem, że przełęcz znajdowała się na starym szlaku przemytniczym (patrz: tabakowy chodnik), którym z Węgier szmuglowano na północną stronę Karpat tytoń (czyli tabak). Była też kiedyś szlakiem komunikacyjnym łączącym Zawoję z Orawą. Mieszkańcy Zawoi m.in. pędzili przez nią swoje bydło na jarmark w Namiestowie i dwukrotnie przechodzili nią konfederaci barscy, a w okresie międzywojennym przemycano przez nią z Czechosłowacji buty i kamyczki do zapalniczek. Jest całkowicie zalesiona. Na przełęczy znajduje się węzeł pięciu szlaków turystycznych.
 
             __Źródło:__ https://pl.wikipedia.org/wiki/Prze%C5%82%C4%99cz_Ja%C5%82owiecka_P%C3%B3%C5%82nocna
           type: number
@@ -667,7 +721,7 @@ paths:
 
             __Źródło:__ https://pl.wikipedia.org/wiki/Babia_Góra
           type: number
-      tags: 
+      tags:
         - Beskid Żywiecki
         - Ciekawostki
     nocleg: #Węgierska Górka - PTTK Hala Miziowa
@@ -683,16 +737,23 @@ paths:
           in: query
           description: Wyremontowane schronisko u stóp Babiej Góry [http://markoweszczawiny.pttk.pl/]
           type: Restauracja
-      tags: 
+      tags:
         - Beskid Żywiecki
         - Noclegi
+
+
+          ### Babia Góra ###
+          ### PTTK Krupowa ###
+
+
+
   Babia Góra - PTTK Hala Krupowa:
     trasa:
       summary: Opuszczając pasmo Babiej Góry
       description:
         Z Babiej Góry czeka nas długie zejście do przełęczy Krowiarki, napierw wśród skał, póżniej zaś szeroką i wyrównaną ścieżką o dużym turystycznym ruchu. Po drodze można zatrzymać się na punktach widokowych,
         choć z żadnego z nich nie ma lepszego widoku jak ze szczytu góry. Za przełęczą Krowiarki czeka nas krótkie podejście i zejście na górkę Syhel, później zaś bardzo długie, ale też bardzo łagodne podejście
-        na Cyl Hali Śmietanowej. Na tym wzniesieniu szlak zmienia kierunek i prowadzi na najwyższy szczyt pasma, Policę. Z jej szczytu z trzetrzebionego lasu dobrze widać panoramę Babiej Góry. Z Policy jest już bardzo blisko do schorniska i po krótkim 
+        na Cyl Hali Śmietanowej. Na tym wzniesieniu szlak zmienia kierunek i prowadzi na najwyższy szczyt pasma, Policę. Z jej szczytu z trzetrzebionego lasu dobrze widać panoramę Babiej Góry. Z Policy jest już bardzo blisko do schorniska i po krótkim
         zejściu osiągami hale i schronisko na Hali Krupowej
         - - - - - - -
         ![alternate text](https://sourceforge.net/images/icon_linux.gif)
@@ -714,9 +775,12 @@ paths:
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Schronisko PTTK
           type: number
-      tags: 
+      tags:
         - Beskid Żywiecki
         - Trasa
+
+    ### INFO ###
+
     info: #Babia Góra - Krupowa
       summary: Ciekawostki
       description: Ciekawostki
@@ -734,7 +798,7 @@ paths:
             Przełęcz Krowiarki – przełęcz w Paśmie Babiogórskim, które jest częścią Beskidu Żywieckiego[1]. Różne źródła różnie podają jej wysokość: 986 m[1], 1009 m[2], 1012 m[3]. Przełęcz Krowiarki oddziela masyw Babiej Góry od Pasma Policy.
             Na przełęczy znajduje się polana Krowiarki, na której dawniej wypasano krowy. Nazwa przełęczy i polany pochodzi od ludowego określenia krowiarki oznaczającego pasterki wypasające krowy. Jeszcze dawniej przełęcz nazywana była Lipnickim Siodłem lub Przełęczą Lipnicką[4].
 
-            Przełęcz ta stanowi najwyższą dostępną komunikacyjnie przełęcz górską Beskidów Zachodnich. Dawniej prowadziła przez nią z Zawoi na Orawę gruntowa droga zwana Orawskim Chodnikiem. Przed II wojną światową rozpoczęto budowę szosy, zrealizowano odcinek z Zubrzycy Górnej na przełęcz Krowiarki. Przy budowie tego odcinka w 1938 pracował w Junackim Hufcu Pracy Karol Wojtyła (był wówczas studentem). Upamiętnia to obelisk na polanie Krowiarki. 
+            Przełęcz ta stanowi najwyższą dostępną komunikacyjnie przełęcz górską Beskidów Zachodnich. Dawniej prowadziła przez nią z Zawoi na Orawę gruntowa droga zwana Orawskim Chodnikiem. Przed II wojną światową rozpoczęto budowę szosy, zrealizowano odcinek z Zubrzycy Górnej na przełęcz Krowiarki. Przy budowie tego odcinka w 1938 pracował w Junackim Hufcu Pracy Karol Wojtyła (był wówczas studentem). Upamiętnia to obelisk na polanie Krowiarki.
 
             __Źródło__: https://pl.wikipedia.org/wiki/Przełęcz_Krowiarki
           type: number
@@ -762,10 +826,10 @@ paths:
 
             __Źródło:__ https://pl.wikipedia.org/wiki/Hala_Kucałowa
           type: number
-      tags: 
+      tags:
         - Beskid Żywiecki
         - Ciekawostki
-    nocleg: #Węgierska Górka - PTTK Hala Miziowa
+    nocleg: ## Babia Góra - Haka Krupowa
       summary: Noclegi
       description:
         W schronisku, lub można zboczyć ze szlaku do Zawoi
@@ -774,15 +838,23 @@ paths:
           in: query
           description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
           type: Kuchnia
-      tags: 
+      tags:
         - Beskid Żywiecki
         - Noclegi
+
+
+
+
+          ### PTTK Krupowa ###
+          ### Jordanów ###
+
+
   PTTK Hala Krupowa - Jordanów:
     trasa:
       summary: Żegnając Beskid Żywiecki
       description:
         Ze schroniska na Hali Krupowej czeka nas bardzo długie zejście, którym ostatecznie opuścimy Beskid Żywiecki. Najpierw jednak mamy krótkie podejście pod Okrąglik, później jednak szlak biegnie niemal wyłącznie w dół.
-        Przy dobrej pogodzie po prawej stronie powinniśmy od czasu do czasu widzieć wznoszące się za obniżeniem Tatry. Mijamy Polanę Malinową, na której możemy zobaczyć pomnik ofiar z czasów Drugiej Wojny Światowej. Po paru godzinach schodzenia docieramy do asfaltowej drogi, która wyprowadza nas do miejscowości Bystra. 
+        Przy dobrej pogodzie po prawej stronie powinniśmy od czasu do czasu widzieć wznoszące się za obniżeniem Tatry. Mijamy Polanę Malinową, na której możemy zobaczyć pomnik ofiar z czasów Drugiej Wojny Światowej. Po paru godzinach schodzenia docieramy do asfaltowej drogi, która wyprowadza nas do miejscowości Bystra.
         Teraz czeka nas dłuższy odcinek w zasadzie poza górami, który zaczynamy od trasy przez pola i łąki doprowadzajacy nas do kolejnego dużego miasta, Jordanowa.
 
       parameters:
@@ -802,23 +874,26 @@ paths:
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Jordanów
           type: number
-      tags: 
+      tags:
         - Beskid Żywiecki
         - Trasa
+
+    ### INFO ###
+
     info: #Krupowa - Jordanów
-      summary: Info
+      summary: Some Summary XXX
       description:
         Informacje na temat odcinka
       parameters:
         - name: Polana Malinowe
           in: query
           description: |
-            Polana Malinowe – polana w głównym grzbiecie Pasma Policy w Beskidzie Żywieckim. Znajduje się na bocznym grzbiecie tego pasma, który od szczytu Soska (939 m) opada w południowo-wschodnim kierunku w widły potoku o nazwie Mostów Potok[1]. Na mapie Geoportalu ma nazwę Polana Malinowa. Znajduje się na średniej wysokości około 800 m[2]. Na polanie znajduje się osada Malinowo[3]. Istnieje na nim pojedyncze gospodarstwo bez prądu elektrycznego (stan na 2012 r.). Dawniej istniało tutaj składające się z 9 gospodarstw osiedle należące do miejscowości Sidzina. W czasie II wojny światowej było ono zapleczem dla licznych w tym regionie oddziałów partyzanckich. W 1944 kwaterowała na nim 9 kompania górska 12 pułku piechoty Armii Krajowej, oddział „Harnaś” z 3 pułku strzelców podhalańskich AK, a w okolicy działały także oddział AK „Huta Podgórze” i partyzanci radzieccy (Oddział „Borba”). By zlikwidować zagrożenie na tyłach swojego frontu, Niemcy w 1944 na Paśmie Policy urządzili na partyzantów wielką obławę, w której wzięło udział ok. 6 tys. żołnierzy. Partyzantom jednak udało się uciec na słowacką Orawę. Niemcy, by uniemożliwić partyzantom powrót zlikwidowali ich zaplecze, dokonując pacyfikacji kilku osiedli Sidziny, w tym osiedla Malinowo, na którym spalili wszystkie domy. Po wojnie tylko jedna rodzina zdecydowała się na powrót i na nowo wybudowała tutaj swój dom[4].
+            Polana Malinowe – polana w głównym grzbiecie Pasma Policy w Beskidzie Żywieckim. Znajduje się na bocznym grzbiecie tego pasma, który od szczytu Soska (939 m) opada w południowo-wschodnim kierunku w widły potoku o nazwie Mostów Potok. Na mapie Geoportalu ma nazwę Polana Malinowa. Znajduje się na średniej wysokości około 800 m[2]. Na polanie znajduje się osada Malinowo[3]. Istnieje na nim pojedyncze gospodarstwo bez prądu elektrycznego (stan na 2012 r.). Dawniej istniało tutaj składające się z 9 gospodarstw osiedle należące do miejscowości Sidzina. W czasie II wojny światowej było ono zapleczem dla licznych w tym regionie oddziałów partyzanckich. W 1944 kwaterowała na nim 9 kompania górska 12 pułku piechoty Armii Krajowej, oddział „Harnaś” z 3 pułku strzelców podhalańskich AK, a w okolicy działały także oddział AK „Huta Podgórze” i partyzanci radzieccy (Oddział „Borba”). By zlikwidować zagrożenie na tyłach swojego frontu, Niemcy w 1944 na Paśmie Policy urządzili na partyzantów wielką obławę, w której wzięło udział ok. 6 tys. żołnierzy. Partyzantom jednak udało się uciec na słowacką Orawę. Niemcy, by uniemożliwić partyzantom powrót zlikwidowali ich zaplecze, dokonując pacyfikacji kilku osiedli Sidziny, w tym osiedla Malinowo, na którym spalili wszystkie domy. Po wojnie tylko jedna rodzina zdecydowała się na powrót i na nowo wybudowała tutaj swój dom[4].
             16 października 1983 na Polanie Malinowej dzięki staraniom dawnych partyzantów AK poświęcono murowaną kapliczkę, nazywaną Kapliczką Matki Boskiej AK-owskiej. Poniżej kapliczki w murowanej grocie znajduje się partyzanckie mauzoleum. Znajduje się w nim wizerunek Matki Bożej, tabliczki z nazwiskami i pseudonimami partyzantów i wiersz patriotyczny[4].
-            Opuszczona przez większość mieszkańców Polana Malinowa stopniowo zarasta lasem[2]. Z jej górnego końca jeszcze roztacza się ograniczona panorama widokowa w kierunku południowym i wschodnim, przy dobrej pogodzie widoczne stąd są Tatry.
+            Opuszczona przez większość mieszkańców Polana Malinowa stopniowo zarasta lasem. Z jej górnego końca jeszcze roztacza się ograniczona panorama widokowa w kierunku południowym i wschodnim, przy dobrej pogodzie widoczne stąd są Tatry.
 
             __Źródło:__ https://pl.wikipedia.org/wiki/Polana_Malinowe
-          type: 
+          type:
         - name: Bystra Podhalańska
           in: query
           description: |
@@ -826,21 +901,21 @@ paths:
             We wsi znajduje się ośrodek rekolekcyjny Maksymilianum należący do Ruchu Światło-Życie Archidiecezji Krakowskiej.
 
             __Źródło:__ https://pl.wikipedia.org/wiki/Bystra_Podhalańska
-          type: 
+          type:
         - name: Jordanów
           in: query
           description: |
-            Miasto w województwie małopolskim, w powiecie suskim, siedziba gminy wiejskiej Jordanów. Położone jest nad rzeką Skawą w Kotlinie Rabczańskiej u południowych podnóży Beskidu Makowskiego[3].
+            Miasto w województwie małopolskim, w powiecie suskim, siedziba gminy wiejskiej Jordanów. Położone jest nad rzeką Skawą w Kotlinie Rabczańskiej u południowych podnóży Beskidu Makowskiego.
             Miasto zostało lokowane w 1564 r. przez Wawrzyńca Spytka Jordana z Zakliczyna na terenie wsi Malejowa. Nazwa miasta wywodzi się właśnie od nazwiska jego założyciela. Osada położona była przy skrzyżowaniu szlaków: z Krakowa i Wieliczki (trakt solny) przez Myślenice na Orawę i Węgry oraz szlaku doliną Skawy aż na historyczny Śląsk. W 1581 r. Jordanów uzyskał prawo dorocznych jarmarków, które w XVII w. stały się bardzo znane w południowej części Korony. Sprzedawano tu bydło, płótno oraz sól.
             W XIX w. miasto trochę podupadło i miało charakter raczej rolniczy. Ludność Jordanowa ledwie przekraczała tysiąc mieszkańców. Wśród mieszkańców znajdowała się grupa Żydów, z których część należała do miejscowej gminy wyznaniowej żydowskiej.
             W latach 20. XX w. do miasta przyłączono sąsiednią wieś Malejową oraz przysiółki Chrobacze i Mąkacz. Tym samym liczba ludności przekroczyła trzy tysiące.
             W 1939 r. okolice Jordanowa były miejscem walk 10. Brygady Kawalerii oraz miejscowej ludności z wojskami niemieckimi. Miasto zostało silnie zniszczone w czasie II wojny światowej.
 
             __Źródło:__ https://pl.wikipedia.org/wiki/Jordanów
-          type: 
-      tags: 
+          type:
+      tags:
         - Beskid Żywiecki
-        - Noclegi
+        - Ciekawostki
     nocleg: #Krupowa - Jordanów
       summary: Noclegi
       description:
@@ -850,15 +925,23 @@ paths:
           in: query
           description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
           type: Kuchnia
-      tags: 
+      tags:
         - Beskid Żywiecki
         - Noclegi
+
+
+
+          ### Jordanów ###
+          ### Rabka ###
+
+
+
   Jordanów - Rabka:
     trasa:
       summary: Trzeba przetrwać
       description:
         Najmniej chyba ciekawy fragment szlaku, choć teraz jest i tak lepiej niż było uprzednio - zamiast asfaltem do Skawy przechodzimy częsciowo lasem, po drodze zahaczając o Wysoką. Tak czy siak na tym odcinku jest niewiele gór, zamiast tego wiele asfaltu. W Skawie szlak odbija w lewo i przez dłuższą chwilę
-        prowadzi łąkami, przez które dla odmiany skrajnie ciężko jest utrzymać kurs - bo na mało uczęszczanej części szlaku oznaczeń zwyczajnie nie widać. Jak uda nam się przejść przez łąkę to docieramy do bardzo zarośniętego szlaku, który w okolicach Zakopianki zmienia się jeszcze w ubikację. 
+        prowadzi łąkami, przez które dla odmiany skrajnie ciężko jest utrzymać kurs - bo na mało uczęszczanej części szlaku oznaczeń zwyczajnie nie widać. Jak uda nam się przejść przez łąkę to docieramy do bardzo zarośniętego szlaku, który w okolicach Zakopianki zmienia się jeszcze w ubikację.
         Po przekroczeniu Zakopianki jest juz wyraźnie lepiej, szlak jest czytelniejszy, asfaltu nie ma tak dużo i zaczynają się ładne widoki na miasto Rabkę i Gorce. Ogólnie jest to fragment, który przechodzą chyba wyłącznie osoby przechodzące Główny Szlak Beskidzki - żadnych innych zalet nie ma
 
       parameters:
@@ -878,16 +961,23 @@ paths:
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Rabka
           type: number
-      tags: 
+      tags:
         - Gorce
         - Trasa
+
+
+          ### Rabka ###
+          ### Turbacz ###
+
+
+
   Rabka - Turbacz:
     trasa:
       summary: Znów w góry
       description:
         Po kilkunastu kilometrach poza górami wracamy wreszcie do solidnego chodzenia po górach. W Rabce warto najpierw zrobić zakupy, później w Gorcach będą tylko schroniska. Pierwsze podejście czeka nas do Bacówki na Maciejowej - przyjemna trasa, w dużej mierze w odkrytym terenie, w samym schronisku
-        legendarne wręcz racuchy z jagodami. Kolejnym podejściem, miejscami bardzo stromym, przekraczamy granicę 1000 metrów i dochodzimy do schroniska na Starych Wierchach. Za nim szlak się wypłaszcza i przez następne kilometry prowadzi raczej delikatnie w górę, aż do samego końcowego podejścia na Turbacz - 
-        najwyższy szczyt Gorców. Za szczytem już rzut kamieniem do schroniska PTTK na Turbaczu. 
+        legendarne wręcz racuchy z jagodami. Kolejnym podejściem, miejscami bardzo stromym, przekraczamy granicę 1000 metrów i dochodzimy do schroniska na Starych Wierchach. Za nim szlak się wypłaszcza i przez następne kilometry prowadzi raczej delikatnie w górę, aż do samego końcowego podejścia na Turbacz -
+        najwyższy szczyt Gorców. Za szczytem już rzut kamieniem do schroniska PTTK na Turbaczu.
 
       parameters:
         - name: 4.0 / 13.0
@@ -895,7 +985,7 @@ paths:
           description: Rabka
           type: number
         - name: 8.0 / 17.0
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy 
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Bacówka na Malinowej
           type: number
         - name: 10.0 / 19.0
@@ -903,12 +993,23 @@ paths:
           description: PTTK "Stare Wierchy"
           type: number
         - name: 15.0 / 24.0
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski 
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski
           description: Turbacz
           type: number
-      tags: 
+      tags:
         - Gorce
         - Trasa
+
+    ### INFO ###
+
+
+
+
+          ### Turbacz ###
+          ### Lubań ###
+
+
+
   Turbacz - Lubań:
     trasa:
       summary: Od szczytu do szczytu
@@ -932,9 +1033,19 @@ paths:
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Lubań
           type: number
-      tags: 
+      tags:
         - Gorce
         - Trasa
+
+    ### INFO ###
+
+
+
+          ### Lubań ###
+          ### Szczawnica Zdrój ###
+
+
+
   Lubań - Szczawnica Zdrój:
     trasa:
       summary: Zejście w doliny
@@ -954,14 +1065,25 @@ paths:
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Szczawnica
           type: number
-      tags: 
+      tags:
         - Gorce
         - Trasa
+
+    ### INFO ###
+
+
+
+
+          ### Szczawnica Zdrój ###
+          ### PTTK Przehyba ###
+
+
+
   Szczawnica Zdrój - PTTK na Przehybie:
     trasa:
       summary: W Beskid Sądecki
       description:
-        Za Szczawnicą wracamy do dziczy i wchodzimy do nowego pasma górskiego - Beskidu Sądeckiego. Naturalne jest, że rozpoczynamy od parukilometrowego podejścia na Dzwonkówkę, początkowo asfaltem, potem szutrem, na końcu zaś leśną ścieżką. Za Dzwonkówką czeka nas nieco obniżenia do bardzo malowniczej przełęczy Przysłop. Z przełęczy szlak idze znów w górę, miejscami bardzo ostro, by wprowadzić nas na górę Kamień. Z Kamienia jest już bardzo łatwa droga na szczyt Przehyby, tuż obok którego umiejscowione 
+        Za Szczawnicą wracamy do dziczy i wchodzimy do nowego pasma górskiego - Beskidu Sądeckiego. Naturalne jest, że rozpoczynamy od parukilometrowego podejścia na Dzwonkówkę, początkowo asfaltem, potem szutrem, na końcu zaś leśną ścieżką. Za Dzwonkówką czeka nas nieco obniżenia do bardzo malowniczej przełęczy Przysłop. Z przełęczy szlak idze znów w górę, miejscami bardzo ostro, by wprowadzić nas na górę Kamień. Z Kamienia jest już bardzo łatwa droga na szczyt Przehyby, tuż obok którego umiejscowione
         jest schornisko PTTK
       parameters:
         - name: 4.0 / 13.0
@@ -980,15 +1102,21 @@ paths:
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
           description: PTTK na Przehybie
           type: number
-      tags: 
+      tags:
         - Beskid Sądecki
         - Trasa
+
+
+          ### PTTK Przehyba ###
+          ### Rytro ###
+
+
   PTTK na Przehybie - Rytro:
     trasa:
       summary: Długie zejście w stronę Popradu
       description:
-        Schronisko na Przehybie znajduje się w najwyżej położonej części Beskidu Sądeckiego. Po opuszczeniu schroniska zdobywamy najwyższy szczyt tego pasma - Radziejową. Na tym zalesionym szczycie można podziwiać widoki z położonej ponad czubkami drzew wieży widokowej. Z Radziejowej szlak schodzi nieznany kawałej, po czym podchodzi pod XXX. Z tej góry czeka nas już tylko zejście, bardzo długie obniżenie aż do Rytra. Po drodze można zboczyć do położenego blisko szlaku schroniska na Niemcowej, poza tym jednak trasa, choć urozmaicona technicznie, to nie 
-        przechodzi koło żadnych charakterystycznych punktów aż do samego Rytra. Tam, tuż przed miastem, między dwiema brzozami jest zamontowana legendarna wręcz ławeczka. W tych rejonach bardzo ładniej też już widać wznoszący się z drugiej strony doliny zamek. W Rytrze schodzimy aż do samej głównej szosy, przechodzimy obok makabryły stacji benzynowej, przekraczamy Poprad i wkraczamy do drugiej częsci Beskidu Sądeckiego - pasma Jaworzyny Krynickiej 
+        Schronisko na Przehybie znajduje się w najwyżej położonej części Beskidu Sądeckiego. Po opuszczeniu schroniska zdobywamy najwyższy szczyt tego pasma - Radziejową. Na tym zalesionym szczycie można podziwiać widoki z położonej ponad czubkami drzew wieży widokowej. Z Radziejowej szlak schodzi nieznany kawałej, po czym podchodzi pod XXX. Z tej góry czeka nas już tylko zejście, bardzo długie obniżenie aż do Rytra. Po drodze można zboczyć do położenego blisko szlaku schroniska na Niemcowej, poza tym jednak trasa, choć urozmaicona technicznie, to nie
+        przechodzi koło żadnych charakterystycznych punktów aż do samego Rytra. Tam, tuż przed miastem, między dwiema brzozami jest zamontowana legendarna wręcz ławeczka. W tych rejonach bardzo ładniej też już widać wznoszący się z drugiej strony doliny zamek. W Rytrze schodzimy aż do samej głównej szosy, przechodzimy obok makabryły stacji benzynowej, przekraczamy Poprad i wkraczamy do drugiej częsci Beskidu Sądeckiego - pasma Jaworzyny Krynickiej
       parameters:
         - name: 4.0 / 13.0
           in: Czerwony
@@ -1006,14 +1134,17 @@ paths:
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
           description: Rytro
           type: number
-      tags: 
+      tags:
         - Beskid Sądecki
         - Trasa
+
+    ### INFO ###
+
 
   Relacja człowieka 1:
     relacje:
       summary: Relacje odcinka
       description: "AAAA <img src='bhttps://v.wpimg.pl/LTEwNzcwJSNqFmEcTB08MSJYfUhRRH57JxYsEwIoKzs3FhEKDBs_PyQofFQJBykz/'></img>"
-      tags: 
+      tags:
         - Relacje
 
