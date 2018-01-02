@@ -205,6 +205,9 @@ paths:
       tags:
         - Beskid Śląski
         - Ciekawostki
+
+    ### NOCLEG ###
+
     nocleg: #Ustroń Polana - PTTK na Stożku Wielkim
       summary: Noclegi
       description:
@@ -346,6 +349,9 @@ paths:
       tags:
         - Beskid Śląski
         - Ciekawostki
+
+    ### NOCLEG ###
+
     nocleg: #PTTK na Stożku Wielkim - Barania Góra
       summary: Noclegi
       description:
@@ -465,6 +471,9 @@ paths:
       tags:
         - Beskid Śląski
         - Ciekawostki
+
+    ### NOCLEG ###
+
     nocleg: #Barania Góra - Węgierska
       summary: Noclegi
       description:
@@ -581,6 +590,9 @@ paths:
       tags:
         - Beskid Żywiecki
         - Ciekawostki
+
+    ### NOCLEG ###
+
     nocleg: #Węgierska Górka - PTTK Hala Miziowa
       summary: Noclegi
       description:
@@ -724,6 +736,9 @@ paths:
       tags:
         - Beskid Żywiecki
         - Ciekawostki
+
+    ### NOCLEG ###
+
     nocleg: #Węgierska Górka - PTTK Hala Miziowa
       summary: Noclegi
       description:
@@ -829,6 +844,9 @@ paths:
       tags:
         - Beskid Żywiecki
         - Ciekawostki
+
+    ### NOCLEG ###
+
     nocleg: ## Babia Góra - Haka Krupowa
       summary: Noclegi
       description:
@@ -916,7 +934,10 @@ paths:
       tags:
         - Beskid Żywiecki
         - Ciekawostki
-    nocleg: #Krupowa - Jordanów
+
+    ### NOCLEG ###
+
+    nocleg: 
       summary: Noclegi
       description:
         W schronisku, lub można zboczyć ze szlaku do Zawoi
@@ -965,6 +986,77 @@ paths:
         - Gorce
         - Trasa
 
+    ### INFO ###
+
+    info:
+      summary: Some Summary XXY
+      description:
+        Informacje na temat odcinka
+      parameters:
+        - name: Wysoka
+          in: query
+          description: |
+            Pierwsze wzmianki o Wysokiej pochodzą z 1581, kiedy to stanowiła ona własność wojewody kaliskiego Kacpra Zebrzydowskiego. Na początku II wojny światowej wieś stanowiła miejsce zaciętych walk z Niemcami. W dniach 1-3 września 1939 w rejonie Wysokiej i pobliskiego Jordanowa rozegrała się jedna z największych bitew początkowej fazy kampanii wrześniowej. Dowodzona przez pułkownika Stanisława Maczka 10 Brygada Kawalerii wspomagana przez miejscowych ochotników, skutecznie stawiała opór nacierającym oddziałom niemieckiej 2 Dywizji Pancernej. Pomimo przygniatającej przewagi sił niemieckich zdołano utrzymać pozycję na tyle długo, aby uniemożliwić oskrzydlenie wycofujących się jednostek Armii Kraków. W odwecie za pomoc mieszkańców wieś została spacyfikowana. Pamiętną bitwę upamiętnia pomnik oraz ślady umocnień
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Wysoka_(powiat_suski)
+          type:
+        - name: Skawa
+          in: query
+          description: |
+            Etymologię nazwy wsi Skawa tłumaczy “Mały słownik pochodzenia i znaczenia nazw geograficznych”  od “skania” – “kręcenia się “  i odnosi się ona do rzeki Skawy – rzeczywiście bardzo krętej.
+
+            Po raz pierwszy nazwę miejscowości „Skawa” spotykamy u naszego największego kronikarza i historyka ze schyłku średniowiecza Jana Długosza, ka­nonika krakowskiego i wychowawcy synów Kazimierza Jagiellończyka. Otóż Długosz w swoim Liber Beneficiorum jeszcze nie wy­mienia Skawy, ale, jak wynika ze spisu po­borów, miejscowość istniała już w roku 1490 i należała do parafii w Mszanie. Spis poborów Królestwa Polskiego nazywa Skawę Niszava Parva. Z tegoż spisu dowiadujemy się, że jeszcze w roku 1581 Skawa należała do tej samej parafii w Mszanie i w skład jej wchodziło 15 łanów kmiecych, 10 zagród z rolą, 3 zagrody bez roli, piekarnia i łan sołtysi. Wieś należała do rodu Jordanów z Zakliczyna herbu Trąby, właścicieli rozległych dóbr zwanych „państwem jordanowskim”. Kolejno byli to kasztelan wojnicki – Mikołaj Jordan (zm. 1521) oraz jego synowie: Jan, a po nim najwybitniejszy z rodu kasztelan krakowski – Wawrzyniec Spytek (zm. 1568)
+
+            Jeśli chodzi o mieszkańców ówcze­snej Skawy, to o ich życiu nic bliż­szego nie wiemy. Prawdopodobnie zajmowali się wypasem bydła oraz wyrębem lasów, wypalaniem węgla, pędzeniem smoły, obróbką budulca. Dopiero na przełomie XIX i XX wieku następuje rozwój Skawy jak i wie­lu innych okolicznych miejscowości. Wpływa na to powstający przemysł. Wiele nazw odno­si się do dawnego hutnictwa, np. Sularzówka nad Myślenicami do huty szkła w Trzebuni, czy bardzo często spotykane w Skawie nazwi­sko Sularz, od sularzy – wytapiających szkło.
+
+            Według statystyki z roku 1889 roku wieś składała się z 284 domów i 1713 mieszkańców (820 mężczyzn i 898 kobiet). W tym okresie działała już w Skawie szkoła ludowa. Do większych zabudowań należała posesja K. br. Borowskiego właściciela Skawy – tzw. klasycystyczny dwór, parterowy z dachem sidłowym, który nie zachował się do naszych czasów.
+
+            Piękne położenie Skawy, warunki klimatyczne oraz sąsiedztwo miejscowości uzdrowiskowych zadecydowały o tym, że Zgromadzenie Salezjańskie, przychylając się do próśb miejscowej ludności, postanowiło zgodnie z życzeniem Skawian wybudować w Skawie zakład dla młodzieży oraz kościół. Początki Zakładu Salezjańskiego związane są z rodziną Koniecznych, która znała salezjanów z Oświęcimia, gdzie w zakładzie oświęcimskim wychowywał się jej syn Władysław Konieczny. Placówka salezjańska w Skawie rozpoczęła swój rozwój w 1920 r., ale został on jednak gwałtownie zahamowany z powodu wybuchu II wojny światowej.
+            Zabytki są nieliczne i wiele z nich zostało zniszczonych. Spłonął dwór dziewiętnastowieczny. W dobrym stanie jest kapliczka w środkowej Skawie.
+
+            __Źródło:__ https://skawahistoria.wordpress.com/historia-2/historia/
+          type:
+        - name: Rabka
+          in: query
+          description: |
+            Historia Rabki bezpośrednio związana jest z występującymi tu źródłami solnymi i sięga XIII wieku, kiedy klasztor Cystersów ze Szczyrzyca otrzymał upoważnienie od wojewody krakowskiego, Teodora Gryfity, do prowadzenia akcji osadniczej i wykorzystywania soli na potrzeby klasztoru. Nazwa miejscowości została wymieniona po raz pierwszy w dokumencie Bolesława Wstydliwego z 1254 roku, potwierdzającym posiadanie tych terenów przez Cystersów. Jan Długosz, powołując się na ten dokument użył wyrażenia „Sal in Rabka”.
+
+            Pierwsza lokacja Rabki miała miejsce w 1364 roku, kiedy to Kazimierz Wielki nadał Mikołajowi z Uścia przywilej na osadzenie kolonistów miedzy rzekami Rabą, Słoną, Łętownią i Kasiną. Kolejnej lokacji Rabki na prawie magdeburskim dokonano w roku 1446. Gdy Rabkę przejęli Jordanowie z Zakliczyna, kasztelan krakowski, Wawrzyniec Spytek Jordan, ufundował rabczańską parafię (1557 r.) i pierwszy kościół, który wybudowano w 1565 roku. Z niewyjaśnionych przyczyn uległ on zniszczeniu pod koniec XVI wieku. Na jego miejscu w latach 1600-1606 wzniesiono nowy, drewniany kościół pw. św. Marii Magdaleny, który istnieje do dziś.
+
+            W drugiej połowie XVI wieku wzrosło zainteresowanie rabczańskimi solankami, które cieszyły się opinią uzdrawiających. Przypuszczano, że na tych terenach mogą występować także bogate pokłady soli. W 1568 r. Jerzy Grossman uzyskał od króla Zygmunta Augusta zezwolenie na poszukiwanie i kopanie soli. Próby górniczego pozyskiwania soli nie udały się i prace zostały przerwane. 
+
+            Po rozbiorach Rabka przeszła pod panowanie austriackie. W 1818 r. zaborca, w trosce o monopol państwowy na wydobywanie soli, zabronił czerpania wód solankowych i nakazał ich zasypanie.
+
+            W latach drugiej wojny światowej uzdrowisko w Rabce było nieczynne - źródła zostały zanieczyszczone, aparatura zniszczona lub wywieziona do Niemiec. W pensjonatach przebywali ranni żołnierze niemieccy, a na koloniach i kwarantannach przebywały dzieci oficerów niemieckich. Zorganizowano tu także siedziby organizacji paramilitarnych m.in. siedziba NSDAP i szkoły policyjnej. Okupant przystąpił do eksterminacji ludności żydowskiej, stanowiącej w Rabce i okolicach duży procent społeczeństwa. Mieszkańcy Rabki prowadzili walkę partyzancką, organizowali tajne nauczanie. Niestety wycofujące się wojska niemieckie zniszczyły uzdrowisko – spalono zakład przyrodoleczniczy. Wyzwolenie przyniosły Rabce dopiero wojska radzieckie w dniu 28 stycznia 1945 roku.
+
+            Zniszczone po wojnie uzdrowisko zostało odebrane rodzinie Kadenów-Wieczorkowskich i przejęte na własność Skarbu Państwa.
+
+            W Polsce wycieńczonej wojną poważnym problemem stało się zwiększenie zachorowalności na gruźlicę zwłaszcza wśród dzieci. Rabka ze swoim klimatem zajęła więc miejsce centralnego ośrodka leczenia gruźlicy. Działalność w tym zakresie prowadziło szereg sanatoriów. Wzrastające zapotrzebowanie na miejsca dla dzieci chorych na gruźlicę sprawiło, że do Rabki przybył doktor F. Litwin – Minister Zdrowia. Podjęto rozmowy na temat utworzenia tutaj dużego ośrodka leczenia gruźlicy, które zakończyły się sukcesem w 1946 r.  W roku kolejnym otwarto pierwsze sanatorium obserwacyjne.
+
+            W 1999 roku nazwa „Rabka” została zmieniona na „Rabka-Zdrój”, która szczególnie podkreśla uzdrowiskowy charakter miejscowości.
+
+            __Źródło:__ http://it.rabka.pl/index.php/getting-started/historia-rabki
+          type:
+      tags:
+        - Gorce
+        - Ciekawostki
+
+
+    ### NOCLEG ###
+
+
+    nocleg: 
+      summary: Noclegi
+      description:
+        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      parameters:
+        - name: Schronisko PTTK na Hali Krupowej
+          in: query
+          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          type: Kuchnia
+      tags:
+        - Beskid Żywiecki
+        - Noclegi
 
           ### Rabka ###
           ### Turbacz ###
@@ -986,7 +1078,7 @@ paths:
           type: number
         - name: 8.0 / 17.0
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
-          description: Bacówka na Malinowej
+          description: Bacówka na Maciejowej
           type: number
         - name: 10.0 / 19.0
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
@@ -1002,8 +1094,58 @@ paths:
 
     ### INFO ###
 
+    info:
+      summary: Some Summary XXY
+      description:
+        Informacje na temat odcinka
+      parameters:
+        - name: Bacówka na Maciejowej
+          in: query
+          description: |
+
+            Schronisko PTTK na Maciejowej posiada nieco mylącą nazwę – znajduje się bowiem na Polanie Przysłop, na wysokości 852 m n.p.m. czyli 37 metrów wyżej niż położony spory kawałek dalej wierzchołek Maciejowej (815 m n.p.m.). Jest to jedno ze schronisk-bacówek stworzonych w drugiej połowie XX wieku przez Edwarda Moskałę. Nieduży budynek rozpoczął swoją działalność w 1977 roku. Budowa trwała wyjątkowo długo: ponad dwa lata. Ciągle przesuwany był termin otwarcia. Edward Moskała przytacza nawet w swoich wspomnieniach dotyczących schroniska historię zakładu: „Jeżeli J. Klimiński wykona w terminie bacówkę na Maciejowej i odda ją na sezon letni 1976 r. do eksploatacji to Pełnomocnik ds. bacówek PTTK idzie przez całą polanę na Przysłopie na kolanach do bacówki, gdzie oczekuje go wykonawca i turyści z gorącą herbatą. Jeżeli natomiast termin nie zostanie dotrzymany to dyrektor Klimiński przyjeżdża do Krakowa i z Rynku Podgórskiego idzie na kolanach na ulicę Nadwiślańską 2, gdzie Pełnomocnik wita go gorącą góralską herbatą”. Zakład wygrał oczywiście pełnomocnik – Edward Moskała. Zaraz po otwarciu schronisko zaskoczyło gości… obowiązkiem zmiany obuwia. Wyśmiany nakaz szybko przestał obowiązywać.
+            Bacówka wyróżnia się zjawiskowym wnętrzem – ściany dekorowane są wykonanymi w drewnie rzeźbami absolwentów Liceum Sztuk Plastycznych w Zakopanym. Zachwyt wzbudzają także pięknie rzeźbione krzesła, osłony na grzejniki i wykończenia tablic. Koniecznie trzeba zwrócić uwagę na ściankę działową oddzielającą hol od klatki schodowej – to prawdziwy majstersztyk. Nieco zaskakującym elementem jest spora ekspozycja sprzętu wspinaczkowego – w okolicy nie ma bowiem żadnych terenów do wspinaczki. Od kilkunastu lat w Bacówce odbywa się RABKON czyli ekstremalny konwent miłośników fantasy.
+          type:
+        - name: PTTK Stare Wierchy
+          in: query
+          description: |
+            Schronisko powstało z inicjatywy Oddziału Polskiego Towarzystwa Tatrzańskiego w Rabce. Obiekt oddano do użytku w 1932. Był to niewielki drewniany budynek z werandą, kuchnią, dwoma pokojami noclegowymi dla 23 osób, strychem i piwnicą. Gospodarzem schroniska był Jan Rapciak z żoną Ludwiką.
+
+            Na początku II wojny światowej obiekt uległ dewastacji, a jego mienie zostało rozkradzione. Prowizorycznie zabezpieczone, było pod opieką córki Jana Rapciak, Marysi. Przyjmowało nielicznych turystów, pełniło również rolę bazy partyzantów. 10 stycznia 1945 zostało spalone.
+
+            W 1972 Biuro Ekonomiczno-Finansowe i Zarząd Okręgu PTTK w Krakowie przystąpił do budowy nowego schroniska. Projekt obiektu wykonał Zbigniew Radziewanowski, natomiast wnętrza zaaranżowała Bożena Kępińska. Uroczyste otwarcie schroniska miało miejsce 13 stycznia 1974. Koszt budowy wyniósł 4,6 mln zł. Obiekt otrzymał imię Czesława Trybowskiego, zasłużonego działacza turystycznego, inicjatora odbudowy schroniska.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Starych_Wierchach
+          type:
+        - name: Turbacz
+          in: query
+          description: |
+            Turbacz jest najwyższym szczytem Gorców, wznosi się na wysokość 1310 m n.p.m. Z lotu ptaka przypomina wielką gwiazdę, na której wierzchołku zbiega się pięć głównych grzbietów Gorców. Góra wliczana jest do Korony Gór Polski.
+            Do początku XX wieku szczyt nazywany był Niedźwiedziem. Nie wiadomo skąd wzięła się obecna nazwa. Władysław Orkan snuł domysły, że może ona pochodzić od turbanu mgieł, który okrywał wierzchołek przed opadami deszczu. Najpopularniejsze teorie wywodzą nazwę od źródłosłowów rumuńskich; Turbacz miałby według nich pochodzić od turba – darń, torf, lub turbat – wściekły, szalony, mętny.
+            Pierwsi turyści zaczęli odwiedzać szczyt już w XIX wieku. Gorce popularyzowali w tym okresie Wincenty Pol, Ludwik Zejszner i Seweryn Goszczyński. Największym jednak ich miłośnikiem był Władysław Orkan, pochodzący z Poręby Wielkiej pisarz. Gorce stały się tłem wielu z jego powieści. Na przełomie XIX/XX wieku okolicą zainteresowało się Polskie Towarzystwo Tatrzańskie. Powstały wtedy pierwsze szlaki turystyczne, a na szczycie Turbacza można się było schronić w szałasie bacy. W 1913 na Turbaczu odbył się pierwszy zlot narciarski, w którym uczestniczył Mariusz Zaruski.
+            Dziś nadal jest to niezwykle popularny cel wycieczek. Kilkadziesiąt metrów pod szczytem funkcjonuje schronisko, a w sezonie letni przebiega tędy trasa maratonu rowerowego MTB z Rabki Zdrój na Turbacz.
+
+          type:
+      tags:
+        - Gorce
+        - Ciekawostki
 
 
+    ### NOCLEG ###
+
+
+    nocleg: 
+      summary: Noclegi
+      description:
+        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      parameters:
+        - name: Schronisko PTTK na Hali Krupowej
+          in: query
+          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          type: Kuchnia
+      tags:
+        - Beskid Żywiecki
+        - Noclegi
 
           ### Turbacz ###
           ### Lubań ###
@@ -1040,7 +1182,48 @@ paths:
     ### INFO ###
 
 
+    info:
+      summary: Some Summary XXY
+      description:
+        Informacje na temat odcinka
+      parameters:
+        - name: Wysoka
+          in: query
+          description: |
 
+            __Źródło:__ https://pl.wikipedia.org/wiki/Bystra_Podhalańska
+          type:
+        - name: Skawa
+          in: query
+          description: |
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Jordanów
+          type:
+        - name: Rabka
+          in: query
+          description: |
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Jordanów
+          type:
+      tags:
+        - Gorce
+        - Ciekawostki
+
+    ### NOCLEG ###
+
+
+    nocleg: 
+      summary: Noclegi
+      description:
+        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      parameters:
+        - name: Schronisko PTTK na Hali Krupowej
+          in: query
+          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          type: Kuchnia
+      tags:
+        - Beskid Żywiecki
+        - Noclegi
           ### Lubań ###
           ### Szczawnica Zdrój ###
 
@@ -1072,8 +1255,49 @@ paths:
     ### INFO ###
 
 
+    info:
+      summary: Some Summary XXY
+      description:
+        Informacje na temat odcinka
+      parameters:
+        - name: Wysoka
+          in: query
+          description: |
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Bystra_Podhalańska
+          type:
+        - name: Skawa
+          in: query
+          description: |
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Jordanów
+          type:
+        - name: Rabka
+          in: query
+          description: |
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Jordanów
+          type:
+      tags:
+        - Gorce
+        - Ciekawostki
 
 
+    ### NOCLEG ###
+
+
+    nocleg: 
+      summary: Noclegi
+      description:
+        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      parameters:
+        - name: Schronisko PTTK na Hali Krupowej
+          in: query
+          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          type: Kuchnia
+      tags:
+        - Beskid Żywiecki
+        - Noclegi
           ### Szczawnica Zdrój ###
           ### PTTK Przehyba ###
 
@@ -1106,6 +1330,51 @@ paths:
         - Beskid Sądecki
         - Trasa
 
+    ### INFO ###
+
+    info:
+      summary: Some Summary XXY
+      description:
+        Informacje na temat odcinka
+      parameters:
+        - name: Wysoka
+          in: query
+          description: |
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Bystra_Podhalańska
+          type:
+        - name: Skawa
+          in: query
+          description: |
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Jordanów
+          type:
+        - name: Rabka
+          in: query
+          description: |
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Jordanów
+          type:
+      tags:
+        - Beskid Sądecki
+        - Ciekawostki
+
+
+    ### NOCLEG ###
+
+
+    nocleg: 
+      summary: Noclegi
+      description:
+        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      parameters:
+        - name: Schronisko PTTK na Hali Krupowej
+          in: query
+          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          type: Kuchnia
+      tags:
+        - Beskid Żywiecki
+        - Noclegi
 
           ### PTTK Przehyba ###
           ### Rytro ###
@@ -1139,6 +1408,49 @@ paths:
         - Trasa
 
     ### INFO ###
+
+    info:
+      summary: Some Summary XXY
+      description:
+        Informacje na temat odcinka
+      parameters:
+        - name: Wysoka
+          in: query
+          description: |
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Bystra_Podhalańska
+          type:
+        - name: Skawa
+          in: query
+          description: |
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Jordanów
+          type:
+        - name: Rabka
+          in: query
+          description: |
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Jordanów
+          type:
+      tags:
+        - Beskid Sądecki
+        - Ciekawostki
+
+    ### NOCLEG ###
+
+
+    nocleg: 
+      summary: Noclegi
+      description:
+        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      parameters:
+        - name: Schronisko PTTK na Hali Krupowej
+          in: query
+          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          type: Kuchnia
+      tags:
+        - Beskid Żywiecki
+        - Noclegi
 
 
   Relacja człowieka 1:
