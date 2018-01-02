@@ -1187,23 +1187,61 @@ paths:
       description:
         Informacje na temat odcinka
       parameters:
-        - name: Wysoka
+        - name: Schronisko PTTK na Turbaczu
           in: query
           description: |
+            Pierwsze schronisko na Turbaczu wybudował w 1925 Oddział Polskiego Towarzystwa Tatrzańskiego „Gorce” w Nowym Targu na polanie Wisielakówka. Służyło turystom tylko do 1933, kiedy to w nocy z 16 na 17 listopada podpalili go prawdopodobnie kłusownicy, którzy widzieli dla siebie zagrożenie w zwiększającym się ruchu turystycznym.
 
-            __Źródło:__ https://pl.wikipedia.org/wiki/Bystra_Podhalańska
+            PTT rozpoczął budowę drugiego schroniska w górnym skraju Hali Długiej w lipcu 1934, którą przerwał wybuch II wojny światowej. W 1934 wykonano roboty ziemne, fundamenty, kamienną kondygnację przyziemia oraz wzniesiono duży budynek gospodarczy, który służył również tymczasowo turystom. W 1935 obiekt podwyższono o kolejną kamienną kondygnację i przykryto prowizorycznym dachem. Wykończono również parter, umożliwiając nocleg 40 osób (dodatkowo w budynku gospodarczym mogło nocować 30 osób). W 1936 budynek nakryto docelowym dachem pokrywając go blachą. Do 1938 budynek został wykończony do stanu surowego. Dysponował 100 miejscami noclegowymi – 50 na łóżkach i 50 na siennikach. Gospodynią obiektu była Aniela Batkiewicz.
+
+            W trakcie II wojny światowej służył nielicznym turystom, ale przede wszystkim partyzantom Konfederacji Tatrzańskiej, a później Armii Krajowej, którzy mieli tutaj swój punkt kontaktowy. W lipcu 1943 podczas dużej obławy Niemcy zajęli schronisko, zmuszając partyzantów do ewakuacji na polanę Stawieniec pod Kudłoniem. Aniela Batkiewicz została aresztowana, a pracująca w schronisku Albina Białoń zamordowana przez Niemców. 12 listopada 1943 schronisko spłonęło – zniszczyli je sami partyzanci, chcąc zapobiec rozlokowaniu niemieckich patroli w budynku. Z obiektu pozostały kamienne ruiny.
+
+            Budowę trzeciego, obecnie istniejącego schroniska, rozpoczęło w 1953 Polskie Towarzystwo Turystyczno-Krajoznawcze, przy wsparciu subwencji państwowej. Obiekt zaprojektowała inż. Anna Górska, jako okazały kamienny budynek o dwóch prostopadłych skrzydłach z arkadowym wejściem i strzelistym dachem z mansardami, kryty gontem. Jedno ze skrzydeł powstało z wykorzystaniem ocalałej części przedwojennego obiektu. Przed jego ukończeniem, 21 października 1956, schronisku uroczyście nadano imię Władysława Orkana (imię poety nosiło również pierwsze schronisko pod Turbaczem z 1925). Oficjalnie obiekt został otwarty 21 sierpnia 1958.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Schronisko_PTTK_na_Turbaczu
           type:
-        - name: Skawa
+        - name: Hala Długa
           in: query
           description: |
+            Położona jest na wysokości 1160-1270 m n.p.m. i ma powierzchnię 33,77 ha. Składa się z 3 polan: Wolnica, Wzorowa i Wierchy Zarębskie. Znajduje się na obszarze Gorczańskiego Parku Narodowego, który opracował i zamontował na polanie tablice informacyjne z opisem polany.
 
-            __Źródło:__ https://pl.wikipedia.org/wiki/Jordanów
+            Pierwsze polany na szczytach Gorców powstały w XIV w. w wyniku działalności Wołochów, którzy w Karpatach wprowadzili pasterstwo na szczytach gór, kontynuowane później przez mieszkańców tych okolic – Zagórzan. Jeszcze długo po II wojnie światowej polana była intensywnie wypasana. W latach 90. zaprzestano wypasu. By jednak nie dopuścić do zarośnięcia polany lasem i zachować kulturę pasterską, w 2003 Gorczański Park Narodowy ponownie wprowadził na polanie kulturowy wypas owiec. Na środku polany, pod siodłem grzbietu (1202 m), znajduje się bacówka, w której można kupić oscypki i napić się żętycy. Obok bacówki krzyż upamiętniający śmierć młodej dziewczyny, Albiny Białoń, która została 17 lipca 1943 r. zastrzelona przez Niemców, gdy usiłowała ostrzec partyzantów. Do 1966 r. był on drewniany, obecny żelazny ufundowali pracownicy AGH w Krakowie.[1] W czasie II wojny światowej bowiem schronisko na Turbaczu i inne budynki często służyły partyzantom za schronienie. W górnym, wschodnim końcu polany znajduje się budynek, tzw. „Chatka u Metysa”, w którym mieściło się (już nieczynne) noclegowisko pozbawione cywilizacyjnych udogodnień. Właściwe schronisko PTTK na Turbaczu znajduje się na górnym, zachodnim końcu Hali Długiej, na polanie Wolnica.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Hala_Długa
           type:
-        - name: Rabka
+        - name: Przełęcz Knurowska
           in: query
           description: |
+            Szeroka przełęcz w Gorcach, oddzielająca rozróg Turbacza od Pasma Lubania. Przebiega przez nią asfaltowa, kręta droga powiatowa nr 25404, prowadząca z Harklowej przez Ochotnicę Górną i Ochotnicę Dolną do Tylmanowej. Po północnej stronie przełęczy znajduje się wieś Ochotnica Górna, po południowej wieś Knurów, od której pochodzi nazwa przełęczy. Przełęcz Knurowska bywa także nazywana Przełęczą Ochotnicką lub Furcówką. Jest jedyną przejezdną przełęczą przez Gorce w kierunku południe-północ.
 
-            __Źródło:__ https://pl.wikipedia.org/wiki/Jordanów
+            Droga przebiegająca przez tę przełęcz, tzw. Droga Knurowska wykonana została za czasów zaboru austriackiego w celach militarnych, bardzo solidnie, jak na możliwości owych czasów. We wrześniu 1939 rejon przełęczy dozorowany był przez liczący kilkunastu żołnierzy patrol Oddziału Wydzielonego "Roman", dowodzonego przez kpt. Romana Wróblewskiego. Miał on za zadanie obserwować ruchy nieprzyjaciela i ewentualnie powstrzymać go. 3 IX dostrzegł on zmierzającą ku przełęczy i liczącą 5 km długości zmotoryzowaną kolumnę wojsk niemiecko-słowackich. Wysłał za pomocą gołębi pocztowych meldunek do sztabu i z uwagi na miażdżącą przewagę nieprzyjaciela wycofał się z przełęczy. Wojska niemieckie ze słowackimi oddziałami przekroczyły w tym samym dniu przełęcz i zajęły wieś Ochotnicę Górną.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Przełęcz_Knurowska
+          type:
+        - name: Studzionki
+          in: query
+          description: |
+            Przysiółek w Paśmie Lubania w Gorcach, położony na wysokości 840-920 m n.p.m.
+
+            W dolnej części polany, na wysokości 869 m znajduje się źródło i wypływa z niego Ciepielowski Potok. Gwarowo źródło określa się w tych okolicach jako studzionka i od tego określenia przysiółka pochodzi nazwa przysiółka. Studzionki znajdują się na wielkiej polanie na grzbiecie Pasma Lubania. Otwiera się stąd ciekawy widok na Tatry, Pieniny Spiskie i Podhale. Można podziwiać także masyw Gorca oraz szczyty Beskidu Wyspowego.
+
+            Ogółem na Studzionkach znajduje się 11 domów, w większości drewnianych i utrzymanych w lokalnym gorczańskim stylu. Cztery z nich to gospodarstwa zamieszkane przez wielopokoleniowe rodziny gorczańskich górali, na resztę składają się zaś domy letniskowe oraz dom mieszczący prywatne muzeum etnograficzne. W budowie znajdują się dwa następne, nie nawiązujące już do tradycyjnej architektury gorczańskiej. Rodowici mieszkańcy przysiółka noszą charakterystyczne, regionalne nazwiska: Chrobak, Kapłaniak, Król i Plewa, a utrzymują się z turystyki oraz rzemiosła.
+
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Studzionki_(Gorce)
+          type:
+        - name: Lubań
+          in: query
+          description: |
+            Lubań ma 2 wierzchołki, według mapy Geoportalu obydwa tej samej wysokości – 1211 m. Wierzchołek wschodni (Średni Groń) jest zarośnięty lasem i pozbawiony widoków, wierzchołek zachodni słynie z rozległych panoram, szczególnie efektowne widoki bywają wczesnym rankiem. Różne źródła podają różne wysokości: na mapach wysokość określona jest na 1211 m n.p.m., ale tablica informacyjna na szczycie Lubania podaje wysokość 1225 m, podobnie przewodnik Gorce podaje wysokość wyższego (wschodniego) szczytu na 1225 m, a niższego na 1211 m.
+
+            Pomiędzy dwoma wierzchołkami Lubania rozpościera się polana Wierch Lubania, dogodny punkt widokowy na Tatry, Pieniny i Beskidy, węzeł szlaków turystycznych. Potoki spływające z północnych stoków Lubania uchodzą do Ochotnicy, ze stoków południowych do Krośnicy lub Zbiornika Czorsztyńskiego. Od południowej strony Lubań sąsiaduje z dużo niższym Wdżarem (767 m), oddzielony od niego szerokim siodłem przełęczy Drzyślawa (650 m)[3].
+
+            W 1912 wyznakowano pierwszy szlak turystyczny z Krościenka. Przy Samorodach w latach 1936–1939 Tatrzańskie Towarzystwo Narciarzy wybudowało schronisko turystyczne o około 100 miejscach noclegowych. Podczas II wojny światowej służyło głównie partyzantom i ukrywającej się przed Niemcami okolicznej ludności, był tu punkt etapowy i zaopatrzeniowy polskich partyzantów. W odwecie Niemcy 24 września 1944 r. spalili schronisko, przy okazji zabijając dwóch partyzantów. Kolejne schronisko zbudowane zostało przez PTTK w latach 1973–1974 na polanie Wyrobki, na południe od szczytu. Była to bacówka – mały obiekt przeznaczony dla turystyki kwalifikowanej. Spłonęła doszczętnie w styczniu 1978 r. Kamienne fundamenty i piwnice po obydwu tych schroniskach istnieją do dzisiaj.
+
+            Na polanie działa od lat 60. XX w. studencka baza namiotowa Lubań. Czynna jest w miesiącach wakacyjnychNa polanie działa od lat 60. XX w. studencka baza namiotowa Lubań. Czynna jest w miesiącach wakacyjnych
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Lubań_(Gorce)
           type:
       tags:
         - Gorce
