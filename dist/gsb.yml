@@ -1518,6 +1518,229 @@ paths:
         - Noclegi
 
 
+          ### Rytro ###
+          ### Krynica Górska
+
+
+  Rytro - Krynica Górska:
+    trasa:
+      summary: Długie zejście w stronę Popradu
+      description:
+        Podejście z Rytra
+      parameters:
+        - name: 4.0 / 13.0
+          in: Czerwony
+          description: Rytro
+          type: number
+        - name: 8.0 / 17.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Schronisko Cyrla
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Schronisko PTTK na Hali Łabowskiej
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Jaworzyna Krynicka
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Zimny Potok(?)
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Krynica Górska
+          type: number
+      tags:
+        - Beskid Sądecki
+        - Trasa
+
+    ### INFO ###
+
+    info:
+      summary: Some Summary XXY
+      description:
+        Informacje na temat odcinka
+      parameters:
+        - name: Schronisko Cyrla
+          in: query
+          description: |
+            Prywatne schronisko (oficjalnie Chata Górska Cyrla) położone w Beskidzie Sądeckim, w paśmie Jaworzyny na wysokości 844 m n.p.m. Nazwa wzięła się od przysiółka Rytra – Cyrli. Najbliższym szczytem jest Makowica (948 m n.p.m.) – schronisko leży na polanie Cyrla, na jego południowym zboczu.
+
+            Początki schroniska to rok 1999 – w zrujnowanym gospodarstwie utworzono punkt gastronomiczny. Oficjalna data rozpoczęcia działalności w obecnej formie to 2001. Schronisko prowadzą dawni gospodarze schroniska na Hali Łabowskiej.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Schronisko_Cyrla
+          type:
+        - name: Schronisko PTTK na Hali Łabowskiej
+          in: query
+          description: |
+            Schronisko położone jest w Paśmie Jaworzyny Krynickiej w Beskidzie Sądeckim na wysokości 1061 m n.p.m.
+            Schronisko zaczęło powstawać od października 1953 roku, kiedy to pojawił się schron turystyczny- pierwszy obiekt noclegowy na Hali Łabowskiej. Następnie dobudowywano kolejne pokoje i pomieszczenia użytkowe. W 1973 roku nastąpiła jego modernizacja wg projektu architekta mgr inż. Władysława Pawlicy
+
+            Położone na terenie Popradzkiego Parku Krajobrazowego, którego bogactwem są piękne leśne krajobrazy i obfitość wód mineralnych, schronisko jest doskonałą bazą wypadową na liczne szlaki turystyczne Beskidu Sądeckiego. W pobliżu znajdują się również ciekawe pomniki pamięci z czasów walk partyzanckich, jak również ścieżki przyrodnicze i rezerwaty. W Popradzkim Parku Krajobrazowym nie brak też zwierząt, można tu spotkać jelenie, żbiki, rysie, czarne bociany, głuszce a nawet wilki i niedźwiedzie.
+
+            __Źródło:__ http://www.halalabowska.pttk.pl/index.php?page=mainpage
+          type:
+        - name: Jaworzyna Krynicka (1114m.)
+          in: query
+          description: |
+            Szczyt w Beskidzie Sądeckim. Znajduje się w grani głównej wschodniej części Pasma Jaworzyny. W północno-zachodnim kierunku do Bukowej (1077 m n.p.m.) grań ta jest względnie równa i niemal płaska, natomiast w południowo-wschodnim kierunku z Jaworzyny dość stromo, poprzez wierzchołki Bystrego Wierchu, Palenicy, Szczawnej Góry, Smereczyn i Jastrzębskiej Góry opada w widły Kryniczanki, Muszynki i Jastrzębika
+            Jaworzyna Krynicka jest silnie zagospodarowana. Na jej wierzchołek kursuje z doliny Czarnego Potoku kolej gondolowa. Dzięki temu, jak również dzięki dużym trawiastym obszarom na jej grzbiecie, jest Jaworzyna dobrym i masowo odwiedzanym punktem widokowym. Panorama widokowa (z różnych miejsc) obejmuje cały horyzont. Jest też zimą ośrodkiem narciarskim, jednym z największych w Polsce. W większości Jaworzyna jest zalesiona. Niegdyś na grzbiecie były liczne polany, użytkowane przez Łemków. Po ich wysiedleniu zostały w większości zalesione. Później na stokach wycięto część lasu na potrzeby kolejki gondolowej i narciarskich tras zjazdowych. Obecnie trasy te są dobrymi punktami widokowymi. Są też jaskinie i wychodnie. Największa z nich znajduje się na wschodnim stoku. Jest to Kamień Diabelski.
+            Pierwotnie Jaworzynę porastał las bukowo-jodłowy. Las świerkowy na grzbiecie powstał w wyniku zalesienia. Oprócz tych trzech podstawowych gatunków drzew na Jaworzynie można spotkać jawory, jesiony, wiązy, modrzewie, sosny, jarzębiny, brzozy, iwy i olsze
+
+
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Jaworzyna_Krynicka
+          type:
+        - name: Kamień Diabelski
+          in: query
+          description: |
+            Pomnik przyrody nieożywionej na wschodnich stokach Jaworzyny Krynickiej, najwyższego szczytu w Paśmie Jaworzyny w Beskidzie Sądeckim. Znajduje się w lesie, przy czerwonym i zielonym szlaku turystycznym, które na tym odcinku biegną wspólnie narciarską trasą zjazdową. Kamień znajduje się w lesie powyżej sztucznego zbiornika z wodą[1]. Jest to zbudowany z piaskowców ostaniec mający kształt dużego grzyba o wysokości około 5 m. Jego forma została ukształtowana przez działania erozyjne i niejednakową wytrzymałość na wietrzenie różnych składników skał.
+
+            Pochodzenie kamienia wśród ludności miejscowej owiane jest dwoma legendami. Pierwsza z nich mówi, że kamień ten został upuszczony przez diabła, który niósł go, by zniszczyć nim zdroje krynickie. Jednak w Krynicy zapiał kogut i diabeł upuścił kamień nie doniósłszy go[2].
+
+            Druga legenda ma formę bardziej rozbudowaną: Dawno temu rycerz z Muszyny zakochał się w krynickiej pasterce. Ojciec rycerza nie chciał zgodzić się na małżeństwo, bo dziewczyna była biedna. Kiedy król wezwał na wyprawę wojenną, wysłał na nią syna, myśląc, że zapomni o ubogiej ukochanej. Gdy po wyprawie rycerz wracał w rodzinne strony, na Górze Parkowej w Krynicy napadli go zbójcy. Jęki rannego usłyszała pasterka, pasąca w pobliżu owce. Zobaczywszy ukochanego, uklękła i zaczęła modlić się do Matki Boskiej, prosząc o jego uzdrowienie. Wielkie było jej zdziwienie, gdy zobaczyła wypływające tuż obok źródełko. Obmyła nim rany rycerza i ten wnet ozdrowiał, a ojciec zgodził się na małżeństwo syna z biedną pasterką. Kiedy diabły usłyszały o istnieniu w Krynicy cudownego źródełka z życiodajną wodą, postanowiły je zniszczyć. Jeden z nich podniósł z Tatr potężny kamień, by go na nie zrzucić. Ale pod szczytem Jaworzyny zapiał kur – diabeł przestraszył się i upuścił kamień. Leży tam do dziś.
+
+            **Diabelski Kamień znajduje się niemal dokładnie w połowie Głównego Szlaku Beskidzkiego**
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Kamie%C5%84_Diabelski_na_Jaworzynie_Krynickiej
+          type:
+        - name: Czarny Potok
+          in: query
+          description: |
+
+            Część Krynicy-Zdroju położona w dolinie Czarnego Potoku, oddzielona od centrum miasta górą Krzyżową. Mieści się tam dolna stacja kolejki gondolowej na Jaworzynę Krynicką oraz kilka luksusowych hoteli.
+
+          type:
+        - name: Krynica-Zdrój
+          in: query
+          description: |
+
+            Wieś założona w 1547 r. przez Danka z Miastka (obecnie Tylicz) jako Krzenycze. Od początku istnienia do pierwszego rozbioru wchodziła w skład tzw. Kresu Muszyńskiego należącego do biskupów krakowskich. W 1783 r. Krynicę wraz z całymi dobrami muszyńskimi przejął skarb austriacki, który wkrótce wysłał tu krajowego radcę górniczego, profesora uniwersytetu lwowskiego Baltazara Hacqueta celem zbadania i oceny krynickich źródeł. Jego pozytywna opinia legła u podstaw późniejszego rozwoju krynickiego zdrojowiska.
+
+            W 1793 r. austriacki komisarz rządowy z pobliskiego Nowego Sącza Franciszek Stix von Saunbergen zakupił tu ziemię ze źródłem wody mineralnej z myślą o założeniu zdrojowiska. Powstały pierwsze domy zdrojowe, ale gwałtowny rozwój nastąpił dopiero po 1856 r. dzięki działalności prof. Józefa Dietla. W 1877 r. kuracjuszy przyjmowało 11 domów uzdrowiskowych oraz w 64 domach prywatnych, w tym samym okresie powstała Komisja Zdrojowa. U schyłku stulecia Krynickie Zdroje odwiedzało blisko 6000 kuracjuszy rocznie. W 1885 roku przybył do uzdrowiska znany hydroterapeuta Henryk Ebers, zostając m.in. dyrektorem CK. Zakładzie Hydropatycznym, radnym, inicjatorem budowy jednej z altan pijalni wód.
+
+            Dr Ebers zaprosił w 1909 r. do Krynicy ze Lwowa geologa Rudolfa Zubera, który stał się kolejną ikoną Krynicy. W wyniku głębokich na 810 m wierceń odkrył wodę, jedną z najsilniejszych w Europie szczaw alkaicznych, zwaną od jego nazwiska Wodą Zuber.
+
+            Dalszy prężny rozwój uzdrowiska przypada na pierwsze lata XX w., powstają nowe wille i pensjonaty. W 1911 r. doprowadzona została linia kolejowa co spowodowało napływ nowych kuracjuszy, w tym samym roku Krynica uzyskała prawa miejskie. W rok przed wybuchem II wojny światowej Krynicę odwiedzało rocznie 38 000 osób. W styczniu 1937 r. w Krynicy bawiła w podróży poślubnej przyszła królowa Holandii, księżniczka Juliana wraz z mężem księciem Bernardem. W okresie od stycznia 1944 r. do lutego 1945 r. Krynica była siedzibą ordynariusza apostolskiego Łemkowszczyzny Ołeksandera Małynowśkiego. Pod okupacją Krynica znajdowała się do 18 stycznia 1945 r. Wycofujący się Niemcy zabrali praktycznie wszystkie urządzenia, a wkraczające wojska Armii Czerwonej doszczętnie zdewastowały, co pozostało. Krynica z wojny odrodziła się tak naprawdę pod koniec lat 50. XX w.
+
+            Poza istniejącą już koleją ziemno-linową z 1937 r. na Górę Parkową w 1997 r. uruchomiono kolejkę gondolową na Jaworzynę (1114 m n.p.m.), która może przewieźć 1200 osób na godzinę
+
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Krynica-Zdrój
+          type:
+      tags:
+        - Beskid Sądecki
+        - Ciekawostki
+
+    ### NOCLEG ###
+
+
+    nocleg: 
+      summary: Noclegi
+      description:
+        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      parameters:
+        - name: Schronisko PTTK na Hali Krupowej
+          in: query
+          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          type: Kuchnia
+      tags:
+        - Beskid Sądecki
+        - Noclegi
+
+  ### Krynica Górska ###
+  ### Hańczowa 
+
+
+  Krynica Górska - Hańczowa:
+    trasa:
+      summary: Długie zejście w stronę Popradu
+      description:
+        Podejście z Rytra
+      parameters:
+        - name: 4.0 / 13.0
+          in: Czerwony
+          description: Krynica-Zdrój
+          type: number
+        - name: 8.0 / 17.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Mochanaczka Niżna
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Banica
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Ropki
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Hańczowa
+          type: number
+      tags:
+        - Beskid Niski
+        - Trasa
+
+    ### INFO ###
+
+    info:
+      summary: Some Summary XXY
+      description:
+        Informacje na temat odcinka
+      parameters:
+        - name: Mochnaczka Niżna
+          in: query
+          description: |
+            Wieś Mochnaczka została założona w na prawie wołoskim w 1589 przez Jana Świątkowskiego z przywileju nadanego przez biskupa Myszkowskiego (tereny te należały do Klucza Muszyńskiego, będącego własnością biskupią). Parafię greckokatolicką w Mochnaczce, podległą dekanatowi muszyńskiemu uposażył w 1626 r. biskup M. Szyszkowski. Z tego też roku pochodził pierwszy dzwon cerkiewny, ważący 300 kg. W 1648 z gruntów wsi wyodrębniła się Mochnaczka Niżna. W XVIII i XIX w. liczba ludności – głównie Łemków wyznania greckokatolickiego – wynosiła od 500 do 800 osób. W 1936 parafia greckokatolicka została włączona do Apostolskiej Administracji Łemkowszczyzny. We wsi zamieszkiwało wtedy 788 grekokatolików, 21 rzymskich katolików i 33 żydów. Po II wojnie światowej, w ramach Akcji Wisła, Łemkowie zostali wysiedleni na Ziemie Odzyskane.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Mochnaczka_Niżna
+          type:
+        - name: Banica
+          in: query
+          description: |
+            Jedna z później lokowanych wsi w regionie: przywilej lokacyjny wydał w 1574 r. biskup krakowski Franciszek Krasiński Iwanowi, synowi Jaśka z niedalekiej Śnietnicy. Nazwę wzięła wieś od nazwy przepływającego przez nią potoku. Od początku istnienia do rozbiorów należała ona do "państwa muszyńskiego" biskupów krakowskich, uchodząc w nim za jedną z biedniejszych. W inwentarzu z 1668 r. zanotowano w niej 22 kmieci gospodarujących na 15 łanach ziemi.
+
+            Przed II wojną światową Banica liczyła ponad 500 mieszkańców - prawie wyłącznie Łemków. Część z nich wyjechała tuż po ukończeniu wojny na Ukrainę, a większość pozostałych została wysiedlona w 1947 r. w ramach Akcji „Wisła”. Po 1947 r. ponownie zasiedlili ją polscy osadnicy, przybyli głównie z Podhala i Sądecczyzny.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Banica_(gmina_U%C5%9Bcie_Gorlickie)
+          type:
+        - name: Ropki
+          in: query
+          description: |
+            Pierwsze wzmianki o wsi pochodzą z 1581 roku. Lokowana została na prawie wołoskim a jej właścicielem był Adam Brzeziński. Pierwsza cerkiew powstała około 1610 roku. Prawdopodobnie w 1801 r. na terenie wsi powstała nowa greckokatolicka cerkiew pod wezwaniem Narodzenia Bogarodzicy (obecnie znajduje się w Muzeum Budownictwa Ludowego w Sanoku). W Ropkach warto zobaczyć miejsce po cerkwi oraz przylegający do niego cmentarz.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Ropki
+          type:
+        - name: Hańczowa
+          in: query
+          description: |
+            Hańczowa powstała w 1480, założona na prawie wołoskim przez Gładyszów[2]. W 1581 wieś należała do Adama Brzeźińskiego, w 1680 do Jana Zborowskiego, a w 1799 do Jana Rudnickiego. W 1800 powstała w Hańczowej pierwsza szkoła podstawowa. Według spisu z 1921 wieś liczyła 724 mieszkańców w tym 685 grekokatolików 24 rzymskokatolików i 15 Żydów. Po 1931 wieś przeszła na prawosławie. Z kolei według spisu z 1936 mieszkało we wsi 1189 osób. Po deportacjach ludności łemkowskiej w latach 1945–1947 wiele osób powróciło po 1956. Obecnie Hańczowa to jedno z większych skupisk Łemków.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Hańczowa
+          type:
+      tags:
+        - Beskid Niski
+        - Ciekawostki
+
+    ### NOCLEG ###
+
+
+    nocleg: 
+      summary: Noclegi
+      description:
+        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      parameters:
+        - name: Schronisko PTTK na Hali Krupowej
+          in: query
+          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          type: Kuchnia
+      tags:
+        - Beskid Żywiecki
+        - Noclegi
+
   Relacja człowieka 1:
     relacje:
       summary: Relacje odcinka
