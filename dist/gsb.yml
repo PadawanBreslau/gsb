@@ -1739,8 +1739,216 @@ paths:
           type: Kuchnia
       tags:
         - Beskid Żywiecki
+        - Nocleg
+
+  ### Hańczowa ###
+  ### PTTK Bartne
+
+
+  Hańczowa - Bacówka PTTK w Bartnem:
+    trasa:
+      summary: Długie zejście w stronę Popradu
+      description:
+        Podejście z Rytra
+      parameters:
+        - name: 4.0 / 13.0
+          in: Czerwony
+          description: Hańczowa
+          type: number
+        - name: 8.0 / 17.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Kozie Żebro
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Rotunda
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Zdynia
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Wołowiec
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Bacówka PTTK w Bartnem
+          type: number
+      tags:
+        - Beskid Niski
+        - Trasa
+
+    ### INFO ###
+
+    info:
+      summary: Some Summary XXY
+      description:
+        Informacje na temat odcinka
+      parameters:
+        - name: Kozie Żebro
+          in: query
+          description: |
+            Szczyt w zachodniej części Beskidu Niskiego.
+
+            Leży w dość długim i wąskim ramieniu górskim, odgałęziającym się od głównego grzbietu Karpat w rejonie szczytu Obycz (788 m n.p.m.) i schodzącym w kierunku północno-zachodnim, w widły Ropy i Zdyni, na północny wschód od Wysowej. Wraz z położonymi w tym samym ramieniu szczytami Jaworzynki (869 m n.p.m., ok. 1,9 km na południowy wschód) i szczytu zwanego Skałka (820 m n.p.m., ok. 1,8 km na północny zachód) tworzy charakterystyczny, dość wyrównany wał górski o stromych stokach, dobrze wyróżniający się w panoramach.
+
+            "Oryginalną nazwę nadali podobno temu szczytowi austriaccy kartografowie, którzy znaleźli na nim szkielet sarny, potocznie zwanej tu kozą"
+            __Źródło:__ https://pl.wikipedia.org/wiki/Kozie_Żebro
+          type:
+        - name: Rotunda(771 m.)
+          in: query
+          description: |
+            Sszczyt górski w Beskidzie Niskim. Leży w bocznym ramieniu, które w szczycie Jaworzyny Konieczniańskiej odgałęzia się od głównego grzbietu Karpat w kierunku północnym i przez szczyty Dział (712 m n.p.m.) i właśnie Rotundę opada w widły Zdyni i Regetówki nad Smerekowcem. Ma formę dość kształtnej kopy (stąd nazwa "rotunda"), nieco wyciągniętej tylko w kierunku północno-wschodnim, o stromych, nieznacznie rozczłonkowanych stokach. Obecnie cała zalesiona.
+
+            Na szczycie Rotundy znajduje się cmentarz wojenny nr 51 z I wojny światowej, a u stóp działa studencka baza namiotowa w Regietowie prowadzona przez Studenckie Koło Przewodników Beskidzkich w Warszawie (SKPB Warszawa). Staraniem członków i sympatyków SKPB Warszawa, cmentarz w ostatnich latach został w dużym stopniu wyremontowany. Założenie cmentarza zaprojektował Dušan Jurkovič[2]. Pochowano tu 42 żołnierzy austro-węgierskich oraz 12 rosyjskich poległych w lutym i marcu 1915 roku.
+
+            Obiekt na planie koła otoczony jest kamiennym murkiem. Pierwotnie stało na cmentarzu 5 wysokich drewnianych wież – krzyży utrzymanych w stylistyce łemkowskiej – centralna o wysokości 16 metrów i 4 poboczne, 12 – metrowe[3]. W maju 1979 wszystkie wieże były jeszcze oszalowane. W roku 1980 cmentarz został wpisany do rejestru zabytków, jednak nie rozpoczęto żadnych prac konserwatorskich. Zachowały się fragmenty trzech z pięciu drewnianych wież.
+
+            W osiemdziesiątą rocznicę Operacji Gorlickiej (maj 1915) w 1995 roku rozpoczęto przy pomocy Austriackiego Czarnego Krzyża oczyszczanie i zabezpieczanie terenu cmentarza. Z inicjatywy SKPB w Warszawie zawiązano Stowarzyszenie Społeczny Komitet Odbudowy Cmentarza Wojennego na Rotundzie[4]. W roku 2004, dzięki pomocy finansowej Austriackiego Czerwonego Krzyża wykonano nowe 24 krzyże nagrobne i tablice z nazwiskami. W roku 2008 przeprowadzono rekonstrukcję jednej z wież, a w kolejnym roku – drugiej. W 2013 roku postawiono fundamenty pod kolejną mniejszą wieżę a na jesieni 2014 została ukończona. W roku 2016 powstały dwie ostatnie odbudowane wież
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Rotunda_(góra)
+          type:
+        - name: Zdynia
+          in: query
+          description: |
+            Zdynia sięga początkami XIV wieku, kiedy to w 1316 zamieszkał w Szymbarku, Paweł Gładysz h. Gryf, mieszczanin z Nowego Sącza, pierwszy tenut Szymbarku z rodu Gładyszów ok. 1330, podrządczy sądecki, który wykazał się jako rycerz w walkach obrony Polski.
+
+            Jego syn Jan Gładysz (zarządca dóbr królewskich) podrządczy sądecki, rządca sądecki (1356) właściciel Szymbarka, był właścicielem terenów gorlickich, wszak 27 października 1359 w Sączu za zasługi swoje i ojca od Kazimierza Wielkiego otrzymał tereny po obu stronach rzeki Zdyni Wielkiej i Zdyni Małej, cały las po obu brzegach rzeki Ropy, aby tam lokować mógł wsie na prawie magdeburskim. Potem przejęli Zdynie potomkowie Piotr Gładysz z Szymbarku Mikołaj Gładysz z Łosia, burgrabia muszyński, w 1419 oczyszczony z zarzutu nieszlachectwa.
+
+            Potem rezydencję przejął Stanisław Gładysz z Kowalowa h. Gryf, tenut Szymbarku, dziedzic Kowalowej, Gilowej (od 1477), Uścia, komornik ziemski biecki 1486, sędzia grodzki biecki mąż Katarzyny Barczkowskiej c. Jakuba Barczkowskiego. W 1486 Jan Gładysz z Szymbarku nabył w tym terenie gorlickim miejscowości, takie jak np. pozostałe części wsi Polna od Jakuba Staszkowskiego, syna Stanisława za 400 grzywien. Po jego śmierci, opiekunem małoletnich dzieci dziedziców Bielanki był w 1504 bratanek Jakub Gładysz z Kowalowych. Po osiągnięciu wieku dorosłego, dziedzictwo gorlickie przejął syn Jana, Erazm Gładysz. Dwór postawiony w 1540 stanowił centrum władzy rodu polskich rycerzy Gładyszów tzw. „dominium Ropa” z którego zarządzali pobliskimi terenami klucza Gorlickiego. W 1557 właścicielem wsi był Stanisław Gładysz. Klucz szymbarski był następnie w posiadaniu Szymona Gładysza pisarza grodzkiego spiskiego 1561; właściciel Zdyni, Polany, Szymbarka, i Szymanowic 1581. Ostatnim z rodu Gładyszów i tej miejscowości był Paweł Gładysz, syn Szymona, do którego należał Szymbark do 1590. Piotr Gładysz, zeznał w testamencie z 1611, że Gładyszowie na zawsze przenoszą się z ziemi bieckiej w Sandomierskie. Na miejsce Gładyszów przybyli Strońscy, później Siedleccy, Bronikowscy. Z końcem XVIII w. nabył tę miejscowość ks. Jan Bochniewicz prałat gnieźnieński. W 1808 przekazał on klucz szymbarski na własność swym siostrom i siostrzeńcom.
+            Ze Zdyni pochodził Maksym Sandowycz – święty, męczennik prawosławny, którego grób znajduje się na cmentarzu parafialnym. W Zdyni co roku odbywa się Święto Kultury Łemkowskiej – „Łemkowska Watra”.
+
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Zdynia
+          type:
+        - name: Bacówka PTTK w Bartnem
+          in: query
+          description: |
+            Schronisko turystyczne, położone nad wsią Bartne na stokach Mareszki (801 m n.p.m.) w paśmie Magury Wątkowskiej Beskidu Niskiego. Bacówka została otwarta w 1977 roku, a obecnie zarządza nią oddział PTTK w Gorlicach.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Bacówka_PTTK_w_Bartnem
+          type:
+      tags:
+        - Beskid Niski
+        - Ciekawostki
+
+    ### NOCLEG ###
+
+
+    nocleg: 
+      summary: Noclegi
+      description:
+        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      parameters:
+        - name: Schronisko PTTK na Hali Krupowej
+          in: query
+          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          type: Kuchnia
+      tags:
+        - Beskid Żywiecki
         - Noclegi
 
+  ### PTTK Bartne ###
+  ### Chyrowa ###
+
+
+  Bacówka PTTK w Bartnem - Chyrowa:
+    trasa:
+      summary: Długie zejście w stronę Popradu
+      description:
+        Podejście z Rytra
+      parameters:
+        - name: 4.0 / 13.0
+          in: Czerwony
+          description: Bacówka PTTK w Bartnem
+          type: number
+        - name: 8.0 / 17.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Magura Wątkowska
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Kolanin
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Kąty
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Łysa Góra
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Chyrowa
+          type: number
+      tags:
+        - Beskid Niski
+        - Trasa
+
+    ### INFO ###
+
+    info:
+      summary: Some Summary XXY
+      description:
+        Informacje na temat odcinka
+      parameters:
+        - name: Magura Wątkowska(842 m.)
+          in: query
+          description: |
+            Szczyt w Beskidzie Niskim nad Bartnem, w paśmie Magury Wątkowskiej. Na południowych i południowo-wschodnich zboczach Masywu Magury mają swe źródła potoki Świerzówka i Rzeszówka – lewobrzeżne dopływy Wisłoki. Natomiast na północnych stokach masywu ma swe źródła rzeczka Kłopotnica, również lewobrzeżny dopływ Wisłoki.
+
+            Szczyt w całości porośnięty lasami. Leży w granicach Magurskiego Parku Narodowego, w jego północnej części.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Magura_(Magura_Wątkowska)
+          type:
+        - name: Kąty
+          in: query
+          description: |
+            Wieś położona nad Wisłoką. Najniżej położony punkt na trasie Głównego Szlaku Beskidzkiego(335 m.)
+
+          type:
+        - name: Chyrowa
+          in: query
+          description: |
+            Chyrowa należała niegdyś do Bogoriów. Pierwsza wzmianka o Chyrowej pochodzi z czasów Kazimierza Wielkiego; z 1366.W 1366 r. kanclerz Janusz Suchywilk od swoich rodziców otrzymał, Kobylany, Chyrową, Mszanę, Surowicę i Wisłoczek.
+
+            W 28 sierpnia 1366 roku we Włodzimierzu Janusz Suchywilk przekazał swoje dobra bratankom Piotrowi i Mikołajowi. Byli to synowie Jakusza Cztana ze Strzelc. Ustanowił w ten sposób pierwszą ordynację w Polsce. Kazimierz Wielki potwierdził ten dokument, gdzie wymieniona jest pod nazwą Hyrowa. Sporządzony został wtedy przez abp. Janusza Suchegowilka dokument przekazania posiadanych dóbr swoim bratankom.
+
+            W XV wieku istniejąca wieś została przeniesiona na prawo wołoskie, by na początku 1504 powrócić na prawo magdeburskie dzięki dziedzicowi Dukli Stanisławowi Cikowskiemu, kasztelanowi bieckiemu. Pierwsza wzmianka o cerkwi pochodzi z 1536. Obecnie mieści się w niej kościół rzymskokatolicki. W XIX w. należała do Cezarego Męcińskiego, h. Poraj (1809-przed 1890).
+
+            W okresie międzywojennym, w okresie tzw. schizmy tylawskiej, podobnie jak mieszkańcy okolicznych wsi, Łemkowie z Chyrowej przechodzą z grekokatolicyzmu na prawosławie.
+
+            W czasie I wojny światowej w 5 maja 1915 r. po bitwie gorlickiej zamknięte zostały w kotle pod Chyrową oddziały rosyjskie 49 Dywizji gen. Ławra Korniłowa i po krwawych walkach wzięte do niewoli.
+
+            W rejonie Chyrowej we wrześniu 1944 r. toczyły się ciężkie walki oddziałów pancernych i kawalerii gen. Baranowa, które dostały się pod ogień własnej artylerii w ramach operacji dukielsko-preszowskiej, której ślady można odnaleźć w miejscu nazwanym od tego wydarzenia Dolina Śmierci. W czasie walk wieś została spalona. 21 września 1944 r. wieś zdobyły oddziały czechosłowackie, po nieustających walkach trwających od 8 do 21 września 1944 r.
+
+            W wyniku Akcji "Wisła" łemkowscy mieszkańcy zostali zmuszeni do opuszczenia wsi. Część ludności została wysiedlona do ZSRR, a część na Ziemie Zachodnie. Gospodarstwa przejęli pogorzelcy z Doliny Śmierci.
+
+            Przed wojną miejscowość ta liczyła około 300 mieszkańców, a obecnie 100 osób. Zamieszkała jest w połowie przez ludność polską, a w połowie, przez łemkowską
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Chyrowa
+          type:
+      tags:
+        - Beskid Niski
+        - Ciekawostki
+
+    ### NOCLEG ###
+
+
+    nocleg: 
+      summary: Noclegi
+      description:
+        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      parameters:
+        - name: Schronisko PTTK na Hali Krupowej
+          in: query
+          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          type: Kuchnia
+      tags:
+        - Beskid Żywiecki
+        - Noclegi
   Relacja człowieka 1:
     relacje:
       summary: Relacje odcinka
