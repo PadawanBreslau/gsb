@@ -1949,6 +1949,118 @@ paths:
       tags:
         - Beskid Żywiecki
         - Noclegi
+
+
+  ### Chyrowa ###
+  ### Iwonicz Zdrój
+
+
+  Chyrowa - Iwonicz-Zdrój:
+    trasa:
+      summary: Długie zejście w stronę Popradu
+      description:
+        Podejście z Rytra
+      parameters:
+        - name: 4.0 / 13.0
+          in: Czerwony
+          description: Chyrowa
+          type: number
+        - name: 8.0 / 17.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Pustelnia Św. Jana
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Cergowa
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Iwonicz-Zdrój
+          type: number
+      tags:
+        - Beskid Niski
+        - Trasa
+
+    ### INFO ###
+
+    info:
+      summary: Some Summary XXY
+      description:
+        Informacje na temat odcinka
+      parameters:
+        - name: Pustelnia Św. Jana
+          in: query
+          description: |
+            Pustelnia św. Jana z Dukli znajduje się na wzgórzu Zaśpit (dawniej zwane Korodół) ok. 1,5 kilometra od miejscowości Trzciana, położonej przy drodze Dukla - Barwinek.
+            Pustelnia założona została w 1769 roku, już po beatyfikacji bł. Jana.
+            Obecna kaplica, wzniesiona z początkiem XX-go wieku jest już trzecią w historii tego miejsca. Już po beatyfikacji w 1769 roku, z fundacji Marii Amalii z Bruhlów Mniszchowej wzniesiono tutaj murowaną kaplicę, która spłonęła jednak w 1883 roku. Jak głosi legenda Marii Amelii, właścicielce Dukli św.Jan objawił się we śnie, polecając jej, wybudować na miejscu swej pustelni kaplicę i tak też się stało. W jej miejsce w 1887 roku z fundacji Cezarego Męcińskiego wzniesiono drewnianą kaplicę. Trzecią, zachowaną do dnia dzisiejszego neogotycką murowaną kaplicę, zbudowano w latach 1906-1908 staraniem gwardiana bernardynów dukielskich Ambrożego Ligasa, według projektu bernardyna o. Kamila Żarnowskiego. Znajdująca sie w niej polichromia przedstawiająca życie bł. Jana, namalowana została przez sanockiego malarza Władysława Lisowskiego.
+
+            Obok świątyni znajduje się drewniany dom rekolekcyjny, tzw. dom pustelnika oraz taras ze sztuczną grotą, mieszczącą źródełko, z którego czerpią wodę pielgrzymi.
+            Na ścieżkach wokół świątyni rozmieszczono kapliczki Drogi Krzyżowej.
+
+            __Źródło:__ http://www.beskid-niski.pl/index.php?pos=/obiekty&ID=377
+          type:
+        - name: Cergowa
+          in: query
+          description: |
+            Zalesiony szczyt Beskidu Dukielskiego w Beskidzie Niskim, na południowy wschód od Dukli. Posiada trzy wierzchołki (od zachodu): 716 m n.p.m. (z żelaznym krzyżem), 683 m n.p.m. i 681 m n.p.m. Jej sylwetka góruje nad Duklą. Występują tu liczne wychodnie piaskowca cergowskiego oraz jaskinie. Góra odwiedzana jest przez paralotniarzy.
+
+            Na stokach Cergowej znajduje się ok. 10 jaskiń szczelinowych o dł. do 75 m (głównie na południowym stoku zachodniego ramienia – tzw. Borsucze Dziury). Są to m.in.:
+
+            * **Jaskinia Pod Bukiem** - jedna z największych, ma dwie spore komory i kilka długich lecz niedostępnych korytarzy o łącznej długości 34 m i głębokości 7 m.
+            * **Jaskinia Gdzie Spadł Samolot** - jej nazwa upamiętnia katastrofę niemieckiego samolotu podczas II wojny światowej. Położona jest na północny wschód od połączenia szlaku czerwonego, z szeroką przecinką, biegnącą ze wschodniego wierzchołka góry na południowy zachód, na wysokości ok. 600 m n.p.m. Jej korytarze mają ok. 32 m długości.
+            * **Przy Szkółce** (długość 47 m i 6 m głębokości).
+            * **Na Wierzchowinie** (w istocie dwie jaskinie, długość większej 20 m i 5 m głębokości).
+            * **Gdzie Wpadł Grotołaz** (długość 75 m i 14,3 m głębokości).
+
+            Jaskinie Cergowej należą do najwcześniej opisywanych w Polsce, wzmiankowane przez ks. Gabriela Rzączyńskiego w dziele Auctuarrium historiae naturalis Regni Poloniae z 1736 roku. Wiążą się z nimi liczne podania: o podziemnych korytarzach prowadzących aż do zamku w Odrzykoniu pod Krosnem.
+
+          type:
+        - name: Lubatowa
+          in: query
+          description: |
+            Miejscowość założona w początkach XIV wieku Lubatowa jako wieś królewska. W 2017 odnaleziono w niej skarb z epoki żelaza.
+
+
+            __Źródło:__ http://naukawpolsce.pap.pl/aktualnosci/news%2C414359%2Cskarb-sprzed-25-tys-lat-znaleziono-w-beskidzie-niskim.html
+          type:
+        - name: Iwonicz-Zdrój
+          in: query
+          description: |
+            Iwonicz to jedno z najstarszych w Polsce uzdrowisk. Z 1413 pochodzi wzmianka o istnieniu w miejscowości wód mineralnych. W 1464 zbudowano we wsi modrzewiowy kościół parafialny. W okresie renesansu, gdy rozwijały się nauki przyrodnicze, wzrosło zainteresowanie leczniczymi właściwościami wód mineralnych i uzdrowiskiem. W 1515 miejscowość ta należała do dóbr Tyrawa, nadanych później Tarłom.
+
+            Iwonicz jako uzdrowisko wzmiankowane jest w 1578 w książce Cieplice przez Wojciecha Oczkę, nadwornego lekarza Stefana Batorego. W tych czasach należało on do Bobolów. Lekarz z Przemyśla Jan Sechkini w 1630 opisał walory wód iwonickich wraz z podaniem wskazań lekarskich. Źródła kąpielowe wspomniane były jeszcze w 1633 przez biskupa przemyskiego Firleja. W 1589 Iwonicz przeszedł do dóbr Rymanowskich przydzielonych na własność rodzinie Sienieńskich przejętych ideami reformacji i wspierających kalwinizm, a później arianizm. Zbigniew Sienieński (ur. ok. 1520) w 1599 zbudował w Iwoniczu zbór ariański. Przez Iwonicz przechodziły podczas wypraw wojennych wojska węgierskie (1474), tatarskie (1624), szwedzkie (1655-1656), siedmiogrodzkie (1657). W okresie rozbiorów Polski (1769-1772), na tych terenach toczyły się krwawe walki między wojskami carycy Katarzyny a Konfederatami Barskimi, wspieranymi przez miejscowych i właścicieli Uzdrowiska Ossolińskich.
+
+            Po pierwszym rozbiorze, w 1772 r., Iwonicz znalazł się w państwie Habsburgów. W 1793 został odsprzedany przez ówczesną właścicielkę, Annę Teresę z Ossolińskich Potocką, jednemu z dowódców konfederacji barskiej, Michałowi Ostaszewskiemu, który zainicjował budowę pierwszych instalacji uzdrowiskowych i kąpielowych (1793 r.), ale z powodu podeszłego wieku odsprzedał Iwonicz rodzinie Załuskich. W 1799 właścicielem został Teofil hr. Załuski (1760-1831), a w 1825 jego syn Karol hr. Załuski (1794-1845), ożeniony z Amelią z ks. Ogińskich. Wkrótce rozpoczyna się zainteresowanie i budowa pierwszych obiektów zakładu kąpielowego oraz budowa pierwszych łazienek. Właściwie założone zostały one dopiero w 1837 przez tę rodzinę, a zwłaszcza przez uważanego za twórcę uzdrowiska w Iwoniczu Karola hr. Załuskiego, powstańca listopadowego. Po Karolu hr. Załuskim dostał Iwonicz jego syn Michał Załuski (1827-1893). Do Załuskich należał Iwonicz aż do 1945, kiedy to NKWD aresztowało czterech członków tej rodziny.
+
+            W pierwszych dniach II wojny światowej Iwonicka Drużyna Strzelecka pod komendą dr. Józefa Aleksiewicza wyruszyła w kierunku Lwowa. Dołączyły do niej inne drużyny i ochotnicy z mijanych miejscowości – doszło do kilku potyczek z Niemcami. W Bezmiechowej w potyczce zginęło 2 strzelców, a pod Gródkiem Jagiellońskim, zabity został młody iwonicki narciarz wyczynowy – Stanisław Kielar. Wobec przeważającej siły wroga dr Aleksiewicz podjął decyzję o rozwiązaniu oddziału. 10 września 1939 wkroczyli tu Niemcy i ulokowali oddziały Wehrmachtu z 231 i z 239 Dywizji Piechoty, oddziały żandarmerii wojskowej i posterunek Werkschutzu. Działała tu Placówka AK – Irys, Irena.
+
+            26 lipca 1944 AK OP-15 złożona z 38 okolicznych mieszkańców, w ramach akcji „Burza”, pod dowództwem Franciszka Kochana „Obłońskiego”, bez strat wyzwoliła iwonickie zdrojowisko i jako Rzeczpospolitą Iwonicką utrzymała aż do wejścia zdziesiątkowanych w operacji dukielsko-preszowskiej wojsk radzieckich 20 września 1944. Siedziba Rządu Rzeczypospolitej Iwonickiej, z dr. Józefem Aleksiewiczem na czele, mieściła się w budynku "Białego Orła". Po wkroczeniu wojsk radzieckich rozpoczęły się aresztowania dokonywane przez NKWD i UB. Aresztowano: mjr. dr. Józefa Aleksiewicza, rodzinę Załuskich i kilku innych, a Zbigniewa Bartosza wywieziono do łagrów, gdzie zmarł na tyfus. Na bohaterskim obrońcy Iwonicza – dowódcy placówki AK Irys Jerzym Nowaku Piku wykonano w PRL wyrok śmierci. W budynku Sanatorium Sanato, gdzie mieścił się w 1944 konspiracyjny szpital, w 1983 odsłonięto pamiątkową tablicę. Rzeczpospolitą Iwonicką upamiętniono tablicą na głazie przy Krzyżu w centrum uzdrowiska.
+
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Iwonicz-Zdr%C3%B3j
+          type:
+
+      tags:
+        - Beskid Niski
+        - Ciekawostki
+
+    ### NOCLEG ###
+
+
+    nocleg: 
+      summary: Noclegi
+      description:
+        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      parameters:
+        - name: Schronisko PTTK na Hali Krupowej
+          in: query
+          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          type: Kuchnia
+      tags:
+        - Beskid Żywiecki
+        - Noclegi
+
   Relacja człowieka 1:
     relacje:
       summary: Relacje odcinka
