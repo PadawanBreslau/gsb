@@ -2061,6 +2061,237 @@ paths:
         - Beskid Żywiecki
         - Noclegi
 
+
+  ### Iwonicz Zdrój ##
+  ### Komańcza
+
+
+  Iwonicz-Zdrój - Komańcza:
+    trasa:
+      summary: Długie zejście w stronę Popradu
+      description:
+        Podejście z Rytra
+      parameters:
+        - name: 4.0 / 13.0
+          in: Czerwony
+          description: Iwonicz-Zdrój
+          type: number
+        - name: 8.0 / 17.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Rymanów-Zdrój
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Puławy
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Tokarnia
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Kamień
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Komańcza
+          type: number
+      tags:
+        - Beskid Niski
+        - Trasa
+
+    ### INFO ###
+
+    info:
+      summary: Some Summary XXY
+      description:
+        Informacje na temat odcinka
+      parameters:
+        - name: Rymanów Zdrój
+          in: query
+          description: |
+            W 1872 r. Anna Potocka i Stanisław Potocki, którzy podpisali kontrakt kupna Rymanowa, stali się założycielami Rymanowa-Zdroju. 16 sierpnia 1876 r. podczas spaceru Anny Potockiej (autorki „Mojego pamiętnika”) z dziećmi jeden z synków Józef odkrył źródło lecznicze wody. Badania jej użyteczności trwały do 1879.
+
+            Odkrycie źródeł mineralnych 16 sierpnia 1876 dało początek dziejom Rymanowa-Zdroju. Występowanie od wieków wód leczniczych w sąsiednim Iwoniczu-Zdroju skłoniło zamieszkałych od 1870 w Rymanowie właścicieli dóbr Annę i Stanisława Potockich do szukania podobnych źródeł w okolicznych górach i dolinie rzeki Taba (dziś Tabor). Wyjątkową okazję dał pobyt na dworze rymanowskim chemika Tytusa Sławika. Wykonana przez niego pobieżna analiza źródła nad brzegiem rzeki Taba, wykazała silne stężenie jodu i żelaza. Przeprowadzenia dokładnych badań chemicznych odkrytej wody dokonał w 1877 prof. dr Wesselshy, chemik wiedeński. Analiza w zupełności potwierdziła cenne zalety źródła. Rozpoczęto budowę pierwszych pensjonatów. Wykonano nową obudowę ujęć wodnych według wskazań prof. dr. Bolesława Lutostańskiego, rozdzielono spływające do jednej studni źródła mineralne na odrębne zdroje.
+
+            W okresie działań I wojny światowej trzykrotnie przesuwała się przez Rymanów-Zdrój linia frontu. Przed końcem września 1914 dotarły tu wojska rosyjskie, które dokonały zniszczeń obiektów zdrojowych i stacjonujące tu w 1915 wojska rosyjskie, doprowadziły do całkowitej dewastacji uzdrowiska. Ponowne uruchomienie uzdrowiska nastąpiło w 1926. Oddano do użytku nowy zakład przyrodoleczniczy, a rok później nowy obiekt dziecięcy.
+
+            II wojna światowa doprowadziła uzdrowisko do ponownej ruiny. W dniu 7 września 1939 wkroczyły do uzdrowiska oddziały słowackie wspomagające Niemców. Od 1940 do 1942 uzdrowisko było nieczynne, zostało ponownie otwarte w 1943 i w tym czasie przebywała w nim krótkotrwale Emmy Göring, żona Hermanna Göringa[5]. Pod koniec wojny spłonął reprezentacyjny dom gościnny, wybudowany jeszcze przez Potockich – kwaterujący w nim węgierscy żołnierze wywołali ogień. W latach 1936-1938 willa „Opatrzność” była siedzibą kurii Apostolskiej Administracji Łemkowszczyzny. W sąsiedniej willi „Gołąbek” zamieszkali po wojnie dawni właściciele uzdrowiska, Potoccy, których wypędzono z pałacu w Rymanowie. Po ustaniu działań wojennych przystąpiono do remontów ocalałych obiektów, zachowując ich dotychczasowy styl. Z sezonowego niegdyś kurortu, Rymanów-Zdrój już w pierwszym dziesięcioleciu powojennym stał się dziecięcym uzdrowiskiem czynnym przez cały rok
+
+            Wśród kuracjuszy nie brakowało licznych dostojników, między innymi bawił w Rymanowie-Zdroju arcyksiążę Albrecht, stryj cesarza Franciszka Józefa. Leczył się tutaj również Stanisław Wyspiański. W księgach kuracjuszy odnotowane są nazwiska pisarzy: Kazimierza Przerwy-Tetmajera, Kornela Makuszyńskiego, Janusza Meissnera. Kwitło też życie towarzyskie i kulturalne. Na scenie „Dworca Gościnnego” występowali: Hanka Ordonówna, Zula Pogorzelska, Adolf Dymsza, Mieczysław Fogg i inni.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Ryman%C3%B3w-Zdr%C3%B3j
+          type:
+        - name: Puławy
+          in: query
+          description: |
+            Wieś lokowana była na prawie wołoskim w 1572 roku na terenie, gdzie wydobywano karpacką niskoprocentową rudę żelaza (darniówkę), przetapianą metodą dymarkową i przekuwaną w miejscowych kuźniach, zwanych hamrami. W 1831 r. wybudowano tu cerkiew.
+
+            W połowie XIX wieku właścicielem posiadłości tybularnej Puławy z Wierniejówką był Józef Kłopotowski[2]. Pod koniec XIX wieku właścicielem tybularnym dóbr we wsi był August ks. Czartoryski[3]. Na początku XX wieku obszar dóbr książąt Czartoryskich (głównie leśny) we wsi wynosił 491 ha
+
+            21 sierpnia 1944 r. patrol plutonu majora Adama Winogrodzkiego dowodzony przez kaprala Polano zaskoczył Niemców w szkole w Puławach, zdobywając: broń, 5 koni, i 2 wozy z żywnością, z obuwiem i sprzętem wojskowym.
+
+            Do lat 40. XX w. była to wieś o ludności łemkowskiej wyznania greckokatolickiego. Po jej wysiedleniu w ramach Akcji „Wisła” opustoszała. W 1969 roku na terenie wsi osiedlili się mieszkańcy Śląska Cieszyńskiego, którzy utworzyli Ewangeliczną Wspólnotę Zielonoświątkową. Zbór znajduje się w Puławach Górnych
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Puławy_(województwo_podkarpackie)
+          type:
+        - name: Tokarnia
+          in: query
+          description: |
+            Szczyt górski w Pasmie Bukowicy w Beskidzie Niskim, leżący na terenie wsi Karlików w Gminie Bukowsko. Ze szczytu roztacza się rozległy widok w kierunku północnym na Pogórze Bukowskie, w kierunku południowo-wschodnim na Bieszczady[1] oraz w kierunku zachodnim na Beskid Niski a przy dobrej widoczności nawet Tatry[2].
+
+            Szczyt ma dwie kulminacje, poza głównym wierzchołkiem zalesiony wierzchołek wschodni o wysokości 776 m n.p.m. - zwany dawniej Wierchem Mendla. Na głównym wierzchołku znajduje się maszt telefonii komórkowej. Na północny zachód od głównego wierzchołka, już za skrzyżowaniem szlaku czerwonego z żółtym na szczycie znajduje się wiata.
+
+            Szczyt był pierwotnie nazywany przez mieszkańców Magurą. Nazwa Tokarnia dotyczyła jednej z okolicznych wsi, pierwsze mapy tego terenu nazywają wierzchołek nazwą wsi, takie „przeniesienie” było wówczas częste[3].
+
+            Podczas I i II wojny światowej był to rejon ciężkich walk.
+
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Tokarnia_(Beskid_Niski)
+          type:
+        - name: Kamień
+          in: query
+          description: |
+            Szczyt we wschodniej części Beskidu Niskiego - Pasmo Bukowicy, nazywany też przez turystów Kamieniem nad Rzepedzią dla odróżnienia dwóch innych gór o tej samej nazwie w Beskidzie Niskim.
+
+            Przez grzbiet Kamienia przebiega Główny Szlak Beskidzki, jednak nie dociera do najwyższego punktu grzbietu, tylko schodzi z niego przy wychodniach skalnych. Skałki te są zbudowane z piaskowców przybyszowskich.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Kamień_(nad_Rzepedzią)
+          type:
+        - name: Komańcza
+          in: query
+          description: |
+            Pierwsza wzmianka o wsi Komanycza, Crziemyenna pochodzi z 1512.
+
+            W latach 1340–1772 na terenie ziemi sanockiej w województwie ruskim. Następnie w latach 1772–1852 znajdowała się w cyrkule leskim, później sanockim. W początkach maja 1849, w czasie Wiosny Ludów rozegrała się tu zwycięska bitwa partyzantów polskich nad wojskami Austrii[1]. W połowie XIX wieku właścicielem posiadłości tybularnej w Komańczy był Alfred Lubaczewski[2]. W 1911 właścicielem tybularnym był Józef Mikołaj Potocki, posiadający 497 ha[3]. Do 1914 powiat sądowy w Sanoku, gmina Bukowsko.
+
+            W pierwszych dniach listopada 1918 ukraińska ludność z Komańczy oraz okolicznych miejscowości opanowała linie kolejowe od Zagórza do Łupkowa oraz od Zagórza do Chyrowa, oraz ogłosiła powstanie tzw. Republiki Komańczańskiej, na czele której stanął jako „prezydent” Andrij Kyr, a „stolicą” została Komańcza. W okresie międzywojennym stacjonował w miejscowości komisariat Straży Granicznej[4].
+
+            Do 12 września 1939 na obszarze powiatu sanockiego województwa lwowskiego, wieś stanowiła garnizon macierzysty Batalionu KOP „Komańcza”. W 1939 Batalion KOP „Komańcza” w ramach 2 pułku piechoty KOP „Karpaty” toczył walki obronne. Prawie wszystkich Żydów Niemcy wywieźli do obozu zagłady w Zasławiu. Od października 1939 do sierpnia 1944 wieś była siedzibą urzędu gminy w powiecie sanockim (Landkreis Sanok). Dziś warto zwiedzić m.in. miejsce katastrofy samolotu z okresu II wojny światowej.
+
+            Nazwa miejscowości może sięgać okresu staroruskiego, wieś miała się nazywać Krzemienna (przymiotnik krzemienny – „kamienisty”), lecz z czasem przyjęła się nazwa Komańcza, od nazwy rzeki Komańcza, później Kumanieckiego Potoku (dawniej Barburka; obecnie Barbarka). Nazwa może pochodzić od starosłowiańskiego *Komanec – „członek plemienia turańskiego Ko(u)manów, inaczej Połowców, żyjącego na terenie Rusi w XI – XIII w.” Miejscowość leżała przy starym szlaku handlowym Sanok-Przełęcz Łupkowska. Ewentualnie nazwa pochodzi od nazwy osobowej Komanec (Koman, n.os. notowana w XV wieku w pobliskiej wsi Szczawne – która z kolei może pochodzić j.w.) z sufiksem -ja
+
+            Na uboczu wsi znajduje się klasztor nazaretanek, który był miejscem internowania kardynała Stefana Wyszyńskiego od 27 października 1955 do 28 października 1956
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Komańcza
+          type:
+      tags:
+        - Beskid Niski
+        - Ciekawostki
+
+    ### NOCLEG ###
+
+    nocleg: 
+      summary: Noclegi
+      description:
+        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      parameters:
+        - name: Schronisko PTTK na Hali Krupowej
+          in: query
+          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          type: Kuchnia
+      tags:
+        - Beskid Żywiecki
+        - Noclegi
+
+  ### Komańcza ###
+  ### Cisna ###
+
+
+  Komańcza - Cisna:
+    trasa:
+      summary: Długie zejście w stronę Popradu
+      description:
+        Podejście z Rytra
+      parameters:
+        - name: 4.0 / 13.0
+          in: Czerwony
+          description: Komańcza
+          type: number
+        - name: 8.0 / 17.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Duszatyn
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Jeziorka Duszatyńskie
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Chryszczata
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Wołosań
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Cisna
+          type: number
+      tags:
+        - Beskid Niski
+        - Trasa
+
+    ### INFO ###
+
+    info:
+      summary: Some Summary XXY
+      description:
+        Informacje na temat odcinka
+      parameters:
+        - name: Rymanów Zdrój
+          in: query
+          description: |
+
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Ryman%C3%B3w-Zdr%C3%B3j
+          type:
+        - name: Puławy
+          in: query
+          description: |
+
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Puławy_(województwo_podkarpackie)
+          type:
+        - name: Tokarnia
+          in: query
+          description: |
+
+
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Tokarnia_(Beskid_Niski)
+          type:
+        - name: Kamień
+          in: query
+          description: |
+
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Kamień_(nad_Rzepedzią)
+          type:
+        - name: Komańcza
+          in: query
+          description: |
+          type:
+      tags:
+        - Beskid Niski
+        - Ciekawostki
+
+    ### NOCLEG ###
+
+
+    nocleg: 
+      summary: Noclegi
+      description:
+        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      parameters:
+        - name: Schronisko PTTK na Hali Krupowej
+          in: query
+          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          type: Kuchnia
+      tags:
+        - Beskid Żywiecki
+        - Noclegi
+
   Relacja człowieka 1:
     relacje:
       summary: Relacje odcinka
