@@ -2515,6 +2515,105 @@ paths:
         - Bieszczady
         - Noclegi
 
+  ### Ustrzyki Górne ###
+  ### Wołosate ###
+
+  Ustrzyki Górne - Wołosate:
+    trasa:
+      summary: Długie zejście w stronę Popradu
+      description:
+        Podejście z Rytra
+      parameters:
+        - name: 4.0 / 13.0
+          in: Czerwony
+          description: Ustrzyki Górne
+          type: number
+        - name: 8.0 / 17.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Przełęcz pod Tarnicą
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Halicz
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Przełęcz Bukowska
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Wołosate
+          type: number
+      tags:
+        - Bieszczady
+        - Trasa
+
+    ### INFO ###
+
+    info:
+      summary: Some Summary XXY
+      description:
+        Informacje na temat odcinka
+      parameters:
+        - name: Tarnica
+          in: query
+          description: |
+            Najwyższy szczyt polskich Bieszczadów i województwa podkarpackiego, wznoszący się na krańcu pasma połonin, w grupie tzw. gniazda Tarnicy i Halicza. Należy do Korony Gór Polski.
+
+            Szczyt Tarnicy wznosi się ponad 500 m nad dolinę Wołosatki i wyróżnia się osobliwą sylwetką. Od sąsiedniego masywu Krzemienia grzbiet (faktycznie zwornikiem jest Tarniczka) oddzielony jest głęboką Przełęczą Goprowską, natomiast z Szerokim Wierchem łączy się charakterystyczną, ostro wciętą w grzbiet przełęczą o wysokości 1275 m n.p.m., od której pochodzi nazwa góry (w języku rumuńskim słowo „tarniţa” oznacza siodło, przełęcz). Wąski, ostry, nieco wydłużony grzbiet góry, z dwoma wyraźnymi wierzchołkami (1346 i 1339 m n.p.m.), wyścielają złomiska skał i zdobią bruzdy naturalnych zagłębień, a także resztki wojennych okopów. Z południowej strony opada w dół wysoka skalna ściana, a niżej rozścielają się wielkie pola kamiennego rumoszu. Na głównej kulminacji znajduje się punkt geodezyjny i żelazny krzyż ustawiony w 1987, upamiętniający – wraz z wmurowaną tablicą – pobyt ks. Karola Wojtyły 5 sierpnia 1953. Po złamaniu się krzyża, postawiono nowy 1 września 2000, który 16 września 2000 poświęcił bp Adam Dyczkowski[2]. Tarnica stanowi najbardziej atrakcyjny punkt widokowy w polskich Bieszczadach. Oprócz wspaniałej panoramy najbliższych grzbietów polskiej części Bieszczadów, w pogodne dni można dostrzec: Tatry[3], Gorgany, Ostrą Horę, Połoninę Równą[4], Połoninę Krasną, Świdowiec[5], a przy bardzo dobrych warunkach pogodowych możemy dostrzec: Pasmo Wyhorlacko-Gutyjskie, Góry Ignis[6], górę Vlădeasa[7] i Pietrosula Rodnei w Górach Rodniańskich.
+
+            Szlak nie przebiega bezpośrednio przez szczyt, można podejść żółtym szlakiem (~20 minut w dwie strony)
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Tarnica
+          type:
+        - name: Halicz
+          in: query
+          description: |
+            Trzeci pod względem wysokości szczyt w polskiej części Bieszczadów i całych Bieszczadach Zachodnich. Położony jest we wschodniej części grupy Tarnicy, pomiędzy Kopą Bukowską a Rozsypańcem. Jest zwornikiem dla biegnącego w kierunku wschodnim grzbietu kulminującego w Wołowym Garbie.
+
+            Cieszy się ogromną popularnością dzięki dookolnej panoramie na polską i ukraińską część Bieszczadów. Najlepiej widać z niego górną część doliny Sanu ciągnącą się w stronę Przełęczy Użockiej, a w kierunku południowo-wschodnim Rozsypaniec, Połoninę Bukowską z Kińczykiem Bukowskim oraz najwyższe bieszczadzkie szczyty z Pikujem. Przy dobrej widzialności można dostrzec szczyty Gorganów.
+
+            Według legendy w średniowieczu zbiegały się tu granice Polski, Węgier i Rusi. Ciekawa flora. Z rzadkich w Polsce roślin występuje tutaj m.in. arnika górska, chaber Kotschyego, tojad bukowiński, zaraza macierzankowa i turzyca dacka
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Halicz_(góra)
+          type:
+        - name: Przełęcz Bukowska
+          in: query
+          description: |
+            Przełęcz znajduje się w głównym grzbiecie Karpat, na granicy polsko-ukraińskiej, między Kińczykiem Bukowskim (1251 m) i położonym już w bocznym grzbiecie Rozsypańcem (1280 m). Główny grzbiet odbiega stąd na południowy zachód, w kierunku Menczyła. Na północ od niej wypływa potok Halicz, a na południe (Ukraina) – potok Moszka należący do zlewiska Morza Czarnego. Do Przełęczy Bukowskiej dochodzi niedostępna dla samochodów droga gruntowa z Wołosatego, którą obecnie biegnie szlak turystyczny. Pod przełęczą, w dolinie Halicza znajdowała się przed wojną osada Potasznia, obecnie nieistniejąca.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Przełęcz_Bukowska_(Bieszczady)
+          type:
+        - name: Wołosate
+          in: query
+          description: |
+            Wołosate jest najdalej wysuniętą na południe zamieszkaną miejscowością Polski.
+            Miejscowość leży na obszarze Bieszczadzkiego Parku Narodowego, w dolinie potoku Wołosatki górnego biegu Wołosatego. Osada została założona w dolinie Wołosatego. Wymieniona była w dokumentach z 1557 r. a w 1566 r. odnotowano; „Wołoschatka wieś, (...) distans od Sanoka mil 12 (...) kniaź tylku dwu człowieku teraz tam osadził, a obu furtatów (złodziei), którzy jeszcze bardzo mało wykopały. Bóg to wie, kiedy im swoboda wynidzie” . W XVII w. Wołosate zostało dwukrotnie spalone przez zbójników tołhajów, których napady powtarzały się jeszcze do XIX w. W 1711 wieś została zniszczona przez wojska szwedzkie generała Magnusa Stenbocka. 30 kwietnia 1849 r. huzarzy węgierscy napadli na Wołosate, uprowadzając bydło i 10 chłopów. W połowie XIX wieku właścicielami posiadłości tybularnej Wołosate byli spadkobiercy Juliusza Rittnera[4].
+
+            W czasie I wojny światowej zimą 1914 i 1915 roku toczono tu walki pozycyjne. Była to duża wieś bojkowska, w większości jednak zamieszkana przez Polaków – przed wojną liczyła ponad 1200 mieszkańców, było ponad 200 domów. Podczas okupacji mieszkańcy Wołosatego nie chcieli przyjmować kennkart ukraińskich, choć było to finansowo korzystniejsze. Po roku 1944 władze radzieckie po przesunięciu granicy, wywiozły miejscowych Bojków w okolice Stryja. Po II wojnie światowej wieś została zniszczona i wysiedlona. Ludność polską wywieziono do Polski. W latach 70. powstało tu duże gospodarstwo hodowlane. Na jego potrzeby, z pomocą wojska, w 1987 r. rekultywowano dolinę Wołosatego. W Wołosatem znajduje się Zachowawcza Hodowla Konia Huculskiego.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Wołosate
+          type:
+      tags:
+        - Bieszczady
+        - Ciekawostki
+
+    ### NOCLEG ###
+
+
+    nocleg: 
+      summary: Noclegi
+      description:
+        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      parameters:
+        - name: Schronisko PTTK na Hali Krupowej
+          in: query
+          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          type: Kuchnia
+      tags:
+        - Bieszczady
+        - Noclegi
+
   Relacja człowieka 1:
     relacje:
       summary: Relacje odcinka
