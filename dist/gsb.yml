@@ -15,6 +15,10 @@ paths:
       tags:
         - Beskid Śląski
         - Beskid Żywiecki
+        - Gorce
+        - Beskid Sądecki
+        - Beskid Niski
+        - Bieszczady
         - Trasa
         - Relacje
         - Noclegi
@@ -26,9 +30,9 @@ paths:
     trasa:
       summary: Czyli Rambo Pierwsza Krew
       description:
-        Pierwsze podejście i przerwsze zejście na trasie. Także pierwsze schronisko i pierwsze źródełko. Szlak startuje(lub startował, informacje są sprzeczne) przy stacji PKP
-        Ustroń-Zdrój. Przez pierwszy kilometr trasa prowadzi wśród zabudowań miasta, później zaś koło leśniczówki wchodzi w las - najpierw łagodnie, później coraz stromiej. W pewnym
-        momencie szlak gwałtownie skręca w prawo i doprowadza po chwili do Kamienia Ewangelików, miejsca obrządków z XVIII wieku. Można tutaj uzupełnić wodę w wybijającym źródełku.
+        Pierwsze podejście i przerwsze zejście na trasie. Także pierwsze schronisko i pierwsze źródełko. Szlak startuje(lub startował, informacje są sprzeczne) przy **stacji PKP
+        Ustroń-Zdrój**. Przez pierwszy kilometr trasa prowadzi wśród zabudowań miasta, później zaś koło leśniczówki wchodzi w las - najpierw łagodnie, później coraz stromiej. W pewnym
+        momencie szlak gwałtownie skręca w prawo i doprowadza po chwili do **Kamienia Ewangelików**, miejsca obrządków z XVIII wieku. Można tutaj uzupełnić wodę w wybijającym źródełku.
         Za Kamieniem Ewangelików szlak jeszcze przez chwilę prowadzi ostro w górę, później zaś się wypłaszcza aby doprowadzić do schroniska PTTK pod Równicą (szczyt Równicy jest poza szlakiem,
         można do niego dojść szlakiem żółtmy (ok. 20 minut w obie strony). Za schroniskiem zaczynamy długie zejście, najpierw asfaltem, potem kamienistą dróżką przecinającą raz po raz asfalt.
         Po zejściu do miasta znów wchodzimy na utwardzoną drogę, przekraczamy mostem Wisłę, przekraczamy przejściem podziemnym trasę samochodową i znajdujemy się przy dolnej stacji wyciągu na Czarntorię
@@ -48,21 +52,20 @@ paths:
             z udziałem rodziców. W 1961 zainaugurowano corocznie odprawiane tam nabożeństwa w Święto Bratniej Pomocy im. Gustawa Adolfa, przypadające na ten sam dzień co
             katolickie święto Bożego Ciała. Obecnie w odprawianych tu nabożeństwach uczestniczą wielkie tłumy wiernych, nawet z odległych parafii.
             Co dwa lata po nabożeństwie odbywają się na terenach wokół schroniska na Równicy imprezy towarzyszące.
-            Tuż obok przy „Kamieniu” poprowadzony jest Główny Szlak Beskidzki – znakowany kolorem czerwonym najdłuższy górski szlak turystyczny w Polsce.
 
             https://pl.wikipedia.org/wiki/%E2%80%9ELe%C5%9Bne_ko%C5%9Bcio%C5%82y%E2%80%9D_ewangelickie_w_Beskidach#.E2.80.9EKamie.C5.84.E2.80.9D_na_R.C3.B3wnicy_w_Ustroniu
           type: number
         - name: 4.5(4.5) 770m
           in: Zielony Żółty Czerwony
           description:
-            Schronisko PTTK Równica. Schronisko położone pod szczytem góry Równica, przy drodze asfalotowej w popularnej turystycznie lokalizacji, pełnej restauracji, hoteli i innych atrakcji.
-            Z góry jest bardzo ładny widok na wznoszące się z drugej strony Doliny Wisły masywy Czantorii i Stożka Wielkiego - ab y zobaczyc te widoki najlepiej albo wejść na łąkę nad schroniskiem w kierunku
+            Schronisko PTTK Równica. Schronisko położone pod szczytem góry **Równica**, przy drodze asfaltowej w popularnej turystycznie lokalizacji, pełnej restauracji, hoteli i innych atrakcji.
+            Z góry jest bardzo ładny widok na wznoszące się z drugej strony Doliny Wisły **masywy Czantorii i Stożka Wielkiego** - aby zobaczyc te widoki najlepiej albo wejść na łąkę nad schroniskiem w kierunku
             szczytu Równicy, albo zejść nieco wraz z czerwonym szlakiem
           type: number
         - name: 9.0(9.0) 400m
           in: Zielony Czerwony
           description:
-            Ustroń Polana. Dolna Stacja Wyciągu Krzesełkowego. Osiedle Ustronia, oryginalnie przysiółek o którym pierwsze wzmianki można odnaleźć z początków XVII wieku. Obecnie życie okolicznych
+            Ustroń Polana. **Dolna Stacja Wyciągu Krzesełkowego**. Osiedle Ustronia, oryginalnie przysiółek o którym pierwsze wzmianki można odnaleźć z początków XVII wieku. Obecnie życie okolicznych
             mieszkańsów skupia się głównie dookoła obiektów turystycznych zlokalizowanych przy dolnej stacji wyciągu na Czantorię.
             https://pl.wikipedia.org/wiki/Polana_(Ustro%C5%84)
           type: number
@@ -81,7 +84,7 @@ paths:
           description: |
             W miejscowej gwarze nazwa wymawiana jest ustróń, kogo, czego: ustrónio, w języku niemieckim Ustron, czeskim Ustroni.
 
-            W Ustroniu znajduje się [Leśny Park Niespodzianek](http://www.lesnypark.pl/o-parku), utworzony w środowisku naturalnym. Po ścieżkach w lesie bukowym swobodnie biegają dziki, jelenie, sarny czy też muflony. Park łączy w sobie funkcje: rekreacyjną i edukacyjną, organizuje również pokazy sokolnicze.
+            W Ustroniu znajduje się [Leśny Park Niespodzianek](http://www.lesnypark.pl/o-parku), utworzony w środowisku naturalnym. Po ścieżkach w lesie bukowym swobodnie biegają **dziki, jelenie, sarny czy też muflony**. Park łączy w sobie funkcje: rekreacyjną i edukacyjną, organizuje również pokazy sokolnicze.
           type: number
         - name: Równica
           in: query
@@ -91,7 +94,7 @@ paths:
         - name: Ustroń Polana
           in: query
           description: |
-            [Kolejka liniowa](http://www.czantoria.net/) Kolej Linowa Czantoria w Ustroniu – ośrodek narciarski położony w Ustroniu w Beskidzie Śląskim na północnym zboczu Wielkiej Czantorii. Górna stacja ośrodka znajduje się na polanie Stokłosica, na wysokości 851 m n.p.m. Czantoria to najpopularniejszy szczyt Beskidu Śląskiego z wyprzęganą wygodną koleją. Czteroosobowe kanapy oraz system zwalniający prędkość przy wsiadaniu i wysiadaniu to duży atut kolejki, dzięki czemu również osoby niepełnosprawne mogą czuć się bezpiecznie w czasie przejazdu. Krzesłka wyposażone są rónież w specjalne uchwyty umożliwiające transport rowerów na górną stację. Kolej linowa każdego roku umożliwia tysiącom turystów łatwy i szybki dostęp w górne partie Beskidów.
+            [Kolejka liniowa](http://www.czantoria.net/) Kolej Linowa Czantoria w Ustroniu – ośrodek narciarski położony w Ustroniu w Beskidzie Śląskim na północnym zboczu Wielkiej Czantorii. **Górna stacja ośrodka znajduje się na polanie Stokłosica**, na wysokości 851 m n.p.m. Czantoria to najpopularniejszy szczyt Beskidu Śląskiego z wyprzęganą wygodną koleją. Czteroosobowe kanapy oraz system zwalniający prędkość przy wsiadaniu i wysiadaniu to duży atut kolejki, dzięki czemu również osoby niepełnosprawne mogą czuć się bezpiecznie w czasie przejazdu. Krzesłka wyposażone są rónież w specjalne uchwyty umożliwiające transport rowerów na górną stację. Kolej linowa każdego roku umożliwia tysiącom turystów łatwy i szybki dostęp w górne partie Beskidów.
           type: number
       tags:
         - Beskid Śląski
@@ -130,9 +133,9 @@ paths:
     trasa:
       summary: Ostro w górę
       description:
-        Od razu po przejściu obok dolnej stacji wyciągu czeka nas ostre maszerowanie pod górę, czasem stokiem narciarskim, czasem szlakiem obok. Ale aż do osiągnięcia górnej stacji kolejki jest stromo.
+        Od razu po przejściu obok dolnej stacji wyciągu czeka nas **ostre maszerowanie pod górę**, czasem stokiem narciarskim, czasem szlakiem obok. Ale aż do osiągnięcia górnej stacji kolejki jest stromo.
         Miejscami bardzo stromo. Podejście zajmuje do godziny czasu, nie dając fragmentów wytchnienia. Za wyciągiem trasa wypłaszcza się, choć dalej biegnie lasem pod górkę, aż wyprowadzi nas na niezalesiony
-        wierzchołek Czantorii, gdzie znajduje się wieża widokowa i zarówno polskie, jak i czeskie punkty gastronomiczne. Na szczycie Czantorii szlak zmienia kierunek, skręca w lewo i schodzi, miejscami bardzo
+        wierzchołek Czantorii, gdzie znajduje się wieża widokowa i zarówno polskie, jak i czeskie punkty gastronomiczne. **Na szczycie Czantorii szlak zmienia kierunek**, skręca w lewo i schodzi, miejscami bardzo
         stromo ze szczytu Czantorii. Po jakimś czasie droga wypłaszcza się, przechodzi koło ośrodka Światowid, znów zagłębia w las i poprzez przełęcz Beskidek doprowadza do schroniska PTTL Soszów. Ze schroniska
         szlak krótko podchodzi na górę Soszów, skąd bardzo ładnie widać na wschodzie masyw Baraniej Góry, później zaś malowniczą trasą, przez lasy i łąki prowadzi w stronę Stożka Wielkiego. Po paru kilometrach łatwiejszej trasy
         podchodzimy pod zbocze Stożka, skąd czeka nas bardzo forsowne podejście na szczyt. Na górze wita nas schronisko PTTK, zazwyczaj pełne od turystów i rowerzystów górskich
@@ -166,7 +169,7 @@ paths:
         - name: Górna stacja wyciągu krzesełkowego
           in: query
           description: |
-            [Sokolarnia](http://sokolarnia.esy.es/) W Sokolarni znajduje się ok. 40 ptaków, a ptasie "domki" zamieszkują takie gatunki jak: sokoły, jastrzębie, myszołowy, orły i sowy. Odwiedzając to miejsce możemy przyjrzeć się wspaniałym okazom, zrobić zdjęcia z bliskiej odległości jak również zapoznać się z niezwykłą, rzadką i fascynującą dziedziną łowiectwa jaką jest SOKOLNICTWO - sztuka układania ptaków drapieżnych do łowów
+            [Sokolarnia](http://sokolarnia.esy.es/) W Sokolarni znajduje się ok. 40 ptaków, a ptasie "domki" zamieszkują takie gatunki jak: **sokoły, jastrzębie, myszołowy, orły i sowy**. Odwiedzając to miejsce możemy przyjrzeć się wspaniałym okazom, zrobić zdjęcia z bliskiej odległości jak również zapoznać się z niezwykłą, rzadką i fascynującą dziedziną łowiectwa jaką jest SOKOLNICTWO - sztuka układania ptaków drapieżnych do łowów
           type: number
         - name: Czantoria
           in: query
@@ -199,7 +202,7 @@ paths:
         - name: Schronisko PTTK na Stożku Wielkim
           in: query
           description: |
-            Schronisko PTTK na Stożku zostało oddane do użytku 9 lipca 1922 roku. Jest to najstarsze istniejące polskie schronisko w Beskidzie Śląskim (a po rozbiórce obiektu na Markowych Szczawinach najdłużej działające nieprzerwanie polskie schronisko w całych Beskidach)
+            Schronisko PTTK na Stożku zostało oddane do użytku 9 lipca 1922 roku. Jest to **najstarsze istniejące polskie schronisko w Beskidzie Śląskim** (a po rozbiórce obiektu na Markowych Szczawinach najdłużej działające nieprzerwanie polskie schronisko w całych Beskidach)
             Dużo informacji można znaleźć na stronie [PTTK](http://www.cotg.pttk.pl/encyklopedia_tresc.php?id=71)
           type: number
       tags:
@@ -291,7 +294,7 @@ paths:
         - name: Przełęcz Kubalonka
           in: Noclegi, Restauracje, Transport
           description: |
-            Kubalonka (758 m n.p.m.) – przełęcz w Beskidzie Śląskim, pomiędzy szczytami Kubalonki (830 m n.p.m.) oraz nienazwanym wierzchołkiem o wysokości 818 m n.p.m. Oddziela ona pasmo Stożka i Czantorii od Pasma Wiślańskiego, zwanego też Pasmem Baraniej Góry. Przez przełęcz prowadzi droga wojewódzka nr 941 z Wisły do Istebnej. Na samej przełęczy odgałęzia się od niej wąska droga powiatowa, która przez przełęcz Szarculę schodzi koło Zameczku do Wisły Czarnego. Obie drogi wybudowano w latach międzywojennych.
+            Kubalonka (758 m n.p.m.) – przełęcz w Beskidzie Śląskim, pomiędzy szczytami Kubalonki (830 m n.p.m.) oraz nienazwanym wierzchołkiem o wysokości 818 m n.p.m. Oddziela ona **pasmo Stożka i Czantorii** od **Pasma Wiślańskiego, zwanego też Pasmem Baraniej Góry**. Przez przełęcz prowadzi droga wojewódzka nr 941 z Wisły do Istebnej. Na samej przełęczy odgałęzia się od niej wąska droga powiatowa, która przez przełęcz Szarculę schodzi koło Zameczku do Wisły Czarnego. Obie drogi wybudowano w latach międzywojennych.
 
             Tuż poniżej przełęczy, po lewej stronie szosy do Istebnej, znajduje się zespół budynków Ośrodka Chorób Płuc Dzieci i Młodzieży (wzniesiony w 1937 r. według projektu Jadwigi Dobrzyńskiej i Zygmunta Łobody jako dziecięce sanatorium przeciwgruźlicze, rozbudowany znacznie w 1961 r.). Nieco poniżej, po przeciwnej stronie szosy, stoi drewniany, zabytkowy kościół pod wezwaniem św. Krzyża z 1779 r., przeniesiony tu w latach 1957-1958 z Przyszowic (powiat gliwicki), gdzie pełnił rolę kościoła przycmentarnego. Kościół jest elementem szlaku architektury drewnianej województwa śląskiego.
 
@@ -315,11 +318,11 @@ paths:
           description: |
             Kościół Matki Bożej Fatimskiej w Istebnej – drewniany kościół parafialny parafii pw. Matki Bożej Fatimskiej w Istebnej-Stecówce. Wybudowany w latach 1957–1958, jako górska kaplica przynależąca do parafii Dobrego Pasterza, w 1971 kaplicy przyznany zostaje rektor a od 1981 jest kościołem parafialnym.
 
-            Kościół znajduje się na Szlaku Architektury Drewnianej województwa śląskiego w pętli beskidzkiej.
+            Kościół znajduje się na **Szlaku Architektury Drewnianej** województwa śląskiego w pętli beskidzkiej.
 
             W 2011 nakręcono tu scenę ślubu w filmie „Och, Karol 2”.
 
-            W nocy z 2 na 3 grudnia 2013 roku miał miejsce pożar świątyni, w wyniku którego budynek w większości spłonął. Strażacy zdołali uratować część wyposażenia oraz tabernakulum, ocalała też część ścian.
+            W nocy z 2 na 3 grudnia 2013 roku miał miejsce **pożar** świątyni, w wyniku którego budynek w większości spłonął. Strażacy zdołali uratować część wyposażenia oraz tabernakulum, ocalała też część ścian.
 
             _Źródło: https://pl.wikipedia.org/wiki/Ko%C5%9Bci%C3%B3%C5%82_Matki_Bo%C5%BCej_Fatimskiej_w_Istebnej_
           type: number
@@ -327,7 +330,7 @@ paths:
           in: Nocleg, Restauracja
           description: |
             Schronisko PTTK na Przysłopie pod Baranią Górą położone jest na wysokości 900 m n.p.m.
-            Pierwszy budynek schroniska pochodził jeszcze z końca XIX w. Był to drewniany domek myśliwski arcyksięcia Fryderyka Habsburga, zbudowany w 1897 r. jako baza wypadowa do polowań na głuszce. Budynek został zdewastowany pod koniec I wojny światowej i początkowo pozostawał w dyspozycji Lasów Państwowych. Dopiero po kilku latach został przejęty przez Górnośląski Oddział PTT, który go wyremontował i 15 lipca 1925 r. oddał do użytku turystom.
+            Pierwszy budynek schroniska pochodził jeszcze z końca XIX w. Był to drewniany domek myśliwski **arcyksięcia Fryderyka Habsburga**, zbudowany w 1897 r. jako baza wypadowa do polowań na głuszce. Budynek został zdewastowany pod koniec I wojny światowej i początkowo pozostawał w dyspozycji Lasów Państwowych. Dopiero po kilku latach został przejęty przez Górnośląski Oddział PTT, który go wyremontował i 15 lipca 1925 r. oddał do użytku turystom.
 
             II wojnę światową budynek przetrwał szczęśliwie bez zniszczeń. W 1946 r. został ponownie oddany do użytku. W latach 1973-1979, w związku z nasilającym się ruchem turystycznym, PTTK postawiło nowy, murowany, trzypiętrowy budynek schroniska. W 1985 r. stary, pohabsburski budynek, wyłączony już wcześniej z użytku turystów, rozebrano i przeniesiono do Wisły na ulicę Lipową, gdzie stoi do dziś, jako siedziba PTTK w Wiśle.
 
@@ -2239,41 +2242,90 @@ paths:
       description:
         Informacje na temat odcinka
       parameters:
-        - name: Rymanów Zdrój
+        - name: Duszatyn
           in: query
           description: |
 
+            Duszatyn założony w XV w. Była to wieś królewska, lokowaną na prawie wołoskim z przywileju starosty sanockiego Mikołaja Cikowskiego przed 1572. Najazd Jerzego II Rakoczego w 1657 wyludnił wieś całkowicie. W 1686 ponownie zrabowali ją i spalili doszczętnie węgierscy Tołhaje. 
 
-            __Źródło:__ https://pl.wikipedia.org/wiki/Ryman%C3%B3w-Zdr%C3%B3j
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Duszatyn
           type:
-        - name: Puławy
+        - name: Jeziora Duszatyńskie
           in: query
           description: |
+            Jeziorka powstały na skutek oderwania zachodniego zbocza Chryszczatej 13 kwietnia 1907. Powstałe osuwisko spowodowało zatamowanie odpływu potoku Olchowatego (dopływ Osławy) w kilku miejscach, tworząc naturalne zapory, a następnie napływu wody z kulminacji Chryszczatej i Mikitowej. Do osunięcia zbocza doszło po wiosennych roztopach i ulewnych deszczach.
 
+            Utworzyło się też kilka oczek, rozrzuconych w zagłębieniach terenu. Z czasem jednak oczka te zanikły, podobnie jak trzecie z jeziorek. W latach 20. XX wieku powierzchnia zbiorników była dwukrotnie większa, ulegały jednak stopniowemu zamulaniu przez wpływające potoczki.
 
-            __Źródło:__ https://pl.wikipedia.org/wiki/Puławy_(województwo_podkarpackie)
+            W obrębie języka osuwiskowego powstały trzy małe jeziora:
+
+            * Jeziorko Górne położone na wysokości 701 m n.p.m.[1] o powierzchni 1,44 ha[2], średniej głębokości 2 m (maksymalnej do 5,8 m) i pojemności 25 500 m³,
+            * Jeziorko Dolne leżące na wysokości 683 m n.p.m.[3], o powierzchni 0,45 ha, średniej głębokości 2,4 m (maksymalnej 6,2 m) i pojemności 12 000 m³.
+            * Trzecie jeziorko, najmniejsze z nich i najniżej położone (na wysokości 614 m n.p.m.), obecnie już nie istnieje.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Jeziorka_Duszatyńskie
           type:
-        - name: Tokarnia
+        - name: Chryszczata
           in: query
           description: |
+            Szczyt w Bieszczadach, w paśmie Wołosania (inne nazwy tego pasma to: Wysoki Dział, Wielki Dział Etnograficzny). Na szczycie stoi betonowa wieża geodezyjna z czasów zaborów. Nazwa Chryszczata wywodzi się od łemkowskiej nazwy rośliny chreszczate zilie (czworolist pospolity) lub od skrzyżowania dróg (ukr. chrest – krzyż).
+
+            W masywie Chryszczatej znajdują się pozostałości rowów strzeleckich, bunkrów i ziemnych umocnień austriackich z roku 1914, polskich z roku 1920 oraz walk z okresu II wojny i powojennych z lat 1944–1946. W okresie I wojny światowej przebiegała tędy linia frontu, o którą walczyły wojska austriackie i rosyjskie. Na przełomie 1914/15 r. front dwukrotnie przeszedł przez Chryszczatą. Szczególnie ciężkie walki toczyły się w rejonie Wysokiego Działu. Pozostały po nich zarośnięte już dziś cmentarze na Chryszczatej i Magurycznem. Po zakończeniu I w.ś. wzgórza Chryszczatej zostały umocnione przez polskich legionistów w celu obrony tego odcinka przed Ukraińską Armią Halicką. W okresie do 20 września 1944 wzgórza Chryszczatej były schronieniem oddziału partyzanckiego dowodzonego przez Mikołaja Kunickiego. Pod koniec września 1944 Kunicki oraz jego oddział wyprowadziły przez Chryszczatą, pokonując 2 linie niemieckich umocnień, uciekinierów (w tym całe rodziny, starców, dzieci i kobiety) z polskich wiosek w Bieszczadach, którzy uciekali przed UPA. W lipcu i sierpniu 1944 Chryszczata była wielokrotnie zdobywana przez polskich i radzieckich partyzantów, którzy atakowali stacjonujące tu oddziały 254 i 168 dywizji niemieckiej, mniejsze oddziały węgierskie oraz własowców. W latach 1945–1947 masyw i wzgórza Chryszczatej były schronieniem oraz bazą wypadową dla oddziałów UPA Chrina i Stiacha. Całkowite rozbicie obozów UPA na Chryszczatej nastąpiło dopiero latem 1947 przez oddziały 34 pp WP dowodzone przez pułkownika Jana Gerharda.
+
+            Pamiątką po tamtych wydarzeniach są znajdowane po dziś dzień elementy uzbrojenia, okopy na stokach góry oraz całkowicie zarośnięte ślady cmentarzy wojskowych.
+
+            W 2008 roku na trudno dostępnych leśnych zboczach Chryszczatej został nielegalnie postawiony, najprawdopodobniej przez Ukraińców z Kanady, pomnik poświęcony członkom UPA, który został uznany przez komisję wojewody podkarpackiego za „samowolę budowlaną” w związku z jego wzniesieniem bez konsultacji z Radą Ochrony Pamięci Walk i Męczeństwa. Na umieszczonej na nim tablicy wyryto dwujęzyczny napis: „Cześć pamięci żołnierzom UPA poległym 23.01.1947 w walce z żołnierzami WP w obronie podziemnego szpitala. Cześć ich pamięci. Towarzysze broni”. Z uwagi na fakt, iż nie udało się ustalić inwestora (prawdopodobnie Ukraińcy z USA i Kanady), koszt rozbiórki musi pokryć zarządca terenu[1].
+
+            W kwietniu 2009, nielegalnie stojący pomnik został zniszczony przez nieznanych sprawców. Wywrócono również sześć z siedmiu metalowych krzyży stojących wokół pomnika. 
 
 
 
             __Źródło:__ https://pl.wikipedia.org/wiki/Tokarnia_(Beskid_Niski)
           type:
-        - name: Kamień
+        - name: Wołosań
           in: query
           description: |
+            Szczyt w Bieszczadach Zachodnich, najwyższy w paśmie Wysokiego Działu.
+
+            Leży w południowo-wschodniej części Wysokiego Działu, w jego głównym grzbiecie, który na tym odcinku przebiega z północnego zachodu na południowy wschód. Od południowego wschodu sąsiaduje z Sasowem (1010 m n.p.m.), natomiast na północnym zachodzie grzbiet łagodnie opada na nienazwaną przełęcz (928 m n.p.m.[1]), za którą wznosi się Jaworne (992 m n.p.m.). Nieco na południe od wierzchołka znajduje się zwornik dla odbiegającego na południe grzbietu kulminującego w Przysłupie (1006 m n.p.m.), a następnie opadającego na przełęcz Przysłup (749 m n.p.m.), gdzie łączy się z pasmem granicznym. Około 1,2 km na północny zachód od Wołosania jest drugi punkt zwornikowy wysyłający ku południowemu zachodowi odnogę ze szczytem o nazwie Babinka[2] lub Iwanica[1] (944 m n.p.m.).
+            Znak pomiarowy na szczycie Wołosania
+
+            Północno-wschodnie stoki odwadnia Jabłonka mająca tam źródło, grzbietem Przysłopu przebiega zaś dział wodny pomiędzy zlewniami Osławy na zachodzie oraz Solinki po stronie wschodniej. Stoki są prawie w całości porośnięte lasem, jedynie w pobliżu wierzchołka jest kilka polan. Jedna z nich, usytuowana na południowy wschód od szczytu, jest punktem widokowym[1].
+
+            Wołosań znajduje się na obszarze Ciśniańsko-Wetlińskiego Parku Krajobrazowego.
 
 
-            __Źródło:__ https://pl.wikipedia.org/wiki/Kamień_(nad_Rzepedzią)
+            __Źródło:__ https://pl.wikipedia.org/wiki/Wołosań
           type:
-        - name: Komańcza
+        - name: Cisna
           in: query
           description: |
+
+            Wieś założona została w 1552 przez rodzinę Balów na prawie wołoskim.
+
+            Spis podatkowy z 1552 r. wymienia ponad 30 wsi będących własnością Balów, m.in. Cisną, Wołkowyję, Terkę, Łopienkę, Żubracze, Hoczew, Baligród. W 1589 roku Cisnę odziedziczył Matiasz IV Bal (1598-1612), syn Matiasza III Bala z Hoczwi (zm. ok. 1575) – kasztelana sanockiego. Na początku XVII wieku właścicielem Cisnej zostaje Samuel Bal – rotmistrz królewskiej chorągwi. W roku 1648 sejmik ziemski sanocki powierza Samuelowi "obronę domową" przeciwko opryszkom węgierskim niepokojącym okolice oraz poleca utworzenie zaciągu składającego się jazdy liczącej sto koni dla utrzymania porządku. Własnym kosztem zbudował groblę i drogę na Węgry przez Cisną, na której pobierał myto od przejeżdżających kupców.
+
+            W 1663 roku jako właściciel Cisnej jest wymieniony Mikołaj III Bal. Potem jest to własność Bełzeckich przez małżeństwo Zofii Balównej ze Stanisławem Bełżeckim (zm. 1677) s. Jana, wojewodą podolskim. Następnie właścicielem jest Katarzyna z Bełżeckich, którą poślubił Józef Lubomirski (wojewoda czernihowski) herbu Szreniawa. Po śmierci żony Katarzyny z Bełżeckich, sprzedał wniesione przez nią dobra. W roku 1709 Cisna jest własnością syna wojewody Adama Antoniego Bełżeckiego – kasztelane bełżeckiego, a od roku 1712 Lubomirskiego księcia na Wiśniczu i Jarosławiu – generała wojsk saskich i polskich. Od Lubomirskich Cisnę w 1720 nabył Michał Urbański – właściciel Lutowisk, podczaszy żydaczowski, który w 1739 roku, erygował tu parafię. W 1740 roku córka Michała Urbańskiego Teresa Urbańska wyszła za mąż za Józefa Benedykta Fredrę – chorążego łomżyńskiego, w posagu wniosła mu między innymi dobra ciśniańskie.
+            Lata 1772-1919
+            Kolejka wąskotorowa w Cisnej, most nad Solinką
+
+            W 1790 Cisnę odziedziczył Jacek Fredro – ojciec Aleksandra, który w 1810 wykorzystując tutejsze złoża rudy żelaza założył tu hutę, tzw. fryszerkę, produkującą narzędzia rolnicze, garnki i piece. Surowcem dla huty była uboga ruda darniowa, występująca na stokach Hyrlatej.
+
+            Aleksander Fredro opisał Cisną w pamiętniku "Trzy po trzy". Po śmierci Jacka Fredry w 1828 roku właścicielem na Cisnej został jego syn, Julian Fredro, który po roku zmarł, a majątek przeszedł na jego młodszego brata Henryka Fredrę[1] (19.07.1844-15.06.1908 w Göncz na Węgrzech). Przez pewien czas był właścicielem Cisnej Henryk Emilian Fredro (12.09.1789-16.11.1867) – oficer wojska polskiego, powstaniec, dyrektor zakładu ociemniałych we Lwowie, członek Stanów Galicyjskich odznaczony Krzyżem Złotym Orderu Virtuti Militari.
+
+            W latach 1890-1895 zbudowana została wąskotorowa kolejka leśna do Nowego Łupkowa, a w 1904 do Kalnicy.
+
+            W 1846 r., podczas powstania krakowskiego 18 lutego 1846 r. do punktu zbornego w Cisnej przybył z inicjatywy J.M. Goslara, mjr Jerzy Bułharyn jako wojenny naczelnik Sanockiego. Sformował on z pracowników huty w Cisnej oddział, który poprowadził na Sanok rozbrajając po drodze placówki straży skarbowej i łącząc się z innymi grupami powstańczymi. Od Przełęczy Łupkowskiej, z okolic Kalnicy i Leska, miał atakować Sanok dowodzący siłami miejscowymi i słowackimi. 21 lutego 1846 r. powstańcy z południowej części obwodu sanockiego szli na północ w celu opanowania Sanoka trzema szlakami: z Cisnej przez Baligród, z Lutowisk oraz z Ustrzyk Dolnych i z Ustjanowej. 180 uczestników spotkało się w Uhercach, gdzie zaczęto formować w oddziały i odebrano od wszystkich przysięgę. Nękani po drodze przez chłopów ze Stefkowej, dotarli do wsi Zahutyń pod Sanokiem. Po kilku potyczkach m.in. pod Leskiem, przy dojściu do Zahutynia, 180 powstańców, nie mając wsparcia, od północy, nie zaatakowało Sanoka, ponieważ nie dotarły inne umówione oddziały, z powodu wystąpień zbuntowanych chłopów. Bułharyn, z grupką 20 zbrojnych wrócił 22 lutego do Cisnej i przekroczył granicę węgierską w Roztokach. Zygmunt Kaczkowski herbu Pomian, powieściopisarz, syn Ignacego Kaczkowskiego, zarządcy majątku Aleksandra Fredry w Cisnej, wziął udział w powstaniu w 1846 r.
+
+            W czasie I wojny światowej wielokrotnie toczyły się tu bitwy. Od jesieni 1914 do wiosny 1915 roku, w czasie walk toczących się w Karpatach, Cisna była trzykrotnie na linii frontu. Obecnie na zachodnim skraju miejscowości tuż obok drogi wojewódzkiej 897 znajduje się niewielki cmentarz wojenny na którym chowani byli w okresie od września 1914 do maja 1915 polegli żołnierze Armii Austrowęgierskiej (w tym również Polacy i Słowacy), powiększony następnie w roku 1927 po ekshumacji i przeniesieniu nań żołnierzy poległych z miejscowości Balnica, Maniów, Liszna, Żubracze i Przysłup[2].
+
+            Od listopada 1918 do stycznia 1919 r. Cisna była częścią tzw. Republiki Komańczańskiej. Następnie w 1919 roku na mocy traktatu z Saint-Germain-en-Laye wraz z Galicją przypadła Polsce choć ostateczne formalne uznanie przynależności tych terenów do Polski miało miejsce dopiero w roku 1923 wraz z postanowieniem Rady Ambasadorów[3]
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Cisna
           type:
       tags:
-        - Beskid Niski
+        - Bieszczady
         - Ciekawostki
 
     ### NOCLEG ###
@@ -2289,7 +2341,178 @@ paths:
           description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
           type: Kuchnia
       tags:
-        - Beskid Żywiecki
+        - Bieszczady
+        - Noclegi
+
+  ### Cisna ###
+  ### Ustrzyki Górne ###
+
+
+  Cisna - Ustrzyki Górne:
+    trasa:
+      summary: Długie zejście w stronę Popradu
+      description:
+        Podejście z Rytra
+      parameters:
+        - name: 4.0 / 13.0
+          in: Czerwony
+          description: Cisna
+          type: number
+        - name: 8.0 / 17.0
+          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Jasło
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Okrąglik
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Smerek Więś
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Smerek
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Schronisko PTTK „Chatka Puchatka” na Połoninie Wetlińskiej
+          type: number
+        - name: 10.0 / 19.0
+          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          description: Ustrzyki Górne
+          type: number
+      tags:
+        - Beskid Niski
+        - Trasa
+
+    ### INFO ###
+
+    info:
+      summary: Some Summary XXY
+      description:
+        Informacje na temat odcinka
+      parameters:
+        - name: Jasło
+          in: query
+          description: |
+            Góra w Bieszczadach Zachodnich, zwana też Wielkim Jasłem w odróżnieniu od pobliskiego Małego Jasła. Położona na terenie gminy Cisna w powiecie leskim.
+
+            Góra ta, zwana wcześniej Jasiel lub Wasiel, stanowi najwyższą kulminację pasma ciągnącego się od Okrąglika w paśmie granicznym na północny zachód, w kierunku Cisnej. Na szczycie znajduje się wieża geodezyjna, a pod nią tabliczka oznaczająca szczyt.
+
+            Zbocza góry pokryte są buczyną karpacką oraz lasami bukowo-jodłowymi, znaczną ich część stanowią starodrzewy. Występujące w partiach szczytowych polany powstały prawdopodobnie na skutek działalności człowieka. Świadczy o tym brak skarlenia buczyny przy krawędzi lasu, a także pojedyncze drzewa rosnące wśród połonin. Obecność tych polan sprawia, że roztacza się stamtąd widok na wszystkie strony, także na Słowację. W rejonie tym żyje wiele rzadkich gatunków zwierząt m.in.: wilki, niedźwiedzie, rysie, głuszce. Obszar ten jest ważnym ogniwem „karpackiego” korytarza ekologicznego.
+
+            Obszar góry Jasło jest objęty ochroną jako część Ciśniańsko-Wetlińskiego Parku Krajobrazowego, leży w otulinie Bieszczadzkiego Parku Narodowego, Międzynarodowego Rezerwatu Biosfery „Karpaty Wschodnie”
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Jasło_(góra)
+          type:
+        - name: Okrąglik
+          in: query
+          description: |
+            Szczyt w paśmie granicznym Bieszczadów Zachodnich. Położony jest w Polsce, ale tuż przy granicy ze Słowacją. Jest zwornikiem dla biegnącego na północny zachód, w stronę Cisnej, grzbietu Jasła. Kilkaset metrów na południowy wschód od szczytu znajduje się ponadto drugi zwornik, gdzie rozpoczyna się grzbiet kulminujący w Fereczatej
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Okrąglik_(Bieszczady)
+          type:
+        - name: Smerek Wieś
+          in: query
+          description: |
+            Wieś położona jest 644 m n.p.m., przy ujściu potoku Smerek (dawniej Smrek) do Wetliny (dopływ Solinki). Nazwa wsi Smerek pochodzi od słowackiej nazwy świerka (smrek). W 1881 wieś liczyła 557 mieszkańców, własność większościowa należała do Adelajdy hr. Dawidów. 
+
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Smerek_(województwo_podkarpackie)
+          type:
+        - name: Smerek(1222 m.)
+          in: query
+          description: |
+            Szczyt w Bieszczadach Zachodnich. Pod taką nazwą najczęściej jest opisywany na mapach i w przewodnikach. Na niektórych jednak mapach opisany jest pod nazwą Wysoka.
+
+            Smerek jest przedłużeniem na zachód grzbietu Połoniny Wetlińskiej. Granicą jest Przełęcz Mieczysława Orłowicza (1075 m n.p.m.), przez którą sąsiaduje on z Szarym Berdem. Na zachodzie grzbiet opiera się o doliny Wetliny i potoku Kindrat. Na północ odbiega z wierzchołka długi grzbiet, który między innymi poprzez Wysokie Berdo, Siwarnę, Połomę i Tołstą ciągnie się aż po Jezioro Solińskie, wcinając się pomiędzy doliny Sanu i Solinki. Zwornik usytuowany nieco na wschód wysyła ku północnemu wschodowi grzbiet Magurki opadający następnie do doliny Sanu, natomiast w kierunku południowym odchodzi ze szczytu ramię kulminujące w Stropie (1016 m n.p.m.). Północno-zachodnie stoki odwadnia Kindrat, dopływ Wetliny mający swoje źródło na zachód od wierzchołka Smereka, południowo-zachodnie zaś – Wetlina i jej spływające ze zboczy niewielkie dopływy. Na stoku północno-wschodnim są położone źródła potoków Hulski oraz Berdo.
+
+            Do wysokości 1050–1100 m n.p.m. stoki są porośnięte lasem; wyżej występuje połonina. Smerek ma dwa wierzchołki. Oddzielone są trawiastym obniżeniem, które przez miejscową ludność nazywane było dawniej Dołyną, zaś bardzo stromy północny stok Smereka – Ścianą[2]. Północny, wyższy wierzchołek jest oddalony o kilkadziesiąt metrów od południowego i występuje w nim tzw. szczelina tensyjna[2]. Na udostępnionym dla turystów wierzchołku południowym znajduje się żelazny krzyż w miejscu, gdzie piorun zabił turystę
+
+            Z połonin Smereka rozciągają się szerokie panoramy widokowe. Z najwyższego punktu góry roztacza się dookólna panorama Bieszczadów i Gór Sanocko-Turczańskich, jednak ze względu na przepisy Bieszczadzkiego Parku Narodowego, w którym Smerek się znajduje (zachodnia jego granica przebiega zachodnim stokiem), umożliwiające poruszanie się jedynie wyznaczonymi szlakami, można wejść tylko na niższy szczyt południowy, gdzie stoi metalowy krzyż. Widać stąd Połoninę Wetlińską, pasmo graniczne z Wielką Rawką i Riabą Skałą, Pasmo Łopiennika i Durnej, Wysoki Dział z Wołosanią a także miejscowości Wetlina oraz Smerek
+
+
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Smerek_(Bieszczady)
+          type:
+        - name: Połonina Wetlińska
+          in: query
+          description: |
+            Jest to masyw o kilku wierzchołkach, a jego kontynuacją jest góra Smerek oddzielona przełęczą M. Orłowicza. Południowo-zachodnie stoki masywu są krótkie i stromo opadają w dolinę Wetlinki, zachodnie do doliny Prowczy i Nasiczniańskiego Potoku, natomiast północno-wschodnie przechodzą w długie grzbiety, które łagodnie opadają ku bardziej odległej dolinie Sanu. Poprzez Przełęcz Wyżną masyw Połoniny Wetlińskiej łączy się z Działem.
+
+            Kulminacje Połoniny Wetlińskiej:
+
+            *  Roh, 1255 m
+            *  Osadzki Wierch, 1253 m
+            *  Hasiakowa Skała, 1228 m
+            *  Hnatowe Berdo, 1187 m
+            *  Szare Berdo, 1108 m
+
+            Większa część masywu znajduje się na obszarze Bieszczadzkiego Parku Narodowego.
+
+            Najwyższe partie masywu pokrywają typowe bieszczadzkie połoniny, poniżej 1050 m znajdują się lasy bukowe, które najlepiej zachowały się w dolinie Tworylczyka. Z połonin roztaczają się rozległe widoki i znajduje się tu najwyżej położone bieszczadzkie schronisko: „Chatka Puchatka” (1228 m n.p.m.), usytuowane tuż pod Hasiakową Skałą.
+
+            Połonina Wetlińska i sąsiedni Smerek nazwy wzięły od leżących u ich stóp wsi. Nadali je kartografowie austriaccy. Jednak szczytowe połoniny należały także do wsi Jaworzec, Zatwarnica, Berehy Górne i jeszcze w okresie międzywojennym masowo wypasano woły i jałówki. W samej tylko części należącej do wsi Zatwarnica wypasano 150–200 sztuk bydła. Nocą trzymano je na polanie Katyczowa powyżej źródlisk Hylatego, w południe przepędzano na odpoczynek na polanę Jahrowyszcze. Pojono w korytach znajdujących się pomiędzy tymi polanami. Stada pilnowało 4–5 stałych pastuchów oraz zmieniający się pomocnicy.
+
+            W czasie I wojny światowej Połonina Wetlińska była miejscem ciężkich walk pozycyjnych pomiędzy wojskami rosyjskimi a austriackimi. Latem 1944 w lasach Stołów obozował oddział partyzantki sowieckiej M. Kunickiego „Muchy”. W Suchych Rzekach (na północnych stokach Szarego Berda) działała ukraińska szkoła podoficerska batalionu „Rena” UPA.
+
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Połonina_Wetlińska
+          type:
+
+        - name: Schronisko PTTK „Chatka Puchatka” na Połoninie Wetlińskiej
+          in: query
+          description: |
+            Najwyżej położone schronisko w Bieszczadach, niegdyś nazywane „Tawerną”. Leży pod wierzchołkiem Hasiakowej Skały. Zostało wybudowane po II wojnie światowej przez wojsko i służyło za posterunek obserwacyjny. W 1956 roku budynek został przejęty przez Okręg PTTK w Rzeszowie, jednak jako całoroczny obiekt z obsługą działa dopiero od 1967 r. Pierwszym dzierżawcą schroniska był Ludwik Pińczuk, który jest też stałym ajentem od 1986.
+
+            Ze względu na niski standard, m.in. sanitarny (ze względu na lokalizację w schronisku nie ma bieżącej wody, kanalizacji ani energii elektrycznej), w sierpniu 2009 schronisko zajęło jedno z ostatnich miejsc w rankingu schronisk górskich, sporządzonym przez polski magazyn turystyki górskiej n.p.m., podobnie w II edycji rankingu z sierpnia 2011.
+
+            Pomysłodawcą nazwy schroniska jest polski żeglarz Leonid Teliga.
+
+            Status własnościowy Chatki był przez wiele lat nieuregulowany, a spór sądowy o nią toczyło PTTK oraz Bieszczadzki Park Narodowy. W lipcu 2015 sąd przyznał schronisko Parkowi. Wtedy też zmieniono klasyfikacje obiektu na Schron Turystyczny BdPN.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Schronisko_PTTK_„Chatka_Puchatka”_na_Połoninie_Wetlińskiej
+          type:
+        - name: Ustrzyki Górne
+          in: query
+          description: |
+            Wieś lokowana na prawie wołoskim w XVI wieku, rozłożyła się na długości ponad 4 kilometrów nad potokiem Wołosatym.
+
+            Wzmianki o Ustrzykach Górnych pochodzą z 1529. Z połowy XVI w. pochodzą przywileje wydane przez Piotra Kmitę dla Stuposian (1531), oraz Tarnawy Niżnej (1537) i Wyżnej (1549). Wieś lokowana na prawie wołoskim ok. 1537, przez ród Kmitów.
+
+            Właściciele Stuposian obejmowali również i tereny Ustrzyk Górnych. Wsie te istniały już wcześniej przed oficjalnym założeniem. Pierwsze wzmianki o kolejnych osadach: Dydiowej, Łokciu, Ustrzykach Górnych, Berehach Górnych, Wetlinie i Jaworcu pochodzą z roku 1580. Dziesięć lat później istniały już przysiółki Łuh (1589, dziś Bereżki) i Dołhyłuh (1590, dziś Muczne).
+
+            W 1667 Sejm za zasługi i fundację kościoła w Jasieniu zezwolił Maciejowi Stanisławowi Ustrzyckiemu na zamianę Ustrzyk Dolnych za Ustrzyki Górne. Maciej Ustrzycki dokonał zamiany Ustrzyki za Ustrzyki (dolne za górne). W 1701 tołhoje, zbóje zza węgierskiej granicy zrabowali wioskę i uprowadzili mieszkańców. W 1709 wioska została spalona przez cofających się Szwedów. Ustrzyki należały potem, jak i Stuposiany, do Wisłockich. Wisłoccy włączyli się do walk niepodległościowych, biorąc udział w powstaniach. Po powstaniu majątki były konfiskowane.
+
+            W pierwszym kwartale 1915 w czasie I wojny światowej najcięższe walki toczyły się o Przełęcz Użocką i Przełęcz Beskid nad Wołosatem, co powodowało też zniszczenie wsi.
+
+            W okresie międzywojennym w miejscowości stacjonowała placówka Straży Granicznej I linii „Ustrzyki Górne”[3].
+
+            Wieś została zajęta 27 września 1944 przez wojska radzieckie.
+
+            Ustrzyki Górne zostały całkowicie zniszczone w latach 1945–1947 na skutek działań NKWD, wojska radzieckiego i sotni Bira. Miejscowa ludność polska po 10 miesiącach od wkroczenia Armii Radzieckiej, w czerwcu 1945 roku, została wysiedlona i wywieziona do Polski lub do łagrów. Pozostała ludność ukraińska została wysiedlona w 1951 w głąb ZSRR, a oporni na Syberię. Po unicestwieniu wsi powstała strażnica WOP w 1951 oraz schronisko PTTK, uruchomione w 1956.
+
+            __Źródło:__ https://pl.wikipedia.org/wiki/Schronisko_PTTK_„Chatka_Puchatka”_na_Połoninie_Wetlińskiej
+          type:
+      tags:
+        - Bieszczady
+        - Ciekawostki
+
+    ### NOCLEG ###
+
+
+    nocleg: 
+      summary: Noclegi
+      description:
+        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      parameters:
+        - name: Schronisko PTTK na Hali Krupowej
+          in: query
+          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          type: Kuchnia
+      tags:
+        - Bieszczady
         - Noclegi
 
   Relacja człowieka 1:
