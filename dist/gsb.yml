@@ -115,7 +115,16 @@ paths:
         - name: 4.5
           in:
           description:
-            Schronisko Górskie PTTK Równica (033)854-24-48 biuro@schronisko-rownica.pl. Schronisko "Równica" posiada 50 miejsc noclegowych w pokojach dwu i wieloosobowych. http://www.schronisko-rownica.pl/
+            Schronisko Górskie PTTK Równica
+
+            * **50 miejsc noclegowych** w pokojach dwu i wieloosobowych.
+
+            * **Telefon** (033)854-24-48
+
+            * **Email** biuro@schronisko-rownica.pl
+
+            * **URL** [Strona schroniska](http://www.schronisko-rownica.pl/)
+
           type: number
         - name: 9.0
           in:
@@ -217,16 +226,34 @@ paths:
         Pierwszy prawdziwie górski kawałek trasy, ale opcji noclegowych jest dużo
       parameters:
         - name: 0.0
-          in: query
-          description: Światowid - Prywatne noclegi. [Światowid](http://swiatowid.info/).
+          in: Dane noclegu
+          description: |
+            **Światowid - Prywatne noclegi**
+
+            * ** ? miejsc noclegowych**
+            * **Telefon** 661 379 508
+            * **Email** swiatowid@swiatowid.info
+            * **URL** [Strona noclegu](http://swiatowid.info/)
           type: number
         - name: 4.5
-          in: query
-          description: Schronisko PTTK Soszów  [Schronisko Soszów](https://soszow.1000lecie.pl). Schronisko na Soszowie to jedno z najstarszych schronisk w Beskidzie Śląskim, znajduje się na początku Głównego Szlaku Beskidzkiego, pomiędzy Czantorią i Stożkiem.
+          in: Dane noclegu
+          description: |
+            **Schronisko PTTK Soszów**
+
+            * ** ? miejsc noclegowych**
+            * **Telefon** (33) 855 85 16  (33) 855 30 46
+            * **Email** ?
+            * **URL** [Strona schroniska](https://soszow.1000lecie.pl)
           type: number
         - name: 9.0
-          in: query
-          description: Schronisko PTTK na Stożku Wielkim [Schronisko PTTK na Stożku Wielkim](http://www.stozek.com.pl/) Budynek schroniska znajduje się poniżej szczytu Wielkiego Stożka (978 m. npm.), tuż przy grzbiecie pasma Czantorii i Stożka, stanowiącego jednocześnie granicę Polsko - Czeską.
+          in: Dane noclegu
+          description: |
+            **Schronisko PTTK na Stożku Wielkim**
+
+            * ** ? miejsc noclegowych**
+            * **Telefon** (33) 855 27 10,  606 11 82 02
+            * **Email**  stozek@bagera.pl
+            * **URL** [Strona schroniska](http://www.stozek.com.pl/)
           type: number
       tags:
         - Beskid Śląski
@@ -361,17 +388,35 @@ paths:
         Idać w stronę pasma Baraniej Góry wciąż mamy sporo opcji noclegowych, mimo iż nie wchodzimy do żadnego miasta
       parameters:
         - name: Przełęcz Kubalonka
-          in: query
-          description: Kubalonka. [Karczma Kubalonka](http://www.kubalonka.pl/noclegi.html#main-content-div). Zapewniamy zakwaterowanie w 11 pokojach, łącznie dla 35 osób. Istnieje możliwość dostawek i wtedy całkowita ilość miejsc zwiększa się do 38 osób.
+          in: Restauracja
+          description: |
+            **Karczma Kubalonka**
+
+            * ** 35 miejsc noclegowych**
+            * **Telefon** 605 088 405
+            * **Email**  kubalonka@interia.pl
+            * **URL** [Strona karczmy](http://www.kubalonka.pl/noclegi.html#main-content-div)
           type: number
         - name: Schronisko Stecówka
           in: Kuchnia
-          description:
-            Prywatne schronisko Stecówka. [Strona](http://www.stecowka.pl/) - 36 miejsc noclegowych
+          description: |
+            **Prywatne schronisko Stecówka.**
+
+            * ** 36 miejsc noclegowych**
+            * **Telefon** (33) 855 52 58
+            * **Email** schronisko@stecowka.pl
+            * **URL** [Strona schroniska](http://www.stecowka.pl/)
           type: number
         - name: Schronisko PTTK na Przysłopie pod Baranią Górą
-          in: Kuchnia, Łazienki, Atrakcje
-          description: Schronisko PTTK. [Strona](https://e-turysta.pl/schronisko-pttk-na-przyslopie-pod-barania-gora-wisla-120189.html?kl=1) - 91 miejsc noclegowych
+          in: Kuchnia, Atrakcje
+          description: |
+            **Schronisko PTTK na Przysłopie pod Baranią Górą**
+
+            * ** 91 miejsc noclegowych**
+            * **Telefon** (33) 855 37 15
+            * **Email** schronisko@przyslop.pl
+            * **URL** [Strona schroniska](https://e-turysta.pl/schronisko-pttk-na-przyslopie-pod-barania-gora-wisla-120189.html?kl=1)
+            * **FB** [Fanpage](https://www.facebook.com/przyslop/)
           type: number
       tags:
         - Beskid Śląski
@@ -602,12 +647,24 @@ paths:
         Po opuszczeniu Węgierskiej Górki wkraczamy w popularny turystycznie region i opcji noclegowych jest już kilka
       parameters:
         - name: Agroturystka Abrahamów
-          in: query
-          description: Agroturystyka tuż przy trasie w przysiołku Agrahamów [http://www.nocowanie.pl/noclegi/wegierska_gorka/agroturystyka/91064/]
+          in: Sklepik
+          description: |
+            **Agroturystka Abrahamów**
+
+            * ** 40 miejsc noclegowych**
+            * **Telefon** (33) 8626408
+            * **Email** ?
+            * **URL** [Strona agroturystyki](http://www.nocowanie.pl/noclegi/wegierska_gorka/agroturystyka/91064/)
           type: number
         - name: Górska Stacja Turystyczna Słowianka
-          in: query
-          description: Chatka u podnóża Romanki [http://www.slowianka.beskidy.info.pl/]
+          in: Sklepik, Kuchnia
+          description: |
+            **Górska Stacja Turystyczna Słowianka**
+
+            * ** 24 miejsca noclegowe**
+            * **Telefon** 33 861-42-92, 660-339-55
+            * **Email** ?
+            * **URL** [Strona stacji](http://www.slowianka.beskidy.info.pl/)
           type: number
         - name: Schronisko PTTK na Rysiance
           in: query
