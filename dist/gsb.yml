@@ -667,8 +667,14 @@ paths:
             * **URL** [Strona stacji](http://www.slowianka.beskidy.info.pl/)
           type: number
         - name: Schronisko PTTK na Rysiance
-          in: query
-          description: Schronisko pod szczytem Rysiankia [http://www.rysianka.vot.pl/rysianka/web/index.php/aktualnosci]
+          in: Kuchnia
+          description: |
+            **Schronisko PTTK na Rysiance**
+
+            * ** 50 miejsc noclegowych**
+            * **Telefon** (33) 861 23 49
+            * **Email** rysianka@onet.pl
+            * **URL** [Strona schroniska](http://www.rysianka.vot.pl/)
           type: number
         - name: Schronisko PTTK na Hali Miziowej
           in: query
@@ -805,12 +811,25 @@ paths:
         Choć w sercu gór, możliwości noclegowych jest parę
       parameters:
         - name: Baza Namiotowa Głuchaczki
-          in: query
-          description: Malowniczo położona baza namiotowa [http://skpb.org/bases/gluchaczki/]. Warto zajrzeć nawet jak się nie chce nocować
+          in: Kuchnia Polowa
+          description: |
+            **Baza Namiotowa Głuchaczki**
+
+            * **Czynna**: koniec czerwac - początek września
+            * ** 40 miejsc noclegowych**
+            * **Telefon** 502831517
+            * **Email** gluchaczki@skpb.org
+            * **URL** [Strona schroniska](http://skpb.org/bases/gluchaczki/)
           type: Kuchnia
         - name: Schronisko PTTK Markowe Szczawiny
-          in: query
-          description: Wyremontowane schronisko u stóp Babiej Góry [http://markoweszczawiny.pttk.pl/]
+          in: Restauracja
+          description: |
+            **Schronisko PTTK Markowe Szczawiny**
+
+            * ** ? miejsc noclegowych**
+            * **Telefon** 33 8775 105
+            * **Email** markowe.szczawiny@op.pl
+            * **URL** [Strona schroniska](http://markoweszczawiny.pttk.pl/)
           type: Restauracja
       tags:
         - Beskid Żywiecki
