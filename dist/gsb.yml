@@ -114,15 +114,12 @@ paths:
           type: number
         - name: 4.5
           in:
-          description:
-            Schronisko Górskie PTTK Równica
+          description: |
+            **Schronisko Górskie PTTK Równica**
 
             * **50 miejsc noclegowych** w pokojach dwu i wieloosobowych.
-
             * **Telefon** (033)854-24-48
-
             * **Email** biuro@schronisko-rownica.pl
-
             * **URL** [Strona schroniska](http://www.schronisko-rownica.pl/)
 
           type: number
@@ -930,16 +927,21 @@ paths:
       summary: Noclegi
       description:
         W schronisku, lub można zboczyć ze szlaku do Zawoi
+
       parameters:
-        - name: Schronisko PTTK na Hali Krupowej
-          in: query
-          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
-          type: Kuchnia
+        - name: 0.0
+          in: Dane noclegu
+          description: |
+            **Schronisko PTTK na Hali Krupowej**
+
+            * ** 38 miejsc noclegowych**
+            * **Telefon** 607 033997
+            * **Email** krupowa@o2.pl
+            * **URL** [Strona schroniska](http://krupowa.pl/)
+          type: number
       tags:
         - Beskid Żywiecki
         - Noclegi
-
-
 
 
           ### PTTK Krupowa ###
@@ -1016,19 +1018,24 @@ paths:
 
     ### NOCLEG ###
 
-    nocleg: 
+    nocleg:
       summary: Noclegi
       description:
-        W schronisku, lub można zboczyć ze szlaku do Zawoi
+        Prywatne kwatery i pensjonaty
       parameters:
-        - name: Schronisko PTTK na Hali Krupowej
-          in: query
-          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
-          type: Kuchnia
+        - name: 0.0
+          in: Dane noclegu
+          description: |
+            **Bystra - prywatne kwatery**
+          type: number
+        - name: 0.0
+          in: Dane noclegu
+          description: |
+            **Jordanów - prywatne kwatery**
+          type: number
       tags:
         - Beskid Żywiecki
         - Noclegi
-
 
 
           ### Jordanów ###
@@ -1127,15 +1134,23 @@ paths:
     nocleg: 
       summary: Noclegi
       description:
-        W schronisku, lub można zboczyć ze szlaku do Zawoi
+         W prywatnych kwaterach i pensjonatach
       parameters:
-        - name: Schronisko PTTK na Hali Krupowej
-          in: query
-          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
-          type: Kuchnia
+        - name: 0.0
+          in: Dane noclegu
+          description: |
+            **Skawa - prywatne kwatery**
+          type: number
+        - name: 0.0
+          in: Dane noclegu
+          description: |
+            **Rabka-Zdrój - prywatne kwatery, pensjonaty, hotele**
+          type: number
       tags:
-        - Beskid Żywiecki
+        - Gorce
         - Noclegi
+
+
 
           ### Rabka ###
           ### Turbacz ###
@@ -1218,12 +1233,39 @@ paths:
       description:
         W schronisku, lub można zboczyć ze szlaku do Zawoi
       parameters:
-        - name: Schronisko PTTK na Hali Krupowej
-          in: query
-          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
-          type: Kuchnia
+        - name: 0.0
+          in: Dane noclegu
+          description: |
+            **Bacówka na Maciejowej**
+
+            * ** ? miejsc noclegowych**
+            * **Telefon** 696 590 538
+            * **Email** schronisko@namaciejowej.pl
+            * **URL** [Strona schroniska](http://www.namaciejowej.pl/)
+            * **FB** [Profil na FB](https://www.facebook.com/BacowkaPttkNaMaciejowej)
+          type: number
+        - name: 0.0
+          in: Dane noclegu
+          description: |
+            **Schronisko PTTK "Stare Wierchy"**
+
+            * ** 28 miejsc noclegowych**
+            * **Telefon** 888-915-846
+            * **Email** starewierchy.pttk@gmail.com
+            * **URL** [Strona schroniska](http://stare-wierchy.pttk.pl/)
+          type: number
+        - name: 0.0
+          in: Dane noclegu
+          description: |
+            **Schronisko PTTK Na Turbaczu**
+
+            * ** 110 miejsc noclegowych**
+            * **Telefon** 602 118 889
+            * **Email** schronisko@turbacz.net
+            * **URL** [Strona schroniska](http://turbacz.net)
+          type: number
       tags:
-        - Beskid Żywiecki
+        - Gorce
         - Noclegi
 
           ### Turbacz ###
@@ -1334,13 +1376,41 @@ paths:
       description:
         W schronisku, lub można zboczyć ze szlaku do Zawoi
       parameters:
-        - name: Schronisko PTTK na Hali Krupowej
-          in: query
-          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
-          type: Kuchnia
+        - name: 0.0
+          in: Dane noclegu
+          description: |
+            **Gospodarstwo Przełęcz Knurowska**
+
+            * ** ? miejsc noclegowych**
+            * **Telefon** 798 757 494
+            * **Email** biel@przeleczknurowska.pl
+            * **FB** [Profil na FB](https://www.facebook.com/przeleczknurowska/)
+
+            <DO WERYFIKACJI CZY PRZY SZLAKU>
+          type: number
+        - name: 0.0
+          in: Dane noclegu
+          description: |
+            **Agroturystyka Studzionki**
+
+            * ** ? miejsc noclegowych**
+            * **Telefon** (018) 262 41 54
+            * **Email** krol6@o2.pl
+            * **URL**: [Strona noclegów](http://www.studzionki.zafriko.pl/)
+          type: number
+        - name: 0.0
+          in: Dane noclegu
+          description: |
+            **Baza namiotowa na Lubaniu**
+
+            * ** "Sporo" miejsc noclegowych**
+            * **Telefon** 509-654-309 (SMS)
+            * **Email** luban@skpg.krakow.pl
+            * **URL**: [Strona bazy](http://bazaluban.pttk.pl/)
       tags:
-        - Beskid Żywiecki
+        - Gorce
         - Noclegi
+
           ### Lubań ###
           ### Szczawnica Zdrój ###
 
