@@ -1482,19 +1482,19 @@ paths:
       description:
         W schronisku, lub można zboczyć ze szlaku do Zawoi
       parameters:
-        - name: Schronisko PTTK na Hali Krupowej
-          in: query
-          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
-          type: Kuchnia
+        - name: 0.0
+          in: Dane noclegu
+          description: |
+            **Krościenko Nad Dunajcem - dużo opcji noclegowych**
       tags:
-        - Beskid Żywiecki
+        - Gorce
         - Noclegi
           ### Szczawnica Zdrój ###
           ### PTTK Przehyba ###
 
 
 
-  Szczawnica Zdrój - PTTK na Przehybie:
+  Krościenko nad Dunajcem - PTTK na Przehybie:
     trasa:
       summary: W Beskid Sądecki
       description:
@@ -1563,12 +1563,27 @@ paths:
       description:
         W schronisku, lub można zboczyć ze szlaku do Zawoi
       parameters:
-        - name: Schronisko PTTK na Hali Krupowej
+        - name: Przełęcz Przysłop
           in: query
-          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          description: |
+            **Kwatery prywatne na Przełęczy Przysłop**
+
+            * **Telefon** 692210091
+            * **Email** joannagodawska@gmail.com
+            * **URL**: [Strona kwatery](http://www.naprzeleczy.ecom.com.pl/)
+          type: Kuchnia
+        - name: Schornisko PTTK na Przehybie
+          in: query
+          description: |
+            **Schornisko PTTK na Przehybie**
+
+            * **45 miejsc noclegowych**
+            * **Telefon** 502 628 805
+            * **Email** info@przehyba.pl
+            * **URL**: [Strona schroniska](http://www.przehyba.pl)
           type: Kuchnia
       tags:
-        - Beskid Żywiecki
+        - Gorce
         - Noclegi
 
           ### PTTK Przehyba ###
@@ -1658,12 +1673,23 @@ paths:
       description:
         W schronisku, lub można zboczyć ze szlaku do Zawoi
       parameters:
-        - name: Schronisko PTTK na Hali Krupowej
+        - name: Chatka pod Niemcową
           in: query
-          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          description: |
+            **Chatka Pod Niemcową**
+
+            * **? miejsc noclegowych**
+            * **Telefon** 018-4465128
+            * **FB**  [Fanpage](https://www.facebook.com/niemcowa/)
+            * **URL**: [Strona o chatce](http://www.szalasolot.quali.pl/index.php)
+          type: Kuchnia
+        - name: Rytro
+          in: query
+          description: |
+            **Rytro - dużo miejsc noclegowych**
           type: Kuchnia
       tags:
-        - Beskid Żywiecki
+        - Beskid Sądecki
         - Noclegi
 
 
@@ -1786,15 +1812,44 @@ paths:
     ### NOCLEG ###
 
 
-    nocleg: 
+    nocleg:
       summary: Noclegi
       description:
         W schronisku, lub można zboczyć ze szlaku do Zawoi
       parameters:
-        - name: Schronisko PTTK na Hali Krupowej
+        - name: Prywatne schronisko pod Cyrlą
           in: query
-          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          description: |
+            **Chata Górska Cyrla**
+
+            * **35 miejsc noclegowych**
+            * **Telefon** 604 087 609
+            * **Email** schron@cyrla.pl
+            * **URL**: [Strona o chatce](https://sites.google.com/site/chatacyrla/)
           type: Kuchnia
+        - name: Schronisko PTTK na Hali Łabowskiej
+          in: query
+          description: |
+            **Schronisko PTTK na Hali Łabowskiej**
+
+            * **60 miejsc noclegowych**
+            * **Telefon** 600 890 864
+            * **URL**: [Strona schroniska](http://www.halalabowska.pttk.pl/)
+          type: Kuchnia
+        - name: Schronisko PTTK na Jaworzynie Krynickiej
+          in: query
+          description: |
+            **Schronisko PTTK na Jaworzynie Krynickiej**
+
+            * **47 miejsc noclegowych**
+            * **Email** jaworzyna@wstronenatury.pl
+            * **Telefon** 532 336 784
+            * **URL**: [Strona schroniska](http://jaworzyna-schronisko.pl/)
+          type: Kuchnia
+        - name: Krynica Górska
+          in: query
+          description: |
+            **Krynica Górska - dużo opcji noclegowych**
       tags:
         - Beskid Sądecki
         - Noclegi
