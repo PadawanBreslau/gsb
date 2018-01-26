@@ -26,6 +26,25 @@ paths:
           ### USTROŃ ###
           ### USTROŃ-POLANA ###
 
+
+  Informacje o stronie:
+    info:
+      summary: O czym jest ta strona, jak działa, z czym się ją je
+      description: |
+        Z zamiarem zrobienia strony dotyczącej Głównego Szlaku Beskidzkiego zbierałem się od paru już lat. Choć szlaku w całości nigdy nie przeszedłem, to uwielbiam o nim czytać, oglądać zdjęcia i relacje. Jest to bardzo popularny szlak i owych jest bardzo dużo w książkach, blogach, stronach internetowych i filmach na YT. Uznałem, że przydałaby się strona, która zbierze morze tych informacji w całość.
+
+        Strona ma charakter wyłącznie informacyjny. Nie ma i nie będzie na nim żadnego promowania miejsc, noclegów, sprzętu - mimo iż mam swoje zdanie na temat wielu miejsc na trasie. Dorośli ludzie, a zakładam że tacy wyruszają na podbój szlaku, sami będą mogli wyciągnąć wnioski i podjąć własną decyzję.
+
+        Strona z definicji ma być tylko do odczytu. Z kilku powodów. Po pierwsze strona ma być z definicji jak najprostsza, i do każdej informacji mają prowadzić maksymalnie dwa kliknięcia. Po drugie stronanie ma być miejscem dyskusji, bo one prowadzą do chaosu. Takie rzeczy można i powinno się przenieść na fanpage strony (LINK) albo na dziesiątkach innych stron Po trzecie - dzięki temu pozostaje bezstronna - każda treść na niej jest dodawana przeze mnie, co zapewnia bezstronnośc opinii. Oczywiście źródła mogą być również stronnicze, co postaram się w miarę możliwości weryfikować.
+
+        Strona z definicji ma charakter czysto hobbystyczny. Nie zamierzam ani teraz ani w przyszłości na niej zarabiać. Mam dobrą pracę, a zreszta ile można na takiej stronie zarobić? :)
+
+        Jeśli macie coś ciekawego do dodania na stronę, zapraszam chętnie do dawania mi informacji - szlak jest długi, wiele rzeczy mogłem ominąć. Jeśli umiesz korzystać z gita, polecam zrobić bezpośredni pull requesta(ADRES), jeśli nie wiesz o czym do Ciebie teraz mówię, po prostu wyślij maila (MAIL), napisz na FB(FB), albo nawet na wykopie(LINK DO TAGU) :)
+
+        Technicznie strona jest zmodyfikowaną wersją Swaggera (systemu do tworzenia dokumentacji w IT), cała treść strony zawarta jest w pliku tekstowym w formacie YAML. Nic poza czasem wolnym nie stoi na przeszkodzie, by wykorzystać kod do opisywania innych szlaków. Jeśli chcesz wykorzystać, wejśdź na GitHuba i tam w README będzie wszystko opisane.
+      tags:
+        - Ciekawostki
+
   Ustroń-Ustroń Polana:
     trasa:
       summary: Czyli Rambo Pierwsza Krew
@@ -2815,10 +2834,66 @@ paths:
         - Bieszczady
         - Noclegi
 
-  Relacja człowieka 1:
+  ##### RLC  RELACJE  ###
+
+
+  Relacja - Paweł Łacheta:
     relacje:
-      summary: Relacje odcinka
-      description: "AAAA <img src='bhttps://v.wpimg.pl/LTEwNzcwJSNqFmEcTB08MSJYfUhRRH57JxYsEwIoKzs3FhEKDBs_PyQofFQJBykz/'></img>"
+      summary: XXX
+      description: |
+        * **Kierunek** Ustroń-Wołosate
+        * **Liczba dni** 17
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+
+        Bardzo dobra i obszerna relacja na bardzo przydatnej stronie z wieloma użytecznymi informacjami.
+
+        [Relacja Pawła Łachety](http://glownybeskidzki.cba.pl/Relacja.html)
+      tags:
+        - Relacje
+        - Zdjęcia
+
+  Relacja - Łukasz Staniszczak(Szczecin):
+    relacje:
+      summary: XXX
+      description: |
+        * **Kierunek** Ustroń-Wołosate
+        * **Liczba dni** 16
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+        Relacja uczestników, którzy byli wzmiankowani w poprzedniej relacji :)
+
+        [Relacja](http://gsb.szczecin.pl)
       tags:
         - Relacje
 
+  Relacja glownyszlakbeskidzki2017.blox.pl:
+    relacje:
+      summary: XXX
+      description: |
+        * **Kierunek** Ustroń-Wołosate
+        * **Liczba dni** 17
+        * **Styl** Pieszy
+        * **Pora roku** Wiosna?
+
+        [Relacja](http://glownybeskidzki2017.blox.pl/2017/06/Prolog.html)
+      tags:
+        - Relacje
+
+  Relacja - Podrózebezosci:
+    relacje:
+      summary: XXX
+      description: |
+        * **Kierunek** Wołosate-Ustroń
+        * **Liczba dni** 17
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+        Bardzo fajna i rozbudowana relacja, z oceną obiektów i mapami
+
+        [Relacja](http://podrozebezosci.pl/glowny-szlak-beskidzki/)
+      tags:
+        - Relacje
+        - Zdjęcia
