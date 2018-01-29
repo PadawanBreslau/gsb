@@ -49,9 +49,63 @@ paths:
   Porady - obuwie:
     porady:
       summary: |
-        Co zakładać na przejście GSB
+        Buty na przejście GSB
       description: |
-        Co należy założyć aby przejść GSB?
+        Jakie buty założyć aby przejść GSB? Główne pytanie dotyczy wyboru jednego z dwóch grup obuwia
+
+        * **wysokie buty** - Dają dużą pewność, że żadne podłoże nie będzie straszne, że skarpetki nie będą mokre w pięć sekund po wyjściu w deszcz i że krzywo postawiona kostka nie ulegnie skręceniu. Ich wadą jest zaś ich waga i przewiewność - stopy się dużo bardziej męczą, zwłaszcza przy ciepłej pogodzie. Jeśli zamoczą się w środku, bardzo długo schną.
+        * **niskie buty** - Dają większą swobodę, a dzięki niewielkiej wadze pozwalają na dużo szybsze poruszanie się. Dają mniejsze bezpieczeństwo i zasadniczo zmuszają do nauczenia się chodzenia z całkowicie morkymi stopami. Z drugiej strony jak już wyjdzie słońce, to mokre buty na nogach szybko schną.
+
+        Wybór obuwia głównie zależy od Twojego własnego stylu chodzenia po górach. Bo najważniejszą rzeczą jest, by iść w obuwiu, w którym czuje się komfortowo i które zostały już sprawdzone w trasie. Oczywiście trzeba też dostosować obuwie do pory roku, choć oczywiście są osoby co i po śniegu biegają w niskich butach.
+      tags:
+        - Porady
+
+  Porady - ubiór:
+    porady:
+      summary: |
+        Ubrania na przejście GSB
+      description: |
+        Wycieczka Głównym Szlakiem Beskidzkim będzie trwała tydzień. Albo dwa. Albo trzy. Nie masz szans znać wiarygodnych prognoz pogody na cały ten okres. Może się okazać, że wyruszysz z Ustronia w piękny słoneczny dzień, a ostatnie metry będzie przebijał się w śniegu. Może padać tydzień, a może w ogóle nie być deszczu. Trzeba być gotowym na wszystko. I trzeba być gotowym na zmianę ubrań, bo po trzech dniach skarpetki same odejdą. Trzeba znaleźć złoty środek między wagą i pojemnością plecaka, a komfortową liczbą sztuk odzieży. Można również kombinować i część ubrań kupować po drodze lub odbierać z przesyłek. Ważne, by być przygotowanym na pełne spektrum warunkóœ pogodowych - 35 stopni w cieniu gdy idzie się latem, błota po kolana wiosną lub jesienią, czy ogromnych mrozów zimą. A czasem paru z tych warunków podczas jednej wyprawy.
+      tags:
+        - Porady
+
+  Porady - apteczka:
+    porady:
+      summary: |
+        Leki na przejście GSB
+      description: |
+        Obowiązkowo:
+        * **leki przyjmnowane na co dzień**
+        * **plastry, bandaże, opatrunki**
+
+        Warto:
+        * **leki przeciwbólowe** - coś będzie bolało. Prędzej czy później. Mniejszy ból można i raczej powinno się zostawiać, ale przy większym warto coś łyknąć.
+        * **leki na zatrucie** - długi okres jedzenia w dość przypadkowych miejscach i warunkach, zatrucia są częstą przypadłością na trasie.
+        * **Octenisept** - czyli współczesna woda utleniona
+        * **DEET** - czyli repelent od insektów
+        * **Krem przeciwsłoneczny**
+        * **Sudocrem** - do smarowania otarć lub profilaktyki przed otarciami
+
+        Dokładniejsza analiza: [na strone Łukasza Supergana](http://www.lukaszsupergan.com/pierwsza-pomoc-apteczka-gory-podroz-treking/)
+
+        Warto pamiętać, że na trasie jest kilka miejscowości z Aptekami, gdzie można uzupełniać zapasy apteczne
+      tags:
+        - Porady
+
+  Porady - dodatki:
+    porady:
+      summary: |
+        Dodatkowe akcesoria na przejście GSB
+      description: |
+        * **Latarka** - przydatna, daje większe pole manewru, nie jest człowiek skazany na paniczne szukanie noclegu przed zapadnięciem zmroku
+        * **Kompas** - średnio przydatne, w obecnych czasach komórek i map GPS rzadko sięga się po stare metody. Ale jako opcja zapasowa nie zaszkodzi. Polecam takie zestawy kompas/gwizdek w jednym dla oszczędzenia wagi i miejsca
+        * **Scyzoryk/Nóż** - warto wziąć, bo nigdy nie wiadomo, kiedy potrzeba będzie go użyć. Może się przydać przy jedzeniu
+        * **Komórka** - konieczność. Do kontaktu, wzywania pomocy, sprawdzania pogody, szukania szlaku
+        * **Powerbank z kablem** - przydatny, zwłaszcza jeśli nie planuje się dużo przerw
+        * **Termos** - zależy od warunków i sposobu nocowania. Jeśli latem z noclegami w schroniskach - raczej zbędny
+        * **Czapka** - niezbędna niezależnie od pory roku - jedynie pytanie brzmi czy ciepła, czy przeciwsłoneczna
+
+
       tags:
         - Porady
 
