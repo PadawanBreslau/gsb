@@ -45,6 +45,16 @@ paths:
       tags:
         - Ciekawostki
 
+
+  Porady - obuwie:
+    porady:
+      summary: |
+        Co zakładać na przejście GSB
+      description: |
+        Co należy założyć aby przejść GSB?
+      tags:
+        - Porady
+
   Ustroń-Ustroń Polana:
     trasa:
       summary: Czyli Rambo Pierwsza Krew

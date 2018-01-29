@@ -3466,7 +3466,7 @@ var reservedApiTags = [
   'tag'
 ];
 //var supportedOperationMethods = ['delete', 'get', 'head', 'options', 'patch', 'post', 'put', 'krowa'];
-var supportedOperationMethods = ['trasa', 'nocleg', 'info', 'media', 'relacje']
+var supportedOperationMethods = ['trasa', 'nocleg', 'info', 'media', 'relacje', 'porady']
 var SwaggerClient = module.exports = function (url, options) {
   this.authorizations = null;
   this.authorizationScheme = null;
@@ -21775,7 +21775,7 @@ window.SwaggerUi = Backbone.Router.extend({
 
     if (!options.supportedSubmitMethods){
       options.supportedSubmitMethods = [
-        'trasa', 'nocleg', 'info', 'media', 'relacje'
+        'trasa', 'nocleg', 'info', 'media', 'relacje', 'porady'
       ];
     }
 
