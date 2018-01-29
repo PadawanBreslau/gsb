@@ -35,13 +35,13 @@ paths:
 
         Strona ma charakter wyłącznie informacyjny. Nie ma i nie będzie na nim żadnego promowania miejsc, noclegów, sprzętu - mimo iż mam swoje zdanie na temat wielu miejsc na trasie. Dorośli ludzie, a zakładam że tacy wyruszają na podbój szlaku, sami będą mogli wyciągnąć wnioski i podjąć własną decyzję.
 
-        Strona z definicji ma być tylko do odczytu. Z kilku powodów. Po pierwsze strona ma być z definicji jak najprostsza, i do każdej informacji mają prowadzić maksymalnie dwa kliknięcia. Po drugie stronanie ma być miejscem dyskusji, bo one prowadzą do chaosu. Takie rzeczy można i powinno się przenieść na fanpage strony (LINK) albo na dziesiątkach innych stron Po trzecie - dzięki temu pozostaje bezstronna - każda treść na niej jest dodawana przeze mnie, co zapewnia bezstronnośc opinii. Oczywiście źródła mogą być również stronnicze, co postaram się w miarę możliwości weryfikować.
+        Strona z definicji ma być tylko do odczytu. Z kilku powodów. Po pierwsze strona ma być z definicji jak najprostsza, i do każdej informacji mają prowadzić maksymalnie dwa kliknięcia. Po drugie stronanie ma być miejscem dyskusji, bo one prowadzą do chaosu. Takie rzeczy można i powinno się przenieść na fanpage strony (LINK) albo na dziesiątkach innych stron Po trzecie - dzięki temu pozostaje bezstronna - każda treść na niej jest dodawana przeze mnie, co zapewnia bezstronnośc opinii. Oczywiście źródła mogą być również stronnicze, co postaram się w miarę możliwości weryfikować. Bezpośrednio na stronie nie będzie też żadnych mediów (zdjęć/filmów) - będą natomiast podlinkowane na zewnątrz to serwisów tym się zajmujących (YT/Google Photos/?). Tak, by łatwo było w domu zobaczyć, ale na trasie by się nie ładowały od razu bez interakcji użytkownika. Prostota przede wszystkim.
 
         Strona z definicji ma charakter czysto hobbystyczny. Nie zamierzam ani teraz ani w przyszłości na niej zarabiać. Mam dobrą pracę, a zreszta ile można na takiej stronie zarobić? :)
 
         Jeśli macie coś ciekawego do dodania na stronę, zapraszam chętnie do dawania mi informacji - szlak jest długi, wiele rzeczy mogłem ominąć. Jeśli umiesz korzystać z gita, polecam zrobić bezpośredni pull requesta(ADRES), jeśli nie wiesz o czym do Ciebie teraz mówię, po prostu wyślij maila (MAIL), napisz na FB(FB), albo nawet na wykopie(LINK DO TAGU) :)
 
-        Technicznie strona jest zmodyfikowaną wersją Swaggera (systemu do tworzenia dokumentacji w IT), cała treść strony zawarta jest w pliku tekstowym w formacie YAML. Nic poza czasem wolnym nie stoi na przeszkodzie, by wykorzystać kod do opisywania innych szlaków. Jeśli chcesz wykorzystać, wejśdź na GitHuba i tam w README będzie wszystko opisane.
+        Technicznie strona jest zmodyfikowaną wersją Swaggera (systemu do tworzenia dokumentacji w IT), cała treść strony zawarta jest w pliku tekstowym w formacie YAML. Nic poza czasem wolnym nie stoi na przeszkodzie, by wykorzystać kod do opisywania innych szlaków. Jeśli chcesz wykorzystać, wejdź na GitHuba i tam w README będzie wszystko opisane.
       tags:
         - Ciekawostki
 
