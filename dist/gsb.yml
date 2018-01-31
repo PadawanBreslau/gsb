@@ -23,8 +23,6 @@ paths:
         - Relacje
         - Noclegi
 
-          ### USTROŃ ###
-          ### USTROŃ-POLANA ###
 
 
   Informacje o stronie:
@@ -104,10 +102,26 @@ paths:
         * **Powerbank z kablem** - przydatny, zwłaszcza jeśli nie planuje się dużo przerw
         * **Termos** - zależy od warunków i sposobu nocowania. Jeśli latem z noclegami w schroniskach - raczej zbędny
         * **Czapka** - niezbędna niezależnie od pory roku - jedynie pytanie brzmi czy ciepła, czy przeciwsłoneczna
-
-
       tags:
         - Porady
+
+  Porady - komórka:
+    porady:
+      summary: |
+        Aplikacje na telefon
+      description: |
+        W dzisiejszych czasach telefony komórkowe służą nie tylko do dzwonienia. Możemy na nich zainstalować wiele aplikacji pomagających w wyprawach
+        * **Ratunek** - Aplikacja GOPRu ułatwiająca akcje ratownicze. Must have.
+        * **Meteo** - Lub podobne. Znajomość prognozy pogody pomoże w dobraniu taktyki na dzień.
+        * **ePodróznik** - Pomaga w planowaniu dojazdu/odjazdu.
+        * **Mapy** - Aplikacje, które pomogą w nawigacji z użyciem wgranego śladu GPS.
+      tags:
+        - Porady
+
+
+          ### USTROŃ ###
+          ### USTROŃ-POLANA ###
+
 
   Ustroń-Ustroń Polana:
     trasa:
@@ -2958,6 +2972,132 @@ paths:
         Bardzo fajna i rozbudowana relacja, z oceną obiektów i mapami
 
         [Relacja](http://podrozebezosci.pl/glowny-szlak-beskidzki/)
+      tags:
+        - Relacje
+        - Zdjęcia
+
+  Relacja - Kazimierz Pawłowski:
+    relacje:
+      summary: XXX
+      description: |
+        * **Kierunek** Ustroń-Wołosate
+        * **Liczba dni** 15
+        * **Styl** Pieszy
+        * **Pora roku** Późna wiosna
+
+        Rozbudowana relacja, ze świetnymi zdjęciami
+
+        [Relacja](http://www.pawlowski.cc/5166/glowny-szlak-beskidzki/)
+      tags:
+        - Relacje
+        - Zdjęcia
+
+  Relacja - Wapniaki w drodze:
+    relacje:
+      summary: XXX
+      description: |
+        * **Kierunek** Wołosate-Ustroń
+        * **Liczba dni** 19
+        * **Styl** Pieszy
+        * **Pora roku** ?
+
+        Niesamowicie ozbudowana relacja, ze świetnymi zdjęciami, dużo ilością ciekawych informacji. Bardziej skupiająca się na walorach krajoznawczych niż na wyczynie sportowym. Mnóstwo informacji, linków, map.
+
+        [Relacja](http://www.wapniakiwdrodze.pl/category/glowny-szlak-beskidzki/)
+      tags:
+        - Relacje
+        - Zdjęcia
+
+  Relacja - DoRi:
+    relacje:
+      summary: XXX
+      description: |
+        * **Kierunek** Ustroń-Wołosate
+        * **Liczba dni** 16
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+        Dość zwięzła relacja, z dużą liczbą ładnych zdjęć i z trackami GPS
+
+        [Relacja](https://www.polskieszlaki.pl/wycieczki/relacja,7313,glowny-szlak-beskidzki.html)
+      tags:
+        - Relacje
+        - Zdjęcia
+
+  Relacja - Renata i Darek:
+    relacje:
+      summary: XXX
+      description: |
+        * **Kierunek** Ustroń-Wołosate
+        * **Liczba dni** 16
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+        Rozległa relacja, z dużą liczbą ładnych zdjęć
+
+        [Relacja](http://renataidarek.blogspot.com/2013/09/gowny-szlak-beskidzki.html)
+      tags:
+        - Relacje
+        - Zdjęcia
+
+  Relacja - Kamil:
+    relacje:
+      summary: XXX
+      description: |
+        * **Kierunek** Wołosate-Ustroń
+        * **Liczba dni** 24
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+        Jedna ze starszych relacji z GSB dostępnych na internecie. Dość obszerna relacja - choć forma strony stara, to treść wciąż wartościowa
+
+        [Relacja](http://www.glownyszlakbeskidzki.cba.pl/calosc.html)
+      tags:
+        - Relacje
+
+  Relacja - Yatzek Outdoor:
+    relacje:
+      summary: XXX
+      description: |
+        * **Kierunek** Ustroń-Wołosate
+        * **Liczba dni** 22
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+        Rozległa relacja z dużą liczbą ładnych zdjęć, dużą liczbą praktycznych porad.
+
+        [Relacja](http://ginvilla.blogspot.com/2012/07/gsb-i-etap-1-dzien-ustron-przeecz.html)
+      tags:
+        - Relacje
+        - Zdjęcia
+
+  Relacja - Jakub Milczarek:
+    relacje:
+      summary: XXX
+      description: |
+        * **Kierunek** Ustroń-Wołosate
+        * **Liczba dni** 21
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+        Rozległa relacja z dużą liczbą praktycznych porad.
+
+        [Relacja](http://blog.milczarek.eu/tag/gsb/)
+      tags:
+        - Relacje
+
+  Relacja - Velozone Łukasz:
+    relacje:
+      summary: XXX
+      description: |
+        * **Kierunek** Ustroń-Wołosate
+        * **Liczba dni** ?
+        * **Styl** Pieszy/Na raty
+        * **Pora roku** Lato
+
+        Relacja z dwóch wypraw. Ładne zdjęcia, mapy i rozbudowany opis
+
+        [Relacja](http://velozone.net/glowny-szlak-beskidzki-relacja/)
       tags:
         - Relacje
         - Zdjęcia
