@@ -2034,12 +2034,28 @@ paths:
       description:
         W schronisku, lub można zboczyć ze szlaku do Zawoi
       parameters:
-        - name: Schronisko PTTK na Hali Krupowej
+        - name: Mochnaczka - Deja Vu
           in: query
-          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          description: |
+            **Pokoje Gościnne - Deja Vu**
+
+            * **13 miejsc noclegowych**
+            * **Email** natamela@interia.pl
+            * **Telefon** 600 979 458
+            * **URL**: [Strona pokojów](http://www.mochnaczka.com/)
+          type: Kuchnia
+        - name: Agroturystyka pod Grzybiem
+          in: query
+          description: |
+            **Agroturystyka pod Grzybkiem **
+
+            * **20 miejsc noclegowych**
+            * **Email** ?
+            * **Telefon** 660 635 072
+            * **URL**: [Strona agroturystyki](http://www.wysowa-zdroj.pl/agro-pod-grzybkiem/)
           type: Kuchnia
       tags:
-        - Beskid Żywiecki
+        - Beskid Niski
         - Nocleg
 
   ### Hańczowa ###
@@ -3114,7 +3130,7 @@ paths:
         Troche chaotycznie, bo na forum, ale bardzo rozbudowana relacja i dużo ładnych zdjęć
 
         [Relacja](http://eksploratorzy.com.pl/viewtopic.php?f=304&t=23436)
-      tags
+      tags:
         - Relacje
         - Zdjęcia
 
