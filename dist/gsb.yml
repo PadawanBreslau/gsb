@@ -3101,3 +3101,84 @@ paths:
       tags:
         - Relacje
         - Zdjęcia
+
+  Relacja - Renata/Igiełka:
+    relacje:
+      summary: XXX
+      description: |
+        * **Kierunek** Wołosate-Ustroń
+        * **Liczba dni** ?
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+        Troche chaotycznie, bo na forum, ale bardzo rozbudowana relacja i dużo ładnych zdjęć
+
+        [Relacja](http://eksploratorzy.com.pl/viewtopic.php?f=304&t=23436)
+      tags
+        - Relacje
+        - Zdjęcia
+
+  Relacja - Jacek Kardasz:
+    relacje:
+      summary: Zimowe przejście GSB
+      description: |
+        * **Kierunek** Ustroń-Wołosate
+        * **Liczba dni** 24
+        * **Styl** Pieszy
+        * **Pora roku** Zima
+
+        Rozbudowana relacja z zimowej wyprawy
+
+        [Relacja](http://jarekkardasz.republika.pl/relacje/gsb_zima/index.htm)
+      tags:
+        - Relacje
+
+  Relacja - GSB 2017 Rowerem:
+    relacje:
+      summary: Przejazd GSB
+      description: |
+        * **Kierunek** Ustroń-Wołosate
+        * **Liczba dni** 7
+        * **Styl** Rower
+        * **Pora roku** Lato
+
+        Rowerowa wyprawa
+
+        [Relacja](http://garmin.bikestats.pl/1603545,GSB-2017.html)
+        [Zdjęcia z dużą ilością roweru :)](https://photos.google.com/share/AF1QipMSjVH-FART0LugEff8y4Y5uGk9DTeTCLr5jj1KNJLNOjYHfv4YLB9Za6rl0fsgxQ?key=RHBXMGFzaERvQUxSRS0zUnYtN1g1Z1FCRWRkYU93)
+      tags:
+        - Relacje
+        - Zdjęcia
+
+  Artykuły - Rafał Bielawa:
+    relacje:
+      summary: Rekord trasy
+      description: |
+        * **Kierunek** Ustroń-Wołosate
+        * **Liczba dni** 4 dni, 11 godzin
+        * **Styl** Ultra z Supportem
+        * **Pora roku** Jesień
+
+        Artykuł z rekordowego przejścia/przebiegnięcia trasy
+
+        [Artykuł](https://www.festiwalbiegowy.pl/biegajacy-swiat/108h-55-jest-nowy-rekord-rafal-bielawa-przebiegl-glowny-szlak-beskidzki)
+      tags:
+        - Relacje
+
+  Artykuły - Maciej Więcek:
+    relacje:
+      summary: Poprzedni rekord trasy
+      description: |
+        * **Kierunek** Wołosate - Ustroń
+        * **Liczba dni** 4 dni, 19 godzin
+        * **Styl** Ultra z Supportem
+        * **Pora roku** Lato
+
+        Artykuł z wcześniejszego rekordowego przejścia/przebiegnięcia trasy
+
+        [Artykuł](http://www.magazynbieganie.pl/glowny-szlak-beskidzi-pokonany-w-114-godzin-i-50-minut/)
+      tags:
+        - Relacje
+
+
+
