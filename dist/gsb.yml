@@ -2662,9 +2662,16 @@ paths:
       description:
         W schronisku, lub można zboczyć ze szlaku do Zawoi
       parameters:
-        - name: Schronisko PTTK na Hali Krupowej
+        - name: Bacówka pod Honem
           in: query
-          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          description: |
+            **Bacówka pod Honem**
+
+            * **46 miejsc noclegowych**
+            * **Email** kontakt@bacowkapodhonem.pl
+            * **Telefon** 660 116 025
+            * **URL**: [Strona schroniska](http://www.bacowkapodhonem.pl/ )
+            * **FB** (https://www.facebook.com/Bac%c3%b3wka-pod-Honem-1673508952722805/?hc_ref=ARQDBNSHEMUcbBDN5xIybYjEm-RhvvILIihW9Ft_X3L2fh8raYE4I-5WklR2FkPBNSY&fref=nf) 
           type: Kuchnia
       tags:
         - Bieszczady
@@ -2827,15 +2834,30 @@ paths:
 
     ### NOCLEG ###
 
-
     nocleg: 
       summary: Noclegi
       description:
         W schronisku, lub można zboczyć ze szlaku do Zawoi
       parameters:
-        - name: Schronisko PTTK na Hali Krupowej
+        - name:  Schronisko PTTK „Chatka_Puchatka” na Połoninie Wetlińskiej
           in: query
-          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          description: |
+            **Schronisko PTTK „Chatka_Puchatka” na Połoninie Wetlińskiej**
+
+            * **20 miejsc noclegowych**
+            * **Email** ?
+            * **Telefon** 502 472 893
+            * **URL**: [Strona schroniska](http://www.bieszczady.net.pl/chatkapuchatka/ )
+          type: Kuchnia
+        - name:  Schronisko Kremenaros
+          in: Ustrzyki Górne
+          description: |
+            **Schronisko Kremenaros**
+
+            * **20 miejsc noclegowych**
+            * **Email** poczta@kremenaros.com.pl
+            * **Telefon** 13 461 06 05
+            * **URL**: [Strona schroniska](https://kremenaros.com.pl/ )
           type: Kuchnia
       tags:
         - Bieszczady
@@ -2932,9 +2954,16 @@ paths:
       description:
         W schronisku, lub można zboczyć ze szlaku do Zawoi
       parameters:
-        - name: Schronisko PTTK na Hali Krupowej
+        - name:  Noclegi "Stajnia"
           in: query
-          description: Schronisko z możliwością rozbicia namiotu [http://krupowa.pl/].
+          description: |
+            **Noclegi "Stajnia"**
+
+            * **24 miejsc noclegowych**
+            * **Email** wolosate@sisco.pl
+            * **Telefon** (13) 461 06 70
+            * **URL**: [Strona schroniska](http://www.wolosate.bieszczady.pl)
+
           type: Kuchnia
       tags:
         - Bieszczady
