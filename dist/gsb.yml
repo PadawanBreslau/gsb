@@ -10,20 +10,6 @@ basePath: /v1
 produces:
   - application/json
 paths:
-  NotDisplayPath:
-    nodisplay:
-      tags:
-        - Beskid Śląski
-        - Beskid Żywiecki
-        - Gorce
-        - Beskid Sądecki
-        - Beskid Niski
-        - Bieszczady
-        - Trasa
-        - Relacje
-        - Noclegi
-
-
 
   Informacje o stronie:
     info:
@@ -118,10 +104,8 @@ paths:
       tags:
         - Porady
 
-
           ### USTROŃ ###
           ### USTROŃ-POLANA ###
-
 
   Ustroń-Ustroń Polana:
     trasa:
@@ -371,6 +355,8 @@ paths:
       tags:
         - Beskid Śląski
         - Media
+        - Zdjęcia
+
     trasa:
       summary: Na drugą stronę przełęczy
       description:
@@ -2974,6 +2960,22 @@ paths:
         - Relacje
         - Zdjęcia
 
+  Relacja - Tomasz Gawlas:
+    relacje:
+      summary: XXX
+      description: |
+        * **Kierunek** Ustroń-Wołosate
+        * **Liczba dni** 16
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+        Bardzo obszerna relacja, dużo zdjęć i map.
+
+        [Relacja Tomasz Gawlasa](http://douglas-beskidzki-goral.blogspot.com/search/label/G%C5%82%C3%B3wny%20Szlak%20Beskidzki%20%2809.08-24.08.2014%29%20-%20fotorelacja)
+      tags:
+        - Relacje
+        - Zdjęcia
+
   Relacja - Łukasz Staniszczak(Szczecin):
     relacje:
       summary: XXX
@@ -3222,5 +3224,193 @@ paths:
       tags:
         - Relacje
 
+  ##### FLM FILMY  ###
 
+  Filmy - marunatolin:
+    media:
+      summary: X
+      description: |
+        * **Długość filmu** 50 minut
+        * **Kierunek**  Ustroń - Wołosate
+        * **Liczba dni** 16
+        * **Styl** Pieszy
+        * **Pora roku** Lato
 
+        [Film](https://www.youtube.com/watch?v=lkKKAByfV3U)
+      tags:
+        - Relacje
+        - Media
+
+  Filmy - odkropkidokropki:
+    media:
+      summary: X
+      description: |
+        * **Długość filmu** 50 minut
+        * **Kierunek**  Ustroń - Wołosate
+        * **Liczba dni** 18
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+        [Film](https://www.youtube.com/watch?v=gexjhyQdu40)
+      tags:
+        - Relacje
+        - Media
+
+  Filmy - Jakub Czajkowski:
+    media:
+      summary: X
+      description: |
+        * **Długość filmu** 50 minut
+        * **Kierunek**  Ustroń - Wołosate
+        * **Liczba dni** 15
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+        [Film](https://www.youtube.com/watch?v=4YLB_k_IzpM)
+      tags:
+        - Relacje
+        - Media
+
+  Filmy - Kaja Milanowska, Kasia Melcer:
+    media:
+      summary: X
+      description: |
+        * **Długość filmu** 10 minut
+        * **Kierunek**  Wołosate - Ustroń
+        * **Liczba dni** 9
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+        [Film](https://www.youtube.com/watch?v=cil0znLXeo0)
+      tags:
+        - Relacje
+        - Media
+
+  Filmy - DalekoJeszcze:
+    media:
+      summary: X
+      description: |
+        * **Długość filmu** 30 minut
+        * **Kierunek**  Ustroń - Wołosate
+        * **Liczba dni** ?
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+        [Film](https://www.youtube.com/watch?v=jJxmnnxK72g)
+      tags:
+        - Relacje
+        - Media
+
+  Filmy - Rober Krawenda:
+    media:
+      summary: X
+      description: |
+        * **Długość filmu** 2x10 minut
+        * **Kierunek**  Ustroń - Wołosate
+        * **Liczba dni** 14
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+        [Film 1](https://www.youtube.com/watch?v=GJfgVCbqQRw)
+        [Film 2](https://www.youtube.com/watch?v=42d2HihI02g)
+      tags:
+        - Relacje
+        - Media
+
+  Filmy - Wędrówka Dziadbora:
+    media:
+      summary: X
+      description: |
+        * **Długość filmu** 2x90 minut
+        * **Kierunek**  Ustroń - Wołosate
+        * **Liczba dni** 26
+        * **Styl** Pieszy
+        * **Pora roku** Późna wiosna/Lato
+
+        [Film 1](https://www.youtube.com/watch?v=g-CwSSUqvkU)
+        [Film 2](https://www.youtube.com/watch?v=cpM7UmWf8qs)
+      tags:
+        - Relacje
+        - Media
+
+  Filmy - Gory to część mojego życia:
+    media:
+      summary: X
+      description: |
+        * **Długość filmu** 3x10 minut
+        * **Kierunek**  Ustroń - Wołosate
+        * **Liczba dni** 16
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+        [Film](https://www.youtube.com/watch?v=MH-hXZ-XbVU)
+        [Film 2](https://www.youtube.com/watch?v=VWLcjZ3h_1g)
+        [Film 3](https://www.youtube.com/watch?v=16pHT1y--3g)
+      tags:
+        - Relacje
+        - Media
+
+  Filmy - YTMarekZet:
+    media:
+      summary: X
+      description: |
+        * **Długość filmu** 10 minut
+        * **Kierunek**  Ustroń - Bartne(?) (330km)
+        * **Liczba dni** 12
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+        [Film](https://www.youtube.com/watch?v=O3hOj37ysK0)
+      tags:
+        - Relacje
+        - Media
+
+  Filmy - Ekipa Wypadowa:
+    media:
+      summary: X
+      description: |
+        * **Długość filmu** 12 minut
+        * **Kierunek**  Wołosate - Krościenko (330km z odbiciami)
+        * **Liczba dni** 13
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+        [Film](https://www.youtube.com/watch?v=KBb3pvfu2Go)
+      tags:
+        - Relacje
+        - Media
+
+  Filmy - ryska411:
+    media:
+      summary: X
+      description: |
+        * **Długość filmu** 5 minut
+        * **Kierunek**  Wołosate - Ustroń
+        * **Liczba dni** ?
+        * **Styl** Pieszy
+        * **Pora roku** Jesień (?)
+
+        [Film](https://www.youtube.com/watch?v=Au0zA1lEz7A)
+      tags:
+        - Relacje
+        - Media
+
+  Filmy - wywiad z Piotrem Kłosowiczem:
+    media:
+      summary: X
+      description: |
+        * **Długość filmu** 5 minut
+
+        [Film](https://www.youtube.com/watch?v=T-KAyytyKKI)
+      tags:
+        - Media
+
+  Filmy - reportaż o próbie Macieja Więcka:
+    media:
+      summary: X
+      description: |
+        * **Długość filmu** 20 minut
+
+        [Film](https://www.youtube.com/watch?v=TPDFzXnZZSE)
+      tags:
+        - Media
