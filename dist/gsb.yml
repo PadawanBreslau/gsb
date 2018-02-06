@@ -21,7 +21,7 @@ paths:
 
         Strona z definicji ma być tylko do odczytu. Z kilku powodów. Po pierwsze strona ma być z definicji jak najprostsza, i do każdej informacji mają prowadzić maksymalnie dwa kliknięcia. Po drugie stronanie ma być miejscem dyskusji, bo one prowadzą do chaosu. Takie rzeczy można i powinno się przenieść na fanpage strony (LINK) albo na dziesiątkach innych stron Po trzecie - dzięki temu pozostaje bezstronna - każda treść na niej jest dodawana przeze mnie, co zapewnia bezstronnośc opinii. Oczywiście źródła mogą być również stronnicze, co postaram się w miarę możliwości weryfikować. Bezpośrednio na stronie nie będzie też żadnych mediów (zdjęć/filmów) - będą natomiast podlinkowane na zewnątrz to serwisów tym się zajmujących (YT/Google Photos/?). Tak, by łatwo było w domu zobaczyć, ale na trasie by się nie ładowały od razu bez interakcji użytkownika. Prostota przede wszystkim.
 
-        Strona z definicji ma charakter czysto hobbystyczny. Nie zamierzam ani teraz ani w przyszłości na niej zarabiać. Mam dobrą pracę, a zreszta ile można na takiej stronie zarobić? :)
+        Strona ma charakter czysto hobbystyczny. Nie zamierzam ani teraz ani w przyszłości na niej zarabiać. Mam dobrą pracę, a zreszta ile można na takiej stronie zarobić? :)
 
         Jeśli macie coś ciekawego do dodania na stronę, zapraszam chętnie do dawania mi informacji - szlak jest długi, wiele rzeczy mogłem ominąć. Jeśli umiesz korzystać z gita, polecam zrobić bezpośredni pull requesta(ADRES), jeśli nie wiesz o czym do Ciebie teraz mówię, po prostu wyślij maila (MAIL), napisz na FB(FB), albo nawet na wykopie(LINK DO TAGU) :)
 
@@ -125,16 +125,7 @@ paths:
         - name: 3,5(3,5) 650m(*?)
           in: Czerwony
           description:
-            Kamień Ewangelików. Jest to najlepiej znane i najpopularniejsze takie miejsce w Beskidach. W 1904 roku, w 250. rocznicę rozpoczęcia leśnych nabożeństw,
-            źródełko obok „Kamienia” zostało obudowane i umieszczono na nim tablicę z datą 16.07.1904. W 1928 miejsce to zostało wpisane do rejestru zabytków,
-            a kilka lat później został umieszczony tu napis „Miejsce nabożeństw ewangelików w latach od 1654 do 1709”, który w 1935 został częściowo uszkodzony.
-            W okresie międzywojennym odbywały się tu okolicznościowe spotkania, głównie młodzieży ewangelickiej. Organizowano je w przeddzień pamiątki poświęcenia
-            ustrońskiego kościoła ap. Jakuba Starszego. Od 1958 przy „Kamieniu” przeprowadzano zakończenia roku szkolnego dla dzieci uczęszczających na szkółkę niedzielną dla dzieci,
-            z udziałem rodziców. W 1961 zainaugurowano corocznie odprawiane tam nabożeństwa w Święto Bratniej Pomocy im. Gustawa Adolfa, przypadające na ten sam dzień co
-            katolickie święto Bożego Ciała. Obecnie w odprawianych tu nabożeństwach uczestniczą wielkie tłumy wiernych, nawet z odległych parafii.
-            Co dwa lata po nabożeństwie odbywają się na terenach wokół schroniska na Równicy imprezy towarzyszące.
-
-            https://pl.wikipedia.org/wiki/%E2%80%9ELe%C5%9Bne_ko%C5%9Bcio%C5%82y%E2%80%9D_ewangelickie_w_Beskidach#.E2.80.9EKamie.C5.84.E2.80.9D_na_R.C3.B3wnicy_w_Ustroniu
+            Kamień Ewangelików
           type: number
         - name: 4.5(4.5) 770m
           in: Zielony Żółty Czerwony
@@ -157,7 +148,7 @@ paths:
     ### INFO ###
 
     info: #Ustroń-Ustroń Polana
-      summary: Ciekawostki na temat odcinka
+      summary: Okolice Ustronia, czyli dużo atrakcji, ale niekoniecznie dla turystów górskich
       description: Pare ciekawych rzeczy co sa na tym odcinku
       parameters:
         - name: Ustroń
@@ -166,6 +157,21 @@ paths:
             W miejscowej gwarze nazwa wymawiana jest ustróń, kogo, czego: ustrónio, w języku niemieckim Ustron, czeskim Ustroni.
 
             W Ustroniu znajduje się [Leśny Park Niespodzianek](http://www.lesnypark.pl/o-parku), utworzony w środowisku naturalnym. Po ścieżkach w lesie bukowym swobodnie biegają **dziki, jelenie, sarny czy też muflony**. Park łączy w sobie funkcje: rekreacyjną i edukacyjną, organizuje również pokazy sokolnicze.
+          type: number
+        - name: Kamień Ewangelików
+          in: query
+          description: |
+            Kamień Ewangelików. Jest to najlepiej znane i najpopularniejsze takie miejsce w Beskidach. W 1904 roku, w 250. rocznicę rozpoczęcia leśnych nabożeństw,
+            źródełko obok „Kamienia” zostało obudowane i umieszczono na nim tablicę z datą 16.07.1904. W 1928 miejsce to zostało wpisane do rejestru zabytków,
+            a kilka lat później został umieszczony tu napis „Miejsce nabożeństw ewangelików w latach od 1654 do 1709”, który w 1935 został częściowo uszkodzony.
+            W okresie międzywojennym odbywały się tu okolicznościowe spotkania, głównie młodzieży ewangelickiej. Organizowano je w przeddzień pamiątki poświęcenia
+            ustrońskiego kościoła ap. Jakuba Starszego. Od 1958 przy „Kamieniu” przeprowadzano zakończenia roku szkolnego dla dzieci uczęszczających na szkółkę niedzielną dla dzieci,
+            z udziałem rodziców. W 1961 zainaugurowano corocznie odprawiane tam nabożeństwa w Święto Bratniej Pomocy im. Gustawa Adolfa, przypadające na ten sam dzień co
+            katolickie święto Bożego Ciała. Obecnie w odprawianych tu nabożeństwach uczestniczą wielkie tłumy wiernych, nawet z odległych parafii.
+            Co dwa lata po nabożeństwie odbywają się na terenach wokół schroniska na Równicy imprezy towarzyszące.
+
+            __Zródło__ https://pl.wikipedia.org/wiki/%E2%80%9ELe%C5%9Bne_ko%C5%9Bcio%C5%82y%E2%80%9D_ewangelickie_w_Beskidach#.E2.80.9EKamie.C5.84.E2.80.9D_na_R.C3.B3wnicy_w_Ustroniu
+            
           type: number
         - name: Równica
           in: query
@@ -250,7 +256,7 @@ paths:
     ### INFO ###
 
     info: #Ustroń Polana - PTTK na Stożku Wielkim
-      summary: Ciekawostki na temat odcinka
+      summary: Czatoria, Stożek i okolice. Kolejka, wieża widokowa i schroniska.
       description: Pare ciekawych rzeczy co sa na tym odcinku
       parameters:
         - name: Górna stacja wyciągu krzesełkowego
@@ -395,7 +401,7 @@ paths:
     ### INFO ###
 
     info: #PTTK na Stożku Wielkim - Barania Góra
-      summary: Ciekawostki na temat odcinka
+      summary: Schroniska między masywami Stoźka i Baraniej Góry. 
       description: Pare ciekawych rzeczy co sa na tym odcinku
       parameters:
         - name: Przełęcz Kubalonka
@@ -541,7 +547,7 @@ paths:
     ### INFO ###
 
     info: # Barania Góra - Węgierska
-      summary: Ciekawostki na temat odcinka
+      summary: Bunkrów nie ma. A nie, poczekaj, są w Węgierskiej Górce :)
       description: Pare ciekawych rzeczy co sa na tym odcinku
       parameters:
         - name: Magura Wiślańska
@@ -658,7 +664,7 @@ paths:
     ### INFO ###
 
     info: #Węgierska Górka - PTTK Hala Miziowa
-      summary: Ciekawostki
+      summary: Podejście na piękne góry i jedyne łańcuchy na szlaku
       description: Ciekawostki
       parameters:
         - name: Romanka
@@ -810,7 +816,7 @@ paths:
     ### INFO ###
 
     info: #PTTK Hala Miziowa - Babia Góra
-      summary: Ciekawostki
+      summary: Dużo ważnych historycznie przełęczy i ważnych turystycznie gór
       description: Ciekawostki
       parameters:
         - name: Pilsko
@@ -929,8 +935,6 @@ paths:
         choć z żadnego z nich nie ma lepszego widoku jak ze szczytu góry. Za przełęczą Krowiarki czeka nas krótkie podejście i zejście na górkę Syhel, później zaś bardzo długie, ale też bardzo łagodne podejście
         na Cyl Hali Śmietanowej. Na tym wzniesieniu szlak zmienia kierunek i prowadzi na najwyższy szczyt pasma, Policę. Z jej szczytu z trzetrzebionego lasu dobrze widać panoramę Babiej Góry. Z Policy jest już bardzo blisko do schorniska i po krótkim
         zejściu osiągami hale i schronisko na Hali Krupowej
-        - - - - - - -
-        ![alternate text](https://sourceforge.net/images/icon_linux.gif)
 
       parameters:
         - name: 4.0 / 13.0
@@ -956,7 +960,7 @@ paths:
     ### INFO ###
 
     info: #Babia Góra - Krupowa
-      summary: Ciekawostki
+      summary: Pomnik po katastrofie samolotu oraz, jak zwykle, ładne góry.
       description: Ciekawostki
       parameters:
         - name: Sokolica
@@ -1782,9 +1786,9 @@ paths:
 
   Rytro - Krynica Górska:
     trasa:
-      summary: Długie zejście w stronę Popradu
+      summary: XXX
       description:
-        Podejście z Rytra
+        TO BE CONTINUED
       parameters:
         - name: 4.0 / 13.0
           in: Czerwony
@@ -1804,7 +1808,7 @@ paths:
           type: number
         - name: 10.0 / 19.0
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
-          description: Zimny Potok(?)
+          description: Czarny Potok
           type: number
         - name: 10.0 / 19.0
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
@@ -1943,9 +1947,9 @@ paths:
 
   Krynica Górska - Hańczowa:
     trasa:
-      summary: Długie zejście w stronę Popradu
+      summary: XXX
       description:
-        Podejście z Rytra
+        TO BE CONTINUED
       parameters:
         - name: 4.0 / 13.0
           in: Czerwony
@@ -2050,9 +2054,9 @@ paths:
 
   Hańczowa - Bacówka PTTK w Bartnem:
     trasa:
-      summary: Długie zejście w stronę Popradu
+      summary: XXX
       description:
-        Podejście z Rytra
+        TO BE CONTINUED
       parameters:
         - name: 4.0 / 13.0
           in: Czerwony
@@ -2174,9 +2178,9 @@ paths:
 
   Bacówka PTTK w Bartnem - Chyrowa:
     trasa:
-      summary: Długie zejście w stronę Popradu
+      summary: XXX
       description:
-        Podejście z Rytra
+        TO BE CONTINUED
       parameters:
         - name: 4.0 / 13.0
           in: Czerwony
@@ -2272,9 +2276,9 @@ paths:
 
   Chyrowa - Iwonicz-Zdrój:
     trasa:
-      summary: Długie zejście w stronę Popradu
+      summary: XXX
       description:
-        Podejście z Rytra
+        TO BE CONTINUED
       parameters:
         - name: 4.0 / 13.0
           in: Czerwony
@@ -2385,9 +2389,9 @@ paths:
 
   Iwonicz-Zdrój - Komańcza:
     trasa:
-      summary: Długie zejście w stronę Popradu
+      summary: XXX
       description:
-        Podejście z Rytra
+        TO BE CONTINUED
       parameters:
         - name: 4.0 / 13.0
           in: Czerwony
@@ -2529,9 +2533,9 @@ paths:
 
   Komańcza - Cisna:
     trasa:
-      summary: Długie zejście w stronę Popradu
+      summary: XXX
       description:
-        Podejście z Rytra
+        TO BE CONTINUED
       parameters:
         - name: 4.0 / 13.0
           in: Czerwony
@@ -2683,9 +2687,9 @@ paths:
 
   Cisna - Ustrzyki Górne:
     trasa:
-      summary: Długie zejście w stronę Popradu
+      summary: XXX
       description:
-        Podejście z Rytra
+        TO BE CONTINUED
       parameters:
         - name: 4.0 / 13.0
           in: Czerwony
@@ -2868,9 +2872,9 @@ paths:
 
   Ustrzyki Górne - Wołosate:
     trasa:
-      summary: Długie zejście w stronę Popradu
+      summary: XXX
       description:
-        Podejście z Rytra
+        TO BE CONTINUED
       parameters:
         - name: 4.0 / 13.0
           in: Czerwony
