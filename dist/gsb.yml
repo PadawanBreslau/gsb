@@ -11,6 +11,27 @@ produces:
   - application/json
 paths:
 
+  Order:  #HACK TO MAKE PROPER ORDER
+    no:
+      summary: No
+      description: no
+      tags:
+        - Informacje
+        - Trasa
+        - Noclegi
+        - Ciekawostki
+        - Relacje
+        - Media
+        - Zdjęcia
+        - Porady
+        - Beskid Śląski
+        - Beskid Żywiecki
+        - Gorce
+        - Beskid Sądecki
+        - Beskid Niski
+        - Bieszczady
+
+
   Informacje o stronie:
     info:
       summary: O czym jest ta strona, jak działa, z czym się ją je
@@ -27,8 +48,7 @@ paths:
 
         Technicznie strona jest zmodyfikowaną wersją Swaggera (systemu do tworzenia dokumentacji w IT), cała treść strony zawarta jest w pliku tekstowym w formacie YAML. Nic poza czasem wolnym nie stoi na przeszkodzie, by wykorzystać kod do opisywania innych szlaków. Jeśli chcesz wykorzystać, wejdź na GitHuba i tam w README będzie wszystko opisane.
       tags:
-        - Ciekawostki
-
+        - Informacje
 
   Porady - obuwie:
     porady:
@@ -1067,7 +1087,7 @@ paths:
     ### INFO ###
 
     info: #Krupowa - Jordanów
-      summary: Some Summary XXX
+      summary: Zejście gór i trochę historii
       description:
         Informacje na temat odcinka
       parameters:
@@ -1162,7 +1182,7 @@ paths:
     ### INFO ###
 
     info:
-      summary: Some Summary XXY
+      summary: Mało ciekawie pod kątem gór, bardziej pod kątem historii
       description:
         Informacje na temat odcinka
       parameters:
@@ -1276,7 +1296,7 @@ paths:
     ### INFO ###
 
     info:
-      summary: Some Summary XXY
+      summary: Jedno schronisko za drugim
       description:
         Informacje na temat odcinka
       parameters:
@@ -1391,7 +1411,7 @@ paths:
 
 
     info:
-      summary: Some Summary XXY
+      summary: Malownicze hale, najwyżej położny w Polsce przysiółek, a na końcu wieża widokowa
       description:
         Informacje na temat odcinka
       parameters:
@@ -1530,7 +1550,7 @@ paths:
 
 
     info:
-      summary: Some Summary XXY
+      summary: Długie i równe zejście do Dunajca
       description:
         Informacje na temat odcinka
       parameters:
@@ -1554,7 +1574,14 @@ paths:
           in: query
           description: |
 
-            __Źródło:__ https://pl.wikipedia.org/wiki/Jordanów
+            W 1348 roku Kazimierz Wielki lokował na prawie magdeburskim miasto noszące przez pierwsze lata nazwę „Crosno". Później miejscowość zaczęto nazywać Krościenkiem. Z okresu lokacji pochodzi dzisiejszy układ ulic i rynek w centrum miasteczka. Akt lokacyjny przyznawał mieszczanom wolniznę od podatków na 20 lat, zezwalał na łowienie ryb w rzekach w obrębie miasta, wycinanie drzew na własne potrzeby i polowanie na zwierzynę w lasach królewskich. Jednakże od XVI wieku przywileje te były ograniczane przez kolejnych królów i starostów czorsztyńskich, zaś powinności wzrastały.
+            Od 1565 r. przy tutejszej parafii funkcjonowała szkoła. Zdolniejsi i zasobniejsi uczniowie kontynuowali naukę w kolegium pi-jarskim w pobliskim Podolińcu.
+            Przełom XVII i XVIII w. to okres zastoju i upadku miasteczka. Gospodarkę mieszczan rujnowały częste przemarsze wojsk i epidemie dżumy. Handlu krościeńskiego nie uratowały nowe przywileje otrzymane od króla Augusta III. Do funkcjonujących już od XVI w. jarmarków w Zielone Świątki i na Wszystkich Świętych, dodano wówczas jarmarki na św. Annę i na św. Michała.
+            W latach 1768-1770 w okolicach Krościenka działały oddziały konfederatów barskich i ścigające je oddziały rosyjskie. Wyprzedzając rozbiory, w 1770 roku, Austria pod pozorem tworzenia kordonu sanitarnego przyłączyła nadgraniczne tereny polskie (w tym Krościenko) do Węgier, a w 1772 r. do Galicji.
+            Okres autonomii galicyjskiej, czyli lata 1867-1918 przyniósł spolszczenie administracji i szkolnictwa. Nawiązywano wtedy chętnie do tradycji narodowych i uroczyście świętowano rocznice historyczne. Tak działo się w całej Galicji, zatem i w Krościenku. Z okazji dwusetnej rocznicy zwycięstwa pod Wiedniem w ścianę ratusza wmurowano marmurową tablicę pamiątkową, a w 1898 r. umieszczono obok niej płytę ku czci Adama Mickiewicza. Szczególnie uroczyście obchodzono pięćsetną rocznicę bitwy pod Grunwaldem. W 1910 roku na tzw. Małym Rynku umieszczono popiersie Jagiełły dłuta Władysława Druciaka.
+            Ciekawą profesją mieszkańców Krościenka było flisactwo. Spławiano tratwami drewno i towary aż do Gdańska, a najczęściej do Korczyna lub Szczucina nad Wisłą. Zawód ten nie był łatwy i bezpieczny. Spław drewna z Pienin ograniczono po powstaniu w 1932 r. Pienińskiego Parku Narodowego, a budowa zapór w Rożnowie i Czchowie uniemożliwiła całkowicie spław. Tradycje flisackie sprawiły, że zaczęto zarobkować przewożąc letników na tratwach przełomem Dunajca.
+
+            __Źródło:__ http://www.wpieniny.pl/news/114/historia-kroscienka-nad-dunajcem
           type:
       tags:
         - Gorce
@@ -1611,7 +1638,7 @@ paths:
     ### INFO ###
 
     info:
-      summary: Some Summary XXY
+      summary: Martyrologia w sercu gór
       description:
         Informacje na temat odcinka
       parameters:
@@ -1707,7 +1734,7 @@ paths:
     ### INFO ###
 
     info:
-      summary: Some Summary XXY
+      summary: Wieża widokowa, schroniska i widok na ryterski zamek
       description:
         Informacje na temat odcinka
       parameters:
@@ -1821,7 +1848,7 @@ paths:
     ### INFO ###
 
     info:
-      summary: Some Summary XXY
+      summary: Schroniska i sądeckie krupówki na szczycie Jaworzyny
       description:
         Informacje na temat odcinka
       parameters:
@@ -1901,8 +1928,7 @@ paths:
 
     nocleg:
       summary: Noclegi
-      description:
-        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      description: |
       parameters:
         - name: Prywatne schronisko pod Cyrlą
           in: query
@@ -1978,7 +2004,7 @@ paths:
     ### INFO ###
 
     info:
-      summary: Some Summary XXY
+      summary: Wejście do krainy Łemków
       description:
         Informacje na temat odcinka
       parameters:
@@ -2019,10 +2045,10 @@ paths:
     ### NOCLEG ###
 
 
-    nocleg: 
+    noclegi: 
       summary: Noclegi
-      description:
-        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      description: |
+        W wioskach można znaleźc agroturystyki
       parameters:
         - name: Mochnaczka - Deja Vu
           in: query
@@ -2089,7 +2115,7 @@ paths:
     ### INFO ###
 
     info:
-      summary: Some Summary XXY
+      summary: Pozostałości po Wielkiej Wojnie
       description:
         Informacje na temat odcinka
       parameters:
@@ -2213,7 +2239,7 @@ paths:
     ### INFO ###
 
     info:
-      summary: Some Summary XXY
+      summary: Łemkowie, wojna i najniżej położony punkt na trasie
       description:
         Informacje na temat odcinka
       parameters:
@@ -2303,7 +2329,7 @@ paths:
     ### INFO ###
 
     info:
-      summary: Some Summary XXY
+      summary: Pustelnie, góry i krótki powrót do cywilizacji
       description:
         Informacje na temat odcinka
       parameters:
@@ -2424,7 +2450,7 @@ paths:
     ### INFO ###
 
     info:
-      summary: Some Summary XXY
+      summary: W krainie ropy naftowej, gór i łąk. 
       description:
         Informacje na temat odcinka
       parameters:
@@ -2568,7 +2594,7 @@ paths:
     ### INFO ###
 
     info:
-      summary: Some Summary XXY
+      summary: Jeziorka, pominiki i dzikie Bieszczady
       description:
         Informacje na temat odcinka
       parameters:
@@ -2726,7 +2752,7 @@ paths:
     ### INFO ###
 
     info:
-      summary: Some Summary XXY
+      summary: Połoniny i niezwykłe schronisko na szczycie gór
       description:
         Informacje na temat odcinka
       parameters:
@@ -2872,7 +2898,7 @@ paths:
 
   Ustrzyki Górne - Wołosate:
     trasa:
-      summary: XXX
+      summary: Ostatnia pętla. Najwyższe szczyty Bieszczad, granica z Ukrainą. I kropka.
       description:
         TO BE CONTINUED
       parameters:
@@ -2903,7 +2929,7 @@ paths:
     ### INFO ###
 
     info:
-      summary: Some Summary XXY
+      summary: Ostatnia pętla. Najwyższe szczyty Bieszczad, granica z Ukrainą. I kropka.
       description:
         Informacje na temat odcinka
       parameters:
@@ -3422,6 +3448,21 @@ paths:
         * **Liczba dni** ?
         * **Styl** Pieszy
         * **Pora roku** Jesień (?)
+
+        [Film](https://www.youtube.com/watch?v=Au0zA1lEz7A)
+      tags:
+        - Relacje
+        - Media
+
+  Filmy - Łukasz Czubak:
+    media:
+      summary: X
+      description: |
+        * **Długość filmu** 15 minut
+        * **Kierunek**  Wołosate - Ustroń
+        * **Liczba dni** 19
+        * **Styl** Pieszy
+        * **Pora roku** Lato
 
         [Film](https://www.youtube.com/watch?v=Au0zA1lEz7A)
       tags:
