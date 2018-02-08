@@ -140,23 +140,24 @@ paths:
       parameters:
         - name: 0.0(0.0) 350m(*?)
           in: Czerwony
-          description: PKP Ustroń. Początek Głównego Szlaku Sudeckiego
+          description: |
+            **PKP Ustroń. Początek Głównego Szlaku Beskidzkiego**
           type: number
         - name: 3,5(3,5) 650m(*?)
           in: Czerwony
-          description:
-            Kamień Ewangelików
+          description: |
+            **Kamień Ewangelików**
           type: number
         - name: 4.5(4.5) 770m
           in: Zielony Żółty Czerwony
-          description:
-            Schronisko PTTK Równica. Schronisko położone pod szczytem góry **Równica**, przy drodze asfaltowej w popularnej turystycznie lokalizacji, pełnej restauracji, hoteli i innych atrakcji.
+          description: |
+            **Schronisko PTTK Równica** Schronisko położone pod szczytem góry **Równica**, przy drodze asfaltowej w popularnej turystycznie lokalizacji, pełnej restauracji, hoteli i innych atrakcji.
             Z góry jest bardzo ładny widok na wznoszące się z drugej strony Doliny Wisły **masywy Czantorii i Stożka Wielkiego** - aby zobaczyc te widoki najlepiej albo wejść na łąkę nad schroniskiem w kierunku
             szczytu Równicy, albo zejść nieco wraz z czerwonym szlakiem
           type: number
         - name: 9.0(9.0) 400m
           in: Zielony Czerwony
-          description:
+          description: |
             Ustroń Polana. **Dolna Stacja Wyciągu Krzesełkowego**. Osiedle Ustronia, oryginalnie przysiółek o którym pierwsze wzmianki można odnaleźć z początków XVII wieku. Obecnie życie okolicznych
             mieszkańsów skupia się głównie dookoła obiektów turystycznych zlokalizowanych przy dolnej stacji wyciągu na Czantorię.
             https://pl.wikipedia.org/wiki/Polana_(Ustro%C5%84)
@@ -171,15 +172,16 @@ paths:
       summary: Okolice Ustronia, czyli dużo atrakcji, ale niekoniecznie dla turystów górskich
       description: Pare ciekawych rzeczy co sa na tym odcinku
       parameters:
-        - name: Ustroń
-          in: Miasto
+        - name: Ustroń 0.0(0.0) 350m(*?)
+          in: Ustroń
           description: |
             W miejscowej gwarze nazwa wymawiana jest ustróń, kogo, czego: ustrónio, w języku niemieckim Ustron, czeskim Ustroni.
 
-            W Ustroniu znajduje się [Leśny Park Niespodzianek](http://www.lesnypark.pl/o-parku), utworzony w środowisku naturalnym. Po ścieżkach w lesie bukowym swobodnie biegają **dziki, jelenie, sarny czy też muflony**. Park łączy w sobie funkcje: rekreacyjną i edukacyjną, organizuje również pokazy sokolnicze.
+            W Ustroniu znajduje się [Leśny Park Niespodzianek](http://www.lesnypark.pl/o-parku), utworzony w środowisku naturalnym. 
+            Po ścieżkach w lesie bukowym swobodnie biegają **dziki, jelenie, sarny czy też muflony**. Park łączy w sobie funkcje: rekreacyjną i edukacyjną, organizuje również pokazy sokolnicze.
           type: number
-        - name: Kamień Ewangelików
-          in: query
+        - name: Kamień Ewangelików  3,5(3,5) 650m(*?)
+          in: Kamień Ewangelików
           description: |
             Kamień Ewangelików. Jest to najlepiej znane i najpopularniejsze takie miejsce w Beskidach. W 1904 roku, w 250. rocznicę rozpoczęcia leśnych nabożeństw,
             źródełko obok „Kamienia” zostało obudowane i umieszczono na nim tablicę z datą 16.07.1904. W 1928 miejsce to zostało wpisane do rejestru zabytków,
@@ -190,7 +192,7 @@ paths:
             katolickie święto Bożego Ciała. Obecnie w odprawianych tu nabożeństwach uczestniczą wielkie tłumy wiernych, nawet z odległych parafii.
             Co dwa lata po nabożeństwie odbywają się na terenach wokół schroniska na Równicy imprezy towarzyszące.
 
-            __Zródło__ https://pl.wikipedia.org/wiki/%E2%80%9ELe%C5%9Bne_ko%C5%9Bcio%C5%82y%E2%80%9D_ewangelickie_w_Beskidach#.E2.80.9EKamie.C5.84.E2.80.9D_na_R.C3.B3wnicy_w_Ustroniu
+          
             
           type: number
         - name: Równica
@@ -369,20 +371,6 @@ paths:
           ### Barania Góra ###
 
   PTTK na Stożku Wielkim - Barania Góra:
-    media:
-      summary: Zdjęcia i filmy z odcinka
-      description:
-        Zdjęcia i filmy z odcinka
-      parameters:
-        - name: 0.0
-          in: Zdjecia
-          description: Zdjęcia [Galeria](https://photos.google.com/u/2/album/AF1QipND_kdOKCmGLshSJm4ImltJCV8tgc8Mjf9fXQ3x)
-          type: number
-      tags:
-        - Beskid Śląski
-        - Media
-        - Zdjęcia
-
     trasa:
       summary: Na drugą stronę przełęczy
       description:
@@ -3487,4 +3475,18 @@ paths:
 
         [Film](https://www.youtube.com/watch?v=TPDFzXnZZSE)
       tags:
+        - Media
+
+  Galeria - Słoń:
+    galeria:
+      summary: X
+      description: |
+        * **Kierunek**  Ustroń-Wołosate
+        * **Liczba dni** 4
+        * **Styl** Rower
+        * **Pora roku** Jesień(?)
+
+        [Galeria](https://plus.google.com/u/0/photos/101370364055284304702/albums/5909845771563037761)
+      tags:
+        - Zdjęcia
         - Media
