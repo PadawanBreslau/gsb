@@ -130,7 +130,7 @@ paths:
   Ustroń-Ustroń Polana:
     trasa:
       summary: Czyli Rambo Pierwsza Krew
-      description:
+      description: |
         Pierwsze podejście i przerwsze zejście na trasie. Także pierwsze schronisko i pierwsze źródełko. Szlak startuje(lub startował, informacje są sprzeczne) przy **stacji PKP
         Ustroń-Zdrój**. Przez pierwszy kilometr trasa prowadzi wśród zabudowań miasta, później zaś koło leśniczówki wchodzi w las - najpierw łagodnie, później coraz stromiej. W pewnym
         momencie szlak gwałtownie skręca w prawo i doprowadza po chwili do **Kamienia Ewangelików**, miejsca obrządków z XVIII wieku. Można tutaj uzupełnić wodę w wybijającym źródełku.
@@ -170,7 +170,7 @@ paths:
 
     info: #Ustroń-Ustroń Polana
       summary: Okolice Ustronia, czyli dużo atrakcji, ale niekoniecznie dla turystów górskich
-      description: Pare ciekawych rzeczy co sa na tym odcinku
+      description: 
       parameters:
         - name: Ustroń 0.0(0.0) 350m(*?)
           in: Ustroń
@@ -213,7 +213,7 @@ paths:
 
     nocleg: #Ustroń-Ustroń Polana
       summary: Noclegi
-      description:
+      description: |
         W Ustroniu i Ustroniu Polanie jest duża liczba miejsc noclegowych. Choć większości wędrowców głównie przyda się nocleg w Ustroniu po przyjeździe lub przed wyjazdem, to
         nocleg w schronisku może być dobrym rozwiązaniem, jeśli np. przyjedzie się do Ustronia o 18 i podejdzie tam w ramach "dnia 0" na nocleg
       parameters:
@@ -247,7 +247,7 @@ paths:
   Ustroń Polana - PTTK na Stożku Wielkim: #Ustroń Polana - PTTK na Stożku Wielkim
     trasa:
       summary: Ostro w górę
-      description:
+      description: |
         Od razu po przejściu obok dolnej stacji wyciągu czeka nas **ostre maszerowanie pod górę**, czasem stokiem narciarskim, czasem szlakiem obok. Ale aż do osiągnięcia górnej stacji kolejki jest stromo.
         Miejscami bardzo stromo. Podejście zajmuje do godziny czasu, nie dając fragmentów wytchnienia. Za wyciągiem trasa wypłaszcza się, choć dalej biegnie lasem pod górkę, aż wyprowadzi nas na niezalesiony
         wierzchołek Czantorii, gdzie znajduje się wieża widokowa i zarówno polskie, jak i czeskie punkty gastronomiczne. **Na szczycie Czantorii szlak zmienia kierunek**, skręca w lewo i schodzi, miejscami bardzo
@@ -279,7 +279,7 @@ paths:
 
     info: #Ustroń Polana - PTTK na Stożku Wielkim
       summary: Czatoria, Stożek i okolice. Kolejka, wieża widokowa i schroniska.
-      description: Pare ciekawych rzeczy co sa na tym odcinku
+      description: 
       parameters:
         - name: Górna stacja wyciągu krzesełkowego
           in: query
@@ -328,7 +328,7 @@ paths:
 
     nocleg: #Ustroń Polana - PTTK na Stożku Wielkim
       summary: Noclegi
-      description:
+      description: |
         Pierwszy prawdziwie górski kawałek trasy, ale opcji noclegowych jest dużo
       parameters:
         - name: 0.0
@@ -373,7 +373,7 @@ paths:
   PTTK na Stożku Wielkim - Barania Góra:
     trasa:
       summary: Na drugą stronę przełęczy
-      description:
+      description: |
         Za schroniskiem czeka nas krótkie podejście na Kiczorę, później zaś zejście do przełęczy Kubalonki. Początkowo szlak idzie w dół, by na rozstajach wejść na drogę asfaltową, później zaś po lekkim
         podejściu szlak wchodzi na leśną ścieżkę, którą bez większych zmian wysokości doprowadza do przełęczy Kubalonka. Na przełęczy można skorzystać w usług sezonowych restauracji i punktów. Z przełęczy szlak wiedzie
         początkowo asfaltem do przełęczy Szarcula, później zaś wchodzi w las i bardzo wąską i krętą ścieżką doprowadza do schroniska na Stecówce. Ze schroniska szlak idzie dalej raz w górę, raz w dół, schodzi do asfaltu
@@ -410,7 +410,7 @@ paths:
 
     info: #PTTK na Stożku Wielkim - Barania Góra
       summary: Schroniska między masywami Stoźka i Baraniej Góry. 
-      description: Pare ciekawych rzeczy co sa na tym odcinku
+      description: 
       parameters:
         - name: Przełęcz Kubalonka
           in: Noclegi, Restauracje, Transport
@@ -524,7 +524,7 @@ paths:
   Barania Góra - Węgierska Górka:
     trasa:
       summary: W dół do miasta
-      description:
+      description: |
         Szlak z Baraniej Góry schodzi malowniczym trawersem, skąd roztaczają się coraz ładniejsze widoki na pasmo Magur, na które trasa wkrótce prowadzi. Po dość krótkim zejści i kawałku płaskim następuje krótkie,
         acz dość strome podejście na grzebit. Stamtąd rozpoczynają się piękne widoki na Skrzyczne, najwyższy szczyt Beskidu Śląskiego. Szlak łagodnie prowadzi grzebietem, wśród delikatnych podejść i zejść, następnie
         za skrzyżowaniem szlaków zaczyna schodzić, początkowo powoli, później bardzo stromo do podnóża góry Glinne. Tam czeka nas krótkie, ale strome podejście na szczyt - będzie to ostatnie podejście na tym fragmencie szlaku. Od tego momentu
@@ -556,7 +556,7 @@ paths:
 
     info: # Barania Góra - Węgierska
       summary: Bunkrów nie ma. A nie, poczekaj, są w Węgierskiej Górce :)
-      description: Pare ciekawych rzeczy co sa na tym odcinku
+      description:
       parameters:
         - name: Magura Wiślańska
           in:
@@ -1077,7 +1077,7 @@ paths:
     info: #Krupowa - Jordanów
       summary: Zejście gór i trochę historii
       description:
-        Informacje na temat odcinka
+        
       parameters:
         - name: Polana Malinowe
           in: query
@@ -1140,8 +1140,8 @@ paths:
 
   Jordanów - Rabka:
     trasa:
-      summary: Trzeba przetrwać
-      description:
+      summary: Niezbyt ciekawie. Trzeba przetrwać
+      description: |
         Najmniej chyba ciekawy fragment szlaku, choć teraz jest i tak lepiej niż było uprzednio - zamiast asfaltem do Skawy przechodzimy częsciowo lasem, po drodze zahaczając o Wysoką. Tak czy siak na tym odcinku jest niewiele gór, zamiast tego wiele asfaltu. W Skawie szlak odbija w lewo i przez dłuższą chwilę
         prowadzi łąkami, przez które dla odmiany skrajnie ciężko jest utrzymać kurs - bo na mało uczęszczanej części szlaku oznaczeń zwyczajnie nie widać. Jak uda nam się przejść przez łąkę to docieramy do bardzo zarośniętego szlaku, który w okolicach Zakopianki zmienia się jeszcze w ubikację.
         Po przekroczeniu Zakopianki jest juz wyraźnie lepiej, szlak jest czytelniejszy, asfaltu nie ma tak dużo i zaczynają się ładne widoki na miasto Rabkę i Gorce. Ogólnie jest to fragment, który przechodzą chyba wyłącznie osoby przechodzące Główny Szlak Beskidzki - żadnych innych zalet nie ma
@@ -1171,8 +1171,7 @@ paths:
 
     info:
       summary: Mało ciekawie pod kątem gór, bardziej pod kątem historii
-      description:
-        Informacje na temat odcinka
+      description:   
       parameters:
         - name: Wysoka
           in: query
@@ -1255,7 +1254,7 @@ paths:
   Rabka - Turbacz:
     trasa:
       summary: Znów w góry
-      description:
+      description: |
         Po kilkunastu kilometrach poza górami wracamy wreszcie do solidnego chodzenia po górach. W Rabce warto najpierw zrobić zakupy, później w Gorcach będą tylko schroniska. Pierwsze podejście czeka nas do Bacówki na Maciejowej - przyjemna trasa, w dużej mierze w odkrytym terenie, w samym schronisku
         legendarne wręcz racuchy z jagodami. Kolejnym podejściem, miejscami bardzo stromym, przekraczamy granicę 1000 metrów i dochodzimy do schroniska na Starych Wierchach. Za nim szlak się wypłaszcza i przez następne kilometry prowadzi raczej delikatnie w górę, aż do samego końcowego podejścia na Turbacz -
         najwyższy szczyt Gorców. Za szczytem już rzut kamieniem do schroniska PTTK na Turbaczu.
@@ -1286,7 +1285,7 @@ paths:
     info:
       summary: Jedno schronisko za drugim
       description:
-        Informacje na temat odcinka
+        
       parameters:
         - name: Bacówka na Maciejowej
           in: query
@@ -1326,7 +1325,7 @@ paths:
     nocleg: 
       summary: Noclegi
       description:
-        W schronisku, lub można zboczyć ze szlaku do Zawoi
+        W schroniskach. Jest ich sporo do wyboru.
       parameters:
         - name: 0.0
           in: Dane noclegu
@@ -1371,7 +1370,7 @@ paths:
   Turbacz - Lubań:
     trasa:
       summary: Od szczytu do szczytu
-      description:
+      description: |
         Trasa między dwoma największymi masywami Gorców nie jest łatwa. Najpierw czeka nas długie zejście do przełęczy XXX, potem jeszcze dłuższe podejście na szczyt Lubania. Początkowo mijamy schronisko PTTK, przecinami malowniczą Halę Długą i dochodzimy do szczytu Kiczory. Z niej czeka nas długie i miejscami bardzo ostre zejście - musimy wytracić 500 metrów wysokości do przełęczy Knurowskiej. Z przełęczy zaś od razu czekają nas ostre podejście i kilka mniejszych zejść, które
         ostatecznie doprowadzą nas do uroczo położonych Studzionek - nigdzie na trasie nie ma ładniejszych widoków na Tatry. Za Studzionkami wchodzimy znów lat i przez bardzo długi czas idziemy podejściem w mrocznym liściastym lesie. Podchodzimy w międzyczasie na kolejne górki grani, aż dochodzimy do końcowego podejścia na Lubań. Podejście jest krótkie, ale skrajnie strome. Trudy wynagradzają jednak widoki ze szczytu - tym okazalsze, że można je podziwiać z nowo wybudowanej wieży widokowej.
       parameters:
@@ -1401,7 +1400,7 @@ paths:
     info:
       summary: Malownicze hale, najwyżej położny w Polsce przysiółek, a na końcu wieża widokowa
       description:
-        Informacje na temat odcinka
+        
       parameters:
         - name: Schronisko PTTK na Turbaczu
           in: query
@@ -1468,8 +1467,8 @@ paths:
 
     nocleg: 
       summary: Noclegi
-      description:
-        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      description: |
+        Na przełęcz Knurowskiej, w Studzionkach lub w bazie namiotowej
       parameters:
         - name: 0.0
           in: Dane noclegu
@@ -1514,7 +1513,7 @@ paths:
   Lubań - Krościenko nad Dunajcem:
     trasa:
       summary: Zejście w doliny
-      description:
+      description: |
         Po nacieszeniu się widokami ze szczytu Lubania (a są one wspaniałe), schodzimy w dół to położonej tuż pod szczytem bazy namiotowej. W bazie można przenocować, można czasem zjeść (ale nie zawsze), można napić się herbaty i nabrać wody z nieopodal położonego źródełka. Po opuszczeniu z bazy zaczyna się bardzo długie zejście do Szczawnicy i doliny Dunajca. Łącznie do zejścia mamy 800 metrów. Trasa była ostatnio remontowana, więc jest to szeroka droga leśna bez żadnych technicznych problemów.
         Wraz ze zmniejszaniem wysokości coraz częściej szlak wychodzi z lasu i możemy patrzeć jednocześnie na trzy pasma górskie - pobliskie Pieniny, dalej za nimi Tatry, na wschodze zaś kolejne pasmo Beskidów - Beskid Sądecki. Po parunastu kilometrach dość monotonnego zejścia docieramy do Krościenka nad Dunajcem.
       parameters:
@@ -1540,7 +1539,7 @@ paths:
     info:
       summary: Długie i równe zejście do Dunajca
       description:
-        Informacje na temat odcinka
+        
       parameters:
         - name: Marszałek (828 m.)
           in: query
@@ -1581,8 +1580,8 @@ paths:
 
     nocleg: 
       summary: Noclegi
-      description:
-        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      description: |
+        Żadnych noclegów aż do miasteczka
       parameters:
         - name: 0.0
           in: Dane noclegu
@@ -1599,7 +1598,7 @@ paths:
   Krościenko nad Dunajcem - PTTK na Przehybie:
     trasa:
       summary: W Beskid Sądecki
-      description:
+      description: |
         Za Szczawnicą wracamy do dziczy i wchodzimy do nowego pasma górskiego - Beskidu Sądeckiego. Naturalne jest, że rozpoczynamy od parukilometrowego podejścia na Dzwonkówkę, początkowo asfaltem, potem szutrem, na końcu zaś leśną ścieżką. Za Dzwonkówką czeka nas nieco obniżenia do bardzo malowniczej przełęczy Przysłop. Z przełęczy szlak idze znów w górę, miejscami bardzo ostro, by wprowadzić nas na górę Kamień. Z Kamienia jest już bardzo łatwa droga na szczyt Przehyby, tuż obok którego umiejscowione
         jest schornisko PTTK
       parameters:
@@ -1628,7 +1627,7 @@ paths:
     info:
       summary: Martyrologia w sercu gór
       description:
-        Informacje na temat odcinka
+        
       parameters:
         - name: Przysłop
           in: query
@@ -1663,7 +1662,7 @@ paths:
     nocleg: 
       summary: Noclegi
       description:
-        W schronisku, lub można zboczyć ze szlaku do Zawoi
+        Kwatery na Przysłopie, schronisko na Przehybie
       parameters:
         - name: Przełęcz Przysłop
           in: query
@@ -1695,7 +1694,7 @@ paths:
   PTTK na Przehybie - Rytro:
     trasa:
       summary: Długie zejście w stronę Popradu
-      description:
+      description: |
         Schronisko na Przehybie znajduje się w najwyżej położonej części Beskidu Sądeckiego. Po opuszczeniu schroniska zdobywamy najwyższy szczyt tego pasma - Radziejową. Na tym zalesionym szczycie można podziwiać widoki z położonej ponad czubkami drzew wieży widokowej. Z Radziejowej szlak schodzi nieznany kawałej, po czym podchodzi pod XXX. Z tej góry czeka nas już tylko zejście, bardzo długie obniżenie aż do Rytra. Po drodze można zboczyć do położenego blisko szlaku schroniska na Niemcowej, poza tym jednak trasa, choć urozmaicona technicznie, to nie
         przechodzi koło żadnych charakterystycznych punktów aż do samego Rytra. Tam, tuż przed miastem, między dwiema brzozami jest zamontowana legendarna wręcz ławeczka. W tych rejonach bardzo ładniej też już widać wznoszący się z drugiej strony doliny zamek. W Rytrze schodzimy aż do samej głównej szosy, przechodzimy obok makabryły stacji benzynowej, przekraczamy Poprad i wkraczamy do drugiej częsci Beskidu Sądeckiego - pasma Jaworzyny Krynickiej
       parameters:
@@ -1724,7 +1723,7 @@ paths:
     info:
       summary: Wieża widokowa, schroniska i widok na ryterski zamek
       description:
-        Informacje na temat odcinka
+        
       parameters:
         - name: Radziejowa (1226m.)
           in: query
@@ -1773,7 +1772,7 @@ paths:
     nocleg: 
       summary: Noclegi
       description:
-        W schronisku, lub można zboczyć ze szlaku do Zawoi
+        Chatki tuż przy szlaku, kwatery w miejscowości
       parameters:
         - name: Chatka pod Niemcową
           in: query
@@ -1801,9 +1800,14 @@ paths:
 
   Rytro - Krynica Górska:
     trasa:
-      summary: XXX
-      description:
-        TO BE CONTINUED
+      summary: Skok przez pasmo Jaworzyny
+
+      description: |
+        Odcinek po przekroczeniu Popradu prowadzi ostro pod górę, obok zamku ryterskiego. Podejścia dominują przez najbliższe kilometry, do prywatnego schroniska na Cyrli. 
+        Później trasa się wypłaszcza, wiodąc koło schorniska na Hali Łabowskiej i przy niewielkich deniwelacjach prowadzi do Jaworzyny Krynickiej. Z Jaworzyny ostrym zejściem dochodzimy
+        do Czarnego Potoku, mijając po drodze miejsce połowy szlaku przy Diabelskim Kamieniu. Czarny Potok, choć jest częścią Krynicy. nie jest jeszcze końcem wycieczki. Czeka jeszcze małe podejście
+        na górki oddzielające Czarny Potok od centrum miasta. 
+
       parameters:
         - name: 4.0 / 13.0
           in: Czerwony
@@ -1838,7 +1842,7 @@ paths:
     info:
       summary: Schroniska i sądeckie krupówki na szczycie Jaworzyny
       description:
-        Informacje na temat odcinka
+        
       parameters:
         - name: Schronisko Cyrla
           in: query
@@ -1917,6 +1921,7 @@ paths:
     nocleg:
       summary: Noclegi
       description: |
+        Kilka schronisk po drodze
       parameters:
         - name: Prywatne schronisko pod Cyrlą
           in: query
@@ -1961,8 +1966,8 @@ paths:
 
   Krynica Górska - Hańczowa:
     trasa:
-      summary: XXX
-      description:
+      summary: Wejście w Beskid Niski
+      description: |
         TO BE CONTINUED
       parameters:
         - name: 4.0 / 13.0
@@ -1994,7 +1999,7 @@ paths:
     info:
       summary: Wejście do krainy Łemków
       description:
-        Informacje na temat odcinka
+        
       parameters:
         - name: Mochnaczka Niżna
           in: query
@@ -2068,8 +2073,8 @@ paths:
 
   Hańczowa - Bacówka PTTK w Bartnem:
     trasa:
-      summary: XXX
-      description:
+      summary: Cmentarz wśród gór 
+      description: |
         TO BE CONTINUED
       parameters:
         - name: 4.0 / 13.0
@@ -2105,7 +2110,7 @@ paths:
     info:
       summary: Pozostałości po Wielkiej Wojnie
       description:
-        Informacje na temat odcinka
+        
       parameters:
         - name: Kozie Żebro
           in: query
@@ -2160,7 +2165,7 @@ paths:
     nocleg: 
       summary: Noclegi
       description:
-        W schronisku, lub można zboczyć ze szlaku do Zawoi
+        Agroturystyki lub jedyne schronisko w Beskidzie Niskim
       parameters:
         - name: Mochnaczka - Deja Vu
           in: query
@@ -2192,7 +2197,7 @@ paths:
 
   Bacówka PTTK w Bartnem - Chyrowa:
     trasa:
-      summary: XXX
+      summary: Poprzez Magurski Park Narodowy
       description:
         TO BE CONTINUED
       parameters:
@@ -2227,9 +2232,9 @@ paths:
     ### INFO ###
 
     info:
-      summary: Łemkowie, wojna i najniżej położony punkt na trasie
+      summary: Magury, wojna i najniżej położony punkt na trasie
       description:
-        Informacje na temat odcinka
+        
       parameters:
         - name: Magura Wątkowska(842 m.)
           in: query
@@ -2277,7 +2282,7 @@ paths:
     nocleg: 
       summary: Noclegi
       description:
-        W schronisku, lub można zboczyć ze szlaku do Zawoi
+        Agroturystyki(?)
       parameters: []
       tags:
         - Beskid Żywiecki
@@ -2290,7 +2295,7 @@ paths:
 
   Chyrowa - Iwonicz-Zdrój:
     trasa:
-      summary: XXX
+      summary: Przez Cergową do większych miejscowości
       description:
         TO BE CONTINUED
       parameters:
@@ -2319,7 +2324,7 @@ paths:
     info:
       summary: Pustelnie, góry i krótki powrót do cywilizacji
       description:
-        Informacje na temat odcinka
+        
       parameters:
         - name: Pustelnia Św. Jana
           in: query
@@ -2440,7 +2445,7 @@ paths:
     info:
       summary: W krainie ropy naftowej, gór i łąk. 
       description:
-        Informacje na temat odcinka
+        
       parameters:
         - name: Rymanów Zdrój
           in: query
@@ -2584,7 +2589,7 @@ paths:
     info:
       summary: Jeziorka, pominiki i dzikie Bieszczady
       description:
-        Informacje na temat odcinka
+        
       parameters:
         - name: Duszatyn
           in: query
@@ -2742,7 +2747,7 @@ paths:
     info:
       summary: Połoniny i niezwykłe schronisko na szczycie gór
       description:
-        Informacje na temat odcinka
+        
       parameters:
         - name: Jasło
           in: query
@@ -2919,7 +2924,7 @@ paths:
     info:
       summary: Ostatnia pętla. Najwyższe szczyty Bieszczad, granica z Ukrainą. I kropka.
       description:
-        Informacje na temat odcinka
+        
       parameters:
         - name: Tarnica
           in: query
@@ -3477,7 +3482,7 @@ paths:
       tags:
         - Media
 
-  Galeria - Słoń:
+  Galeria - Słoń'67:
     galeria:
       summary: X
       description: |
@@ -3486,7 +3491,26 @@ paths:
         * **Styl** Rower
         * **Pora roku** Jesień(?)
 
+
+        [Galeria](https://plus.google.com/u/0/photos/101370364055284304702/albums/5909845771563037761)
+        [Relacja na forum](http://emtb.pl/forumo/showthread.php?tid=10120&page=3)
+      tags:
+        - Zdjęcia
+        - Media
+        - Relacje
+
+  Galeria - filipescu:
+    galeria:
+      summary: X
+      description: |
+        * **Kierunek**  Ustroń-Wołosate
+        * **Liczba dni** ?
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+
         [Galeria](https://plus.google.com/u/0/photos/101370364055284304702/albums/5909845771563037761)
       tags:
         - Zdjęcia
         - Media
+        - Relacje
