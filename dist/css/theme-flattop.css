@@ -4,9 +4,8 @@
   vertical-align: middle;
 }
 
-#galXXXXlery{
-  margin-left: 50px;
-  margin-right: 50px;
+#api_info{
+  display: none;
 }
 
 .swagger-section pre code {

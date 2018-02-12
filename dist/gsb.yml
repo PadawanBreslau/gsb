@@ -1,7 +1,7 @@
 swagger: 2
 info:
   title: GSB
-  description: GŁÓWNY SZLAK BESKIDZKI
+  description: GŁÓWNY SZLAK BESKIDZKI - kompendium wiedzy
   version: "1.0.0"
 host: gsb
 schemes:
@@ -1371,7 +1371,7 @@ paths:
     trasa:
       summary: Od szczytu do szczytu
       description: |
-        Trasa między dwoma największymi masywami Gorców nie jest łatwa. Najpierw czeka nas długie zejście do przełęczy XXX, potem jeszcze dłuższe podejście na szczyt Lubania. Początkowo mijamy schronisko PTTK, przecinami malowniczą Halę Długą i dochodzimy do szczytu Kiczory. Z niej czeka nas długie i miejscami bardzo ostre zejście - musimy wytracić 500 metrów wysokości do przełęczy Knurowskiej. Z przełęczy zaś od razu czekają nas ostre podejście i kilka mniejszych zejść, które
+        Trasa między dwoma największymi masywami Gorców nie jest łatwa. Najpierw czeka nas długie zejście do Przełęczy Knurowskiej, potem jeszcze dłuższe podejście na szczyt Lubania. Początkowo mijamy schronisko PTTK, przecinami malowniczą Halę Długą i dochodzimy do szczytu Kiczory. Z niej czeka nas długie i miejscami bardzo ostre zejście - musimy wytracić 500 metrów wysokości do przełęczy Knurowskiej. Z przełęczy zaś od razu czekają nas ostre podejście i kilka mniejszych zejść, które
         ostatecznie doprowadzą nas do uroczo położonych Studzionek - nigdzie na trasie nie ma ładniejszych widoków na Tatry. Za Studzionkami wchodzimy znów lat i przez bardzo długi czas idziemy podejściem w mrocznym liściastym lesie. Podchodzimy w międzyczasie na kolejne górki grani, aż dochodzimy do końcowego podejścia na Lubań. Podejście jest krótkie, ale skrajnie strome. Trudy wynagradzają jednak widoki ze szczytu - tym okazalsze, że można je podziwiać z nowo wybudowanej wieży widokowej.
       parameters:
         - name: 4.0 / 13.0
@@ -1695,7 +1695,7 @@ paths:
     trasa:
       summary: Długie zejście w stronę Popradu
       description: |
-        Schronisko na Przehybie znajduje się w najwyżej położonej części Beskidu Sądeckiego. Po opuszczeniu schroniska zdobywamy najwyższy szczyt tego pasma - Radziejową. Na tym zalesionym szczycie można podziwiać widoki z położonej ponad czubkami drzew wieży widokowej. Z Radziejowej szlak schodzi nieznany kawałej, po czym podchodzi pod XXX. Z tej góry czeka nas już tylko zejście, bardzo długie obniżenie aż do Rytra. Po drodze można zboczyć do położenego blisko szlaku schroniska na Niemcowej, poza tym jednak trasa, choć urozmaicona technicznie, to nie
+        Schronisko na Przehybie znajduje się w najwyżej położonej części Beskidu Sądeckiego. Po opuszczeniu schroniska zdobywamy najwyższy szczyt tego pasma - Radziejową. Na tym zalesionym szczycie można podziwiać widoki z położonej ponad czubkami drzew wieży widokowej. Z Radziejowej szlak schodzi nieznany kawałek, po czym podchodzi pod Wielkiego Rogacza. Z tej góry czeka nas już tylko zejście, bardzo długie obniżenie aż do Rytra. Po drodze można zboczyć do położenego blisko szlaku schroniska na Niemcowej, poza tym jednak trasa, choć urozmaicona technicznie, to nie
         przechodzi koło żadnych charakterystycznych punktów aż do samego Rytra. Tam, tuż przed miastem, między dwiema brzozami jest zamontowana legendarna wręcz ławeczka. W tych rejonach bardzo ładniej też już widać wznoszący się z drugiej strony doliny zamek. W Rytrze schodzimy aż do samej głównej szosy, przechodzimy obok makabryły stacji benzynowej, przekraczamy Poprad i wkraczamy do drugiej częsci Beskidu Sądeckiego - pasma Jaworzyny Krynickiej
       parameters:
         - name: 4.0 / 13.0
@@ -2408,7 +2408,7 @@ paths:
 
   Iwonicz-Zdrój - Komańcza:
     trasa:
-      summary: XXX
+      summary: Lasami, polami i polanami.
       description:
         TO BE CONTINUED
       parameters:
@@ -2552,7 +2552,7 @@ paths:
 
   Komańcza - Cisna:
     trasa:
-      summary: XXX
+      summary: W głąb Bieszczad
       description:
         TO BE CONTINUED
       parameters:
@@ -2706,7 +2706,7 @@ paths:
 
   Cisna - Ustrzyki Górne:
     trasa:
-      summary: XXX
+      summary: Połoniny
       description:
         TO BE CONTINUED
       parameters:
@@ -2891,7 +2891,7 @@ paths:
 
   Ustrzyki Górne - Wołosate:
     trasa:
-      summary: Ostatnia pętla. Najwyższe szczyty Bieszczad, granica z Ukrainą. I kropka.
+      summary: Ostatnia pętla. Ukraina. I kropka.
       description:
         TO BE CONTINUED
       parameters:
@@ -2997,7 +2997,7 @@ paths:
 
   Relacja - Paweł Łacheta:
     relacje:
-      summary: XXX
+      summary: 
       description: |
         * **Kierunek** Ustroń-Wołosate
         * **Liczba dni** 17
@@ -3014,7 +3014,7 @@ paths:
 
   Relacja - Tomasz Gawlas:
     relacje:
-      summary: XXX
+      summary: 
       description: |
         * **Kierunek** Ustroń-Wołosate
         * **Liczba dni** 16
@@ -3030,7 +3030,7 @@ paths:
 
   Relacja - Łukasz Staniszczak(Szczecin):
     relacje:
-      summary: XXX
+      summary: 
       description: |
         * **Kierunek** Ustroń-Wołosate
         * **Liczba dni** 16
@@ -3045,7 +3045,7 @@ paths:
 
   Relacja glownyszlakbeskidzki2017.blox.pl:
     relacje:
-      summary: XXX
+      summary: 
       description: |
         * **Kierunek** Ustroń-Wołosate
         * **Liczba dni** 17
@@ -3058,7 +3058,7 @@ paths:
 
   Relacja - Podrózebezosci:
     relacje:
-      summary: XXX
+      summary: 
       description: |
         * **Kierunek** Wołosate-Ustroń
         * **Liczba dni** 17
@@ -3074,7 +3074,7 @@ paths:
 
   Relacja - Kazimierz Pawłowski:
     relacje:
-      summary: XXX
+      summary: 
       description: |
         * **Kierunek** Ustroń-Wołosate
         * **Liczba dni** 15
@@ -3090,7 +3090,7 @@ paths:
 
   Relacja - Wapniaki w drodze:
     relacje:
-      summary: XXX
+      summary: 
       description: |
         * **Kierunek** Wołosate-Ustroń
         * **Liczba dni** 19
@@ -3106,7 +3106,7 @@ paths:
 
   Relacja - DoRi:
     relacje:
-      summary: XXX
+      summary: 
       description: |
         * **Kierunek** Ustroń-Wołosate
         * **Liczba dni** 16
@@ -3122,7 +3122,7 @@ paths:
 
   Relacja - Renata i Darek:
     relacje:
-      summary: XXX
+      summary: 
       description: |
         * **Kierunek** Ustroń-Wołosate
         * **Liczba dni** 16
@@ -3138,7 +3138,7 @@ paths:
 
   Relacja - Kamil:
     relacje:
-      summary: XXX
+      summary: 
       description: |
         * **Kierunek** Wołosate-Ustroń
         * **Liczba dni** 24
@@ -3153,7 +3153,7 @@ paths:
 
   Relacja - Yatzek Outdoor:
     relacje:
-      summary: XXX
+      summary: 
       description: |
         * **Kierunek** Ustroń-Wołosate
         * **Liczba dni** 22
@@ -3169,7 +3169,7 @@ paths:
 
   Relacja - Jakub Milczarek:
     relacje:
-      summary: XXX
+      summary: 
       description: |
         * **Kierunek** Ustroń-Wołosate
         * **Liczba dni** 21
@@ -3184,7 +3184,7 @@ paths:
 
   Relacja - Velozone Łukasz:
     relacje:
-      summary: XXX
+      summary: 
       description: |
         * **Kierunek** Ustroń-Wołosate
         * **Liczba dni** ?
@@ -3200,7 +3200,7 @@ paths:
 
   Relacja - Renata/Igiełka:
     relacje:
-      summary: XXX
+      summary: 
       description: |
         * **Kierunek** Wołosate-Ustroń
         * **Liczba dni** ?
