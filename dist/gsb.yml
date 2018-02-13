@@ -3295,7 +3295,7 @@ paths:
 
   Filmy - odkropkidokropki:
     media:
-      summary: X
+      summary: 
       description: |
         * **Długość filmu** 50 minut
         * **Kierunek**  Ustroń - Wołosate
@@ -3310,7 +3310,7 @@ paths:
 
   Filmy - Jakub Czajkowski:
     media:
-      summary: X
+      summary: 
       description: |
         * **Długość filmu** 50 minut
         * **Kierunek**  Ustroń - Wołosate
@@ -3325,7 +3325,7 @@ paths:
 
   Filmy - Kaja Milanowska, Kasia Melcer:
     media:
-      summary: X
+      summary: 
       description: |
         * **Długość filmu** 10 minut
         * **Kierunek**  Wołosate - Ustroń
@@ -3340,7 +3340,7 @@ paths:
 
   Filmy - DalekoJeszcze:
     media:
-      summary: X
+      summary: 
       description: |
         * **Długość filmu** 30 minut
         * **Kierunek**  Ustroń - Wołosate
@@ -3355,7 +3355,7 @@ paths:
 
   Filmy - Rober Krawenda:
     media:
-      summary: X
+      summary: 
       description: |
         * **Długość filmu** 2x10 minut
         * **Kierunek**  Ustroń - Wołosate
@@ -3371,7 +3371,7 @@ paths:
 
   Filmy - Wędrówka Dziadbora:
     media:
-      summary: X
+      summary: 
       description: |
         * **Długość filmu** 2x90 minut
         * **Kierunek**  Ustroń - Wołosate
@@ -3387,7 +3387,7 @@ paths:
 
   Filmy - Gory to część mojego życia:
     media:
-      summary: X
+      summary: 
       description: |
         * **Długość filmu** 3x10 minut
         * **Kierunek**  Ustroń - Wołosate
@@ -3404,7 +3404,7 @@ paths:
 
   Filmy - YTMarekZet:
     media:
-      summary: X
+      summary: 
       description: |
         * **Długość filmu** 10 minut
         * **Kierunek**  Ustroń - Bartne(?) (330km)
@@ -3419,7 +3419,7 @@ paths:
 
   Filmy - Ekipa Wypadowa:
     media:
-      summary: X
+      summary: 
       description: |
         * **Długość filmu** 12 minut
         * **Kierunek**  Wołosate - Krościenko (330km z odbiciami)
@@ -3434,7 +3434,7 @@ paths:
 
   Filmy - ryska411:
     media:
-      summary: X
+      summary: 
       description: |
         * **Długość filmu** 5 minut
         * **Kierunek**  Wołosate - Ustroń
@@ -3449,7 +3449,7 @@ paths:
 
   Filmy - Łukasz Czubak:
     media:
-      summary: X
+      summary: 
       description: |
         * **Długość filmu** 15 minut
         * **Kierunek**  Wołosate - Ustroń
@@ -3464,7 +3464,7 @@ paths:
 
   Filmy - wywiad z Piotrem Kłosowiczem:
     media:
-      summary: X
+      summary: 
       description: |
         * **Długość filmu** 5 minut
 
@@ -3474,7 +3474,7 @@ paths:
 
   Filmy - reportaż o próbie Macieja Więcka:
     media:
-      summary: X
+      summary: 
       description: |
         * **Długość filmu** 20 minut
 
@@ -3484,7 +3484,7 @@ paths:
 
   Galeria - Słoń'67:
     galeria:
-      summary: X
+      summary: 
       description: |
         * **Kierunek**  Ustroń-Wołosate
         * **Liczba dni** 4
