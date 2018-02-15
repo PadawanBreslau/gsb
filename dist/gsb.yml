@@ -138,24 +138,24 @@ paths:
         można do niego dojść szlakiem żółtmy (ok. 20 minut w obie strony). Za schroniskiem zaczynamy długie zejście, najpierw asfaltem, potem kamienistą dróżką przecinającą raz po raz asfalt.
         Po zejściu do miasta znów wchodzimy na utwardzoną drogę, przekraczamy mostem Wisłę, przekraczamy przejściem podziemnym trasę samochodową i znajdujemy się przy dolnej stacji wyciągu na Czarntorię
       parameters:
-        - name: 0.0(0.0) 350m(*?)
+        - name: 0.0(0.0) 350m
           in: Czerwony
           description: |
             **PKP Ustroń. Początek Głównego Szlaku Beskidzkiego**
           type: number
-        - name: 3,5(3,5) 650m(*?)
+        - name: 3,0(3,0) 700m
           in: Czerwony
           description: |
             **Kamień Ewangelików**
           type: number
-        - name: 4.5(4.5) 770m
+        - name: 4.0(4.0) 770m
           in: Zielony Żółty Czerwony
           description: |
             **Schronisko PTTK Równica** Schronisko położone pod szczytem góry **Równica**, przy drodze asfaltowej w popularnej turystycznie lokalizacji, pełnej restauracji, hoteli i innych atrakcji.
             Z góry jest bardzo ładny widok na wznoszące się z drugej strony Doliny Wisły **masywy Czantorii i Stożka Wielkiego** - aby zobaczyc te widoki najlepiej albo wejść na łąkę nad schroniskiem w kierunku
             szczytu Równicy, albo zejść nieco wraz z czerwonym szlakiem
           type: number
-        - name: 9.0(9.0) 400m
+        - name: 8.1(8.1) 400m
           in: Zielony Czerwony
           description: |
             Ustroń Polana. **Dolna Stacja Wyciągu Krzesełkowego**. Osiedle Ustronia, oryginalnie przysiółek o którym pierwsze wzmianki można odnaleźć z początków XVII wieku. Obecnie życie okolicznych
@@ -172,7 +172,7 @@ paths:
       summary: Okolice Ustronia, czyli dużo atrakcji, ale niekoniecznie dla turystów górskich
       description: 
       parameters:
-        - name: Ustroń 0.0(0.0) 350m(*?)
+        - name: Ustroń 0.0(0.0) 350m
           in: Ustroń
           description: |
             W miejscowej gwarze nazwa wymawiana jest ustróń, kogo, czego: ustrónio, w języku niemieckim Ustron, czeskim Ustroni.
@@ -180,7 +180,7 @@ paths:
             W Ustroniu znajduje się [Leśny Park Niespodzianek](http://www.lesnypark.pl/o-parku), utworzony w środowisku naturalnym. 
             Po ścieżkach w lesie bukowym swobodnie biegają **dziki, jelenie, sarny czy też muflony**. Park łączy w sobie funkcje: rekreacyjną i edukacyjną, organizuje również pokazy sokolnicze.
           type: number
-        - name: Kamień Ewangelików  3,5(3,5) 650m(*?)
+        - name: Kamień Ewangelików  3,0(3,0) 700m
           in: Kamień Ewangelików
           description: |
             Kamień Ewangelików. Jest to najlepiej znane i najpopularniejsze takie miejsce w Beskidach. W 1904 roku, w 250. rocznicę rozpoczęcia leśnych nabożeństw,
@@ -195,12 +195,12 @@ paths:
           
             
           type: number
-        - name: Równica
+        - name: Równica 4.0(4.0) 770m
           in: query
           description: |
             [Górski park Równica](http://www.rownica.pl/?lang=pl). Górski Park Rozrywki położony jest u szczytu góry Równica o wysokości 885 m n.p.m. Turystów przyciągają tutaj niezapomniane widoki, karczma biesiadna z regionalnym jadłem oraz wspaniałe atrakcje typu Rollercoaster Kino Sferyczne czy Kino 7D.
           type: number
-        - name: Ustroń Polana
+        - name: Ustroń Polana 8.1(8.1) 400m
           in: query
           description: |
             [Kolejka liniowa](http://www.czantoria.net/) Kolej Linowa Czantoria w Ustroniu – ośrodek narciarski położony w Ustroniu w Beskidzie Śląskim na północnym zboczu Wielkiej Czantorii. **Górna stacja ośrodka znajduje się na polanie Stokłosica**, na wysokości 851 m n.p.m. Czantoria to najpopularniejszy szczyt Beskidu Śląskiego z wyprzęganą wygodną koleją. Czteroosobowe kanapy oraz system zwalniający prędkość przy wsiadaniu i wysiadaniu to duży atut kolejki, dzięki czemu również osoby niepełnosprawne mogą czuć się bezpiecznie w czasie przejazdu. Krzesłka wyposażone są rónież w specjalne uchwyty umożliwiające transport rowerów na górną stację. Kolej linowa każdego roku umożliwia tysiącom turystów łatwy i szybki dostęp w górne partie Beskidów.
@@ -232,7 +232,7 @@ paths:
             * **URL** [Strona schroniska](http://www.schronisko-rownica.pl/)
 
           type: number
-        - name: 9.0
+        - name: 8.1
           in:
           description: Ustroń Polana. Dużo opcji noclegowych.
           type: number
@@ -3280,7 +3280,7 @@ paths:
 
   Filmy - marunatolin:
     media:
-      summary: X
+      summary: 
       description: |
         * **Długość filmu** 50 minut
         * **Kierunek**  Ustroń - Wołosate
