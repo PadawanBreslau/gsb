@@ -255,19 +255,19 @@ paths:
         szlak krótko podchodzi na górę Soszów, skąd bardzo ładnie widać na wschodzie masyw Baraniej Góry, później zaś malowniczą trasą, przez lasy i łąki prowadzi w stronę Stożka Wielkiego. Po paru kilometrach łatwiejszej trasy
         podchodzimy pod zbocze Stożka, skąd czeka nas bardzo forsowne podejście na szczyt. Na górze wita nas schronisko PTTK, zazwyczaj pełne od turystów i rowerzystów górskich
       parameters:
-        - name: 4.0 / 13.0
+        - name: 3.4(8.1) 350m
           in: Czerwony
           description: Czantoria
           type: number
-        - name: 8.0 / 17.0
+        - name: 6.5(0.0) 350m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Przełęcz Beskidek
           type: number
-        - name: 10.0 / 19.0
+        - name: 8.5(0.0) 350m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: PTTK Soszów
           type: number
-        - name: 15.0 / 24.0
+        - name: 12,5(0.0) 350m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: PTTK Stożek
           type: number
@@ -1968,7 +1968,8 @@ paths:
     trasa:
       summary: Wejście w Beskid Niski
       description: |
-        TO BE CONTINUED
+        Z Krynicy Górksiej trasa najpierw prowadzi wzdłuż drogi, po czym ostro wspina się na szczyt Huzarów - ostatniej góry na trasie znajdującej się w Beskidzie Sądeckim. Po zejście do Mochanaczki Niżnej wchodzi do Beskidu Niskiego.
+        Dalsza trasa biegnie wśród niedużych podejść i zejść wśród miejscowości z zabytkowymi połemkowskimi kościółami.
       parameters:
         - name: 4.0 / 13.0
           in: Czerwony
@@ -2075,7 +2076,8 @@ paths:
     trasa:
       summary: Cmentarz wśród gór 
       description: |
-        TO BE CONTINUED
+        Odcinek rozpoczyna się ostrym podejściem i równie ostrym zejściem z Koziego Żebra, skąd dochodzimy do bazy namiotowej. Za bazą znów czeka ostre podejście na szczyt Rotundy, gdzie zlokalizowany jest cmentarz
+        wojenny z czasów Wielkiej Wojny. Najbliższe kilometry będą pod dyktanto podchenia pod góry i schodzenia go wiosek położonych w wąskich dolinach. W końcu szlak dochadzi do Bartnych, gdzie jest jedyne schronisko PTTK na tym etapie szlaku.
       parameters:
         - name: 4.0 / 13.0
           in: Czerwony
@@ -2199,7 +2201,8 @@ paths:
     trasa:
       summary: Poprzez Magurski Park Narodowy
       description:
-        TO BE CONTINUED
+        Za schronieniem szlak wchodzi w Magury i Magurski Park Narodowy. Odcinek rozpoczyna się podejścia pod Magurę, później zaś przy niewielkich deniwelacjach prowadzi przez Świerzową, schodzi do drogi po czym prowadzi dość ostro na szczyt Kolanin. Caly czas lasami
+        szlak prowadzi do miejscowości Kąty położonej nad Wisłoką - najniższego punktu na trasie szlaku. Z Kąt szlak łąkami podchodzi pod Grzywacką Górę, poźniej zaś wśród łąk i lasów Łysej Góry prowadzi do Chyrowej.
       parameters:
         - name: 4.0 / 13.0
           in: Czerwony
@@ -2297,7 +2300,8 @@ paths:
     trasa:
       summary: Przez Cergową do większych miejscowości
       description:
-        TO BE CONTINUED
+        Z Chyrowej szlak łąkami i lasasmi prowadzi przy niewielkich podejściach w stronę pustelni św. Jana z Dukli. Stamtąd trasa schodzi do drogi wojewódzkiej, by potem zacząć ostre podejście na charakterystyczny szczyt Cergowej. Na szczycie trochę płaskiego faragmentum po czym zaczyna się
+        długie zejśce w stronę miejscowości - najpierw Lubertowej, potem asfaltem do Iwonicza-Zdrój
       parameters:
         - name: 4.0 / 13.0
           in: Czerwony
@@ -2388,8 +2392,8 @@ paths:
 
     nocleg: 
       summary: Noclegi
-      description:
-        W schronisku, lub można zboczyć ze szlaku do Zawoi
+      description: |
+
       parameters:
         - name: Iwonicz-Zdrój
           in: query
