@@ -51,7 +51,6 @@
       window.swaggerUi = new SwaggerUi({
         url: url,
         dom_id: "swagger-ui-container",
-        //supportedSubmitMethods: ['get', 'post', 'put', 'delete', 'patch'],
         supportedSubmitMethods: ['trasa', 'nocleg', 'info', 'media', 'relacje', 'porady', 'galeria', 'no'],
         onComplete: function(swaggerApi, swaggerUi){
           if(typeof initOAuth == "function") {
@@ -70,6 +69,7 @@
           }
         },
         onFailure: function(data) {
+          log(data);
           log("Unable to Load SwaggerUI");
         },
         docExpansion: "none",
@@ -90,40 +90,8 @@
   </script>
 </head>
 
-<body class="swagger-section">
+<body class="swagger-section" style="background-color: #f8f9f9">
   <div id="wrapper">
-
-    <!-- Sidebar 
-    <div id="sidebar-wrapper">
-      <ul class="sidebar-nav">
-        <li class="sidebar-brand">
-          <a href="#">
-            GSB
-          </a>
-        </li>
-        <li>
-          <a href="#">Opis Trasy</a>
-        </li>
-        <li>
-          <a href="#gallery">Galerie zdjęć</a>
-        </li>
-
-        <li>
-        </li>
-      </ul>
-    </div>
-
-    <div id="toggler">
-      <a href="#menu-toggle" id="menu-toggle"><i class="fa fa-backward fa-fw" aria-hidden="true"></i></a>
-    </div>
-   
-
-    <div id="untoggler">
-      <a ref="#menu-untoggle" id="menu-untoggle"><i class="fa fa-forward fa-fw" aria-hidden="true"></i></a>
-    </div>
-
-    /#sidebar-wrapper -->
-
     <!-- Page Content -->
     <div id="page-content-wrapper">
       <div class="container-fluid">
@@ -134,49 +102,5 @@
         </div>
       </div>
     </div>
-<!--
-    <div id="gallery">
-      <a name="gallery"></a>
-      <div class="galleria">
-        <img src="images/1.jpg">
-        <img src="images/2.jpg">
-        <img src="images/3.jpg">
-      </div>
-
-      <div class="galleria">
-        <img src="images/1.jpg">
-        <img src="images/2.jpg">
-        <img src="images/3.jpg">
-      </div>
-    </div>
-  </div>
-  <script>
-(function() { 
-  Galleria.loadTheme('galleria/themes/classic/galleria.classic.min.js');
-  Galleria.run('.galleria');
-}());
-  </script>
-
-    <script>
-    $("#untoggler").hide();
-
-    $("#menu-toggle").click(function(e) {
-        e.preventDefault();
-        $("#wrapper").toggleClass("toggled");
-        $("#untoggler").show();
-        $("#toggler").hide();
-    });
-
-
-    $("#menu-untoggle").click(function(e) {
-        e.preventDefault();
-        $("#wrapper").removeClass("toggled");
-        $("#untoggler").hide();
-        $("#toggler").show();
-    });
-    </script>
-
--->
-
 </body>
 </html>
