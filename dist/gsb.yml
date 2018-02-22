@@ -953,21 +953,21 @@ paths:
         zejściu osiągami hale i schronisko na Hali Krupowej
 
       parameters:
-        - name: 4.0 / 13.0
+        - name: 0.0(105.0) 1220m
           in: Czerwony
           description: Babia Góra - Diablak
           type: number
-        - name: 8.0 / 17.0
+        - name: 4.5(109.5) 1220m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Przełęcz Krowiarki
           type: number
-        - name: 10.0 / 19.0
+        - name: 10.5(115.5) 1220m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Polica
           type: number
-        - name: 15.0 / 24.0
+        - name: 13.5(118,5) 1220m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
-          description: Schronisko PTTK
+          description: Schronisko PTTK na Hali Krupowej
           type: number
       tags:
         - Beskid Żywiecki
@@ -1060,19 +1060,19 @@ paths:
         Teraz czeka nas dłuższy odcinek w zasadzie poza górami, który zaczynamy od trasy przez pola i łąki doprowadzajacy nas do kolejnego dużego miasta, Jordanowa.
 
       parameters:
-        - name: 4.0 / 13.0
+        - name: 0.0(118,5) 1200m
           in: Czerwony
           description: PTTK Hala Krupowa
           type: number
-        - name: 8.0 / 17.0
+        - name: 6,5(125.0) 900m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
-          description: Przełęcz Malinowa
+          description: Przełęcz Malinowe
           type: number
-        - name: 10.0 / 19.0
+        - name: 12.5(131.0) 450m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Bystra
           type: number
-        - name: 15.0 / 24.0
+        - name: 15.5(134,5) 500m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Jordanów
           type: number
@@ -1155,19 +1155,19 @@ paths:
         Po przekroczeniu Zakopianki jest juz wyraźnie lepiej, szlak jest czytelniejszy, asfaltu nie ma tak dużo i zaczynają się ładne widoki na miasto Rabkę i Gorce. Ogólnie jest to fragment, który przechodzą chyba wyłącznie osoby przechodzące Główny Szlak Beskidzki - żadnych innych zalet nie ma
 
       parameters:
-        - name: 4.0 / 13.0
+        - name: 0.0(134,5) 500m
           in: Czerwony
           description: Jordanów
           type: number
-        - name: 8.0 / 17.0
+        - name: 3.5(138.0) 575m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Wysoka
           type: number
-        - name: 10.0 / 19.0
+        - name: 5,5(140.0) 4500m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Skawa
           type: number
-        - name: 15.0 / 24.0
+        - name: 12,5(147.0) 4500m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Rabka
           type: number
@@ -1268,19 +1268,19 @@ paths:
         najwyższy szczyt Gorców. Za szczytem już rzut kamieniem do schroniska PTTK na Turbaczu.
 
       parameters:
-        - name: 4.0 / 13.0
+        - name: 0.0(147.0) 1220m
           in: Czerwony
           description: Rabka
           type: number
-        - name: 8.0 / 17.0
+        - name: 7.0(154.0) 8000m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Bacówka na Maciejowej
           type: number
-        - name: 10.0 / 19.0
+        - name: 9,5(156.5) 1000m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: PTTK "Stare Wierchy"
           type: number
-        - name: 15.0 / 24.0
+        - name: 16.0(163.0) 1310m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski
           description: Turbacz
           type: number
