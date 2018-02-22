@@ -1382,19 +1382,19 @@ paths:
         Trasa między dwoma największymi masywami Gorców nie jest łatwa. Najpierw czeka nas długie zejście do Przełęczy Knurowskiej, potem jeszcze dłuższe podejście na szczyt Lubania. Początkowo mijamy schronisko PTTK, przecinami malowniczą Halę Długą i dochodzimy do szczytu Kiczory. Z niej czeka nas długie i miejscami bardzo ostre zejście - musimy wytracić 500 metrów wysokości do przełęczy Knurowskiej. Z przełęczy zaś od razu czekają nas ostre podejście i kilka mniejszych zejść, które
         ostatecznie doprowadzą nas do uroczo położonych Studzionek - nigdzie na trasie nie ma ładniejszych widoków na Tatry. Za Studzionkami wchodzimy znów lat i przez bardzo długi czas idziemy podejściem w mrocznym liściastym lesie. Podchodzimy w międzyczasie na kolejne górki grani, aż dochodzimy do końcowego podejścia na Lubań. Podejście jest krótkie, ale skrajnie strome. Trudy wynagradzają jednak widoki ze szczytu - tym okazalsze, że można je podziwiać z nowo wybudowanej wieży widokowej.
       parameters:
-        - name: 4.0 / 13.0
+        - name: 0.0(163.0) 1310m
           in: Czerwony
           description: Turbacz
           type: number
-        - name: 8.0 / 17.0
+        - name: 9.0(172.0) 850m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Przełęcz Knurowska
           type: number
-        - name: 10.0 / 19.0
+        - name: 11.5(174,5) 900m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Studzionki
           type: number
-        - name: 15.0 / 24.0
+        - name: 22.0(185.0) 1210m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Lubań
           type: number
@@ -1525,15 +1525,15 @@ paths:
         Po nacieszeniu się widokami ze szczytu Lubania (a są one wspaniałe), schodzimy w dół to położonej tuż pod szczytem bazy namiotowej. W bazie można przenocować, można czasem zjeść (ale nie zawsze), można napić się herbaty i nabrać wody z nieopodal położonego źródełka. Po opuszczeniu z bazy zaczyna się bardzo długie zejście do Szczawnicy i doliny Dunajca. Łącznie do zejścia mamy 800 metrów. Trasa była ostatnio remontowana, więc jest to szeroka droga leśna bez żadnych technicznych problemów.
         Wraz ze zmniejszaniem wysokości coraz częściej szlak wychodzi z lasu i możemy patrzeć jednocześnie na trzy pasma górskie - pobliskie Pieniny, dalej za nimi Tatry, na wschodze zaś kolejne pasmo Beskidów - Beskid Sądecki. Po parunastu kilometrach dość monotonnego zejścia docieramy do Krościenka nad Dunajcem.
       parameters:
-        - name: 4.0 / 13.0
+        - name: 0.0(185.0) 1310m
           in: Czerwony
           description: Lubań
           type: number
-        - name: 8.0 / 17.0
+        - name: 5.5(190.5) 1310m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Marszałek (828m.)
           type: number
-        - name: 10.0 / 19.0
+        - name: 9.5(194.5) 1310m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Krościenko
           type: number
@@ -1610,19 +1610,23 @@ paths:
         Za Szczawnicą wracamy do dziczy i wchodzimy do nowego pasma górskiego - Beskidu Sądeckiego. Naturalne jest, że rozpoczynamy od parukilometrowego podejścia na Dzwonkówkę, początkowo asfaltem, potem szutrem, na końcu zaś leśną ścieżką. Za Dzwonkówką czeka nas nieco obniżenia do bardzo malowniczej przełęczy Przysłop. Z przełęczy szlak idze znów w górę, miejscami bardzo ostro, by wprowadzić nas na górę Kamień. Z Kamienia jest już bardzo łatwa droga na szczyt Przehyby, tuż obok którego umiejscowione
         jest schornisko PTTK
       parameters:
-        - name: 4.0 / 13.0
+        - name: 0.0(194.5) 1310m
           in: Czerwony
-          description: Szczawnica
+          description: Krościenko
           type: number
-        - name: 8.0 / 17.0
+        - name: 6.5(200.0) 1310m
+          in: Czerwony
+          description: Dzwonkówka
+          type: number
+        - name: 8.5(202.0) 1310m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Przełęcz Przysłop
           type: number
-        - name: 10.0 / 19.0
+        - name: 11.5(205.0) 1310m
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
-          description: Kamien
+          description: Skałka
           type: number
-        - name: 10.0 / 19.0
+        - name: 13.5(206.5) 1310m
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
           description: PTTK na Przehybie
           type: number
@@ -1706,19 +1710,19 @@ paths:
         Schronisko na Przehybie znajduje się w najwyżej położonej części Beskidu Sądeckiego. Po opuszczeniu schroniska zdobywamy najwyższy szczyt tego pasma - Radziejową. Na tym zalesionym szczycie można podziwiać widoki z położonej ponad czubkami drzew wieży widokowej. Z Radziejowej szlak schodzi nieznany kawałek, po czym podchodzi pod Wielkiego Rogacza. Z tej góry czeka nas już tylko zejście, bardzo długie obniżenie aż do Rytra. Po drodze można zboczyć do położenego blisko szlaku schroniska na Niemcowej, poza tym jednak trasa, choć urozmaicona technicznie, to nie
         przechodzi koło żadnych charakterystycznych punktów aż do samego Rytra. Tam, tuż przed miastem, między dwiema brzozami jest zamontowana legendarna wręcz ławeczka. W tych rejonach bardzo ładniej też już widać wznoszący się z drugiej strony doliny zamek. W Rytrze schodzimy aż do samej głównej szosy, przechodzimy obok makabryły stacji benzynowej, przekraczamy Poprad i wkraczamy do drugiej częsci Beskidu Sądeckiego - pasma Jaworzyny Krynickiej
       parameters:
-        - name: 4.0 / 13.0
+        - name: 0.0(206,5) 1310m
           in: Czerwony
           description: PTTK na Przehybie
           type: number
-        - name: 8.0 / 17.0
+        - name: 5.0(211.5) 1310m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Radziejowa
           type: number
-        - name: 10.0 / 19.0
+        - name: 9.0(215.5) 1310m
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
           description: Zejście do schroniska na Niemcowej
           type: number
-        - name: 10.0 / 19.0
+        - name: 16.0(222.5) 1310m
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
           description: Rytro
           type: number
