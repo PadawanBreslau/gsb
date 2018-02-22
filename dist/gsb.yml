@@ -155,7 +155,7 @@ paths:
             Z góry jest bardzo ładny widok na wznoszące się z drugej strony Doliny Wisły **masywy Czantorii i Stożka Wielkiego** - aby zobaczyc te widoki najlepiej albo wejść na łąkę nad schroniskiem w kierunku
             szczytu Równicy, albo zejść nieco wraz z czerwonym szlakiem
           type: number
-        - name: 8.1(8.1) 400m
+        - name: 8.0(8.0) 400m
           in: Zielony Czerwony
           description: |
             Ustroń Polana. **Dolna Stacja Wyciągu Krzesełkowego**. Osiedle Ustronia, oryginalnie przysiółek o którym pierwsze wzmianki można odnaleźć z początków XVII wieku. Obecnie życie okolicznych
@@ -200,7 +200,7 @@ paths:
           description: |
             [Górski park Równica](http://www.rownica.pl/?lang=pl). Górski Park Rozrywki położony jest u szczytu góry Równica o wysokości 885 m n.p.m. Turystów przyciągają tutaj niezapomniane widoki, karczma biesiadna z regionalnym jadłem oraz wspaniałe atrakcje typu Rollercoaster Kino Sferyczne czy Kino 7D.
           type: number
-        - name: Ustroń Polana 8.1(8.1) 400m
+        - name: Ustroń Polana 8.0(8.0) 400m
           in: query
           description: |
             [Kolejka liniowa](http://www.czantoria.net/) Kolej Linowa Czantoria w Ustroniu – ośrodek narciarski położony w Ustroniu w Beskidzie Śląskim na północnym zboczu Wielkiej Czantorii. **Górna stacja ośrodka znajduje się na polanie Stokłosica**, na wysokości 851 m n.p.m. Czantoria to najpopularniejszy szczyt Beskidu Śląskiego z wyprzęganą wygodną koleją. Czteroosobowe kanapy oraz system zwalniający prędkość przy wsiadaniu i wysiadaniu to duży atut kolejki, dzięki czemu również osoby niepełnosprawne mogą czuć się bezpiecznie w czasie przejazdu. Krzesłka wyposażone są rónież w specjalne uchwyty umożliwiające transport rowerów na górną stację. Kolej linowa każdego roku umożliwia tysiącom turystów łatwy i szybki dostęp w górne partie Beskidów.
@@ -221,7 +221,7 @@ paths:
           in:
           description: Ustroń. Dużo opcji noclegowych.
           type: number
-        - name: 4.5
+        - name: 4.0
           in:
           description: |
             **Schronisko Górskie PTTK Równica**
@@ -232,7 +232,7 @@ paths:
             * **URL** [Strona schroniska](http://www.schronisko-rownica.pl/)
 
           type: number
-        - name: 8.1
+        - name: 8.0
           in:
           description: Ustroń Polana. Dużo opcji noclegowych.
           type: number
@@ -255,21 +255,25 @@ paths:
         szlak krótko podchodzi na górę Soszów, skąd bardzo ładnie widać na wschodzie masyw Baraniej Góry, później zaś malowniczą trasą, przez lasy i łąki prowadzi w stronę Stożka Wielkiego. Po paru kilometrach łatwiejszej trasy
         podchodzimy pod zbocze Stożka, skąd czeka nas bardzo forsowne podejście na szczyt. Na górze wita nas schronisko PTTK, zazwyczaj pełne od turystów i rowerzystów górskich
       parameters:
-        - name: 3.4(8.1) 350m
+        - name: 3.5(11,5) 990m
           in: Czerwony
-          description: Czantoria
+          description: |
+            Czantoria
           type: number
-        - name: 6.5(0.0) 350m
+        - name: 2.5(14.0) 700m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
-          description: Przełęcz Beskidek
+          description: |
+            Przełęcz Beskidek
           type: number
-        - name: 8.5(0.0) 350m
+        - name: 5.5(17.0) 875m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
-          description: PTTK Soszów
+          description: |
+            PTTK Soszów
           type: number
-        - name: 12,5(0.0) 350m
+        - name: 9,5(21.0) 975m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
-          description: PTTK Stożek
+          description: |
+            PTTK Stożek
           type: number
       tags:
         - Beskid Śląski
@@ -381,23 +385,23 @@ paths:
           do skrzyżówania dróg, skręca w lewo i po krótkim czasie dochodzi na szczyt Baraniej Góry, z którego można podziwiać z wieży widokowej piękne widoki w stronę Węgierskiej Górki i pasma Romanki, Rysianki i Pilska.
 
       parameters:
-        - name: 4.0 / 13.0
+        - name: 0.0(21.0) 975m
           in: Czerwony
           description: PTTK na Stożku Wielkim
           type: number
-        - name: 8.0 / 17.0
+        - name: 7.5(28,5) 750m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Przełęcz Kubalonka
           type: number
-        - name: 10.0 / 19.0
+        - name: 12.0(33.0) 750m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Schronisko na Stecówce
           type: number
-        - name: 15.0 / 24.0
+        - name: 16,5(37,5) 950m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: PTTK Przysłop
           type: number
-        - name: 15.0 / 24.0
+        - name: 2.5(40) 1220m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Barania Góra
           type: number
@@ -532,19 +536,19 @@ paths:
         polskich Beskidów - Beskidu Żywieckiego
 
       parameters:
-        - name: 4.0 / 13.0
+        - name: 0.0(40.0) 1220m
           in: Czerwony
           description: Barania Góra
           type: number
-        - name: 8.0 / 17.0
+        - name: 4.5(44.5) 1100m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Magura Radziestowska
           type: number
-        - name: 10.0 / 19.0
+        - name: 7.0(47.0) 1025m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Glinne
           type: number
-        - name: 15.0 / 24.0
+        - name: 12,5(52,5) 500m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Węgierska Górka
           type: number
@@ -649,19 +653,19 @@ paths:
         Znad schroniska powinniśmy mieć pierwsze na trasie świetne widoki na Babią Górę
 
       parameters:
-        - name: 4.0 / 13.0
+        - name: 0.0(55.0) 1220m
           in: Czerwony
           description: Węgierska Górka
           type: number
-        - name: 8.0 / 17.0
+        - name: 5.0(60.0) 1220m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Abrahamów
           type: number
-        - name: 10.0 / 19.0
+        - name: 8,5(63,5) 1220m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: PTTK Słowianka
           type: number
-        - name: 15.0 / 24.0
+        - name: 15.0(70,0) 1220m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: PTTK na Rysiance
           type: number
@@ -797,23 +801,27 @@ paths:
         Głównego Szlaku Beskidzkiego i najwyższy szczyt polskich Beskidów.
 
       parameters:
-        - name: 4.0 / 13.0
+        - name: 0.0(70.0) 1220m
+          in: Czerwony
+          description: PTTK Hala Rysianka
+          type: number
+        - name: 6,5(76.5) 1220m
           in: Czerwony
           description: PTTK Hala Miziowa
           type: number
-        - name: 8.0 / 17.0
+        - name: 11,5(81,5) 1220m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Przełęcz Glinne
           type: number
-        - name: 10.0 / 19.0
+        - name: 21.0(91.0) 1220m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Baza Namiotowa Głuchaczki
           type: number
-        - name: 15.0 / 24.0
+        - name: 32.0(102.0) 1220m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: PTTK Markowe Szczawiny
           type: number
-        - name: 15.0 / 24.0
+        - name: 35.0(105.0) 1220m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Babia Góra - Diablak
           type: number
