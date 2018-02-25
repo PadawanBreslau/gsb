@@ -169,7 +169,7 @@ paths:
     ### INFO ###
 
     info: #Ustroń-Ustroń Polana
-      summary: Okolice Ustronia, czyli dużo atrakcji, ale niekoniecznie dla turystów górskich
+      summary: Okolice Ustronia, czyli dużo atrakcji, ale niekoniecznie górskich
       description: 
       parameters:
         - name: Ustroń 0.0(0.0) 350m
@@ -261,17 +261,17 @@ paths:
             Czantoria
           type: number
         - name: 2.5(14.0) 700m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: |
             Przełęcz Beskidek
           type: number
         - name: 5.5(17.0) 875m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: |
             PTTK Soszów
           type: number
         - name: 9,5(21.0) 975m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: |
             PTTK Stożek
           type: number
@@ -390,19 +390,19 @@ paths:
           description: PTTK na Stożku Wielkim
           type: number
         - name: 7.5(28,5) 750m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Przełęcz Kubalonka
           type: number
         - name: 12.0(33.0) 750m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Schronisko na Stecówce
           type: number
         - name: 16,5(37,5) 950m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: PTTK Przysłop
           type: number
         - name: 2.5(40) 1220m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Barania Góra
           type: number
       tags:
@@ -541,15 +541,15 @@ paths:
           description: Barania Góra
           type: number
         - name: 4.5(44.5) 1100m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Magura Radziestowska
           type: number
         - name: 7.0(47.0) 1025m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Glinne
           type: number
         - name: 12,5(52,5) 500m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Węgierska Górka
           type: number
       tags:
@@ -658,15 +658,15 @@ paths:
           description: Węgierska Górka
           type: number
         - name: 5.0(60.0) 1220m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Abrahamów
           type: number
         - name: 8,5(63,5) 1220m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: PTTK Słowianka
           type: number
         - name: 15.0(70,0) 1220m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: PTTK na Rysiance
           type: number
       tags:
@@ -810,19 +810,19 @@ paths:
           description: PTTK Hala Miziowa
           type: number
         - name: 11,5(81,5) 1220m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Przełęcz Glinne
           type: number
         - name: 21.0(91.0) 1220m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Baza Namiotowa Głuchaczki
           type: number
         - name: 32.0(102.0) 1220m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: PTTK Markowe Szczawiny
           type: number
         - name: 35.0(105.0) 1220m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Babia Góra - Diablak
           type: number
       tags:
@@ -958,15 +958,15 @@ paths:
           description: Babia Góra - Diablak
           type: number
         - name: 4.5(109.5) 1220m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Przełęcz Krowiarki
           type: number
         - name: 10.5(115.5) 1220m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Polica
           type: number
         - name: 13.5(118,5) 1220m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Schronisko PTTK na Hali Krupowej
           type: number
       tags:
@@ -1065,15 +1065,15 @@ paths:
           description: PTTK Hala Krupowa
           type: number
         - name: 6,5(125.0) 900m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Przełęcz Malinowe
           type: number
         - name: 12.5(131.0) 450m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Bystra
           type: number
         - name: 15.5(134,5) 500m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Jordanów
           type: number
       tags:
@@ -1160,15 +1160,15 @@ paths:
           description: Jordanów
           type: number
         - name: 3.5(138.0) 575m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Wysoka
           type: number
         - name: 5,5(140.0) 4500m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Skawa
           type: number
         - name: 12,5(147.0) 4500m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Rabka
           type: number
       tags:
@@ -1273,11 +1273,11 @@ paths:
           description: Rabka
           type: number
         - name: 7.0(154.0) 8000m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Bacówka na Maciejowej
           type: number
         - name: 9,5(156.5) 1000m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: PTTK "Stare Wierchy"
           type: number
         - name: 16.0(163.0) 1310m
@@ -1387,15 +1387,15 @@ paths:
           description: Turbacz
           type: number
         - name: 9.0(172.0) 850m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Przełęcz Knurowska
           type: number
         - name: 11.5(174,5) 900m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Studzionki
           type: number
         - name: 22.0(185.0) 1210m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Lubań
           type: number
       tags:
@@ -1406,7 +1406,7 @@ paths:
 
 
     info:
-      summary: Malownicze hale, najwyżej położny w Polsce przysiółek, a na końcu wieża widokowa
+      summary: Malownicze hale, najwyżej położny przysiółek oraz wieża widokowa
       description:
         
       parameters:
@@ -1530,11 +1530,11 @@ paths:
           description: Lubań
           type: number
         - name: 5.5(190.5) 1310m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Marszałek (828m.)
           type: number
         - name: 9.5(194.5) 1310m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Krościenko
           type: number
       tags:
@@ -1619,15 +1619,15 @@ paths:
           description: Dzwonkówka
           type: number
         - name: 8.5(202.0) 1310m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Przełęcz Przysłop
           type: number
         - name: 11.5(205.0) 1310m
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebiski Czarny
           description: Skałka
           type: number
         - name: 13.5(206.5) 1310m
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebiski Czarny
           description: PTTK na Przehybie
           type: number
       tags:
@@ -1715,15 +1715,15 @@ paths:
           description: PTTK na Przehybie
           type: number
         - name: 5.0(211.5) 1310m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Radziejowa
           type: number
         - name: 9.0(215.5) 1310m
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebiski Czarny
           description: Zejście do schroniska na Niemcowej
           type: number
         - name: 16.0(222.5) 1310m
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebiski Czarny
           description: Rytro
           type: number
       tags:
@@ -1826,23 +1826,23 @@ paths:
           description: Rytro
           type: number
         - name: 04.0(226,5) 900m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Schronisko Cyrla
           type: number
         - name: 13.0(235,0) 1000m
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebiski Czarny
           description: Schronisko PTTK na Hali Łabowskiej
           type: number
         - name: 23.0(245,5) 1114m
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebiski Czarny
           description: Jaworzyna Krynicka
           type: number
         - name: 27.0(249,5) 700m
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebiski Czarny
           description: Czarny Potok
           type: number
         - name: 30.5(253,0) 600m
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebiski Czarny
           description: Krynica Górska
           type: number
       tags:
@@ -1988,19 +1988,19 @@ paths:
           description: Krynica-Zdrój
           type: number
         - name: 9.0(262,0) 600m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Mochanaczka Niżna
           type: number
         - name: 12.5(265.5) 500m
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebiski Czarny
           description: Banica
           type: number
         - name: 21.5(274,5) 500m
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebiski Czarny
           description: Ropki
           type: number
         - name: 23.5(276,5) 500m
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebiski Czarny
           description: Hańczowa
           type: number
       tags:
@@ -2096,23 +2096,23 @@ paths:
           description: Hańczowa
           type: number
         - name: 4.0(280,5) 850m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Kozie Żebro
           type: number
         - name: 7.5(284,0) 771m
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebiski Czarny
           description: Rotunda
           type: number
         - name: 11.0(287,5) 500m
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebiski Czarny
           description: Zdynia
           type: number
         - name: 20.5(297,0) 500m
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebiski Czarny
           description: Wołowiec
           type: number
         - name: 25.5(302,0) 500m
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebiski Czarny
           description: Bacówka PTTK w Bartnem
           type: number
       tags:
@@ -2221,23 +2221,23 @@ paths:
           description: Bacówka PTTK w Bartnem
           type: number
         - name: 3.5(305,5) 822m
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebieski Czarny
           description: Magura Wątkowska
           type: number
         - name: 12.5(314,5) 500m
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebiski Czarny
           description: Kolanin
           type: number
         - name: 23.0(325,0) 500m
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebiski Czarny
           description: Kąty
           type: number
         - name: 26.5(328,5) 500m
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebiski Czarny
           description: Łysa Góra
           type: number
         - name: 33.0(335,0) 500m
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+          in: Zielony Niebiski Czarny
           description: Chyrowa
           type: number
       tags:
@@ -2315,20 +2315,20 @@ paths:
         Z Chyrowej szlak łąkami i lasasmi prowadzi przy niewielkich podejściach w stronę pustelni św. Jana z Dukli. Stamtąd trasa schodzi do drogi wojewódzkiej, by potem zacząć ostre podejście na charakterystyczny szczyt Cergowej. Na szczycie trochę płaskiego faragmentum po czym zaczyna się
         długie zejśce w stronę miejscowości - najpierw Lubertowej, potem asfaltem do Iwonicza-Zdrój
       parameters:
-        - name: 4.0 / 13.0
+        - name: 0.0(335,0) 500m
           in: Czerwony
           description: Chyrowa
           type: number
-        - name: 8.0 / 17.0
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 8.5(343,5) 500m
+          in: Zielony Niebieski Czarny
           description: Pustelnia Św. Jana
           type: number
-        - name: 10.0 / 19.0
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 13.0(348,0) 716m
+          in: Zielony Niebiski Czarny
           description: Cergowa
           type: number
-        - name: 10.0 / 19.0
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 22.0(357,0) 500m
+          in: Zielony Niebiski Czarny
           description: Iwonicz-Zdrój
           type: number
       tags:
@@ -2428,28 +2428,28 @@ paths:
       description:
         TO BE CONTINUED
       parameters:
-        - name: 4.0 / 13.0
+        - name: 22.0(357,0) 500m
           in: Czerwony
           description: Iwonicz-Zdrój
           type: number
-        - name: 8.0 / 17.0
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 7.5(364,5) 500m
+          in: Zielony Niebieski Czarny
           description: Rymanów-Zdrój
           type: number
-        - name: 10.0 / 19.0
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 18.0(375,0) 500m
+          in: Zielony Niebiski Czarny
           description: Puławy
           type: number
-        - name: 10.0 / 19.0
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 22.0(357,0) 778m
+          in: Zielony Niebiski Czarny
           description: Tokarnia
           type: number
-        - name: 10.0 / 19.0
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 31.0(388,0) 717m
+          in: Zielony Niebiski Czarny
           description: Kamień
           type: number
-        - name: 10.0 / 19.0
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 45.5(402,5) 500m
+          in: Zielony Niebiski Czarny
           description: Komańcza
           type: number
       tags:
@@ -2572,28 +2572,28 @@ paths:
       description:
         TO BE CONTINUED
       parameters:
-        - name: 4.0 / 13.0
+        - name: 0.0(402,5) 500m
           in: Czerwony
           description: Komańcza
           type: number
-        - name: 8.0 / 17.0
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 6.0(408,5) 500m
+          in: Zielony Niebieski Czarny
           description: Duszatyn
           type: number
-        - name: 10.0 / 19.0
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 10.5(413.0) 700m
+          in: Zielony Niebiski Czarny
           description: Jeziorka Duszatyńskie
           type: number
-        - name: 10.0 / 19.0
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 12.0(414,5) 997m
+          in: Zielony Niebiski Czarny
           description: Chryszczata
           type: number
-        - name: 10.0 / 19.0
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 23.0(425,5) 1071m
+          in: Zielony Niebiski Czarny
           description: Wołosań
           type: number
-        - name: 10.0 / 19.0
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 30.5(433.0) 600m
+          in: Zielony Niebiski Czarny
           description: Cisna
           type: number
       tags:
@@ -2726,32 +2726,40 @@ paths:
       description:
         TO BE CONTINUED
       parameters:
-        - name: 4.0 / 13.0
+        - name: 0.0(433.0) 600m
           in: Czerwony
           description: Cisna
           type: number
-        - name: 8.0 / 17.0
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 7.5(440.5) 1153m
+          in: Zielony Niebieski Czarny
           description: Jasło
           type: number
-        - name: 10.0 / 19.0
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 9.0(442.0)1100m
+          in: Zielony Niebiski Czarny
           description: Okrąglik
           type: number
-        - name: 10.0 / 19.0
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
-          description: Smerek Więś
+        - name: 17.0(450.0) 600m
+          in: Zielony Niebiski Czarny
+          description: Smerek Wieś
           type: number
-        - name: 10.0 / 19.0
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 23.0(456.0) 1222m
+          in: Zielony Niebiski Czarny
           description: Smerek
           type: number
-        - name: 10.0 / 19.0
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 29.5(462.5) 1200m
+          in: Zielony Niebiski Czarny
           description: Schronisko PTTK „Chatka Puchatka” na Połoninie Wetlińskiej
           type: number
-        - name: 10.0 / 19.0
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 31.5(464.5) 800m
+          in: Zielony Niebiski Czarny
+          description: Brzegi Górne
+          type: number
+        - name: 35.0(468.0) 1297m
+          in: Zielony Niebiski Czarny
+          description: Połonica Caryńska
+          type: number
+        - name: 40.5(473.5) 750m
+          in: Zielony Niebiski Czarny
           description: Ustrzyki Górne
           type: number
       tags:
@@ -2911,24 +2919,24 @@ paths:
       description:
         TO BE CONTINUED
       parameters:
-        - name: 4.0 / 13.0
+        - name: 0.0(473.5) 750m
           in: Czerwony
           description: Ustrzyki Górne
           type: number
-        - name: 8.0 / 17.0
-          in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 7.5(481.0) 1275m
+          in: Zielony Niebieski Czarny
           description: Przełęcz pod Tarnicą
           type: number
-        - name: 10.0 / 19.0
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 11.5(485.0) 1333m
+          in: Zielony Niebiski Czarny
           description: Halicz
           type: number
-        - name: 10.0 / 19.0
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 14.0(487.5) 1050m
+          in: Zielony Niebiski Czarny
           description: Przełęcz Bukowska
           type: number
-        - name: 10.0 / 19.0
-          in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
+        - name: 23.5(496.0) 750m
+          in: Zielony Niebiski Czarny
           description: Wołosate
           type: number
       tags:
@@ -2938,7 +2946,7 @@ paths:
     ### INFO ###
 
     info:
-      summary: Ostatnia pętla. Najwyższe szczyty Bieszczad, granica z Ukrainą. I kropka.
+      summary: Ostatnia pętla. Najwyższe szczyty Bieszczadą. I kropka.
       description:
         
       parameters:
