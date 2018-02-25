@@ -1821,27 +1821,27 @@ paths:
         na górki oddzielające Czarny Potok od centrum miasta. 
 
       parameters:
-        - name: 4.0 / 13.0
+        - name: 0.0(222,5) 350m
           in: Czerwony
           description: Rytro
           type: number
-        - name: 8.0 / 17.0
+        - name: 04.0(226,5) 900m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Schronisko Cyrla
           type: number
-        - name: 10.0 / 19.0
+        - name: 13.0(235,0) 1000m
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
           description: Schronisko PTTK na Hali Łabowskiej
           type: number
-        - name: 10.0 / 19.0
+        - name: 23.0(245,5) 1114m
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
           description: Jaworzyna Krynicka
           type: number
-        - name: 10.0 / 19.0
+        - name: 27.0(249,5) 700m
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
           description: Czarny Potok
           type: number
-        - name: 10.0 / 19.0
+        - name: 30.5(253,0) 600m
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
           description: Krynica Górska
           type: number
@@ -1983,23 +1983,23 @@ paths:
         Z Krynicy Górksiej trasa najpierw prowadzi wzdłuż drogi, po czym ostro wspina się na szczyt Huzarów - ostatniej góry na trasie znajdującej się w Beskidzie Sądeckim. Po zejście do Mochanaczki Niżnej wchodzi do Beskidu Niskiego.
         Dalsza trasa biegnie wśród niedużych podejść i zejść wśród miejscowości z zabytkowymi połemkowskimi kościółami.
       parameters:
-        - name: 4.0 / 13.0
+        - name: 0.0(253,0) 600m
           in: Czerwony
           description: Krynica-Zdrój
           type: number
-        - name: 8.0 / 17.0
+        - name: 9.0(262,0) 600m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Mochanaczka Niżna
           type: number
-        - name: 10.0 / 19.0
+        - name: 12.5(265.5) 500m
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
           description: Banica
           type: number
-        - name: 10.0 / 19.0
+        - name: 21.5(274,5) 500m
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
           description: Ropki
           type: number
-        - name: 10.0 / 19.0
+        - name: 23.5(276,5) 500m
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
           description: Hańczowa
           type: number
@@ -2091,27 +2091,27 @@ paths:
         Odcinek rozpoczyna się ostrym podejściem i równie ostrym zejściem z Koziego Żebra, skąd dochodzimy do bazy namiotowej. Za bazą znów czeka ostre podejście na szczyt Rotundy, gdzie zlokalizowany jest cmentarz
         wojenny z czasów Wielkiej Wojny. Najbliższe kilometry będą pod dyktanto podchenia pod góry i schodzenia go wiosek położonych w wąskich dolinach. W końcu szlak dochadzi do Bartnych, gdzie jest jedyne schronisko PTTK na tym etapie szlaku.
       parameters:
-        - name: 4.0 / 13.0
+        - name: 0.0(276,5) 500m
           in: Czerwony
           description: Hańczowa
           type: number
-        - name: 8.0 / 17.0
+        - name: 4.0(280,5) 850m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Kozie Żebro
           type: number
-        - name: 10.0 / 19.0
+        - name: 7.5(284,0) 771m
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
           description: Rotunda
           type: number
-        - name: 10.0 / 19.0
+        - name: 11.0(287,5) 500m
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
           description: Zdynia
           type: number
-        - name: 10.0 / 19.0
+        - name: 20.5(297,0) 500m
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
           description: Wołowiec
           type: number
-        - name: 10.0 / 19.0
+        - name: 25.5(302,0) 500m
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
           description: Bacówka PTTK w Bartnem
           type: number
@@ -2216,27 +2216,27 @@ paths:
         Za schronieniem szlak wchodzi w Magury i Magurski Park Narodowy. Odcinek rozpoczyna się podejścia pod Magurę, później zaś przy niewielkich deniwelacjach prowadzi przez Świerzową, schodzi do drogi po czym prowadzi dość ostro na szczyt Kolanin. Caly czas lasami
         szlak prowadzi do miejscowości Kąty położonej nad Wisłoką - najniższego punktu na trasie szlaku. Z Kąt szlak łąkami podchodzi pod Grzywacką Górę, poźniej zaś wśród łąk i lasów Łysej Góry prowadzi do Chyrowej.
       parameters:
-        - name: 4.0 / 13.0
+        - name: 0.0(302,0) 500m
           in: Czerwony
           description: Bacówka PTTK w Bartnem
           type: number
-        - name: 8.0 / 17.0
+        - name: 3.5(305,5) 822m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski Rowerowy
           description: Magura Wątkowska
           type: number
-        - name: 10.0 / 19.0
+        - name: 12.5(314,5) 500m
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
           description: Kolanin
           type: number
-        - name: 10.0 / 19.0
+        - name: 23.0(325,0) 500m
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
           description: Kąty
           type: number
-        - name: 10.0 / 19.0
+        - name: 26.5(328,5) 500m
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
           description: Łysa Góra
           type: number
-        - name: 10.0 / 19.0
+        - name: 33.0(335,0) 500m
           in: Zielony Niebiski Czarny Żółty Czerwony Papieski Rowerowy
           description: Chyrowa
           type: number
