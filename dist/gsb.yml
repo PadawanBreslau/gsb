@@ -166,18 +166,32 @@ paths:
         - Beskid Śląski
         - Trasa
 
+    galeria:
+      summary: Galeria Zdjęć
+      parameters:
+        - name: Ustroń, Równica
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/Td5OeybFEfQ0C81C3)
+      tags:
+        - Zdjęcia
+        - Media
+        - Beskid Śląski
+
     ### INFO ###
 
     info: #Ustroń-Ustroń Polana
       summary: Okolice Ustronia, czyli dużo atrakcji, ale niekoniecznie górskich
-      description: 
+      description:
       parameters:
         - name: Ustroń 0.0(0.0) 350m
           in: Ustroń
           description: |
             W miejscowej gwarze nazwa wymawiana jest ustróń, kogo, czego: ustrónio, w języku niemieckim Ustron, czeskim Ustroni.
 
-            W Ustroniu znajduje się [Leśny Park Niespodzianek](http://www.lesnypark.pl/o-parku), utworzony w środowisku naturalnym. 
+            W Ustroniu znajduje się [Leśny Park Niespodzianek](http://www.lesnypark.pl/o-parku), utworzony w środowisku naturalnym.
             Po ścieżkach w lesie bukowym swobodnie biegają **dziki, jelenie, sarny czy też muflony**. Park łączy w sobie funkcje: rekreacyjną i edukacyjną, organizuje również pokazy sokolnicze.
           type: number
         - name: Kamień Ewangelików  3,0(3,0) 700m
@@ -192,8 +206,8 @@ paths:
             katolickie święto Bożego Ciała. Obecnie w odprawianych tu nabożeństwach uczestniczą wielkie tłumy wiernych, nawet z odległych parafii.
             Co dwa lata po nabożeństwie odbywają się na terenach wokół schroniska na Równicy imprezy towarzyszące.
 
-          
-            
+
+
           type: number
         - name: Równica 4.0(4.0) 770m
           in: query
@@ -279,11 +293,26 @@ paths:
         - Beskid Śląski
         - Trasa
 
+
+    galeria:
+      summary: Galeria Zdjęć
+      parameters:
+        - name: Ustroń Polana, Czantoria, Soszów
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/6IXlUwepbilJysOT2)
+      tags:
+        - Zdjęcia
+        - Media
+        - Beskid Śląski
+
     ### INFO ###
 
     info: #Ustroń Polana - PTTK na Stożku Wielkim
       summary: Czatoria, Stożek i okolice. Kolejka, wieża widokowa i schroniska.
-      description: 
+      description:
       parameters:
         - name: Górna stacja wyciągu krzesełkowego
           in: query
@@ -413,8 +442,8 @@ paths:
     ### INFO ###
 
     info: #PTTK na Stożku Wielkim - Barania Góra
-      summary: Schroniska między masywami Stoźka i Baraniej Góry. 
-      description: 
+      summary: Schroniska między masywami Stoźka i Baraniej Góry.
+      description:
       parameters:
         - name: Przełęcz Kubalonka
           in: Noclegi, Restauracje, Transport
@@ -562,6 +591,14 @@ paths:
       summary: Bunkrów nie ma. A nie, poczekaj, są w Węgierskiej Górce :)
       description:
       parameters:
+        - name: Katastrofa ekologiczna na Baraniej Górze
+          in:
+          type: number
+          description: |
+            Jeszcze na początku XXI wieku pasmo Baraniej Góry było gęsto zalesione. Obecnie niemal nie rosną tu drzewa. Ekologiczną bombę podłożyli nam w XIX w. Habsburgowie, którzy potrzebowali drewna dla rozwijającego się przemysłu, hut, kopalń, kolei. Świerki rosły najszybciej, więc zastępowano nimi buki i jodły. Rabunkowa gospodarka przyniosła skutek sto lat później.
+            W latach 90. XX wieku osłabione lasy świerkowe stały się podatne na ataki szkodników i zaczęły obumierać. By zatrzymać inwazję owadów, leśnicy zaczęli stosować pułapki feromonowe, czyli skrzynki z substancjami wabiącymi, w których ginęły korniki. Szybko okazało się jednak, że nie obejdzie się bez potężnej wycinki drzew.
+
+            [Artykuł o klęsce](http://www.wktoregory.pl/2018/01/malinowska-skala-niemy-swiadek-kleski-ekologicznej-w-beskidzie-slaskim.html)
         - name: Magura Wiślańska
           in:
           type: number
@@ -1085,7 +1122,7 @@ paths:
     info: #Krupowa - Jordanów
       summary: Zejście gór i trochę historii
       description:
-        
+
       parameters:
         - name: Polana Malinowe
           in: query
@@ -1179,7 +1216,7 @@ paths:
 
     info:
       summary: Mało ciekawie pod kątem gór, bardziej pod kątem historii
-      description:   
+      description:
       parameters:
         - name: Wysoka
           in: query
@@ -1211,7 +1248,7 @@ paths:
 
             Pierwsza lokacja Rabki miała miejsce w 1364 roku, kiedy to Kazimierz Wielki nadał Mikołajowi z Uścia przywilej na osadzenie kolonistów miedzy rzekami Rabą, Słoną, Łętownią i Kasiną. Kolejnej lokacji Rabki na prawie magdeburskim dokonano w roku 1446. Gdy Rabkę przejęli Jordanowie z Zakliczyna, kasztelan krakowski, Wawrzyniec Spytek Jordan, ufundował rabczańską parafię (1557 r.) i pierwszy kościół, który wybudowano w 1565 roku. Z niewyjaśnionych przyczyn uległ on zniszczeniu pod koniec XVI wieku. Na jego miejscu w latach 1600-1606 wzniesiono nowy, drewniany kościół pw. św. Marii Magdaleny, który istnieje do dziś.
 
-            W drugiej połowie XVI wieku wzrosło zainteresowanie rabczańskimi solankami, które cieszyły się opinią uzdrawiających. Przypuszczano, że na tych terenach mogą występować także bogate pokłady soli. W 1568 r. Jerzy Grossman uzyskał od króla Zygmunta Augusta zezwolenie na poszukiwanie i kopanie soli. Próby górniczego pozyskiwania soli nie udały się i prace zostały przerwane. 
+            W drugiej połowie XVI wieku wzrosło zainteresowanie rabczańskimi solankami, które cieszyły się opinią uzdrawiających. Przypuszczano, że na tych terenach mogą występować także bogate pokłady soli. W 1568 r. Jerzy Grossman uzyskał od króla Zygmunta Augusta zezwolenie na poszukiwanie i kopanie soli. Próby górniczego pozyskiwania soli nie udały się i prace zostały przerwane.
 
             Po rozbiorach Rabka przeszła pod panowanie austriackie. W 1818 r. zaborca, w trosce o monopol państwowy na wydobywanie soli, zabronił czerpania wód solankowych i nakazał ich zasypanie.
 
@@ -1233,7 +1270,7 @@ paths:
     ### NOCLEG ###
 
 
-    nocleg: 
+    nocleg:
       summary: Noclegi
       description:
          W prywatnych kwaterach i pensjonatach
@@ -1293,7 +1330,7 @@ paths:
     info:
       summary: Jedno schronisko za drugim
       description:
-        
+
       parameters:
         - name: Bacówka na Maciejowej
           in: query
@@ -1330,7 +1367,7 @@ paths:
     ### NOCLEG ###
 
 
-    nocleg: 
+    nocleg:
       summary: Noclegi
       description:
         W schroniskach. Jest ich sporo do wyboru.
@@ -1408,7 +1445,7 @@ paths:
     info:
       summary: Malownicze hale, najwyżej położny przysiółek oraz wieża widokowa
       description:
-        
+
       parameters:
         - name: Schronisko PTTK na Turbaczu
           in: query
@@ -1473,7 +1510,7 @@ paths:
     ### NOCLEG ###
 
 
-    nocleg: 
+    nocleg:
       summary: Noclegi
       description: |
         Na przełęcz Knurowskiej, w Studzionkach lub w bazie namiotowej
@@ -1547,7 +1584,7 @@ paths:
     info:
       summary: Długie i równe zejście do Dunajca
       description:
-        
+
       parameters:
         - name: Marszałek (828 m.)
           in: query
@@ -1586,7 +1623,7 @@ paths:
     ### NOCLEG ###
 
 
-    nocleg: 
+    nocleg:
       summary: Noclegi
       description: |
         Żadnych noclegów aż do miasteczka
@@ -1639,12 +1676,12 @@ paths:
     info:
       summary: Martyrologia w sercu gór
       description:
-        
+
       parameters:
         - name: Przysłop
           in: query
           description: |
-            Przysłop – przełęcz (832 m n.p.m.), polana i przysiółek położone w Paśmie Radziejowej Beskidu Sądeckiego. Znajdują się w jego głównym grzbiecie, pomiędzy szczytami Przysłop oraz Kuba. Południowymi stokami pod przełęczą spływa Sopotnicki Potok, ze stoków północnych wypływa Obidzki Potok. 
+            Przysłop – przełęcz (832 m n.p.m.), polana i przysiółek położone w Paśmie Radziejowej Beskidu Sądeckiego. Znajdują się w jego głównym grzbiecie, pomiędzy szczytami Przysłop oraz Kuba. Południowymi stokami pod przełęczą spływa Sopotnicki Potok, ze stoków północnych wypływa Obidzki Potok.
 
              W czasie wojny była także schronieniem dla partyzantów i kurierów, ale w latach 1943 i 1944 miały tam miejsce tragiczne wydarzenia.  Niemcy zastrzeli tam m.in. pięciu partyzantów z oddziału Wilk.
 
@@ -1671,7 +1708,7 @@ paths:
     ### NOCLEG ###
 
 
-    nocleg: 
+    nocleg:
       summary: Noclegi
       description:
         Kwatery na Przysłopie, schronisko na Przehybie
@@ -1735,7 +1772,7 @@ paths:
     info:
       summary: Wieża widokowa, schroniska i widok na ryterski zamek
       description:
-        
+
       parameters:
         - name: Radziejowa (1226m.)
           in: query
@@ -1773,7 +1810,7 @@ paths:
             Rytro fot. Jerzy Opioła Dolina Roztoki jest ostatnia dolina Beskidu Sądeckiego, którą ominęły regulacje koryt i dzięki temu zachowały się tutaj obszary podmokłych łąk i bagnisk. Stały się one siedliskiem kilkunastu gatunków płazów (traszka, salamandra, żaba ). Wiosną na tym terenie można zauważyć około 5 odmian storczyka
 
             __Źródło:__ http://www.beskidsadecki.eu/index.php?id=sadecki_miejscowosci&sk=Rytro
-          type: 
+          type:
       tags:
         - Beskid Sądecki
         - Ciekawostki
@@ -1781,7 +1818,7 @@ paths:
     ### NOCLEG ###
 
 
-    nocleg: 
+    nocleg:
       summary: Noclegi
       description:
         Chatki tuż przy szlaku, kwatery w miejscowości
@@ -1815,10 +1852,10 @@ paths:
       summary: Skok przez pasmo Jaworzyny
 
       description: |
-        Odcinek po przekroczeniu Popradu prowadzi ostro pod górę, obok zamku ryterskiego. Podejścia dominują przez najbliższe kilometry, do prywatnego schroniska na Cyrli. 
+        Odcinek po przekroczeniu Popradu prowadzi ostro pod górę, obok zamku ryterskiego. Podejścia dominują przez najbliższe kilometry, do prywatnego schroniska na Cyrli.
         Później trasa się wypłaszcza, wiodąc koło schorniska na Hali Łabowskiej i przy niewielkich deniwelacjach prowadzi do Jaworzyny Krynickiej. Z Jaworzyny ostrym zejściem dochodzimy
         do Czarnego Potoku, mijając po drodze miejsce połowy szlaku przy Diabelskim Kamieniu. Czarny Potok, choć jest częścią Krynicy. nie jest jeszcze końcem wycieczki. Czeka jeszcze małe podejście
-        na górki oddzielające Czarny Potok od centrum miasta. 
+        na górki oddzielające Czarny Potok od centrum miasta.
 
       parameters:
         - name: 0.0(222,5) 350m
@@ -1854,7 +1891,7 @@ paths:
     info:
       summary: Schroniska i sądeckie krupówki na szczycie Jaworzyny
       description:
-        
+
       parameters:
         - name: Schronisko Cyrla
           in: query
@@ -1973,7 +2010,7 @@ paths:
         - Noclegi
 
   ### Krynica Górska ###
-  ### Hańczowa 
+  ### Hańczowa
 
 
   Krynica Górska - Hańczowa:
@@ -2012,7 +2049,7 @@ paths:
     info:
       summary: Wejście do krainy Łemków
       description:
-        
+
       parameters:
         - name: Mochnaczka Niżna
           in: query
@@ -2051,7 +2088,7 @@ paths:
     ### NOCLEG ###
 
 
-    noclegi: 
+    noclegi:
       summary: Noclegi
       description: |
         W wioskach można znaleźc agroturystyki
@@ -2086,7 +2123,7 @@ paths:
 
   Hańczowa - Bacówka PTTK w Bartnem:
     trasa:
-      summary: Cmentarz wśród gór 
+      summary: Cmentarz wśród gór
       description: |
         Odcinek rozpoczyna się ostrym podejściem i równie ostrym zejściem z Koziego Żebra, skąd dochodzimy do bazy namiotowej. Za bazą znów czeka ostre podejście na szczyt Rotundy, gdzie zlokalizowany jest cmentarz
         wojenny z czasów Wielkiej Wojny. Najbliższe kilometry będą pod dyktanto podchenia pod góry i schodzenia go wiosek położonych w wąskich dolinach. W końcu szlak dochadzi do Bartnych, gdzie jest jedyne schronisko PTTK na tym etapie szlaku.
@@ -2124,7 +2161,7 @@ paths:
     info:
       summary: Pozostałości po Wielkiej Wojnie
       description:
-        
+
       parameters:
         - name: Kozie Żebro
           in: query
@@ -2176,7 +2213,7 @@ paths:
     ### NOCLEG ###
 
 
-    nocleg: 
+    nocleg:
       summary: Noclegi
       description:
         Agroturystyki lub jedyne schronisko w Beskidzie Niskim
@@ -2249,7 +2286,7 @@ paths:
     info:
       summary: Magury, wojna i najniżej położony punkt na trasie
       description:
-        
+
       parameters:
         - name: Magura Wątkowska(842 m.)
           in: query
@@ -2294,7 +2331,7 @@ paths:
     ### NOCLEG ###
 
 
-    nocleg: 
+    nocleg:
       summary: Noclegi
       description:
         Agroturystyki(?)
@@ -2340,7 +2377,7 @@ paths:
     info:
       summary: Pustelnie, góry i krótki powrót do cywilizacji
       description:
-        
+
       parameters:
         - name: Pustelnia Św. Jana
           in: query
@@ -2402,7 +2439,7 @@ paths:
     ### NOCLEG ###
 
 
-    nocleg: 
+    nocleg:
       summary: Noclegi
       description: |
 
@@ -2459,9 +2496,9 @@ paths:
     ### INFO ###
 
     info:
-      summary: W krainie ropy naftowej, gór i łąk. 
+      summary: W krainie ropy naftowej, gór i łąk.
       description:
-        
+
       parameters:
         - name: Rymanów Zdrój
           in: query
@@ -2537,7 +2574,7 @@ paths:
 
     ### NOCLEG ###
 
-    nocleg: 
+    nocleg:
       summary: Noclegi
       description:
         W schronisku, lub można zboczyć ze szlaku do Zawoi
@@ -2605,13 +2642,13 @@ paths:
     info:
       summary: Jeziorka, pominiki i dzikie Bieszczady
       description:
-        
+
       parameters:
         - name: Duszatyn
           in: query
           description: |
 
-            Duszatyn założony w XV w. Była to wieś królewska, lokowaną na prawie wołoskim z przywileju starosty sanockiego Mikołaja Cikowskiego przed 1572. Najazd Jerzego II Rakoczego w 1657 wyludnił wieś całkowicie. W 1686 ponownie zrabowali ją i spalili doszczętnie węgierscy Tołhaje. 
+            Duszatyn założony w XV w. Była to wieś królewska, lokowaną na prawie wołoskim z przywileju starosty sanockiego Mikołaja Cikowskiego przed 1572. Najazd Jerzego II Rakoczego w 1657 wyludnił wieś całkowicie. W 1686 ponownie zrabowali ją i spalili doszczętnie węgierscy Tołhaje.
 
 
             __Źródło:__ https://pl.wikipedia.org/wiki/Duszatyn
@@ -2642,7 +2679,7 @@ paths:
 
             W 2008 roku na trudno dostępnych leśnych zboczach Chryszczatej został nielegalnie postawiony, najprawdopodobniej przez Ukraińców z Kanady, pomnik poświęcony członkom UPA, który został uznany przez komisję wojewody podkarpackiego za „samowolę budowlaną” w związku z jego wzniesieniem bez konsultacji z Radą Ochrony Pamięci Walk i Męczeństwa. Na umieszczonej na nim tablicy wyryto dwujęzyczny napis: „Cześć pamięci żołnierzom UPA poległym 23.01.1947 w walce z żołnierzami WP w obronie podziemnego szpitala. Cześć ich pamięci. Towarzysze broni”. Z uwagi na fakt, iż nie udało się ustalić inwestora (prawdopodobnie Ukraińcy z USA i Kanady), koszt rozbiórki musi pokryć zarządca terenu.
 
-            W kwietniu 2009, nielegalnie stojący pomnik został zniszczony przez nieznanych sprawców. Wywrócono również sześć z siedmiu metalowych krzyży stojących wokół pomnika. 
+            W kwietniu 2009, nielegalnie stojący pomnik został zniszczony przez nieznanych sprawców. Wywrócono również sześć z siedmiu metalowych krzyży stojących wokół pomnika.
 
 
 
@@ -2696,7 +2733,7 @@ paths:
     ### NOCLEG ###
 
 
-    nocleg: 
+    nocleg:
       summary: Noclegi
       description:
         W schronisku, lub można zboczyć ze szlaku do Zawoi
@@ -2710,7 +2747,7 @@ paths:
             * **Email** kontakt@bacowkapodhonem.pl
             * **Telefon** 660 116 025
             * **URL**: [Strona schroniska](http://www.bacowkapodhonem.pl/ )
-            * **FB** (https://www.facebook.com/Bac%c3%b3wka-pod-Honem-1673508952722805/?hc_ref=ARQDBNSHEMUcbBDN5xIybYjEm-RhvvILIihW9Ft_X3L2fh8raYE4I-5WklR2FkPBNSY&fref=nf) 
+            * **FB** (https://www.facebook.com/Bac%c3%b3wka-pod-Honem-1673508952722805/?hc_ref=ARQDBNSHEMUcbBDN5xIybYjEm-RhvvILIihW9Ft_X3L2fh8raYE4I-5WklR2FkPBNSY&fref=nf)
           type: Kuchnia
       tags:
         - Bieszczady
@@ -2771,7 +2808,7 @@ paths:
     info:
       summary: Połoniny i niezwykłe schronisko na szczycie gór
       description:
-        
+
       parameters:
         - name: Jasło
           in: query
@@ -2796,7 +2833,7 @@ paths:
         - name: Smerek Wieś
           in: query
           description: |
-            Wieś położona jest 644 m n.p.m., przy ujściu potoku Smerek (dawniej Smrek) do Wetliny (dopływ Solinki). Nazwa wsi Smerek pochodzi od słowackiej nazwy świerka (smrek). W 1881 wieś liczyła 557 mieszkańców, własność większościowa należała do Adelajdy hr. Dawidów. 
+            Wieś położona jest 644 m n.p.m., przy ujściu potoku Smerek (dawniej Smrek) do Wetliny (dopływ Solinki). Nazwa wsi Smerek pochodzi od słowackiej nazwy świerka (smrek). W 1881 wieś liczyła 557 mieszkańców, własność większościowa należała do Adelajdy hr. Dawidów.
 
 
             __Źródło:__ https://pl.wikipedia.org/wiki/Smerek_(województwo_podkarpackie)
@@ -2881,7 +2918,7 @@ paths:
 
     ### NOCLEG ###
 
-    nocleg: 
+    nocleg:
       summary: Noclegi
       description:
         W schronisku, lub można zboczyć ze szlaku do Zawoi
@@ -2948,7 +2985,7 @@ paths:
     info:
       summary: Ostatnia pętla. Najwyższe szczyty Bieszczadą. I kropka.
       description:
-        
+
       parameters:
         - name: Tarnica
           in: query
@@ -2996,7 +3033,7 @@ paths:
     ### NOCLEG ###
 
 
-    nocleg: 
+    nocleg:
       summary: Noclegi
       description:
         W schronisku, lub można zboczyć ze szlaku do Zawoi
@@ -3021,7 +3058,7 @@ paths:
 
   Relacja - Paweł Łacheta:
     relacje:
-      summary: 
+      summary:
       description: |
         * **Kierunek** Ustroń-Wołosate
         * **Liczba dni** 17
@@ -3038,7 +3075,7 @@ paths:
 
   Relacja - Tomasz Gawlas:
     relacje:
-      summary: 
+      summary:
       description: |
         * **Kierunek** Ustroń-Wołosate
         * **Liczba dni** 16
@@ -3054,7 +3091,7 @@ paths:
 
   Relacja - Łukasz Staniszczak(Szczecin):
     relacje:
-      summary: 
+      summary:
       description: |
         * **Kierunek** Ustroń-Wołosate
         * **Liczba dni** 16
@@ -3069,7 +3106,7 @@ paths:
 
   Relacja glownyszlakbeskidzki2017.blox.pl:
     relacje:
-      summary: 
+      summary:
       description: |
         * **Kierunek** Ustroń-Wołosate
         * **Liczba dni** 17
@@ -3082,7 +3119,7 @@ paths:
 
   Relacja - Podrózebezosci:
     relacje:
-      summary: 
+      summary:
       description: |
         * **Kierunek** Wołosate-Ustroń
         * **Liczba dni** 17
@@ -3098,7 +3135,7 @@ paths:
 
   Relacja - Kazimierz Pawłowski:
     relacje:
-      summary: 
+      summary:
       description: |
         * **Kierunek** Ustroń-Wołosate
         * **Liczba dni** 15
@@ -3114,7 +3151,7 @@ paths:
 
   Relacja - Wapniaki w drodze:
     relacje:
-      summary: 
+      summary:
       description: |
         * **Kierunek** Wołosate-Ustroń
         * **Liczba dni** 19
@@ -3130,7 +3167,7 @@ paths:
 
   Relacja - DoRi:
     relacje:
-      summary: 
+      summary:
       description: |
         * **Kierunek** Ustroń-Wołosate
         * **Liczba dni** 16
@@ -3146,7 +3183,7 @@ paths:
 
   Relacja - Renata i Darek:
     relacje:
-      summary: 
+      summary:
       description: |
         * **Kierunek** Ustroń-Wołosate
         * **Liczba dni** 16
@@ -3162,7 +3199,7 @@ paths:
 
   Relacja - Kamil:
     relacje:
-      summary: 
+      summary:
       description: |
         * **Kierunek** Wołosate-Ustroń
         * **Liczba dni** 24
@@ -3177,7 +3214,7 @@ paths:
 
   Relacja - Yatzek Outdoor:
     relacje:
-      summary: 
+      summary:
       description: |
         * **Kierunek** Ustroń-Wołosate
         * **Liczba dni** 22
@@ -3193,7 +3230,7 @@ paths:
 
   Relacja - Jakub Milczarek:
     relacje:
-      summary: 
+      summary:
       description: |
         * **Kierunek** Ustroń-Wołosate
         * **Liczba dni** 21
@@ -3208,7 +3245,7 @@ paths:
 
   Relacja - Velozone Łukasz:
     relacje:
-      summary: 
+      summary:
       description: |
         * **Kierunek** Ustroń-Wołosate
         * **Liczba dni** ?
@@ -3224,7 +3261,7 @@ paths:
 
   Relacja - Renata/Igiełka:
     relacje:
-      summary: 
+      summary:
       description: |
         * **Kierunek** Wołosate-Ustroń
         * **Liczba dni** ?
@@ -3304,7 +3341,7 @@ paths:
 
   Filmy - marunatolin:
     media:
-      summary: 
+      summary:
       description: |
         * **Długość filmu** 50 minut
         * **Kierunek**  Ustroń - Wołosate
@@ -3319,7 +3356,7 @@ paths:
 
   Filmy - odkropkidokropki:
     media:
-      summary: 
+      summary:
       description: |
         * **Długość filmu** 50 minut
         * **Kierunek**  Ustroń - Wołosate
@@ -3334,7 +3371,7 @@ paths:
 
   Filmy - Jakub Czajkowski:
     media:
-      summary: 
+      summary:
       description: |
         * **Długość filmu** 50 minut
         * **Kierunek**  Ustroń - Wołosate
@@ -3349,7 +3386,7 @@ paths:
 
   Filmy - Kaja Milanowska, Kasia Melcer:
     media:
-      summary: 
+      summary:
       description: |
         * **Długość filmu** 10 minut
         * **Kierunek**  Wołosate - Ustroń
@@ -3364,7 +3401,7 @@ paths:
 
   Filmy - DalekoJeszcze:
     media:
-      summary: 
+      summary:
       description: |
         * **Długość filmu** 30 minut
         * **Kierunek**  Ustroń - Wołosate
@@ -3379,7 +3416,7 @@ paths:
 
   Filmy - Rober Krawenda:
     media:
-      summary: 
+      summary:
       description: |
         * **Długość filmu** 2x10 minut
         * **Kierunek**  Ustroń - Wołosate
@@ -3395,7 +3432,7 @@ paths:
 
   Filmy - Wędrówka Dziadbora:
     media:
-      summary: 
+      summary:
       description: |
         * **Długość filmu** 2x90 minut
         * **Kierunek**  Ustroń - Wołosate
@@ -3411,7 +3448,7 @@ paths:
 
   Filmy - Gory to część mojego życia:
     media:
-      summary: 
+      summary:
       description: |
         * **Długość filmu** 3x10 minut
         * **Kierunek**  Ustroń - Wołosate
@@ -3428,7 +3465,7 @@ paths:
 
   Filmy - YTMarekZet:
     media:
-      summary: 
+      summary:
       description: |
         * **Długość filmu** 10 minut
         * **Kierunek**  Ustroń - Bartne(?) (330km)
@@ -3443,7 +3480,7 @@ paths:
 
   Filmy - Ekipa Wypadowa:
     media:
-      summary: 
+      summary:
       description: |
         * **Długość filmu** 12 minut
         * **Kierunek**  Wołosate - Krościenko (330km z odbiciami)
@@ -3458,7 +3495,7 @@ paths:
 
   Filmy - ryska411:
     media:
-      summary: 
+      summary:
       description: |
         * **Długość filmu** 5 minut
         * **Kierunek**  Wołosate - Ustroń
@@ -3473,7 +3510,7 @@ paths:
 
   Filmy - Łukasz Czubak:
     media:
-      summary: 
+      summary:
       description: |
         * **Długość filmu** 15 minut
         * **Kierunek**  Wołosate - Ustroń
@@ -3488,7 +3525,7 @@ paths:
 
   Filmy - wywiad z Piotrem Kłosowiczem:
     media:
-      summary: 
+      summary:
       description: |
         * **Długość filmu** 5 minut
 
@@ -3498,7 +3535,7 @@ paths:
 
   Filmy - reportaż o próbie Macieja Więcka:
     media:
-      summary: 
+      summary:
       description: |
         * **Długość filmu** 20 minut
 
@@ -3508,7 +3545,7 @@ paths:
 
   Galeria - Słoń'67:
     galeria:
-      summary: 
+      summary:
       description: |
         * **Kierunek**  Ustroń-Wołosate
         * **Liczba dni** 4
@@ -3538,3 +3575,4 @@ paths:
         - Zdjęcia
         - Media
         - Relacje
+
