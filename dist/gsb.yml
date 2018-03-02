@@ -439,6 +439,21 @@ paths:
         - Trasa
 
 
+    galeria:
+      summary: Galeria Zdjęć
+      parameters:
+        - name: Kubalonka, Stecówka, Przysłop, Barania Góra, Magurki
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/nRDU5W5Lb5HoAxYl2)
+      tags:
+        - Zdjęcia
+        - Media
+        - Beskid Śląski
+
+
     ### INFO ###
 
     info: #PTTK na Stożku Wielkim - Barania Góra
@@ -709,6 +724,21 @@ paths:
       tags:
         - Beskid Żywiecki
         - Trasa
+
+    galeria:
+      summary: Galeria Zdjęć
+      parameters:
+        - name: Żabnica, Abrahamów, Słowianka, Romanka, Rysianka, Mizowa.
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/5bbBuJlhr6iQpPfD2)
+      tags:
+        - Zdjęcia
+        - Media
+        - Beskid Żywiecki
+
 
     ### INFO ###
 
@@ -1009,6 +1039,21 @@ paths:
       tags:
         - Beskid Żywiecki
         - Trasa
+
+    galeria:
+      summary: Galeria Zdjęć
+      parameters:
+        - name: Pasmo Polic
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/7N8XzOPazWiLpgtF3)
+      tags:
+        - Zdjęcia
+        - Media
+        - Beskid Żywiecki
+
 
     ### INFO ###
 
