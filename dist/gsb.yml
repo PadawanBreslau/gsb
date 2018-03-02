@@ -37,12 +37,52 @@ paths:
         Strona z definicji ma być tylko do odczytu. Z kilku powodów. Po pierwsze strona ma być z definicji jak najprostsza, i do każdej informacji mają prowadzić maksymalnie dwa kliknięcia. Po drugie stronanie ma być miejscem dyskusji, bo one prowadzą do chaosu. Takie rzeczy można i powinno się przenieść na fanpage strony (LINK) albo na dziesiątkach innych stron Po trzecie - dzięki temu pozostaje bezstronna - każda treść na niej jest dodawana przeze mnie, co zapewnia bezstronnośc opinii. Oczywiście źródła mogą być również stronnicze, co postaram się w miarę możliwości weryfikować. Bezpośrednio na stronie nie będzie też żadnych mediów (zdjęć/filmów) - będą natomiast podlinkowane na zewnątrz to serwisów tym się zajmujących (YT/Google Photos/?). Tak, by łatwo było w domu zobaczyć, ale na trasie by się nie ładowały od razu bez interakcji użytkownika. Prostota przede wszystkim.
 
         Strona ma charakter czysto hobbystyczny. Nie zamierzam ani teraz ani w przyszłości na niej zarabiać. Mam dobrą pracę, a zreszta ile można na takiej stronie zarobić? :)
-
-        Jeśli macie coś ciekawego do dodania na stronę, zapraszam chętnie do dawania mi informacji - szlak jest długi, wiele rzeczy mogłem ominąć. Jeśli umiesz korzystać z gita, polecam zrobić bezpośredni pull requesta(ADRES), jeśli nie wiesz o czym do Ciebie teraz mówię, po prostu wyślij maila (MAIL), napisz na FB(FB), albo nawet na wykopie(LINK DO TAGU) :)
-
-        Technicznie strona jest zmodyfikowaną wersją Swaggera (systemu do tworzenia dokumentacji w IT), cała treść strony zawarta jest w pliku tekstowym w formacie YAML. Nic poza czasem wolnym nie stoi na przeszkodzie, by wykorzystać kod do opisywania innych szlaków. Jeśli chcesz wykorzystać, wejdź na GitHuba i tam w README będzie wszystko opisane.
       tags:
         - Informacje
+  Regulamin:
+    info:
+      summary: Nie pozwiesz mnie tak łatwo!
+      description: |
+        Regulamin - wersja nieformalna:
+          1. Strona nie bierze odpowiedzialności za żadne informacja na niej zawarte. Szlak może zmieniać przebieg, noclegi zmieniać numery telefonu, muzea zmieniać godziny otwarcia, restauracje zmieniać kuchnię na wegańską.
+          2. Strona nie zapisuje żadnych ciasteczek, nie wymaga żadnego logowania, żadnych opłat i żadnych deklaracji.
+          3. Treści udostępnione na stronie są właśnością albo twórcy, albo innych autorów. W przypadku tych drugich za każdym razem podane jest źródło/autor (i ew. rodzaj licencji w przypadku zdjęć). Używanie treści zawartych na stronie jest możliwe na tych samych zasadach.
+          4. Jeśli uważasz, że naruszyłem w którymś miejscu prawa autorskie, prosze o kontakt.
+          5. Tak samo w przypadku błędów, nieaktualnych informacji, zmian przebiegu szlaku, a także zwyczajnych sugestii zmiany.
+
+          Wersja formalna jest dostępna na stopce strony.
+      tags:
+        - Informacje
+  Kontakt:
+    info:
+      summary: So call me maybe
+      description: |
+        Można mnie łapać na kilka sposobów:
+        * Email: gsb.staszek@gmail.com - najlepiej
+        * FB: XXX
+        * Wykop: https://www.wykop.pl/ludzie/Ragnarokk/ i https://www.wykop.pl/tag/gsb/
+
+      tags:
+        - Informacje
+  Kontrybucja:
+    info:
+      summary: Dodaj coś od siebie
+      description: |
+        Chciałbyś coś od siebie dodać? Opis jakiegoś miejsca, zdjęcia, nową relację czy filmik z YT? Jeśli masz coś ciekawego do dodania na stronę, zapraszam chętnie do informowania mnie o tym - szlak jest długi, wiele rzeczy mogłem ominąć. Nie mogę obiecać, że na pewno umieszczę na stronie, ale jeśli uznam, że warto to z pewnością znajdzie się to prędzej czy później. Złapać mnie można na wiele sposóbów - opisane są w dziale Kontakt
+
+          Jeśli znasz się na systemie kontroli wersji git to możesz sam dodać treść do dołączenia na stronę (choć oczywiście potrzebne będzie zatwierdzenie zmian). Reporytorium jest pod adresem: https://github.com/PadawanBreslau/gsb W README projektu jest krótka instrukcja jak dodawać nową zawartość.
+      tags:
+        - Informacje
+  Inne Szlaki:
+    info:
+      summary: A będzie o innych szlakach?
+      description: |
+        Kiedyś może tak. Ale zbieranie i spisywanie materiałów do takiej strony zajmuje napradę dużo czasu, a na jego nadmiar nie narzekam :) Natomiast zapraszam serdecznie wszystkich do wykorzystania mojego rozwiązania, gdyż nie wymaga ono w zasadzie żadnej informatycznej wiedzy.
+
+        Technicznie strona jest zmodyfikowaną wersją Swaggera (systemu do tworzenia dokumentacji w IT), cała treść strony zawarta jest w pliku tekstowym w formacie YAML. Jeśli chcesz wykorzystać, wejdź na https://github.com/PadawanBreslau/gsb i tam w README będzie wszystko opisane.
+      tags:
+        - Informacje
+
 
   Obuwie:
     sprzet:
