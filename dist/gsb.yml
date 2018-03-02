@@ -50,8 +50,8 @@ paths:
       tags:
         - Informacje
 
-  Porady - obuwie:
-    porady:
+  Obuwie:
+    sprzet:
       summary: |
         Buty na przejście GSB
       description: |
@@ -64,8 +64,8 @@ paths:
       tags:
         - Porady
 
-  Porady - ubiór:
-    porady:
+  Ubiór:
+    sprzet:
       summary: |
         Ubrania na przejście GSB
       description: |
@@ -73,8 +73,8 @@ paths:
       tags:
         - Porady
 
-  Porady - apteczka:
-    porady:
+  Apteczka:
+    sprzet:
       summary: |
         Leki na przejście GSB
       description: |
@@ -96,8 +96,8 @@ paths:
       tags:
         - Porady
 
-  Porady - dodatki:
-    porady:
+  Dodatki:
+    sprzet:
       summary: |
         Dodatkowe akcesoria na przejście GSB
       description: |
@@ -112,7 +112,7 @@ paths:
         - Porady
 
   Porady - komórka:
-    porady:
+    sprzet:
       summary: |
         Aplikacje na telefon
       description: |

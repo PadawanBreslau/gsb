@@ -3466,7 +3466,7 @@ var reservedApiTags = [
   'tag'
 ];
 //var supportedOperationMethods = ['delete', 'get', 'head', 'options', 'patch', 'post', 'put', 'krowa'];
-var supportedOperationMethods = ['trasa', 'nocleg', 'info', 'media', 'relacje', 'porady', 'no', 'galeria']
+var supportedOperationMethods = ['trasa', 'nocleg', 'info', 'media', 'relacje', 'porady', 'no', 'galeria', 'sprzet']
 var SwaggerClient = module.exports = function (url, options) {
   this.authorizations = null;
   this.authorizationScheme = null;
