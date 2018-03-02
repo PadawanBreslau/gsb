@@ -326,7 +326,7 @@ templates['operation'] = template({"1":function(container,depth0,helpers,partial
     + ((stack1 = (helpers.escape || (depth0 && depth0.escape) || alias2).call(alias1,(depth0 != null ? depth0.other : depth0),{"name":"escape","hash":{},"data":data})) != null ? stack1 : "")
     + "</td>\n              </tr>\n";
 },"15":function(container,depth0,helpers,partials,data) {
-    return "          <h4 data-sw-translate>Parameters</h4>\n          <table class='fullwidth parameters'>\n          <thead>\n            <tr>\n            <th style=\"width: 100px; max-width: 100px\" data-sw-translate>Parameter</th>\n                      <th style=\"width: 850px; max-width: 850px\" data-sw-translate>Description</th>\n            <th style=\"width: 95px px; max-width: 95px\" data-sw-translate>Parameter Type</th>\n                      </tr>\n          </thead>\n          <tbody class=\"operation-params\">\n\n          </tbody>\n          </table>\n";
+    return "          <h4 data-sw-translate>Parameters</h4>\n          <table class='fullwidth parameters'>\n          <thead>\n            <tr>\n            <th style=\"width: 100px; max-width: 100px\" data-sw-translate>Parameter</th>\n                      <th style=\"width: 850px; max-width: 850px\" data-sw-translate>Description</th>\n            \n                      </tr>\n          </thead>\n          <tbody class=\"operation-params\">\n\n          </tbody>\n          </table>\n";
 },"17":function(container,depth0,helpers,partials,data) {
     return "          <div style='margin:0;padding:0;display:inline'></div>\n          <h4 data-sw-translate>Response Messages</h4>\n          <table class='fullwidth response-messages'>\n            <thead>\n            <tr>\n              <th data-sw-translate>HTTP Status Code</th>\n              <th data-sw-translate>Reason</th>\n              <th data-sw-translate>Response Model</th>\n              <th data-sw-translate>Headers</th>\n            </tr>\n            </thead>\n            <tbody class=\"operation-status\">\n            </tbody>\n          </table>\n";
 },"19":function(container,depth0,helpers,partials,data) {
@@ -438,8 +438,6 @@ templates['param'] = template({"1":function(container,depth0,helpers,partials,da
     + "</label></td>\n\n"
     + "<td class=\"markdown\">"
     + ((stack1 = (helpers.sanitize || (depth0 && depth0.sanitize) || alias2).call(alias1,(depth0 != null ? depth0.description : depth0),{"name":"sanitize","hash":{},"data":data})) != null ? stack1 : "")
-    + "</td>\n<td>"
-    + ((stack1 = (helpers.escape || (depth0 && depth0.escape) || alias2).call(alias1,(depth0 != null ? depth0.paramType : depth0),{"name":"escape","hash":{},"data":data})) != null ? stack1 : "")
     + "</td>\n";
 },"useData":true});
 templates['param_list'] = template({"1":function(container,depth0,helpers,partials,data) {
@@ -3466,7 +3464,7 @@ var reservedApiTags = [
   'tag'
 ];
 //var supportedOperationMethods = ['delete', 'get', 'head', 'options', 'patch', 'post', 'put', 'krowa'];
-var supportedOperationMethods = ['trasa', 'nocleg', 'info', 'media', 'relacje', 'porady', 'no', 'galeria', 'sprzet']
+var supportedOperationMethods = ['trasa', 'nocleg', 'info', 'film', 'relacje', 'porady', 'no', 'galeria', 'sprzet']
 var SwaggerClient = module.exports = function (url, options) {
   this.authorizations = null;
   this.authorizationScheme = null;

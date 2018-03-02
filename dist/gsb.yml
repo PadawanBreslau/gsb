@@ -3363,7 +3363,7 @@ paths:
   ##### FLM FILMY  ###
 
   Filmy - marunatolin:
-    media:
+    film:
       summary:
       description: |
         * **Długość filmu** 50 minut
@@ -3377,7 +3377,7 @@ paths:
         - Relacje i Media
 
   Filmy - odkropkidokropki:
-    media:
+    film:
       summary:
       description: |
         * **Długość filmu** 50 minut
@@ -3391,7 +3391,7 @@ paths:
         - Relacje i Media
 
   Filmy - Jakub Czajkowski:
-    media:
+    film:
       summary:
       description: |
         * **Długość filmu** 50 minut
@@ -3405,7 +3405,7 @@ paths:
         - Relacje i Media
 
   Filmy - Kaja Milanowska, Kasia Melcer:
-    media:
+    film:
       summary:
       description: |
         * **Długość filmu** 10 minut
@@ -3419,7 +3419,7 @@ paths:
         - Relacje i Media
 
   Filmy - DalekoJeszcze:
-    media:
+    film:
       summary:
       description: |
         * **Długość filmu** 30 minut
@@ -3433,7 +3433,7 @@ paths:
         - Relacje i Media
 
   Filmy - Rober Krawenda:
-    media:
+    film:
       summary:
       description: |
         * **Długość filmu** 2x10 minut
@@ -3448,7 +3448,7 @@ paths:
         - Relacje i Media
 
   Filmy - Wędrówka Dziadbora:
-    media:
+    film:
       summary:
       description: |
         * **Długość filmu** 2x90 minut
@@ -3463,7 +3463,7 @@ paths:
         - Relacje i Media
 
   Filmy - Gory to część mojego życia:
-    media:
+    film:
       summary:
       description: |
         * **Długość filmu** 3x10 minut
@@ -3479,7 +3479,7 @@ paths:
         - Relacje i Media
 
   Filmy - YTMarekZet:
-    media:
+    film:
       summary:
       description: |
         * **Długość filmu** 10 minut
@@ -3493,7 +3493,7 @@ paths:
         - Relacje i Media
 
   Filmy - Ekipa Wypadowa:
-    media:
+    film:
       summary:
       description: |
         * **Długość filmu** 12 minut
@@ -3507,7 +3507,7 @@ paths:
         - Relacje i Media
 
   Filmy - ryska411:
-    media:
+    film:
       summary:
       description: |
         * **Długość filmu** 5 minut
@@ -3521,7 +3521,7 @@ paths:
         - Relacje i Media
 
   Filmy - Łukasz Czubak:
-    media:
+    film:
       summary:
       description: |
         * **Długość filmu** 15 minut
@@ -3535,7 +3535,7 @@ paths:
         - Relacje i Media
 
   Filmy - wywiad z Piotrem Kłosowiczem:
-    media:
+    film:
       summary:
       description: |
         * **Długość filmu** 5 minut
@@ -3545,7 +3545,7 @@ paths:
         - Relacje i Media
 
   Filmy - reportaż o próbie Macieja Więcka:
-    media:
+    film:
       summary:
       description: |
         * **Długość filmu** 20 minut
