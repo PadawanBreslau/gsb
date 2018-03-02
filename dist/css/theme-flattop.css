@@ -1053,6 +1053,7 @@
   border: 1px solid #c3e8d1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.galeria div.content h4 {
+  display: none;
   color: #d364ff;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.galeria div.content div.sandbox_header a {
@@ -1640,6 +1641,7 @@
   color: #222222;
 }
 .swagger-section .swagger-ui-wrap .markdown h4 {
+  display: none;
   color: #666666;
 }
 .swagger-section .swagger-ui-wrap .markdown pre {
@@ -1664,6 +1666,7 @@
   border: 1px solid #DADFE1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.relacje div.content h4 {
+  display: none;
   color: #36B009;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.sprzet div.heading {
@@ -1694,6 +1697,7 @@
   border: 1px solid #DADFE1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.delete div.content h4 {
+  display: none;
   color: #C0392B;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.film div.heading {
@@ -1721,6 +1725,7 @@
   border: 1px solid #DADFE1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.nocleg div.content h4 {
+  display: none;
   color: #049372;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.nocleg div.content div.sandbox_header a {
@@ -1743,6 +1748,7 @@
   border: 1px solid #DADFE1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.info div.content h4 {
+  display: none;
   color: #F57C00;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.trasa div.heading {
@@ -1763,6 +1769,7 @@
   border: 1px solid #DADFE1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.trasa div.content h4 {
+  display: none;
   color: #34495E;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.options div.heading {
@@ -1783,6 +1790,7 @@
   border: 1px solid #DADFE1;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation.options div.content h4 {
+  display: none;
   color: #3F51B5;
 }
 .swagger-section #header {
