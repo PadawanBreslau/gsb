@@ -17,20 +17,14 @@ paths:
       description: no
       tags:
         - Informacje
-        - Trasa
-        - Noclegi
-        - Ciekawostki
-        - Relacje
-        - Media
-        - Zdjęcia
-        - Porady
         - Beskid Śląski
         - Beskid Żywiecki
         - Gorce
         - Beskid Sądecki
         - Beskid Niski
         - Bieszczady
-
+        - Relacje i Media
+        - Porady
 
   Informacje o stronie:
     info:
@@ -164,7 +158,7 @@ paths:
           type: number
       tags:
         - Beskid Śląski
-        - Trasa
+
 
     galeria:
       summary: Galeria Zdjęć
@@ -176,8 +170,7 @@ paths:
 
             [Galeria](https://photos.app.goo.gl/Td5OeybFEfQ0C81C3)
       tags:
-        - Zdjęcia
-        - Media
+        - Relacje i Media
         - Beskid Śląski
 
     ### INFO ###
@@ -221,7 +214,7 @@ paths:
           type: number
       tags:
         - Beskid Śląski
-        - Ciekawostki
+
 
     ### NOCLEG ###
 
@@ -252,7 +245,7 @@ paths:
           type: number
       tags:
         - Beskid Śląski
-        - Noclegi
+
 
 
     ### USTROŃ-POLANA ###
@@ -291,7 +284,7 @@ paths:
           type: number
       tags:
         - Beskid Śląski
-        - Trasa
+
 
 
     galeria:
@@ -304,8 +297,7 @@ paths:
 
             [Galeria](https://photos.app.goo.gl/6IXlUwepbilJysOT2)
       tags:
-        - Zdjęcia
-        - Media
+        - Relacje i Media
         - Beskid Śląski
 
     ### INFO ###
@@ -355,7 +347,7 @@ paths:
           type: number
       tags:
         - Beskid Śląski
-        - Ciekawostki
+
 
     ### NOCLEG ###
 
@@ -396,7 +388,7 @@ paths:
           type: number
       tags:
         - Beskid Śląski
-        - Noclegi
+
 
 
 
@@ -436,7 +428,7 @@ paths:
           type: number
       tags:
         - Beskid Śląski
-        - Trasa
+
 
 
     galeria:
@@ -449,8 +441,7 @@ paths:
 
             [Galeria](https://photos.app.goo.gl/nRDU5W5Lb5HoAxYl2)
       tags:
-        - Zdjęcia
-        - Media
+        - Relacje i Media
         - Beskid Śląski
 
 
@@ -520,7 +511,7 @@ paths:
           type: number
       tags:
         - Beskid Śląski
-        - Ciekawostki
+
 
     ### NOCLEG ###
 
@@ -562,7 +553,7 @@ paths:
           type: number
       tags:
         - Beskid Śląski
-        - Noclegi
+
 
 
           ### Barania Góra ###
@@ -598,7 +589,7 @@ paths:
           type: number
       tags:
         - Beskid Śląski
-        - Trasa
+
 
     ### INFO ###
 
@@ -668,7 +659,7 @@ paths:
           type: number
       tags:
         - Beskid Śląski
-        - Ciekawostki
+
 
     ### NOCLEG ###
 
@@ -683,7 +674,7 @@ paths:
           type: number
       tags:
         - Beskid Śląski
-        - Noclegi
+
 
 
 
@@ -723,7 +714,7 @@ paths:
           type: number
       tags:
         - Beskid Żywiecki
-        - Trasa
+
 
     galeria:
       summary: Galeria Zdjęć
@@ -735,8 +726,7 @@ paths:
 
             [Galeria](https://photos.app.goo.gl/5bbBuJlhr6iQpPfD2)
       tags:
-        - Zdjęcia
-        - Media
+        - Relacje i Media
         - Beskid Żywiecki
 
 
@@ -802,7 +792,7 @@ paths:
           type: number
       tags:
         - Beskid Żywiecki
-        - Ciekawostki
+
 
     ### NOCLEG ###
 
@@ -847,7 +837,7 @@ paths:
           type: number
       tags:
         - Beskid Żywiecki
-        - Noclegi
+
 
 
 
@@ -894,7 +884,7 @@ paths:
           type: number
       tags:
         - Beskid Żywiecki
-        - Trasa
+
 
     ### INFO ###
 
@@ -970,7 +960,7 @@ paths:
           type: number
       tags:
         - Beskid Żywiecki
-        - Ciekawostki
+
 
     ### NOCLEG ###
 
@@ -1002,7 +992,7 @@ paths:
           type: Restauracja
       tags:
         - Beskid Żywiecki
-        - Noclegi
+
 
 
           ### Babia Góra ###
@@ -1038,7 +1028,7 @@ paths:
           type: number
       tags:
         - Beskid Żywiecki
-        - Trasa
+
 
     galeria:
       summary: Galeria Zdjęć
@@ -1050,8 +1040,7 @@ paths:
 
             [Galeria](https://photos.app.goo.gl/7N8XzOPazWiLpgtF3)
       tags:
-        - Zdjęcia
-        - Media
+        - Relacje i Media
         - Beskid Żywiecki
 
 
@@ -1104,7 +1093,7 @@ paths:
           type: number
       tags:
         - Beskid Żywiecki
-        - Ciekawostki
+
 
     ### NOCLEG ###
 
@@ -1126,7 +1115,7 @@ paths:
           type: number
       tags:
         - Beskid Żywiecki
-        - Noclegi
+
 
 
           ### PTTK Krupowa ###
@@ -1160,7 +1149,7 @@ paths:
           type: number
       tags:
         - Beskid Żywiecki
-        - Trasa
+
 
     ### INFO ###
 
@@ -1199,7 +1188,7 @@ paths:
           type:
       tags:
         - Beskid Żywiecki
-        - Ciekawostki
+
 
     ### NOCLEG ###
 
@@ -1220,7 +1209,7 @@ paths:
           type: number
       tags:
         - Beskid Żywiecki
-        - Noclegi
+
 
 
           ### Jordanów ###
@@ -1255,7 +1244,7 @@ paths:
           type: number
       tags:
         - Gorce
-        - Trasa
+
 
     ### INFO ###
 
@@ -1309,7 +1298,7 @@ paths:
           type:
       tags:
         - Gorce
-        - Ciekawostki
+
 
 
     ### NOCLEG ###
@@ -1332,7 +1321,7 @@ paths:
           type: number
       tags:
         - Gorce
-        - Noclegi
+
 
 
 
@@ -1368,7 +1357,7 @@ paths:
           type: number
       tags:
         - Gorce
-        - Trasa
+
 
     ### INFO ###
 
@@ -1406,7 +1395,7 @@ paths:
           type:
       tags:
         - Gorce
-        - Ciekawostki
+
 
 
     ### NOCLEG ###
@@ -1450,7 +1439,7 @@ paths:
           type: number
       tags:
         - Gorce
-        - Noclegi
+
 
           ### Turbacz ###
           ### Lubań ###
@@ -1482,7 +1471,7 @@ paths:
           type: number
       tags:
         - Gorce
-        - Trasa
+
 
     ### INFO ###
 
@@ -1550,7 +1539,7 @@ paths:
           type:
       tags:
         - Gorce
-        - Ciekawostki
+
 
     ### NOCLEG ###
 
@@ -1593,7 +1582,7 @@ paths:
             * **URL**: [Strona bazy](http://bazaluban.pttk.pl/)
       tags:
         - Gorce
-        - Noclegi
+
 
           ### Lubań ###
           ### Szczawnica Zdrój ###
@@ -1621,7 +1610,7 @@ paths:
           type: number
       tags:
         - Gorce
-        - Trasa
+
 
     ### INFO ###
 
@@ -1662,7 +1651,7 @@ paths:
           type:
       tags:
         - Gorce
-        - Ciekawostki
+
 
 
     ### NOCLEG ###
@@ -1679,8 +1668,8 @@ paths:
             **Krościenko Nad Dunajcem - dużo opcji noclegowych**
       tags:
         - Gorce
-        - Noclegi
-          ### Szczawnica Zdrój ###
+
+           ### Szczawnica Zdrój ###
           ### PTTK Przehyba ###
 
 
@@ -1714,7 +1703,7 @@ paths:
           type: number
       tags:
         - Beskid Sądecki
-        - Trasa
+
 
     ### INFO ###
 
@@ -1747,7 +1736,7 @@ paths:
           type:
       tags:
         - Beskid Sądecki
-        - Ciekawostki
+
 
 
     ### NOCLEG ###
@@ -1779,7 +1768,7 @@ paths:
           type: Kuchnia
       tags:
         - Gorce
-        - Noclegi
+
 
           ### PTTK Przehyba ###
           ### Rytro ###
@@ -1810,7 +1799,7 @@ paths:
           type: number
       tags:
         - Beskid Sądecki
-        - Trasa
+
 
     ### INFO ###
 
@@ -1858,7 +1847,7 @@ paths:
           type:
       tags:
         - Beskid Sądecki
-        - Ciekawostki
+
 
     ### NOCLEG ###
 
@@ -1885,7 +1874,7 @@ paths:
           type: Kuchnia
       tags:
         - Beskid Sądecki
-        - Noclegi
+
 
 
           ### Rytro ###
@@ -1929,7 +1918,7 @@ paths:
           type: number
       tags:
         - Beskid Sądecki
-        - Trasa
+
 
     ### INFO ###
 
@@ -2007,7 +1996,7 @@ paths:
           type:
       tags:
         - Beskid Sądecki
-        - Ciekawostki
+
 
     ### NOCLEG ###
 
@@ -2052,7 +2041,7 @@ paths:
             **Krynica Górska - dużo opcji noclegowych**
       tags:
         - Beskid Sądecki
-        - Noclegi
+
 
   ### Krynica Górska ###
   ### Hańczowa
@@ -2087,7 +2076,7 @@ paths:
           type: number
       tags:
         - Beskid Niski
-        - Trasa
+
 
     ### INFO ###
 
@@ -2128,7 +2117,7 @@ paths:
           type:
       tags:
         - Beskid Niski
-        - Ciekawostki
+
 
     ### NOCLEG ###
 
@@ -2199,7 +2188,7 @@ paths:
           type: number
       tags:
         - Beskid Niski
-        - Trasa
+
 
     ### INFO ###
 
@@ -2253,7 +2242,7 @@ paths:
           type:
       tags:
         - Beskid Niski
-        - Ciekawostki
+
 
     ### NOCLEG ###
 
@@ -2285,7 +2274,7 @@ paths:
           type: Kuchnia
       tags:
         - Beskid Niski
-        - Noclegi
+
 
   ### PTTK Bartne ###
   ### Chyrowa ###
@@ -2324,7 +2313,7 @@ paths:
           type: number
       tags:
         - Beskid Niski
-        - Trasa
+
 
     ### INFO ###
 
@@ -2371,7 +2360,7 @@ paths:
           type:
       tags:
         - Beskid Niski
-        - Ciekawostki
+
 
     ### NOCLEG ###
 
@@ -2383,7 +2372,7 @@ paths:
       parameters: []
       tags:
         - Beskid Żywiecki
-        - Noclegi
+
 
 
   ### Chyrowa ###
@@ -2415,7 +2404,7 @@ paths:
           type: number
       tags:
         - Beskid Niski
-        - Trasa
+
 
     ### INFO ###
 
@@ -2479,7 +2468,7 @@ paths:
 
       tags:
         - Beskid Niski
-        - Ciekawostki
+
 
     ### NOCLEG ###
 
@@ -2497,7 +2486,7 @@ paths:
           type: Kucnia
       tags:
         - Beskid Niski
-        - Noclegi
+
 
 
   ### Iwonicz Zdrój ##
@@ -2536,7 +2525,7 @@ paths:
           type: number
       tags:
         - Beskid Niski
-        - Trasa
+
 
     ### INFO ###
 
@@ -2615,7 +2604,7 @@ paths:
           type:
       tags:
         - Beskid Niski
-        - Ciekawostki
+
 
     ### NOCLEG ###
 
@@ -2642,7 +2631,7 @@ paths:
           type: Kuchnia
       tags:
         - Beskid Niski
-        - Noclegi
+
 
   ### Komańcza ###
   ### Cisna ###
@@ -2680,7 +2669,7 @@ paths:
           type: number
       tags:
         - Beskid Niski
-        - Trasa
+
 
     ### INFO ###
 
@@ -2773,7 +2762,7 @@ paths:
           type:
       tags:
         - Bieszczady
-        - Ciekawostki
+
 
     ### NOCLEG ###
 
@@ -2796,7 +2785,7 @@ paths:
           type: Kuchnia
       tags:
         - Bieszczady
-        - Noclegi
+
 
   ### Cisna ###
   ### Ustrzyki Górne ###
@@ -2846,7 +2835,7 @@ paths:
           type: number
       tags:
         - Bieszczady
-        - Trasa
+
 
     ### INFO ###
 
@@ -2959,7 +2948,7 @@ paths:
           type:
       tags:
         - Bieszczady
-        - Ciekawostki
+
 
     ### NOCLEG ###
 
@@ -2990,7 +2979,7 @@ paths:
           type: Kuchnia
       tags:
         - Bieszczady
-        - Noclegi
+
 
   ### Ustrzyki Górne ###
   ### Wołosate ###
@@ -3023,7 +3012,7 @@ paths:
           type: number
       tags:
         - Bieszczady
-        - Trasa
+
 
     ### INFO ###
 
@@ -3073,7 +3062,7 @@ paths:
           type:
       tags:
         - Bieszczady
-        - Ciekawostki
+
 
     ### NOCLEG ###
 
@@ -3096,7 +3085,7 @@ paths:
           type: Kuchnia
       tags:
         - Bieszczady
-        - Noclegi
+
 
   ##### RLC  RELACJE  ###
 
@@ -3115,8 +3104,7 @@ paths:
 
         [Relacja Pawła Łachety](http://glownybeskidzki.cba.pl/Relacja.html)
       tags:
-        - Relacje
-        - Zdjęcia
+        - Relacje i Media
 
   Relacja - Tomasz Gawlas:
     relacje:
@@ -3131,8 +3119,7 @@ paths:
 
         [Relacja Tomasz Gawlasa](http://douglas-beskidzki-goral.blogspot.com/search/label/G%C5%82%C3%B3wny%20Szlak%20Beskidzki%20%2809.08-24.08.2014%29%20-%20fotorelacja)
       tags:
-        - Relacje
-        - Zdjęcia
+        - Relacje i Media
 
   Relacja - Łukasz Staniszczak(Szczecin):
     relacje:
@@ -3147,7 +3134,7 @@ paths:
 
         [Relacja](http://gsb.szczecin.pl)
       tags:
-        - Relacje
+        - Relacje i Media
 
   Relacja glownyszlakbeskidzki2017.blox.pl:
     relacje:
@@ -3160,7 +3147,7 @@ paths:
 
         [Relacja](http://glownybeskidzki2017.blox.pl/2017/06/Prolog.html)
       tags:
-        - Relacje
+        - Relacje i Media
 
   Relacja - Podrózebezosci:
     relacje:
@@ -3175,8 +3162,7 @@ paths:
 
         [Relacja](http://podrozebezosci.pl/glowny-szlak-beskidzki/)
       tags:
-        - Relacje
-        - Zdjęcia
+        - Relacje i Media
 
   Relacja - Kazimierz Pawłowski:
     relacje:
@@ -3191,8 +3177,7 @@ paths:
 
         [Relacja](http://www.pawlowski.cc/5166/glowny-szlak-beskidzki/)
       tags:
-        - Relacje
-        - Zdjęcia
+        - Relacje i Media
 
   Relacja - Wapniaki w drodze:
     relacje:
@@ -3207,8 +3192,7 @@ paths:
 
         [Relacja](http://www.wapniakiwdrodze.pl/category/glowny-szlak-beskidzki/)
       tags:
-        - Relacje
-        - Zdjęcia
+        - Relacje i Media
 
   Relacja - DoRi:
     relacje:
@@ -3223,8 +3207,7 @@ paths:
 
         [Relacja](https://www.polskieszlaki.pl/wycieczki/relacja,7313,glowny-szlak-beskidzki.html)
       tags:
-        - Relacje
-        - Zdjęcia
+        - Relacje i Media
 
   Relacja - Renata i Darek:
     relacje:
@@ -3239,8 +3222,7 @@ paths:
 
         [Relacja](http://renataidarek.blogspot.com/2013/09/gowny-szlak-beskidzki.html)
       tags:
-        - Relacje
-        - Zdjęcia
+        - Relacje i Media
 
   Relacja - Kamil:
     relacje:
@@ -3255,7 +3237,7 @@ paths:
 
         [Relacja](http://www.glownyszlakbeskidzki.cba.pl/calosc.html)
       tags:
-        - Relacje
+        - Relacje i Media
 
   Relacja - Yatzek Outdoor:
     relacje:
@@ -3270,8 +3252,7 @@ paths:
 
         [Relacja](http://ginvilla.blogspot.com/2012/07/gsb-i-etap-1-dzien-ustron-przeecz.html)
       tags:
-        - Relacje
-        - Zdjęcia
+        - Relacje i Media
 
   Relacja - Jakub Milczarek:
     relacje:
@@ -3286,7 +3267,7 @@ paths:
 
         [Relacja](http://blog.milczarek.eu/tag/gsb/)
       tags:
-        - Relacje
+        - Relacje i Media
 
   Relacja - Velozone Łukasz:
     relacje:
@@ -3301,8 +3282,7 @@ paths:
 
         [Relacja](http://velozone.net/glowny-szlak-beskidzki-relacja/)
       tags:
-        - Relacje
-        - Zdjęcia
+        - Relacje i Media
 
   Relacja - Renata/Igiełka:
     relacje:
@@ -3317,8 +3297,7 @@ paths:
 
         [Relacja](http://eksploratorzy.com.pl/viewtopic.php?f=304&t=23436)
       tags:
-        - Relacje
-        - Zdjęcia
+        - Relacje i Media
 
   Relacja - Jacek Kardasz:
     relacje:
@@ -3333,7 +3312,7 @@ paths:
 
         [Relacja](http://jarekkardasz.republika.pl/relacje/gsb_zima/index.htm)
       tags:
-        - Relacje
+        - Relacje i Media
 
   Relacja - GSB 2017 Rowerem:
     relacje:
@@ -3349,8 +3328,7 @@ paths:
         [Relacja](http://garmin.bikestats.pl/1603545,GSB-2017.html)
         [Zdjęcia z dużą ilością roweru :)](https://photos.google.com/share/AF1QipMSjVH-FART0LugEff8y4Y5uGk9DTeTCLr5jj1KNJLNOjYHfv4YLB9Za6rl0fsgxQ?key=RHBXMGFzaERvQUxSRS0zUnYtN1g1Z1FCRWRkYU93)
       tags:
-        - Relacje
-        - Zdjęcia
+        - Relacje i Media
 
   Artykuły - Rafał Bielawa:
     relacje:
@@ -3365,7 +3343,7 @@ paths:
 
         [Artykuł](https://www.festiwalbiegowy.pl/biegajacy-swiat/108h-55-jest-nowy-rekord-rafal-bielawa-przebiegl-glowny-szlak-beskidzki)
       tags:
-        - Relacje
+        - Relacje i Media
 
   Artykuły - Maciej Więcek:
     relacje:
@@ -3380,7 +3358,7 @@ paths:
 
         [Artykuł](http://www.magazynbieganie.pl/glowny-szlak-beskidzi-pokonany-w-114-godzin-i-50-minut/)
       tags:
-        - Relacje
+        - Relacje i Media
 
   ##### FLM FILMY  ###
 
@@ -3396,8 +3374,7 @@ paths:
 
         [Film](https://www.youtube.com/watch?v=lkKKAByfV3U)
       tags:
-        - Relacje
-        - Media
+        - Relacje i Media
 
   Filmy - odkropkidokropki:
     media:
@@ -3411,8 +3388,7 @@ paths:
 
         [Film](https://www.youtube.com/watch?v=gexjhyQdu40)
       tags:
-        - Relacje
-        - Media
+        - Relacje i Media
 
   Filmy - Jakub Czajkowski:
     media:
@@ -3426,8 +3402,7 @@ paths:
 
         [Film](https://www.youtube.com/watch?v=4YLB_k_IzpM)
       tags:
-        - Relacje
-        - Media
+        - Relacje i Media
 
   Filmy - Kaja Milanowska, Kasia Melcer:
     media:
@@ -3441,8 +3416,7 @@ paths:
 
         [Film](https://www.youtube.com/watch?v=cil0znLXeo0)
       tags:
-        - Relacje
-        - Media
+        - Relacje i Media
 
   Filmy - DalekoJeszcze:
     media:
@@ -3456,8 +3430,7 @@ paths:
 
         [Film](https://www.youtube.com/watch?v=jJxmnnxK72g)
       tags:
-        - Relacje
-        - Media
+        - Relacje i Media
 
   Filmy - Rober Krawenda:
     media:
@@ -3472,8 +3445,7 @@ paths:
         [Film 1](https://www.youtube.com/watch?v=GJfgVCbqQRw)
         [Film 2](https://www.youtube.com/watch?v=42d2HihI02g)
       tags:
-        - Relacje
-        - Media
+        - Relacje i Media
 
   Filmy - Wędrówka Dziadbora:
     media:
@@ -3488,8 +3460,7 @@ paths:
         [Film 1](https://www.youtube.com/watch?v=g-CwSSUqvkU)
         [Film 2](https://www.youtube.com/watch?v=cpM7UmWf8qs)
       tags:
-        - Relacje
-        - Media
+        - Relacje i Media
 
   Filmy - Gory to część mojego życia:
     media:
@@ -3505,8 +3476,7 @@ paths:
         [Film 2](https://www.youtube.com/watch?v=VWLcjZ3h_1g)
         [Film 3](https://www.youtube.com/watch?v=16pHT1y--3g)
       tags:
-        - Relacje
-        - Media
+        - Relacje i Media
 
   Filmy - YTMarekZet:
     media:
@@ -3520,8 +3490,7 @@ paths:
 
         [Film](https://www.youtube.com/watch?v=O3hOj37ysK0)
       tags:
-        - Relacje
-        - Media
+        - Relacje i Media
 
   Filmy - Ekipa Wypadowa:
     media:
@@ -3535,8 +3504,7 @@ paths:
 
         [Film](https://www.youtube.com/watch?v=KBb3pvfu2Go)
       tags:
-        - Relacje
-        - Media
+        - Relacje i Media
 
   Filmy - ryska411:
     media:
@@ -3550,8 +3518,7 @@ paths:
 
         [Film](https://www.youtube.com/watch?v=Au0zA1lEz7A)
       tags:
-        - Relacje
-        - Media
+        - Relacje i Media
 
   Filmy - Łukasz Czubak:
     media:
@@ -3565,8 +3532,7 @@ paths:
 
         [Film](https://www.youtube.com/watch?v=Au0zA1lEz7A)
       tags:
-        - Relacje
-        - Media
+        - Relacje i Media
 
   Filmy - wywiad z Piotrem Kłosowiczem:
     media:
@@ -3576,7 +3542,7 @@ paths:
 
         [Film](https://www.youtube.com/watch?v=T-KAyytyKKI)
       tags:
-        - Media
+        - Relacje i Media
 
   Filmy - reportaż o próbie Macieja Więcka:
     media:
@@ -3586,7 +3552,7 @@ paths:
 
         [Film](https://www.youtube.com/watch?v=TPDFzXnZZSE)
       tags:
-        - Media
+        - Relacje i Media
 
   Galeria - Słoń'67:
     galeria:
@@ -3601,9 +3567,7 @@ paths:
         [Galeria](https://plus.google.com/u/0/photos/101370364055284304702/albums/5909845771563037761)
         [Relacja na forum](http://emtb.pl/forumo/showthread.php?tid=10120&page=3)
       tags:
-        - Zdjęcia
-        - Media
-        - Relacje
+        - Relacje i Media
 
   Galeria - filipescu:
     galeria:
@@ -3617,7 +3581,5 @@ paths:
 
         [Galeria](https://plus.google.com/u/0/photos/101370364055284304702/albums/5909845771563037761)
       tags:
-        - Zdjęcia
-        - Media
-        - Relacje
+        - Relacje i Media
 
