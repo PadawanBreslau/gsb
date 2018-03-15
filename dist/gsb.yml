@@ -34,9 +34,7 @@ paths:
 
         Strona ma charakter wyłącznie informacyjny. Nie ma i nie będzie na nim żadnego promowania miejsc, noclegów, sprzętu - mimo iż mam swoje zdanie na temat wielu miejsc na trasie. Dorośli ludzie, a zakładam że tacy wyruszają na podbój szlaku, sami będą mogli wyciągnąć wnioski i podjąć własną decyzję.
 
-        Strona z definicji ma być tylko do odczytu. Z kilku powodów. Po pierwsze strona ma być z definicji jak najprostsza, i do każdej informacji mają prowadzić maksymalnie dwa kliknięcia. Po drugie stronanie ma być miejscem dyskusji, bo one prowadzą do chaosu. Takie rzeczy można i powinno się przenieść na fanpage strony (LINK) albo na dziesiątkach innych stron Po trzecie - dzięki temu pozostaje bezstronna - każda treść na niej jest dodawana przeze mnie, co zapewnia bezstronnośc opinii. Oczywiście źródła mogą być również stronnicze, co postaram się w miarę możliwości weryfikować. Bezpośrednio na stronie nie będzie też żadnych mediów (zdjęć/filmów) - będą natomiast podlinkowane na zewnątrz to serwisów tym się zajmujących (YT/Google Photos/?). Tak, by łatwo było w domu zobaczyć, ale na trasie by się nie ładowały od razu bez interakcji użytkownika. Prostota przede wszystkim.
-
-        Strona ma charakter czysto hobbystyczny. Nie zamierzam ani teraz ani w przyszłości na niej zarabiać. Mam dobrą pracę, a zreszta ile można na takiej stronie zarobić? :)
+        Strona z definicji ma być tylko do odczytu. Z kilku powodów. Po pierwsze strona ma być z definicji jak najprostsza, i do każdej informacji mają prowadzić maksymalnie dwa kliknięcia. Po drugie stronanie ma być miejscem dyskusji, bo one prowadzą do chaosu. Takie rzeczy można i powinno się przenieść na fanpage strony ([szlakbeskidzki.pl](https://www.facebook.com/szlakbeskidzkipl/) albo na dziesiątkach innych stron Po trzecie - dzięki temu pozostaje bezstronna - każda treść na niej jest dodawana przeze mnie, co zapewnia bezstronnośc opinii. Oczywiście źródła mogą być również stronnicze, co postaram się w miarę możliwości weryfikować. Bezpośrednio na stronie nie będzie też żadnych mediów (zdjęć/filmów) - będą natomiast podlinkowane na zewnątrz to serwisów tym się zajmujących (YT/Google Photos/?). Tak, by łatwo było w domu zobaczyć, ale na trasie by się nie ładowały od razu bez interakcji użytkownika. Prostota przede wszystkim, wszystko w zasięgu dwóch-trzech kliknięć.
       tags:
         - Informacje
   Regulamin:
@@ -44,10 +42,10 @@ paths:
       summary: Nie pozwiesz mnie tak łatwo!
       description: |
         Regulamin - wersja nieformalna:
-          1. Strona nie bierze odpowiedzialności za żadne informacja na niej zawarte. Szlak może zmieniać przebieg, noclegi zmieniać numery telefonu, muzea zmieniać godziny otwarcia, restauracje zmieniać kuchnię na wegańską.
+          1. Strona nie bierze odpowiedzialności za żadne informacja na niej zawarte. Szlak może zmieniać przebieg, noclegi zmieniać numery telefonu, muzea zmieniać godziny otwarcia, restauracje zmieniać kuchnię na wegańską. Idziesz na trasę na własną odpowiedzialność.
           2. Strona nie zapisuje żadnych ciasteczek, nie wymaga żadnego logowania, żadnych opłat i żadnych deklaracji.
           3. Treści udostępnione na stronie są właśnością albo twórcy, albo innych autorów. W przypadku tych drugich za każdym razem podane jest źródło/autor (i ew. rodzaj licencji w przypadku zdjęć). Używanie treści zawartych na stronie jest możliwe na tych samych zasadach.
-          4. Jeśli uważasz, że naruszyłem w którymś miejscu prawa autorskie, prosze o kontakt.
+          4. Jeśli uważasz, że naruszyłem w którymś miejscu prawa autorskie, prosze o kontakt. Starałem się uniknąć takich sytuacji, ale każdemu może się zdarzyc coś przeoczyć.
           5. Tak samo w przypadku błędów, nieaktualnych informacji, zmian przebiegu szlaku, a także zwyczajnych sugestii zmiany.
 
           Wersja formalna jest dostępna na stopce strony.
@@ -59,8 +57,7 @@ paths:
       description: |
         Można mnie łapać na kilka sposobów:
         * Email: gsb.staszek@gmail.com - najlepiej
-        * FB: XXX
-        * Wykop: https://www.wykop.pl/ludzie/Ragnarokk/ i https://www.wykop.pl/tag/gsb/
+        * FB: https://www.facebook.com/szlakbeskidzkipl/
 
       tags:
         - Informacje
@@ -628,6 +625,19 @@ paths:
           description: Węgierska Górka
           type: number
       tags:
+        - Beskid Śląski
+
+    galeria:
+      summary: Galeria Zdjęć
+      parameters:
+        - name: Ustroń, Równica
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/nRDU5W5Lb5HoAxYl2)
+      tags:
+        - Relacje i Media
         - Beskid Śląski
 
 
@@ -2729,7 +2739,7 @@ paths:
           description: Cisna
           type: number
       tags:
-        - Beskid Niski
+        - Bieszczady
 
 
     ### INFO ###
