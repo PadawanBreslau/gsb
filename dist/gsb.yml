@@ -2937,6 +2937,19 @@ paths:
         - Bieszczady
 
 
+    galeria:
+      summary: Dzikie Bieszczady
+      parameters:
+        - name: Mniej historii, więcej gór.
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/biEZ41JZiQLnzScj2)
+      tags:
+        - Relacje i Media
+        - Bieszczady
+
     ### INFO ###
 
     info:
@@ -3100,6 +3113,19 @@ paths:
           description: Ustrzyki Górne
           type: number
       tags:
+        - Bieszczady
+
+    galeria:
+      summary: Bieszczadzkie połoniny, cz.1
+      parameters:
+        - name: Mniej historii, więcej gór.
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/4KZHgiWnnEaeINPj1)
+      tags:
+        - Relacje i Media
         - Bieszczady
 
 
@@ -3277,6 +3303,19 @@ paths:
           description: Wołosate
           type: number
       tags:
+        - Bieszczady
+
+    galeria:
+      summary: Bieszczadzkie połoniny, cz.2, ostatnia
+      parameters:
+        - name: Mniej historii, więcej gór.
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/Nd9cI3jH6ERhymz03)
+      tags:
+        - Relacje i Media
         - Bieszczady
 
 
