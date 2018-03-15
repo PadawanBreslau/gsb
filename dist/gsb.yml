@@ -87,7 +87,7 @@ paths:
         1. Opisany jest kierunek Ustroń-Wołosate. Przechodzę w przeciwnym kierunku. Jak mam korzystać z tej strony?
           * Do wakacji planuję dodąć opcję odwrócenia trasy (a w zasadzie osobną stroną lustrzanie odwróconą). Wybrałem ten kierunek, bo większość ludzi tak zaczyna.
         2. Trochę tu pusto. Dodałbyś jakąś grafikę?
-          * Grak grafiki jest celowym wyborem. Strona skupia się na treści - informacjach, zdjęciach, relacjach.
+          * Brak grafiki jest celowym wyborem. Strona skupia się na treści - informacjach, zdjęciach, relacjach. Nie dlatego, że nie umiem. Znaczy nie umiem, ale znam ludzi co umią :)
         3. Chciałbym pogadać o temacie, ale tutaj nie ma gdzie.
           * Zapraszam na fanpage strony. Tam jest wszystko co potrzeba :)
         4. Brakuje map odcinków
@@ -2404,6 +2404,19 @@ paths:
       tags:
         - Beskid Niski
 
+    galeria:
+      summary: Galeria Zdjęć
+      parameters:
+        - name: Dużo historii
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/MAG14pJXxGIpklaw2)
+      tags:
+        - Relacje i Media
+        - Beskid Niski
+
 
     ### INFO ###
 
@@ -2529,6 +2542,18 @@ paths:
       tags:
         - Beskid Niski
 
+    galeria:
+      summary: Galeria Zdjęć
+      parameters:
+        - name: Mniej historii, więcej gór.
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/xuOVGjSgJiFpPjSk2)
+      tags:
+        - Relacje i Media
+        - Beskid Niski
 
     ### INFO ###
 
@@ -2620,6 +2645,19 @@ paths:
       tags:
         - Beskid Niski
 
+
+    galeria:
+      summary: Galeria Zdjęć
+      parameters:
+        - name: Mniej historii, więcej gór.
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/xuOVGjSgJiFpPjSk2)
+      tags:
+        - Relacje i Media
+        - Beskid Niski
 
     ### INFO ###
 
@@ -2739,6 +2777,19 @@ paths:
           description: Komańcza
           type: number
       tags:
+        - Beskid Niski
+
+    galeria:
+      summary: Dziki Beskid
+      parameters:
+        - name: Mniej historii, więcej gór.
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/75SKmXTORnqeFiRz1)
+      tags:
+        - Relacje i Media
         - Beskid Niski
 
 
