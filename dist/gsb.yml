@@ -79,6 +79,21 @@ paths:
         Technicznie strona jest zmodyfikowaną wersją Swaggera (systemu do tworzenia dokumentacji w IT), cała treść strony zawarta jest w pliku tekstowym w formacie YAML. Jeśli chcesz wykorzystać, wejdź na https://github.com/PadawanBreslau/gsb i tam w README będzie wszystko opisane.
       tags:
         - Informacje
+  FAQ:
+    info:
+      summary: |
+        Wszystko co chcesz wiedzieć, ale boisz się zapytać
+      description: |
+        1. Opisany jest kierunek Ustroń-Wołosate. Przechodzę w przeciwnym kierunku. Jak mam korzystać z tej strony?
+          * Do wakacji planuję dodąć opcję odwrócenia trasy (a w zasadzie osobną stroną lustrzanie odwróconą). Wybrałem ten kierunek, bo większość ludzi tak zaczyna.
+        2. Trochę tu pusto. Dodałbyś jakąś grafikę?
+          * Grak grafiki jest celowym wyborem. Strona skupia się na treści - informacjach, zdjęciach, relacjach.
+        3. Chciałbym pogadać o temacie, ale tutaj nie ma gdzie.
+          * Zapraszam na fanpage strony. Tam jest wszystko co potrzeba :)
+        4. Brakuje map odcinków
+          * Dodanie map jest zaplanowane na przyszłość. O ile uzyskam jakieś legalnie :)
+      tags:
+        - Informacje
   Podziękowania:
     info:
       summary: |
@@ -2094,6 +2109,19 @@ paths:
         - Beskid Sądecki
 
 
+    galeria:
+      summary: Galeria Zdjęć
+      parameters:
+        - name: Pasmo Jaworzyny Krynickiej
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/raXyLjLFtNQ1IaV13)
+      tags:
+        - Relacje i Media
+        - Beskid Sądecki
+
     ### INFO ###
 
     info:
@@ -2251,6 +2279,19 @@ paths:
       tags:
         - Beskid Niski
 
+
+    galeria:
+      summary: Galeria Zdjęć
+      parameters:
+        - name: Wstęp do Beskidu Niskiego
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/5OGmA9GAXM2LluzI3)
+      tags:
+        - Relacje i Media
+        - Beskid Niski
 
     ### INFO ###
 
