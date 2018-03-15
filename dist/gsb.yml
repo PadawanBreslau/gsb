@@ -79,7 +79,18 @@ paths:
         Technicznie strona jest zmodyfikowaną wersją Swaggera (systemu do tworzenia dokumentacji w IT), cała treść strony zawarta jest w pliku tekstowym w formacie YAML. Jeśli chcesz wykorzystać, wejdź na https://github.com/PadawanBreslau/gsb i tam w README będzie wszystko opisane.
       tags:
         - Informacje
-
+  Podziękowania:
+    info:
+      summary: |
+        Dzięki, Merci, Thanks!
+      description: |
+        Dziękuję wszystkim, którzy przyczynili się do powstania tej strony.
+        * Kolegom z grupy Irracjonalnie Maszerujący, którzy na bieżąco oceniali postępy prac
+        * Kolegom z firmy Visuality, ktorzy czynnie przyczynili się do rozwoju strony
+        * Wszystkim, którzy pozwolili na udostępnienie swoich materiałów
+        * Żonie i dziecku, bez nich ta strona powstałaby rok wcześniej :P
+      tags:
+        - Informacje
 
   Obuwie:
     sprzet:
@@ -1222,6 +1233,20 @@ paths:
         - Beskid Żywiecki
 
 
+
+    galeria:
+      summary: Galeria Zdjęć
+      parameters:
+        - name: Ustroń Polana, Czantoria, Soszów
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/7N8XzOPazWiLpgtF3)
+      tags:
+        - Relacje i Media
+        - Beskid Żywiecki
+
     ### INFO ###
 
     info: #Krupowa - Jordanów
@@ -1314,6 +1339,19 @@ paths:
           description: Rabka
           type: number
       tags:
+        - Gorce
+
+    galeria:
+      summary: Galeria Zdjęć
+      parameters:
+        - name: Jordanów, Skawa, Rabka
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/B2HzP8Vdsj9MeTEx1)
+      tags:
+        - Relacje i Media
         - Gorce
 
 
@@ -1430,6 +1468,19 @@ paths:
         - Gorce
 
 
+    galeria:
+      summary: Galeria Zdjęć
+      parameters:
+        - name: Pasmo Turbacza
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/o7jWw8LG1z43Pitx1)
+      tags:
+        - Relacje i Media
+        - Gorce
+
     ### INFO ###
 
     info:
@@ -1541,6 +1592,19 @@ paths:
           description: Lubań
           type: number
       tags:
+        - Gorce
+
+    galeria:
+      summary: Galeria Zdjęć
+      parameters:
+        - name: Pasmo Lubania
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/EnkCurcY578SXLht2)
+      tags:
+        - Relacje i Media
         - Gorce
 
 
@@ -1682,6 +1746,19 @@ paths:
       tags:
         - Gorce
 
+    galeria:
+      summary: Galeria Zdjęć
+      parameters:
+        - name: Pasmo Lubania
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/EnkCurcY578SXLht2)
+      tags:
+        - Relacje i Media
+        - Gorce
+
 
     ### INFO ###
 
@@ -1773,6 +1850,19 @@ paths:
           description: PTTK na Przehybie
           type: number
       tags:
+        - Beskid Sądecki
+
+    galeria:
+      summary: Galeria Zdjęć
+      parameters:
+        - name: Pasmo Radziejowej
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/G0jQWXNom4YEmA2L2)
+      tags:
+        - Relacje i Media
         - Beskid Sądecki
 
 
@@ -1869,6 +1959,19 @@ paths:
           description: Rytro
           type: number
       tags:
+        - Beskid Sądecki
+
+    galeria:
+      summary: Galeria Zdjęć
+      parameters:
+        - name: Pasmo Radziejowej
+          in:
+          description: |
+            Zbiór zdjęć z odcinka.
+
+            [Galeria](https://photos.app.goo.gl/G0jQWXNom4YEmA2L2)
+      tags:
+        - Relacje i Media
         - Beskid Sądecki
 
 
