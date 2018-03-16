@@ -34,7 +34,7 @@ paths:
 
         Strona ma charakter wyłącznie informacyjny. Nie ma i nie będzie na nim żadnego promowania miejsc, noclegów, sprzętu - mimo iż mam swoje zdanie na temat wielu miejsc na trasie. Dorośli ludzie, a zakładam że tacy wyruszają na podbój szlaku, sami będą mogli wyciągnąć wnioski i podjąć własną decyzję.
 
-        Strona z definicji ma być tylko do odczytu. Z kilku powodów. Po pierwsze strona ma być z definicji jak najprostsza, i do każdej informacji mają prowadzić maksymalnie dwa kliknięcia. Po drugie stronanie ma być miejscem dyskusji, bo one prowadzą do chaosu. Takie rzeczy można i powinno się przenieść na fanpage strony ([szlakbeskidzki.pl](https://www.facebook.com/szlakbeskidzkipl/) albo na dziesiątkach innych stron Po trzecie - dzięki temu pozostaje bezstronna - każda treść na niej jest dodawana przeze mnie, co zapewnia bezstronnośc opinii. Oczywiście źródła mogą być również stronnicze, co postaram się w miarę możliwości weryfikować. Bezpośrednio na stronie nie będzie też żadnych mediów (zdjęć/filmów) - będą natomiast podlinkowane na zewnątrz to serwisów tym się zajmujących (YT/Google Photos/?). Tak, by łatwo było w domu zobaczyć, ale na trasie by się nie ładowały od razu bez interakcji użytkownika. Prostota przede wszystkim, wszystko w zasięgu dwóch-trzech kliknięć.
+        Strona z definicji ma być tylko do odczytu. Z kilku powodów. Po pierwsze strona ma być z definicji jak najprostsza, i do każdej informacji mają prowadzić maksymalnie dwa kliknięcia. Po drugie stronanie ma być miejscem dyskusji, bo one prowadzą do chaosu. Takie rzeczy można i powinno się przenieść na fanpage strony ([szlakbeskidzki.pl](https://www.facebook.com/szlakbeskidzkipl/)) albo na dziesiątkach innych stron Po trzecie - dzięki temu pozostaje bezstronna - każda treść na niej jest dodawana przeze mnie, co zapewnia bezstronnośc opinii. Oczywiście źródła mogą być również stronnicze, co postaram się w miarę możliwości weryfikować. Bezpośrednio na stronie nie będzie też żadnych mediów (zdjęć/filmów) - będą natomiast podlinkowane na zewnątrz to serwisów tym się zajmujących (YT/Google Photos/?). Tak, by łatwo było w domu zobaczyć, ale na trasie by się nie ładowały od razu bez interakcji użytkownika. Prostota przede wszystkim, wszystko w zasięgu dwóch-trzech kliknięć.
       tags:
         - Informacje
   Regulamin:
@@ -92,6 +92,13 @@ paths:
           * Zapraszam na fanpage strony. Tam jest wszystko co potrzeba :)
         4. Brakuje map odcinków
           * Dodanie map jest zaplanowane na przyszłość. O ile uzyskam jakieś legalnie :)
+        5. Długość odcinków się nie zgadza!
+          * W przypadku każdego odcinka zaokrąglałem do połowy kilometra. Na tak długiej trasie i przy dziennym kilometrarzu minimum dwudziestu kilometrów to nie ma sensu dokładniej podawać i też byłoby to zaokrąglone z jakimś błędem
+        6. Niektóre galerie są podwójnie!
+          * Póki co jest jeszcze niewiele zdjęć, więc niektóre odcinki mają jedną galerie. Później będzie rozdzielone.
+        7. Zdjęcia są nie po kolei/Zdjęcia są spoza szlaku!
+          * Starałem się uszeregować zdjęcia wg chronologii, jednak tu i ówdzie mogą występować zmienione kolejności. Przy swoich zdjęciach jeszcze jestem w stanie kontrolować kolejność, przy zdjęciach innych autorów ciężej.
+          * Niektóre zdjęcia pokazują miejsca spoza szlaku. Jeśli są ładne, to czemu nie. Ale zawsze są z najbliższych okolic szlaku. Parę ciekawych obiektów i gór leży nieco poza szlakiem i żal do nich nie zboczyć.
       tags:
         - Informacje
   Podziękowania:
@@ -503,7 +510,7 @@ paths:
           in: Zielony Niebieski Czarny
           description: Schronisko PTTK Przysłop
           type: number
-        - name: 2.5(40) 1220m
+        - name: 19.0(40) 1220m
           in: Zielony Niebieski Czarny
           description: Barania Góra
           type: number
@@ -1325,8 +1332,6 @@ paths:
       tags:
         - Beskid Żywiecki
 
-
-
     galeria:
       summary: Galeria Zdjęć
       parameters:
@@ -1553,6 +1558,10 @@ paths:
           in: Zielony Niebieski Czarny
           description: PTTK "Stare Wierchy"
           type: number
+        - name: 12,0(159.0) 1106m
+          in: Zielony Niebieski Czarny
+          description: Obidowiec
+          type: number
         - name: 16.0(163.0) 1310m
           in: Zielony Niebieski Czarny Żółty Czerwony Papieski
           description: Turbacz
@@ -1672,6 +1681,14 @@ paths:
           in: Czerwony
           description: Turbacz
           type: number
+        - name: 0.5(163.5) 1310m
+          in: Czerwony
+          description: Schronisko PTTK na Turbaczu
+          type: number
+        - name: 2.5(165.5) 1282m
+          in: Czerwony
+          description: Kiczora
+          type: number
         - name: 9.0(172.0) 850m
           in: Zielony Niebieski Czarny
           description: Przełęcz Knurowska
@@ -1680,7 +1697,11 @@ paths:
           in: Zielony Niebieski Czarny
           description: Studzionki
           type: number
-        - name: 22.0(185.0) 1210m
+        - name: 16.5(179,5) 1050m
+          in: Zielony Niebieski Czarny
+          description: Runek
+          type: number
+        - name: 22.0(185.0) 1211m
           in: Zielony Niebieski Czarny
           description: Lubań
           type: number
