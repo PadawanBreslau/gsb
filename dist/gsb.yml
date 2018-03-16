@@ -208,16 +208,12 @@ paths:
         - name: 4.0(4.0) 770m
           in: Zielony Żółty Czerwony
           description: |
-            **Schronisko PTTK Równica** Schronisko położone pod szczytem góry **Równica**, przy drodze asfaltowej w popularnej turystycznie lokalizacji, pełnej restauracji, hoteli i innych atrakcji.
-            Z góry jest bardzo ładny widok na wznoszące się z drugej strony Doliny Wisły **masywy Czantorii i Stożka Wielkiego** - aby zobaczyc te widoki najlepiej albo wejść na łąkę nad schroniskiem w kierunku
-            szczytu Równicy, albo zejść nieco wraz z czerwonym szlakiem
+            **Schronisko PTTK Równica**
           type: number
         - name: 8.0(8.0) 400m
           in: Zielony Czerwony
           description: |
-            Ustroń Polana. **Dolna Stacja Wyciągu Krzesełkowego**. Osiedle Ustronia, oryginalnie przysiółek o którym pierwsze wzmianki można odnaleźć z początków XVII wieku. Obecnie życie okolicznych
-            mieszkańsów skupia się głównie dookoła obiektów turystycznych zlokalizowanych przy dolnej stacji wyciągu na Czantorię.
-            https://pl.wikipedia.org/wiki/Polana_(Ustro%C5%84)
+            Ustroń Polana. **Dolna Stacja Wyciągu Krzesełkowego**.
           type: number
       tags:
         - Beskid Śląski
@@ -325,6 +321,16 @@ paths:
         szlak krótko podchodzi na górę Soszów, skąd bardzo ładnie widać na wschodzie masyw Baraniej Góry, później zaś malowniczą trasą, przez lasy i łąki prowadzi w stronę Stożka Wielkiego. Po paru kilometrach łatwiejszej trasy
         podchodzimy pod zbocze Stożka, skąd czeka nas bardzo forsowne podejście na szczyt. Na górze wita nas schronisko PTTK, zazwyczaj pełne od turystów i rowerzystów górskich
       parameters:
+        - name: 0.0(8.0) 400m
+          in: Zielony Czerwony
+          description: |
+            Ustroń Polana. **Dolna Stacja Wyciągu Krzesełkowego**.
+          type: number
+        - name: 2.5(10.5) 900m
+          in: Zielony Czerwony
+          description: |
+            **Górna Stacja Wyciągu Krzesełkowego**.
+          type: number
         - name: 3.5(11,5) 990m
           in: Czerwony
           description: |
@@ -473,9 +479,21 @@ paths:
           in: Czerwony
           description: PTTK na Stożku Wielkim
           type: number
+        - name: 1.0(22.0) 989m
+          in: Czerwony
+          description: Kiczory
+          type: number
+        - name: 3.0(24.0) 989m
+          in: Czerwony
+          description: Przełęcz Łączecka
+          type: number
         - name: 7.5(28,5) 750m
           in: Zielony Niebieski Czarny
           description: Przełęcz Kubalonka
+          type: number
+        - name: 8.5(29,5) 750m
+          in: Zielony Niebieski Czarny
+          description: Przełęcz Szarcula
           type: number
         - name: 12.0(33.0) 750m
           in: Zielony Niebieski Czarny
@@ -483,7 +501,7 @@ paths:
           type: number
         - name: 16,5(37,5) 950m
           in: Zielony Niebieski Czarny
-          description: PTTK Przysłop
+          description: Schronisko PTTK Przysłop
           type: number
         - name: 2.5(40) 1220m
           in: Zielony Niebieski Czarny
@@ -638,9 +656,13 @@ paths:
           in: Czerwony
           description: Barania Góra
           type: number
-        - name: 4.5(44.5) 1100m
+        - name: 2.5(42.5) 1140m
           in: Zielony Niebieski Czarny
-          description: Magura Radziestowska
+          description: Magura Wiślańska
+          type: number
+        - name: 4.5(44.5) 1108m
+          in: Zielony Niebieski Czarny
+          description: Magura Radziechowska
           type: number
         - name: 7.0(47.0) 1025m
           in: Zielony Niebieski Czarny
@@ -772,19 +794,31 @@ paths:
         Znad schroniska powinniśmy mieć pierwsze na trasie świetne widoki na Babią Górę
 
       parameters:
-        - name: 0.0(55.0) 1220m
+        - name: 0.0(55.0) 400m
           in: Czerwony
           description: Węgierska Górka
           type: number
-        - name: 5.0(60.0) 1220m
+        - name: 1.0(56.0) 400m
+          in: Czerwony
+          description: Żabnica
+          type: number
+        - name: 5.0(60.0) 8500m
           in: Zielony Niebieski Czarny
           description: Abrahamów
           type: number
-        - name: 8,5(63,5) 1220m
+        - name: 8,5(63,5) 856m
           in: Zielony Niebieski Czarny
           description: PTTK Słowianka
           type: number
-        - name: 15.0(70,0) 1220m
+        - name: 12,5(67,5) 1050m
+          in: Zielony Niebieski Czarny
+          description: Hala Wieprzska
+          type: number
+        - name: 14,0(69,0) 1200m
+          in: Zielony Niebieski Czarny
+          description: Hala Pawlusia
+          type: number
+        - name: 15.0(70,0) 1290m
           in: Zielony Niebieski Czarny
           description: PTTK na Rysiance
           type: number
@@ -938,23 +972,59 @@ paths:
           in: Czerwony
           description: PTTK Hala Rysianka
           type: number
-        - name: 6,5(76.5) 1220m
+        - name: 2.0(72.0) 1290m
+          in: Czerwony
+          description: Trzy Kopce
+          type: number
+        - name: 3.5(73.5) 1290m
+          in: Czerwony
+          description: Palenica
+          type: number
+        - name: 6,5(76.5) 1343m
           in: Czerwony
           description: PTTK Hala Miziowa
           type: number
-        - name: 11,5(81,5) 1220m
+        - name: 11,5(81,5) 809m
           in: Zielony Niebieski Czarny
           description: Przełęcz Glinne
           type: number
-        - name: 21.0(91.0) 1220m
+        - name: 16,5(85,5) 923m
+          in: Zielony Niebieski Czarny
+          description: Beskid Krzyżowski
+          type: number
+        - name: 19,5(88,5) 1047m
+          in: Zielony Niebieski Czarny
+          description: Jaworzyna
+          type: number
+        - name: 21.0(91.0) 830m
           in: Zielony Niebieski Czarny
           description: Baza Namiotowa Głuchaczki
           type: number
-        - name: 32.0(102.0) 1220m
+        - name: 23.5(93.5) 1100m
+          in: Zielony Niebieski Czarny
+          description: Mędralowa Zachodnia
+          type: number
+        - name: 25.0(95.0) 1169m
+          in: Zielony Niebieski Czarny
+          description: Mędralowa
+          type: number
+        - name: 26.5(96.5) 998m
+          in: Zielony Niebieski Czarny
+          description: Tabakowe Siodło
+          type: number
+        - name: 28.0(98.0) 1050m
+          in: Zielony Niebieski Czarny
+          description: Żywieckie Rozstaje
+          type: number
+        - name: 32.0(102.0) 1180m
           in: Zielony Niebieski Czarny
           description: PTTK Markowe Szczawiny
           type: number
-        - name: 35.0(105.0) 1220m
+        - name: 33.0(103.0) 1408m
+          in: Zielony Niebieski Czarny
+          description: Przełęcz Brona
+          type: number
+        - name: 35.0(105.0) 1725m
           in: Zielony Niebieski Czarny
           description: Babia Góra - Diablak
           type: number
@@ -1107,15 +1177,23 @@ paths:
         zejściu osiągami hale i schronisko na Hali Krupowej
 
       parameters:
-        - name: 0.0(105.0) 1220m
+        - name: 0.0(105.0) 1725m
           in: Czerwony
           description: Babia Góra - Diablak
           type: number
-        - name: 4.5(109.5) 1220m
+        - name: 3.0(108.0) 1369m
+          in: Czerwony
+          description: Sokolica
+          type: number
+        - name: 4.5(109.5) 1011m
           in: Zielony Niebieski Czarny
           description: Przełęcz Krowiarki
           type: number
-        - name: 10.5(115.5) 1220m
+        - name: 9.0(114.0) 1298m
+          in: Zielony Niebieski Czarny
+          description: Cyl Hali Śmietanowej
+          type: number
+        - name: 11.5(116.5) 1220m
           in: Zielony Niebieski Czarny
           description: Polica
           type: number
