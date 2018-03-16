@@ -232,9 +232,11 @@ paths:
         - name: Ustroń, Równica
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * własne
+              * wikipedia.
 
-            [Galeria](https://photos.app.goo.gl/Td5OeybFEfQ0C81C3)
+            <b>[GALERIA](https://photos.app.goo.gl/Td5OeybFEfQ0C81C3)</b>
       tags:
         - Relacje i Media
         - Beskid Śląski
@@ -369,9 +371,11 @@ paths:
         - name: Ustroń Polana, Czantoria, Soszów
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * własne
+              * wikipedia.
 
-            [Galeria](https://photos.app.goo.gl/6IXlUwepbilJysOT2)
+            <b>[GALERIA](https://photos.app.goo.gl/6IXlUwepbilJysOT2)</b>
       tags:
         - Relacje i Media
         - Beskid Śląski
@@ -525,9 +529,11 @@ paths:
         - name: Kubalonka, Stecówka, Przysłop, Barania Góra, Magurki
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * własne
+              * wikipedia
 
-            [Galeria](https://photos.app.goo.gl/nRDU5W5Lb5HoAxYl2)
+            <b>[GALERIA](https://photos.app.goo.gl/nRDU5W5Lb5HoAxYl2)</b>
       tags:
         - Relacje i Media
         - Beskid Śląski
@@ -688,9 +694,11 @@ paths:
         - name: Ustroń, Równica
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * własne
+              * wikipedia
 
-            [Galeria](https://photos.app.goo.gl/nRDU5W5Lb5HoAxYl2)
+            <b>[GALERIA](https://photos.app.goo.gl/nRDU5W5Lb5HoAxYl2)</b>
       tags:
         - Relacje i Media
         - Beskid Śląski
@@ -839,9 +847,11 @@ paths:
         - name: Żabnica, Abrahamów, Słowianka, Romanka, Rysianka, Mizowa.
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * własne
+              * wikipedia
 
-            [Galeria](https://photos.app.goo.gl/5bbBuJlhr6iQpPfD2)
+            <b>[GALERIA](https://photos.app.goo.gl/5bbBuJlhr6iQpPfD2)</b>
       tags:
         - Relacje i Media
         - Beskid Żywiecki
@@ -1044,7 +1054,7 @@ paths:
         - name: Student, Głuchaczki, Mędralowa, Markowe Szczawiny, Babia Góra
           in:
           description: |
-            [Galeria](https://photos.app.goo.gl/dbzhIMSz3w378Ofm1)
+            <b>[GALERIA](https://photos.app.goo.gl/dbzhIMSz3w378Ofm1)</b>
 
 
             Źródła zdjęć:
@@ -1218,9 +1228,11 @@ paths:
         - name: Pasmo Polic
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * własne
+              * wikipedia.
 
-            [Galeria](https://photos.app.goo.gl/7N8XzOPazWiLpgtF3)
+            <b>[GALERIA](https://photos.app.goo.gl/7N8XzOPazWiLpgtF3)</b>
       tags:
         - Relacje i Media
         - Beskid Żywiecki
@@ -1338,9 +1350,11 @@ paths:
         - name: Ustroń Polana, Czantoria, Soszów
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * własne
+              * wikipedia.
 
-            [Galeria](https://photos.app.goo.gl/7N8XzOPazWiLpgtF3)
+            <b>[GALERIA](https://photos.app.goo.gl/7N8XzOPazWiLpgtF3)</b>
       tags:
         - Relacje i Media
         - Beskid Żywiecki
@@ -1445,9 +1459,11 @@ paths:
         - name: Jordanów, Skawa, Rabka
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * własne
+              * wikipedia.
 
-            [Galeria](https://photos.app.goo.gl/B2HzP8Vdsj9MeTEx1)
+            <b>[GALERIA](https://photos.app.goo.gl/B2HzP8Vdsj9MeTEx1)</b>
       tags:
         - Relacje i Media
         - Gorce
@@ -1576,9 +1592,12 @@ paths:
         - name: Pasmo Turbacza
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * własne
+              * wikipedia.
+              * http://www.wktoregory.pl/2015/12/turbacz-i-kiczora.html
 
-            [Galeria](https://photos.app.goo.gl/o7jWw8LG1z43Pitx1)
+            <b>[GALERIA](https://photos.app.goo.gl/o7jWw8LG1z43Pitx1)</b>
       tags:
         - Relacje i Media
         - Gorce
@@ -1714,9 +1733,12 @@ paths:
         - name: Pasmo Lubania
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * własne
+              * wikipedia.
+              * http://www.wktoregory.pl/2015/12/turbacz-i-kiczora.html
 
-            [Galeria](https://photos.app.goo.gl/EnkCurcY578SXLht2)
+            <b>[GALERIA](https://photos.app.goo.gl/EnkCurcY578SXLht2)</b>
       tags:
         - Relacje i Media
         - Gorce
@@ -1866,9 +1888,11 @@ paths:
         - name: Pasmo Lubania
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * własne
+              * wikipedia.
 
-            [Galeria](https://photos.app.goo.gl/EnkCurcY578SXLht2)
+            <b>[GALERIA](https://photos.app.goo.gl/EnkCurcY578SXLht2)</b>
       tags:
         - Relacje i Media
         - Gorce
@@ -1972,9 +1996,12 @@ paths:
         - name: Pasmo Radziejowej
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * własne
+              * wikipedia.
+              * http://www.wktoregory.pl/2016/11/przehyba-radziejowa-wielki-rogacz-czyli.html
 
-            [Galeria](https://photos.app.goo.gl/G0jQWXNom4YEmA2L2)
+            <b>[GALERIA](https://photos.app.goo.gl/G0jQWXNom4YEmA2L2)</b>
       tags:
         - Relacje i Media
         - Beskid Sądecki
@@ -2081,9 +2108,12 @@ paths:
         - name: Pasmo Radziejowej
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * własne
+              * wikipedia.
+              * http://www.wktoregory.pl/2016/11/przehyba-radziejowa-wielki-rogacz-czyli.html
 
-            [Galeria](https://photos.app.goo.gl/G0jQWXNom4YEmA2L2)
+            <b>[GALERIA](https://photos.app.goo.gl/G0jQWXNom4YEmA2L2)</b>
       tags:
         - Relacje i Media
         - Beskid Sądecki
@@ -2214,9 +2244,10 @@ paths:
         - name: Pasmo Jaworzyny Krynickiej
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * wikipedia.
 
-            [Galeria](https://photos.app.goo.gl/raXyLjLFtNQ1IaV13)
+            <b>[GALERIA](https://photos.app.goo.gl/raXyLjLFtNQ1IaV13)</b>
       tags:
         - Relacje i Media
         - Beskid Sądecki
@@ -2385,9 +2416,10 @@ paths:
         - name: Wstęp do Beskidu Niskiego
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * wikipedia.
 
-            [Galeria](https://photos.app.goo.gl/5OGmA9GAXM2LluzI3)
+            <b>[GALERIA](https://photos.app.goo.gl/5OGmA9GAXM2LluzI3)</b>
       tags:
         - Relacje i Media
         - Beskid Niski
@@ -2509,9 +2541,11 @@ paths:
         - name: Dużo historii
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * wikipedia.
+              * http://www.wktoregory.pl/2015/12/regietow-rotunda-i-zdynia.html
 
-            [Galeria](https://photos.app.goo.gl/MAG14pJXxGIpklaw2)
+            <b>[GALERIA](https://photos.app.goo.gl/MAG14pJXxGIpklaw2)</b>
       tags:
         - Relacje i Media
         - Beskid Niski
@@ -2647,9 +2681,10 @@ paths:
         - name: Mniej historii, więcej gór.
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * wikipedia.
 
-            [Galeria](https://photos.app.goo.gl/xuOVGjSgJiFpPjSk2)
+            <b>[GALERIA](https://photos.app.goo.gl/xuOVGjSgJiFpPjSk2)</b>
       tags:
         - Relacje i Media
         - Beskid Niski
@@ -2751,9 +2786,10 @@ paths:
         - name: Mniej historii, więcej gór.
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * wikipedia.
 
-            [Galeria](https://photos.app.goo.gl/xuOVGjSgJiFpPjSk2)
+            <b>[GALERIA](https://photos.app.goo.gl/xuOVGjSgJiFpPjSk2)</b>
       tags:
         - Relacje i Media
         - Beskid Niski
@@ -2827,13 +2863,13 @@ paths:
 
     nocleg:
       summary: Noclegi
-      description: |
+      description:
 
       parameters:
         - name: Iwonicz-Zdrój
           in: query
           description: |
-            **Dużo opcji nocloegowych**
+            **Dużo opcji noclegowych**
 
           type: Kucnia
       tags:
@@ -2884,9 +2920,10 @@ paths:
         - name: Mniej historii, więcej gór.
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * wikipedia.
 
-            [Galeria](https://photos.app.goo.gl/75SKmXTORnqeFiRz1)
+            <b>[GALERIA](https://photos.app.goo.gl/75SKmXTORnqeFiRz1)</b>
       tags:
         - Relacje i Media
         - Beskid Niski
@@ -3042,9 +3079,10 @@ paths:
         - name: Mniej historii, więcej gór.
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * wikipedia.
 
-            [Galeria](https://photos.app.goo.gl/biEZ41JZiQLnzScj2)
+            <b>[GALERIA](https://photos.app.goo.gl/biEZ41JZiQLnzScj2)</b>
       tags:
         - Relacje i Media
         - Bieszczady
@@ -3220,9 +3258,10 @@ paths:
         - name: Mniej historii, więcej gór.
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * wikipedia.
 
-            [Galeria](https://photos.app.goo.gl/4KZHgiWnnEaeINPj1)
+            <b>[GALERIA](https://photos.app.goo.gl/4KZHgiWnnEaeINPj1)</b>
       tags:
         - Relacje i Media
         - Bieszczady
@@ -3410,9 +3449,11 @@ paths:
         - name: Mniej historii, więcej gór.
           in:
           description: |
-            Zbiór zdjęć z odcinka.
+            Źródła zdjęć:
+              * wikipedia.
+              * http://www.wktoregory.pl/2016/01/tarnica.html
 
-            [Galeria](https://photos.app.goo.gl/Nd9cI3jH6ERhymz03)
+            <b>[GALERIA](https://photos.app.goo.gl/Nd9cI3jH6ERhymz03)</b>
       tags:
         - Relacje i Media
         - Bieszczady
@@ -3968,7 +4009,7 @@ paths:
         * **Pora roku** Jesień(?)
 
 
-        [Galeria](https://plus.google.com/u/0/photos/101370364055284304702/albums/5909845771563037761)
+        <b>[GALERIA](https://plus.google.com/u/0/photos/101370364055284304702/albums/5909845771563037761)</b>
         [Relacja na forum](http://emtb.pl/forumo/showthread.php?tid=10120&page=3)
       tags:
         - Relacje i Media
@@ -3983,7 +4024,7 @@ paths:
         * **Pora roku** Lato
 
 
-        [Galeria](https://plus.google.com/u/0/photos/101370364055284304702/albums/5909845771563037761)
+        <b>[GALERIA](https://plus.google.com/u/0/photos/101370364055284304702/albums/5909845771563037761)</b>
       tags:
         - Relacje i Media
 
