@@ -34,7 +34,7 @@ paths:
 
         Strona ma charakter wyłącznie informacyjny. Nie ma i nie będzie na nim żadnego promowania miejsc, noclegów, sprzętu - mimo iż mam swoje zdanie na temat wielu miejsc na trasie. Dorośli ludzie, a zakładam że tacy wyruszają na podbój szlaku, sami będą mogli wyciągnąć wnioski i podjąć własną decyzję.
 
-        Strona z definicji ma być tylko do odczytu. Z kilku powodów. Po pierwsze strona ma być z definicji jak najprostsza, i do każdej informacji mają prowadzić maksymalnie dwa kliknięcia. Po drugie stronanie ma być miejscem dyskusji, bo one prowadzą do chaosu. Takie rzeczy można i powinno się przenieść na fanpage strony ([szlakbeskidzki.pl](https://www.facebook.com/szlakbeskidzkipl/)) albo na dziesiątkach innych stron Po trzecie - dzięki temu pozostaje bezstronna - każda treść na niej jest dodawana przeze mnie, co zapewnia bezstronnośc opinii. Oczywiście źródła mogą być również stronnicze, co postaram się w miarę możliwości weryfikować. Bezpośrednio na stronie nie będzie też żadnych mediów (zdjęć/filmów) - będą natomiast podlinkowane na zewnątrz to serwisów tym się zajmujących (YT/Google Photos/?). Tak, by łatwo było w domu zobaczyć, ale na trasie by się nie ładowały od razu bez interakcji użytkownika. Prostota przede wszystkim, wszystko w zasięgu dwóch-trzech kliknięć.
+        Strona z definicji ma być tylko do odczytu. Z kilku powodów. Po pierwsze strona ma być z definicji jak najprostsza, i do każdej informacji mają prowadzić maksymalnie dwa kliknięcia. Po drugie stronanie ma być miejscem dyskusji, bo one prowadzą do chaosu. Takie rzeczy można i powinno się przenieść na fanpage strony ([szlakbeskidzki.pl](https://www.facebook.com/szlakbeskidzkipl/)) albo na dziesiątkach innych stron Po trzecie - dzięki temu pozostaje bezstronna - każda treść na niej jest dodawana przeze mnie, co zapewnia bezstronność opinii. Oczywiście źródła mogą być również stronnicze, co postaram się w miarę możliwości weryfikować. Bezpośrednio na stronie nie będzie też żadnych mediów (zdjęć/filmów) - będą natomiast podlinkowane na zewnątrz to serwisów tym się zajmujących (YT/Google Photos/?). Tak, by łatwo było w domu zobaczyć, ale na trasie by się nie ładowały od razu bez interakcji użytkownika. Prostota przede wszystkim, wszystko w zasięgu dwóch-trzech kliknięć.
       tags:
         - Informacje
   Regulamin:
@@ -44,8 +44,8 @@ paths:
         Regulamin - wersja nieformalna:
           1. Strona nie bierze odpowiedzialności za żadne informacja na niej zawarte. Szlak może zmieniać przebieg, noclegi zmieniać numery telefonu, muzea zmieniać godziny otwarcia, restauracje zmieniać kuchnię na wegańską. Idziesz na trasę na własną odpowiedzialność.
           2. Strona nie zapisuje żadnych ciasteczek, nie wymaga żadnego logowania, żadnych opłat i żadnych deklaracji.
-          3. Treści udostępnione na stronie są właśnością albo twórcy, albo innych autorów. W przypadku tych drugich za każdym razem podane jest źródło/autor (i ew. rodzaj licencji w przypadku zdjęć). Używanie treści zawartych na stronie jest możliwe na tych samych zasadach.
-          4. Jeśli uważasz, że naruszyłem w którymś miejscu prawa autorskie, prosze o kontakt. Starałem się uniknąć takich sytuacji, ale każdemu może się zdarzyc coś przeoczyć.
+          3. Treści udostępnione na stronie są własnością albo twórcy, albo innych autorów. W przypadku tych drugich za każdym razem podane jest źródło/autor (i ew. rodzaj licencji w przypadku zdjęć). Używanie treści zawartych na stronie jest możliwe na tych samych zasadach.
+          4. Jeśli uważasz, że naruszyłem w którymś miejscu prawa autorskie, proszę o kontakt. Starałem się uniknąć takich sytuacji, ale każdemu może się zdarzyć coś przeoczyć.
           5. Tak samo w przypadku błędów, nieaktualnych informacji, zmian przebiegu szlaku, a także zwyczajnych sugestii zmiany.
 
           Wersja formalna jest dostępna na stopce strony.
@@ -65,16 +65,16 @@ paths:
     info:
       summary: Dodaj coś od siebie
       description: |
-        Chciałbyś coś od siebie dodać? Opis jakiegoś miejsca, zdjęcia, nową relację czy filmik z YT? Jeśli masz coś ciekawego do dodania na stronę, zapraszam chętnie do informowania mnie o tym - szlak jest długi, wiele rzeczy mogłem ominąć. Nie mogę obiecać, że na pewno umieszczę na stronie, ale jeśli uznam, że warto to z pewnością znajdzie się to prędzej czy później. Złapać mnie można na wiele sposóbów - opisane są w dziale Kontakt
+        Chciałbyś coś od siebie dodać? Opis jakiegoś miejsca, zdjęcia, nową relację czy filmik z YT? Jeśli masz coś ciekawego do dodania na stronę, zapraszam chętnie do informowania mnie o tym - szlak jest długi, wiele rzeczy mogłem ominąć. Nie mogę obiecać, że na pewno umieszczę na stronie, ale jeśli uznam, że warto to z pewnością znajdzie się to prędzej czy później. Złapać mnie można na wiele sposobów - opisane są w dziale Kontakt
 
-          Jeśli znasz się na systemie kontroli wersji git to możesz sam dodać treść do dołączenia na stronę (choć oczywiście potrzebne będzie zatwierdzenie zmian). Reporytorium jest pod adresem: https://github.com/PadawanBreslau/gsb W README projektu jest krótka instrukcja jak dodawać nową zawartość.
+          Jeśli znasz się na systemie kontroli wersji git to możesz sam dodać treść do dołączenia na stronę (choć oczywiście potrzebne będzie zatwierdzenie zmian). Repozytorium jest pod adresem: https://github.com/PadawanBreslau/gsb W README projektu jest krótka instrukcja jak dodawać nową zawartość.
       tags:
         - Informacje
   Inne Szlaki:
     info:
       summary: A będzie o innych szlakach?
       description: |
-        Kiedyś może tak. Ale zbieranie i spisywanie materiałów do takiej strony zajmuje napradę dużo czasu, a na jego nadmiar nie narzekam :) Natomiast zapraszam serdecznie wszystkich do wykorzystania mojego rozwiązania, gdyż nie wymaga ono w zasadzie żadnej informatycznej wiedzy.
+        Kiedyś może tak. Ale zbieranie i spisywanie materiałów do takiej strony zajmuje naprawdę dużo czasu, a na jego nadmiar nie narzekam :) Natomiast zapraszam serdecznie wszystkich do wykorzystania mojego rozwiązania, gdyż nie wymaga ono w zasadzie żadnej informatycznej wiedzy.
 
         Technicznie strona jest zmodyfikowaną wersją Swaggera (systemu do tworzenia dokumentacji w IT), cała treść strony zawarta jest w pliku tekstowym w formacie YAML. Jeśli chcesz wykorzystać, wejdź na https://github.com/PadawanBreslau/gsb i tam w README będzie wszystko opisane.
       tags:
@@ -85,7 +85,7 @@ paths:
         Wszystko co chcesz wiedzieć, ale boisz się zapytać
       description: |
         1. Opisany jest kierunek Ustroń-Wołosate. Przechodzę w przeciwnym kierunku. Jak mam korzystać z tej strony?
-          * Do wakacji planuję dodąć opcję odwrócenia trasy (a w zasadzie osobną stroną lustrzanie odwróconą). Wybrałem ten kierunek, bo większość ludzi tak zaczyna.
+          * Do wakacji planuję dodać opcję odwrócenia trasy (a w zasadzie osobną stroną lustrzanie odwróconą). Wybrałem ten kierunek, bo większość ludzi tak zaczyna.
         2. Trochę tu pusto. Dodałbyś jakąś grafikę?
           * Brak grafiki jest celowym wyborem. Strona skupia się na treści - informacjach, zdjęciach, relacjach. Nie dlatego, że nie umiem. Znaczy nie umiem, ale znam ludzi co umią :)
         3. Chciałbym pogadać o temacie, ale tutaj nie ma gdzie.
@@ -93,7 +93,7 @@ paths:
         4. Brakuje map odcinków
           * Dodanie map jest zaplanowane na przyszłość. O ile uzyskam jakieś legalnie :)
         5. Długość odcinków się nie zgadza!
-          * W przypadku każdego odcinka zaokrąglałem do połowy kilometra. Na tak długiej trasie i przy dziennym kilometrarzu minimum dwudziestu kilometrów to nie ma sensu dokładniej podawać i też byłoby to zaokrąglone z jakimś błędem
+          * W przypadku każdego odcinka zaokrąglałem do połowy kilometra. Na tak długiej trasie i przy dziennym kilometrażu minimum dwudziestu kilometrów to nie ma sensu dokładniej podawać i też byłoby to zaokrąglone z jakimś błędem
         6. Niektóre galerie są podwójnie!
           * Póki co jest jeszcze niewiele zdjęć, więc niektóre odcinki mają jedną galerie. Później będzie rozdzielone.
         7. Zdjęcia są nie po kolei/Zdjęcia są spoza szlaku!
@@ -108,7 +108,7 @@ paths:
       description: |
         Dziękuję wszystkim, którzy przyczynili się do powstania tej strony.
         * Kolegom z grupy Irracjonalnie Maszerujący, którzy na bieżąco oceniali postępy prac
-        * Kolegom z firmy Visuality, ktorzy czynnie przyczynili się do rozwoju strony
+        * Kolegom z firmy Visuality, którzy czynnie przyczynili się do rozwoju strony
         * Wszystkim, którzy pozwolili na udostępnienie swoich materiałów
         * Żonie i dziecku, bez nich ta strona powstałaby rok wcześniej :P
       tags:
@@ -122,7 +122,7 @@ paths:
         Jakie buty założyć aby przejść GSB? Główne pytanie dotyczy wyboru jednego z dwóch grup obuwia
 
         * **wysokie buty** - Dają dużą pewność, że żadne podłoże nie będzie straszne, że skarpetki nie będą mokre w pięć sekund po wyjściu w deszcz i że krzywo postawiona kostka nie ulegnie skręceniu. Ich wadą jest zaś ich waga i przewiewność - stopy się dużo bardziej męczą, zwłaszcza przy ciepłej pogodzie. Jeśli zamoczą się w środku, bardzo długo schną.
-        * **niskie buty** - Dają większą swobodę, a dzięki niewielkiej wadze pozwalają na dużo szybsze poruszanie się. Dają mniejsze bezpieczeństwo i zasadniczo zmuszają do nauczenia się chodzenia z całkowicie morkymi stopami. Z drugiej strony jak już wyjdzie słońce, to mokre buty na nogach szybko schną.
+        * **niskie buty** - Dają większą swobodę, a dzięki niewielkiej wadze pozwalają na dużo szybsze poruszanie się. Dają mniejsze bezpieczeństwo i zasadniczo zmuszają do nauczenia się chodzenia z całkowicie mokrymi stopami. Z drugiej strony jak już wyjdzie słońce, to mokre buty na nogach szybko schną.
 
         Wybór obuwia głównie zależy od Twojego własnego stylu chodzenia po górach. Bo najważniejszą rzeczą jest, by iść w obuwiu, w którym czuje się komfortowo i które zostały już sprawdzone w trasie. Oczywiście trzeba też dostosować obuwie do pory roku, choć oczywiście są osoby co i po śniegu biegają w niskich butach.
       tags:
@@ -133,7 +133,7 @@ paths:
       summary: |
         Ubrania na przejście GSB
       description: |
-        Wycieczka Głównym Szlakiem Beskidzkim będzie trwała tydzień. Albo dwa. Albo trzy. Nie masz szans znać wiarygodnych prognoz pogody na cały ten okres. Może się okazać, że wyruszysz z Ustronia w piękny słoneczny dzień, a ostatnie metry będzie przebijał się w śniegu. Może padać tydzień, a może w ogóle nie być deszczu. Trzeba być gotowym na wszystko. I trzeba być gotowym na zmianę ubrań, bo po trzech dniach skarpetki same odejdą. Trzeba znaleźć złoty środek między wagą i pojemnością plecaka, a komfortową liczbą sztuk odzieży. Można również kombinować i część ubrań kupować po drodze lub odbierać z przesyłek. Ważne, by być przygotowanym na pełne spektrum warunkóœ pogodowych - 35 stopni w cieniu gdy idzie się latem, błota po kolana wiosną lub jesienią, czy ogromnych mrozów zimą. A czasem paru z tych warunków podczas jednej wyprawy.
+        Wycieczka Głównym Szlakiem Beskidzkim będzie trwała tydzień. Albo dwa. Albo trzy. Nie masz szans znać wiarygodnych prognoz pogody na cały ten okres. Może się okazać, że wyruszysz z Ustronia w piękny słoneczny dzień, a ostatnie metry będzie przebijał się w śniegu. Może padać tydzień, a może w ogóle nie być deszczu. Trzeba być gotowym na wszystko. I trzeba być gotowym na zmianę ubrań, bo po trzech dniach skarpetki same odejdą. Trzeba znaleźć złoty środek między wagą i pojemnością plecaka, a komfortową liczbą sztuk odzieży. Można również kombinować i część ubrań kupować po drodze lub odbierać z przesyłek. Ważne, by być przygotowanym na pełne spektrum warunkowe pogodowych - 35 stopni w cieniu gdy idzie się latem, błota po kolana wiosną lub jesienią, czy ogromnych mrozów zimą. A czasem paru z tych warunków podczas jednej wyprawy.
       tags:
         - Porady
 
@@ -143,7 +143,7 @@ paths:
         Leki na przejście GSB
       description: |
         Obowiązkowo:
-        * **leki przyjmnowane na co dzień**
+        * **leki przyjmowane na co dzień**
         * **plastry, bandaże, opatrunki**
 
         Warto:
@@ -154,7 +154,7 @@ paths:
         * **Krem przeciwsłoneczny**
         * **Sudocrem** - do smarowania otarć lub profilaktyki przed otarciami
 
-        Dokładniejsza analiza: [na strone Łukasza Supergana](http://www.lukaszsupergan.com/pierwsza-pomoc-apteczka-gory-podroz-treking/)
+        Dokładniejsza analiza: [na stronę Łukasza Supergana](http://www.lukaszsupergan.com/pierwsza-pomoc-apteczka-gory-podroz-treking/)
 
         Warto pamiętać, że na trasie jest kilka miejscowości z Aptekami, gdzie można uzupełniać zapasy apteczne
       tags:
@@ -199,7 +199,7 @@ paths:
         Ustroń-Zdrój**. Przez pierwszy kilometr trasa prowadzi wśród zabudowań miasta, później zaś koło leśniczówki wchodzi w las - najpierw łagodnie, później coraz stromiej. W pewnym
         momencie szlak gwałtownie skręca w prawo i doprowadza po chwili do **Kamienia Ewangelików**, miejsca obrządków z XVIII wieku. Można tutaj uzupełnić wodę w wybijającym źródełku.
         Za Kamieniem Ewangelików szlak jeszcze przez chwilę prowadzi ostro w górę, później zaś się wypłaszcza aby doprowadzić do schroniska PTTK pod Równicą (szczyt Równicy jest poza szlakiem,
-        można do niego dojść szlakiem żółtmy (ok. 20 minut w obie strony). Za schroniskiem zaczynamy długie zejście, najpierw asfaltem, potem kamienistą dróżką przecinającą raz po raz asfalt.
+        można do niego dojść szlakiem żółtym (ok. 20 minut w obie strony). Za schroniskiem zaczynamy długie zejście, najpierw asfaltem, potem kamienistą dróżką przecinającą raz po raz asfalt.
         Po zejściu do miasta znów wchodzimy na utwardzoną drogę, przekraczamy mostem Wisłę, przekraczamy przejściem podziemnym trasę samochodową i znajdujemy się przy dolnej stacji wyciągu na Czarntorię
       parameters:
         - name: 0.0(0.0) 350m
@@ -250,7 +250,7 @@ paths:
         - name: Ustroń 0.0(0.0) 350m
           in: Ustroń
           description: |
-            W miejscowej gwarze nazwa wymawiana jest ustróń, kogo, czego: ustrónio, w języku niemieckim Ustron, czeskim Ustroni.
+            W miejscowej gwarze nazwa wymawiana jest Ustroń, kogo, czego: ustrónio, w języku niemieckim Ustroń, czeskim Ustroni.
 
             W Ustroniu znajduje się [Leśny Park Niespodzianek](http://www.lesnypark.pl/o-parku), utworzony w środowisku naturalnym.
             Po ścieżkach w lesie bukowym swobodnie biegają **dziki, jelenie, sarny czy też muflony**. Park łączy w sobie funkcje: rekreacyjną i edukacyjną, organizuje również pokazy sokolnicze.
@@ -278,7 +278,7 @@ paths:
         - name: Ustroń Polana 8.0(8.0) 400m
           in: query
           description: |
-            [Kolejka liniowa](http://www.czantoria.net/) Kolej Linowa Czantoria w Ustroniu – ośrodek narciarski położony w Ustroniu w Beskidzie Śląskim na północnym zboczu Wielkiej Czantorii. **Górna stacja ośrodka znajduje się na polanie Stokłosica**, na wysokości 851 m n.p.m. Czantoria to najpopularniejszy szczyt Beskidu Śląskiego z wyprzęganą wygodną koleją. Czteroosobowe kanapy oraz system zwalniający prędkość przy wsiadaniu i wysiadaniu to duży atut kolejki, dzięki czemu również osoby niepełnosprawne mogą czuć się bezpiecznie w czasie przejazdu. Krzesłka wyposażone są rónież w specjalne uchwyty umożliwiające transport rowerów na górną stację. Kolej linowa każdego roku umożliwia tysiącom turystów łatwy i szybki dostęp w górne partie Beskidów.
+            [Kolejka liniowa](http://www.czantoria.net/) Kolej Linowa Czantoria w Ustroniu – ośrodek narciarski położony w Ustroniu w Beskidzie Śląskim na północnym zboczu Wielkiej Czantorii. **Górna stacja ośrodka znajduje się na polanie Stokłosica**, na wysokości 851 m n.p.m. Czantoria to najpopularniejszy szczyt Beskidu Śląskiego z wyprzęganą wygodną koleją. Czteroosobowe kanapy oraz system zwalniający prędkość przy wsiadaniu i wysiadaniu to duży atut kolejki, dzięki czemu również osoby niepełnosprawne mogą czuć się bezpiecznie w czasie przejazdu. Krzesełka wyposażone są również w specjalne uchwyty umożliwiające transport rowerów na górną stację. Kolej linowa każdego roku umożliwia tysiącom turystów łatwy i szybki dostęp w górne partie Beskidów.
           type: number
       tags:
         - Beskid Śląski
@@ -326,7 +326,7 @@ paths:
         Od razu po przejściu obok dolnej stacji wyciągu czeka nas **ostre maszerowanie pod górę**, czasem stokiem narciarskim, czasem szlakiem obok. Ale aż do osiągnięcia górnej stacji kolejki jest stromo.
         Miejscami bardzo stromo. Podejście zajmuje do godziny czasu, nie dając fragmentów wytchnienia. Za wyciągiem trasa wypłaszcza się, choć dalej biegnie lasem pod górkę, aż wyprowadzi nas na niezalesiony
         wierzchołek Czantorii, gdzie znajduje się wieża widokowa i zarówno polskie, jak i czeskie punkty gastronomiczne. **Na szczycie Czantorii szlak zmienia kierunek**, skręca w lewo i schodzi, miejscami bardzo
-        stromo ze szczytu Czantorii. Po jakimś czasie droga wypłaszcza się, przechodzi koło ośrodka Światowid, znów zagłębia w las i poprzez przełęcz Beskidek doprowadza do schroniska PTTL Soszów. Ze schroniska
+        stromo ze szczytu Czantorii. Po jakimś czasie droga wypłaszcza się, przechodzi koło ośrodka Światowid, znów zagłębia w las i poprzez przełęcz Beskidek doprowadza do schroniska PTTK Soszów. Ze schroniska
         szlak krótko podchodzi na górę Soszów, skąd bardzo ładnie widać na wschodzie masyw Baraniej Góry, później zaś malowniczą trasą, przez lasy i łąki prowadzi w stronę Stożka Wielkiego. Po paru kilometrach łatwiejszej trasy
         podchodzimy pod zbocze Stożka, skąd czeka nas bardzo forsowne podejście na szczyt. Na górze wita nas schronisko PTTK, zazwyczaj pełne od turystów i rowerzystów górskich
       parameters:
@@ -383,7 +383,7 @@ paths:
     ### INFO ###
 
     info: #Ustroń Polana - PTTK na Stożku Wielkim
-      summary: Czatoria, Stożek i okolice. Kolejka, wieża widokowa i schroniska.
+      summary: Czantoria, Stożek i okolice. Kolejka, wieża widokowa i schroniska.
       description:
       parameters:
         - name: Górna stacja wyciągu krzesełkowego
@@ -482,8 +482,8 @@ paths:
         Za schroniskiem czeka nas krótkie podejście na Kiczorę, później zaś zejście do przełęczy Kubalonki. Początkowo szlak idzie w dół, by na rozstajach wejść na drogę asfaltową, później zaś po lekkim
         podejściu szlak wchodzi na leśną ścieżkę, którą bez większych zmian wysokości doprowadza do przełęczy Kubalonka. Na przełęczy można skorzystać w usług sezonowych restauracji i punktów. Z przełęczy szlak wiedzie
         początkowo asfaltem do przełęczy Szarcula, później zaś wchodzi w las i bardzo wąską i krętą ścieżką doprowadza do schroniska na Stecówce. Ze schroniska szlak idzie dalej raz w górę, raz w dół, schodzi do asfaltu
-          i zaczyna podjeście pod schronisko PTTK Przysłop - początkowo asfaltem, później nieco bardziej stromą leśną drogą. Za schroniskiem szlak kontynuuje wznoszenie, pierwszy raz przekraczając wysokość tysiąca metrów. Tuż przed szczytem dochodzi
-          do skrzyżówania dróg, skręca w lewo i po krótkim czasie dochodzi na szczyt Baraniej Góry, z którego można podziwiać z wieży widokowej piękne widoki w stronę Węgierskiej Górki i pasma Romanki, Rysianki i Pilska.
+          i zaczyna podejście pod schronisko PTTK Przysłop - początkowo asfaltem, później nieco bardziej stromą leśną drogą. Za schroniskiem szlak kontynuuje wznoszenie, pierwszy raz przekraczając wysokość tysiąca metrów. Tuż przed szczytem dochodzi
+          do skrzyżowania dróg, skręca w lewo i po krótkim czasie dochodzi na szczyt Baraniej Góry, z którego można podziwiać z wieży widokowej piękne widoki w stronę Węgierskiej Górki i pasma Romanki, Rysianki i Pilska.
 
       parameters:
         - name: 0.0(21.0) 975m
@@ -542,7 +542,7 @@ paths:
     ### INFO ###
 
     info: #PTTK na Stożku Wielkim - Barania Góra
-      summary: Schroniska między masywami Stoźka i Baraniej Góry.
+      summary: Schroniska między masywami Stożka i Baraniej Góry.
       description:
       parameters:
         - name: Przełęcz Kubalonka
@@ -584,7 +584,7 @@ paths:
           in: Nocleg, Restauracja
           description: |
             Schronisko PTTK na Przysłopie pod Baranią Górą położone jest na wysokości 900 m n.p.m.
-            Pierwszy budynek schroniska pochodził jeszcze z końca XIX w. Był to drewniany domek myśliwski **arcyksięcia Fryderyka Habsburga**, zbudowany w 1897 r. jako baza wypadowa do polowań na głuszce. Budynek został zdewastowany pod koniec I wojny światowej i początkowo pozostawał w dyspozycji Lasów Państwowych. Dopiero po kilku latach został przejęty przez Górnośląski Oddział PTT, który go wyremontował i 15 lipca 1925 r. oddał do użytku turystom.
+            Pierwszy budynek schroniska pochodził jeszcze z końca XIX w. Był to drewniany domek myśliwski **arcyksięcia Fryderyka Habsburga**, zbudowany w 1897 r. jako baza wypadowa do polowań na głuszce. Budynek został zdewastowany pod koniec I wojny światowej i początkowo pozostawał w dyspozycji Lasów Państwowych. Dopiero po kilku latach został przejęty przez Górnośląski Oddział PTTK, który go wyremontował i 15 lipca 1925 r. oddał do użytku turystom.
 
             II wojnę światową budynek przetrwał szczęśliwie bez zniszczeń. W 1946 r. został ponownie oddany do użytku. W latach 1973-1979, w związku z nasilającym się ruchem turystycznym, PTTK postawiło nowy, murowany, trzypiętrowy budynek schroniska. W 1985 r. stary, pohabsburski budynek, wyłączony już wcześniej z użytku turystów, rozebrano i przeniesiono do Wisły na ulicę Lipową, gdzie stoi do dziś, jako siedziba PTTK w Wiśle.
 
@@ -658,8 +658,8 @@ paths:
     trasa:
       summary: W dół do miasta
       description: |
-        Szlak z Baraniej Góry schodzi malowniczym trawersem, skąd roztaczają się coraz ładniejsze widoki na pasmo Magur, na które trasa wkrótce prowadzi. Po dość krótkim zejści i kawałku płaskim następuje krótkie,
-        acz dość strome podejście na grzebit. Stamtąd rozpoczynają się piękne widoki na Skrzyczne, najwyższy szczyt Beskidu Śląskiego. Szlak łagodnie prowadzi grzebietem, wśród delikatnych podejść i zejść, następnie
+        Szlak z Baraniej Góry schodzi malowniczym trawersem, skąd roztaczają się coraz ładniejsze widoki na pasmo Magur, na które trasa wkrótce prowadzi. Po dość krótkim zejściu i kawałku płaskim następuje krótkie,
+        acz dość strome podejście na grzebit. Stamtąd rozpoczynają się piękne widoki na Skrzyczne, najwyższy szczyt Beskidu Śląskiego. Szlak łagodnie prowadzi grzbietem, wśród delikatnych podejść i zejść, następnie
         za skrzyżowaniem szlaków zaczyna schodzić, początkowo powoli, później bardzo stromo do podnóża góry Glinne. Tam czeka nas krótkie, ale strome podejście na szczyt - będzie to ostatnie podejście na tym fragmencie szlaku. Od tego momentu
         zaczyna się długie zejście do Węgierskiej Górki, czasem leśnymi drogami, czasem mniejszymi dróżkami. W końcu szlak dochodzi do rzeki Soły, gdzie ostatecznie opuszcza Beskid Śląski, wchodząc w rejony najwyższego pasma
         polskich Beskidów - Beskidu Żywieckiego
