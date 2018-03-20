@@ -164,7 +164,7 @@ gulp.task('watch', ['copy-local-specs'], function() {
 gulp.task('connect', function() {
   connect.server({
     root: 'dist',
-    livereload: true,
+    livereload: false,
     port: (process.env.PORT || 3000)
   });
 });
