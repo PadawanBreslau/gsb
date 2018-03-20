@@ -1,1 +1,4 @@
-Co sie Lysy gapisz?
+README
+----------
+
+TO BE SOON...

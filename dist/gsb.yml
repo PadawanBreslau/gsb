@@ -292,11 +292,11 @@ paths:
         W Ustroniu i Ustroniu Polanie jest duża liczba miejsc noclegowych. Choć większości wędrowców głównie przyda się nocleg w Ustroniu po przyjeździe lub przed wyjazdem, to
         nocleg w schronisku może być dobrym rozwiązaniem, jeśli np. przyjedzie się do Ustronia o 18 i podejdzie tam w ramach "dnia 0" na nocleg
       parameters:
-        - name: 0.0
+        - name: Ustroń
           in:
           description: Ustroń. Dużo opcji noclegowych.
           type: number
-        - name: 4.0
+        - name: Równica
           in:
           description: |
             **Schronisko Górskie PTTK Równica**
@@ -307,7 +307,7 @@ paths:
             * **URL** [Strona schroniska](http://www.schronisko-rownica.pl/)
 
           type: number
-        - name: 8.0
+        - name: Ustroń Polana
           in:
           description: Ustroń Polana. Dużo opcji noclegowych.
           type: number
@@ -373,7 +373,7 @@ paths:
           description: |
             Źródła zdjęć:
               * własne
-              * wikipedia.
+              * wikipedia
 
             <b>[GALERIA](https://photos.app.goo.gl/6IXlUwepbilJysOT2)</b>
       tags:
@@ -436,7 +436,7 @@ paths:
       description: |
         Pierwszy prawdziwie górski kawałek trasy, ale opcji noclegowych jest dużo
       parameters:
-        - name: 0.0
+        - name: Światowid
           in: Dane noclegu
           description: |
             **Światowid - Prywatne noclegi**
@@ -446,7 +446,7 @@ paths:
             * **Email** swiatowid@swiatowid.info
             * **URL** [Strona noclegu](http://swiatowid.info/)
           type: number
-        - name: 4.5
+        - name: PTTK Soszów
           in: Dane noclegu
           description: |
             **Schronisko PTTK Soszów**
@@ -456,7 +456,7 @@ paths:
             * **Email** ?
             * **URL** [Strona schroniska](https://soszow.1000lecie.pl)
           type: number
-        - name: 9.0
+        - name: PTTK Stożek
           in: Dane noclegu
           description: |
             **Schronisko PTTK na Stożku Wielkim**
