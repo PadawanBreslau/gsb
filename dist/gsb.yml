@@ -16,6 +16,7 @@ paths:
       summary: No
       description: no
       tags:
+        - Nowości
         - Informacje
         - Beskid Śląski
         - Beskid Żywiecki
@@ -113,6 +114,15 @@ paths:
         * Żonie i dziecku, bez nich ta strona powstałaby rok wcześniej :P
       tags:
         - Informacje
+  Nowości:
+    info:
+      summary: |
+        Dodanie działu Nowości
+      description: |
+        Od dziś w dziale nowości będą lądowały karty, które ostatnio uległy zmianie. Będa tu mogły trafiać informacje z każdego dotychczasowego działu, albo najnowsze informacje o tym, co jest na stronie. Tak jak ta informacja :)
+      tags:
+        - Nowości
+
 
   Obuwie:
     sprzet:
