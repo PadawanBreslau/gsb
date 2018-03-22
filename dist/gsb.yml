@@ -4038,3 +4038,32 @@ paths:
       tags:
         - Relacje i Media
 
+  Galeria - Tomasz Olszówka:
+    galeria:
+      summary: Relacja zdjęciowa
+      description: |
+        * **Kierunek**  Ustroń-Wołosate
+        * **Liczba dni** 20
+        * **Styl** Pieszy
+        * **Pora roku** Jesień
+
+        <b>[GALERIA](https://goo.gl/photos/mUFe8HtCfVE7nqfP7)</b>
+      tags:
+        - Relacje i Media
+        - Nowości
+
+  Galeria - Adam Rugała:
+    galeria:
+      summary: Relacja zdjęciowa
+      description: |
+        * **Kierunek**  Ustroń-Wołosate (z dodatkowymi kilometrami wcześniej)
+        * **Liczba dni** ?
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+        Aby przeglądać zdjęcia należy wybrać poszczególne etapy z menu po prawej stronie
+
+        <b>[GALERIA](http://rugala.pl/gory/2007_gsb/)</b>
+      tags:
+        - Relacje i Media
+        - Nowości
