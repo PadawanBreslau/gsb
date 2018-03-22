@@ -8,6 +8,39 @@
   display: none;
 }
 
+.social{
+    width: 320px;
+    height: 220px;
+    border: none;
+    overflow: hidden;
+  }
+
+  #face-slider{
+    position:fixed;
+    left:-292px;
+    top:208px;
+    z-index:100;
+  }
+
+  #face-slider .tab{
+    cursor: pointer;
+    width: 54px;
+    height:110px;
+    float:right;
+    background: url(../images/facebook-slider.png) no-repeat center center;
+  }
+
+  #face-code{
+    border: 0px;
+    background: #fff;
+    float:left;
+    width:280px;
+    height:200px;
+    -moz-border-radius: 0 0 0 8px;
+    -webkit-border-radius: 0 0 0 8px;
+    border-radius: 0 0 0 8px;
+  }
+
 .swagger-section pre code {
   display: block;
   padding: 0.5em;
