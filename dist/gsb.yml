@@ -114,15 +114,6 @@ paths:
         * Żonie i dziecku, bez nich ta strona powstałaby rok wcześniej :P
       tags:
         - Informacje
-  Nowości:
-    info:
-      summary: |
-        Dodanie działu Nowości
-      description: |
-        Od dziś w dziale nowości będą lądowały karty, które ostatnio uległy zmianie. Będa tu mogły trafiać informacje z każdego dotychczasowego działu, albo najnowsze informacje o tym, co jest na stronie. Tak jak ta informacja :)
-      tags:
-        - Nowości
-
   Obuwie:
     sprzet:
       summary: |
@@ -210,6 +201,23 @@ paths:
         * **Wrzesień** - niby jeszcze lato, ale już nie do końca. Dzień już nie tak długi, ciężej o urlopy i wolne na uczelni (chyba że się nie ma poprawek). Ale jednak sporo ludzi wybiera ten termin. Dlaczego? Pogoda jest wtedy dużo bardziej przewidywalna. Może jeszcze być ciepło, ale raczej nie będzie już 35 stopni, jednocześnie mniejsza szansa na burze czy ulewne deszcze (choć to jesień kojarzy się z deszczami, największe ilościowo opady mamy w lipcu). Do tego jesienny, nostalgiczny klimat wielu osobom odpowiada.
         * **Późna jesień** - podobnie jak wczesna wiosna. Choć bez roztopów, ale i tak w Beskidzie Niskim możecie się wykąpać po uszy w błocie. Nie wierzycie to zobaczcie filmy z Ultrałemkowyny :)
         * **Zima** - jeśli decydujesz się na coś takiego, to znaczy że jesteś doświadczonym górołazem, więc wiesz z czym to się je. Ostatnio dwójce Polaków udało się zrobić zimą cały Łuk Karpat, więc zdecydowanie się da zrobić sam GSB. Ale musisz doskonale wiedzieć, jak do tego się zabrać.
+
+      tags:
+        - Porady
+        - Nowości
+
+  Korona Gór Polskich:
+    ogolne:
+      summary: |
+        Ile szczytów KGP można zaliczyć idąć Główny Szlak Beskidzki?
+      description: |
+        Krótka odpowiedź - trzy szczyty leżą na szlaku, jeden tuż obok, jeden dość niedaleko.
+
+        Czym w ogóle jest Korona Gór Polski? Jest to zbiór najwyższych szczytów z wszystkich polskich pasm górskich - jednak są drobne odstępstwa od tej reguły - co zostało też wytłumaczone na stronie [Korony Gór Polskich](http://kgp.info.pl/])
+
+        "Wykaz koronnych szczytów ustalony został w 1997 roku, a propozycje do niego zgłosili pracownicy naukowi Uniwersytetu Warszawskiego, pomysłodawcy KGP. Wzięta wówczas została pod uwagę nie tylko wysokość szczytów, ale także ich dostępność i atrakcyjność krajoznawcza. A co do samych wysokości – wciąż mamy zaskakujące nowe dane, uzyskiwane przez różne jednostki prowadzące pomiary (teraz także satelitarne), wobec których nie ma pełnej zgodności nawet wśród specjalistów-naukowców. Nie zmieniamy więc pierwotnego zestawu koronnych szczytów, dzięki którym i tak poznawane są pasma górskie, na które dawniej mało kto wchodził."
+
+        Które ze szczytów z KGP leżą na trasie GSB? Trzy z nich leżą bezpośrednio na szlaku - Diablak (Babia Góra) z Beskidu Żywieckiego, Turbacz z Gorców i Radziejowa z Beskidu Sądeckiego. Bardzo blisko szlaku leży też Tarnica, najwyższy szczyt Bieszczad i myślę że zdecydowana większość turystów ze szlaku zahacza o wierzchołek szczytowy. Jest jeszcze jedna gór, na którą można w miarę łatwo dojść z trasy - jest nią Skrzyczne w Beskidzie Śląskim. Można dojść do tej góry na dwa sposoby - prostym, z Magury Wiślańskiej (8km i około 2h trasy w jedną stronę) lub wymagającym przez Ostre (10km i minimum 3h, gdyż prawie 800 metrów podejścia). Pozostałe Beskidzkie szczyty (Czupel z Beskidu Małego, Lubomir z Beskidu Makowskiego, Mogielica z Beskidu Wyspowego i Lackowa z Beskidu Niskiego) leżą raczej zbyt daleko od trasy by można było wygodnie je uwzględnić.
 
       tags:
         - Porady
