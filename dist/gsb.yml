@@ -189,6 +189,16 @@ paths:
         - Porady
 
 
+  Dojazd:
+    ogolne:
+      summary: |
+        Czyli jak się znaleźć w kropce
+      description: |
+        Każdy kij ma dwa końce, a każdy szlak ma dwie kropki. W przypadku GSB owe końce znajdują się w odległości paruset kilometrów, więc i dojazd do nich jest diametralnie różny. **W przypadku Ustonia** sprawa jest prosta - jest to duży ośrodek turystyczny ulokowany obok dużych miast. Można dojechać pociągiem lub autobusem, albo z miast Górnego Śląska, bądź z Bielska-Białej. W przypadku tego miasta trzeba jedynie przemyśleć, czy przyjeżdżać dzień wcześniej i ruszać z samego świtu, czy przyjechać nieco później i nocować już na trasie (pierwsze schronisko jest już na czwartym kilometrze, kolejne koło dwudziestego). **Zdecydowanie inaczej jest jednak w przypadku Wołosatego** - jest to malutka miejcowość w sercu Bieszczadów i pomimo bycia obok dość popularnego punktu wypadowego w Bieszczady (6km od **Ustrzyków Górnych**) to dojazd jest dla większości bardziej kłopotliwy, choć też nie jest bardzo skomplikowany. **Z Warszawy, Krakowa, Katowic czy Wrocławia jest bezpośrednie połączenie z Ustrzykami Dolnymi**, skąd są raz dziennie bezpośrednie autobusy do Wołosatego, a w ostateczności parę razy dziennie do Ustrzyków Górnych, skąd do Wołosatego jest 6km asfaltem, więc nic, co powinno przerazić kogokolwiek planującego wyprawę na 500km po górach. No i poza oficjalnymi autobusami można korzystać z lokalnych busików. Na wycieczkę do Wołosatego trzeba przeznaczyć paręnaście godzin, ale z drugiej strony startując wyżej ma się mniej podejść przed sobą, a i wrócić z końca szlaku jakoś trzeba :)
+      tags:
+        - Porady
+        - Nowości
+
   Pora roku:
     ogolne:
       summary: |
