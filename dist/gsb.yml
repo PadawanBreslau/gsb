@@ -199,6 +199,26 @@ paths:
         - Porady
         - Nowości
 
+  GSB w liczbach:
+    ogolne:
+      summary: |
+        Jak daleko, wysoko i w ogóle
+      description: |
+        * **Długość szlaku** - między **492km a 519km**. Różne źródła różnie pokazują. Na taka długiej trasie nawet mały błąd pomiaru może dawać sumarycznie dużą różnicę. Do tego szlak czasem zmienia nieznacznie przebieg
+        * **Najwyższy punkt** - Babia Góra, Diablak, **1723 mnpm**
+        * **Najniższy punkt** - Kąty, między **307mnpm a 325mnpm** w zależności od źródeł
+        * **Najszybsze przejście** - Rafał Bielawa, 2017, **108:55h (4dni, 12 godzin, 55 minut)**
+        * **21** - maksymalna liczba dni na wycieczkę, by dostać odznakę PTTK
+        * **666/668** - punkty PTTK za całą trasą przy starcie w Wołosatem/Ustroniu
+        * **6/7** - liczba pasm Beskidów, które przecina szlak. W zależności od tego, czy uznajemy pasmo Mędralowej jako część Beskidu Żywieckiego czy też Makowskiego.
+        * **1929** - rok ukończenia znakowania pierwszego, zachodniego fragmentu GSB
+        * **400** - różnica wysokości między dwiema końcami trasy
+        * **3** - liczba miast powyżej 10,000 mieszkańców na trasie - Ustroń, Rabka-Zdrój, Krynica-Zdrój
+
+      tags:
+        - Porady
+        - Nowości
+
   Pora roku:
     ogolne:
       summary: |
@@ -4105,7 +4125,6 @@ paths:
         <b>[GALERIA](https://goo.gl/photos/mUFe8HtCfVE7nqfP7)</b>
       tags:
         - Relacje i Media
-        - Nowości
 
   Galeria - Adam Rugała:
     galeria:
@@ -4121,4 +4140,3 @@ paths:
         <b>[GALERIA](http://rugala.pl/gory/2007_gsb/)</b>
       tags:
         - Relacje i Media
-        - Nowości
