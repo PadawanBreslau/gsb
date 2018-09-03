@@ -199,6 +199,17 @@ paths:
         - Porady
         - Nowości
 
+  Nowe zdjęcia:
+    ogolne:
+      summery: |
+        Nowe zdjęcia w Galerii
+      description:
+        Celem strony było w dużej mierze zebranie bardzo dużej liczby zdjęć z wszyskich odcinków trasy. W tym roku kilku moich znajomych zrobiło wycieczkę fragmentami GSB, dzieki czemu dostałem wiele świeżych zdjęć z odcinnków Bieszczadzkiego i Beskidu Niskiego. Zamierzam także zacząć prosić innych ludzi o użyczenie właśnych zdjęć. Zapraszam do galerii! :)
+
+        [Galeria Bieszczady](https://photos.app.goo.gl/Nd9cI3jH6ERhymz03)
+      tags:
+        - Nowości
+
   GSB w liczbach:
     ogolne:
       summary: |
