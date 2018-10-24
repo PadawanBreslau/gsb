@@ -12,6 +12,9 @@
   "homepage": "http://swagger.io",
   "license": "Apache-2.0",
   "main": "dist/swagger-ui.js",
+  "engines": {
+    "node": "10.5.x"
+  },
   "scripts": {
     "build": "npm run handlebars && gulp",
     "handlebars": "handlebars ./src/main/template -f ./src/main/template/templates.js && gulp handlebars",
