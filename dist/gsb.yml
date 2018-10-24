@@ -3871,6 +3871,19 @@ paths:
       tags:
         - Relacje i Media
 
+  Relacja Rafała Kowalczyka - GSB 2018:
+    relacje:
+      summary: Przejście letnie GSB
+      description: |
+        * **Kierunek** Ustroń-Wołosate
+        * **Liczba dni** 18
+        * **Styl** Pieszo
+        * **Pora roku** Lato
+
+        [Fanpage](https://www.facebook.com/gsb2018r/)
+      tags:
+        - Relacje i Media
+
   Artykuły - Rafał Bielawa:
     relacje:
       summary: Rekord trasy
