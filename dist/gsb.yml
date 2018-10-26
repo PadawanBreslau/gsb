@@ -3916,6 +3916,20 @@ paths:
 
   ##### FLM FILMY  ###
 
+  Filmy - Chwila Ulotna:
+    film:
+      summary:
+      description: |
+        * **Długość filmu** 20 długich filmików. Łącznie ponad 10h materiału!
+        * **Kierunek**  Ustroń - Wołosate
+        * **Liczba dni** 19
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+        [Film](https://www.youtube.com/channel/UCzGBUxUYw9Cw1AjYnzzXn3w/videos)
+      tags:
+        - Relacje i Media
+
   Filmy - marunatolin:
     film:
       summary:
