@@ -4122,6 +4122,34 @@ paths:
       tags:
         - Relacje i Media
 
+  Filmy - relacja z trasy - Szybkie Podróże:
+    film:
+      summary:
+      description: |
+        * **Długość filmu** 1 godzina 50 minut
+        * **Kierunek**  Wołosate - Ustroń
+        * **Liczba dni** 17
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+        [Film](https://www.youtube.com/watch?v=0d27-aTqf1o)
+      tags:
+        - Relacje i Media
+
+  Filmy - relacja z trasy - A kind of adventure:
+    film:
+      summary:
+      description: |
+        * **Długość filmu** 10 minut
+        * **Kierunek**  Wołosate - Ustroń
+        * **Liczba dni** 19
+        * **Styl** Pieszy
+        * **Pora roku** Lato
+
+        [Film](https://www.youtube.com/watch?v=1nVLZZpNlx8)
+      tags:
+        - Relacje i Media
+
   Galeria - Słoń'67:
     galeria:
       summary:
